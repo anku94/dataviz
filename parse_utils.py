@@ -76,11 +76,7 @@ def normalize_col(col: pd.Series):
 def add_head(row: pd.Series, context: list[str]) -> None:
     head_amount = row["be_cur_total"]
     if abs(head_amount) > 1e-1:
-        logging.debug(f"-> !! Adding {context} to tree")
-    # else:
-    #     logging.debug(f"-> ++ Ignoring {context} for tree (amount: {head_amount}))")
-    #     print(row)
-    pass
+        logging.info(f"-> !! Adding {context} to tree (amount: {head_amount})")
 
 
 def col_has_vals(slice: pd.DataFrame, col_names, col_idx) -> tuple[bool, bool]:

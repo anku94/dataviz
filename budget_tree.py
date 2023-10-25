@@ -1,5 +1,8 @@
 import logging
 import re
+from typing import TypedDict
+import numpy as np
+import pandas as pd
 
 
 class BudgetNode:
@@ -98,6 +101,86 @@ class BudgetNode:
             return val_fmt_2.format(value / 1e9) + "B"
 
 
-class BudgetTree:
+class Edge(TypedDict):
+    source_name: str
+    dest_name: str
+    source_abbrev: str
+    dest_abbrev: str
+    amount_init: str
+    amount_unalloc: str
+
+
+class BudgetTreeUtils:
     def __init__(self):
         pass
+
+    @staticmethod
+    def get_key_abbrev(key: str) -> str:
+        ret = re.findall(r"\b\w", key)
+        ret = "".join(ret).lower()
+        return ret
+
+    # @staticmethod
+    # def get_list_abbrev(l: list[str]) -> str:
+    #     ret = "_".join([BudgetTreeUtils.get_key_abbrev(s) for s in l])
+    #     return ret
+
+    @staticmethod
+    def get_edge(context: list[BudgetNode]) -> Edge:
+        parent = context[-2]
+        child = context[-1]
+        context_abbrev = [BudgetTreeUtils.get_key_abbrev(node.name) for node in context]
+
+        total = child.total_init
+        if total == 0:
+            total = child.total_children
+
+        edge_dict = {
+            "source_name": parent.name,
+            "dest_name": child.name,
+            "source_abbrev": "_".join(context_abbrev[:-1]),
+            "dest_abbrev": "_".join(context_abbrev),
+            "amount": total,
+        }
+
+        return edge_dict
+
+    @staticmethod
+    def tree_dfs_inner(context: list[BudgetNode], all_edges: list[Edge]):
+        cur_node = context[-1]
+
+        mock_unalloc_node = BudgetNode(
+            "Unallocated", cur_node.total_init - cur_node.total_children
+        )
+
+        if len(cur_node.children) > 0:
+            children = cur_node.children + [mock_unalloc_node]
+            for child in children:
+                all_edges.append(BudgetTreeUtils.get_edge(context + [child]))
+                BudgetTreeUtils.tree_dfs_inner(context + [child], all_edges)
+
+    @staticmethod
+    def serialize(root: BudgetNode) -> pd.DataFrame:
+        all_edges = []
+        BudgetTreeUtils.tree_dfs_inner([root], all_edges)
+        if len(all_edges) == 0:
+            return pd.DataFrame()
+
+        df = pd.DataFrame.from_records(all_edges)
+        df.sort_values(["source_abbrev", "dest_abbrev"], inplace=True)
+        df["amount_inr"] = df["amount"] * BudgetNode.INR_ONE_CRORE
+        df["amount_usd"] = df["amount_inr"] / BudgetNode.USD_TO_INR
+        return df
+
+    @staticmethod
+    def get_nodes_and_edges(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+        src_pairs = df[["source_abbrev", "source_name"]]
+        dest_pairs = df[["dest_abbrev", "dest_name"]]
+        all_pairs = pd.DataFrame(
+            np.vstack([dest_pairs, src_pairs]), columns=["key", "name"]
+        )
+
+        nodes = all_pairs.drop_duplicates(subset=["key"])
+        edges = df[["source_abbrev", "dest_abbrev", "amount_inr", "amount_usd"]]
+
+        return (nodes, edges)

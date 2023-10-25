@@ -3,6 +3,8 @@ import logging
 import pandas as pd
 import re
 import string
+import sys
+import numpy as np
 
 from typing import Any
 
@@ -79,6 +81,142 @@ def add_head(row: pd.Series, context: list[str]) -> None:
     #     logging.debug(f"-> ++ Ignoring {context} for tree (amount: {head_amount}))")
     #     print(row)
     pass
+
+
+def col_has_vals(slice: pd.DataFrame, col_names, col_idx) -> tuple[bool, bool]:
+    if len(slice) == 0:
+        return (False, False)
+
+    if col_idx >= len(col_names):
+        next_has_vals = False
+    else:
+        next_has_vals = len(slice[col_names[col_idx + 1]].dropna()) > 0
+
+    cur_has_vals = len(slice[col_names[col_idx]].dropna()) > 0
+
+    return (cur_has_vals, next_has_vals)
+
+
+def is_valid_net_slice(
+    sheet_slice: pd.DataFrame, names_cols: list[str], cur_col_idx: int
+) -> bool:
+    """
+    The kind of net slice that has no valid heads in the rest of the columns
+    """
+    if len(sheet_slice) == 0:
+        return False
+
+    col_cur_rest = sheet_slice[names_cols[cur_col_idx]].iloc[1:]
+    heads_cur_rest = get_valid_heads(sheet_slice[names_cols[cur_col_idx]].iloc[1:])
+
+    if len(heads_cur_rest) != 0:
+        return False
+
+    for col in names_cols[cur_col_idx + 1 :]:
+        heads_next = get_valid_heads(sheet_slice[col])
+        if len(heads_next) > 0:
+            return False
+
+    return True
+
+
+def is_valid_net_slice_another(
+    sheet_slice: pd.DataFrame, names_cols: list[str], cur_col_idx: int
+):
+    if len(sheet_slice) == 0:
+        return False
+
+    col_cur_rest = sheet_slice[names_cols[cur_col_idx]].iloc[1:]
+    heads_cur_rest = get_valid_heads(sheet_slice[names_cols[cur_col_idx]].iloc[1:])
+
+    if len(heads_cur_rest) != 0:
+        return False
+
+    is_head_valid = not np.isnan(sheet_slice.iloc[0, :]["be_cur_total"])
+    if is_head_valid:
+        return False
+
+    amount_col = sheet_slice["be_cur_total"].dropna()
+    col_sum = amount_col.iloc[:-1].sum()
+    col_net = amount_col.iloc[-1]
+
+    logging.debug(f"-> col_sum: {col_sum}, col_net: {col_net}")
+    if abs(col_sum - col_net) < 1:
+        return True
+
+    return False
+
+
+def get_net_slice(
+    sheet_slice: pd.DataFrame, names_cols: list[str], cur_col_idx: int
+) -> None:
+    has_net_slice = ("net" in sheet_slice.columns) and is_net_col(sheet_slice["net"])
+    logging.debug(f"-> has_net_slice: {has_net_slice}")
+
+    if not has_net_slice:
+        return None
+
+    slice_net = sheet_slice[sheet_slice["net"].str.casefold().str.strip() == "net"]
+    net_rows = slice_net.index.tolist()
+    net_row_loc = net_rows[0]
+    slice_until_net = sheet_slice.loc[:net_row_loc, :]
+
+    logging.debug(f"-> slice_until_net: \n{slice_until_net}")
+
+    is_valid_net_heuristic_1 = is_valid_net_slice(
+        slice_until_net, names_cols, cur_col_idx
+    )
+    is_valid_net_heuristic_2 = is_valid_net_slice_another(
+        slice_until_net, names_cols, cur_col_idx
+    )
+    is_valid_net = is_valid_net_heuristic_1 or is_valid_net_heuristic_2
+
+    if is_valid_net:
+        return slice_until_net
+
+    return None
+
+
+def add_slice_handle_net(
+    slice: pd.DataFrame, last_name_col: str, net_row_loc: int, context: list[str]
+) -> None:
+    logging.debug("---> In add_slice_handle_net")
+    net_total = slice.loc[net_row_loc, "be_cur_total"]
+
+    slice_beg = slice.index.start
+    slice_end = slice.index.stop
+    slice_prev_total = slice.loc[slice_beg : net_row_loc - 1, :]["be_cur_total"].sum()
+    logging.debug(f"-> net_total: {net_total}, slice_prev_total: {slice_prev_total}")
+    # check if net_total and slice_prev_total are approximately equal
+    if abs(net_total - slice_prev_total) > 1:
+        logging.critical("!! NET TOTAL MISMATCH")
+        print(slice)
+        sys.exit(-1)
+    else:
+        # skip all heads except net
+        logging.debug(f"-> Adding net head: {context}")
+        add_head(slice.loc[net_row_loc, :], context)
+
+    slice_rest = slice.loc[net_row_loc + 1 :, :]
+    logging.debug(f"--> Recursing with slice_rest: \n{slice_rest}")
+    if len(slice_rest) > 0:
+        add_slice(slice_rest, last_name_col, context)
+
+
+def add_slice(slice: pd.DataFrame, last_name_col: str, context: list[str]) -> None:
+    logging.debug(f"Adding slice: \n{slice}")
+    if "net" in slice.columns and is_net_col(slice["net"]):
+        logging.debug(f"-> !! NET CASE")
+
+        slice_net = slice[slice["net"].str.casefold().str.strip() == "net"]
+        net_rows = slice_net.index.tolist()
+        net_row_loc = net_rows[0]
+        add_slice_handle_net(slice, last_name_col, net_row_loc, context)
+    else:
+        for row_idx, row in slice.iterrows():
+            row_head = row[last_name_col]
+            # logging.debug(f"-> !! Adding {context}, {row_head} to tree")
+            add_head(row, context + [row_head])
 
 
 def get_num_pct(series: pd.Series) -> float:
@@ -199,11 +337,15 @@ def parse_recursive(
     if len(sheet_slice) == 0:
         return
 
+    logging.debug(f"In parse_recursive (context: {context})\n{sheet_slice}")
+
     if cur_col_idx == len(names_cols) - 1:
-        for row_idx, row in sheet_slice.iterrows():
-            row_head = row[names_cols[cur_col_idx]]
-            # logging.debug(f"-> !! Adding {context}, {row_head} to tree")
-            add_head(row, context + [row_head])
+        last_name_col = names_cols[cur_col_idx]
+        add_slice(sheet_slice, last_name_col, context)
+        # for row_idx, row in sheet_slice.iterrows():
+        #     row_head = row[names_cols[cur_col_idx]]
+        #     # logging.debug(f"-> !! Adding {context}, {row_head} to tree")
+        #     add_head(row, context + [row_head])
         return
 
     heads_cur = sheet_slice[names_cols[cur_col_idx]]
@@ -220,6 +362,8 @@ def parse_recursive(
     if len(heads_all_caps) > 0:
         valid_heads = heads_all_caps
 
+    logging.debug(f"Valid heads: {valid_heads}")
+
     # TODO: Handle Grand Total case
     # WARN: All caps heads may not have a matching close?
 
@@ -228,13 +372,15 @@ def parse_recursive(
     all_max_end_idx = sheet_slice.index.stop
     for head_idx, head_open in enumerate(heads_beg):
         head_close = f"Total - {head_open}"
+        head_close_found = True
         if head_close in valid_heads:
             beg_idx = get_row_idx(heads_cur, head_open)
             end_idx = get_row_idx(heads_cur, head_close)
             logging.debug(f"Found open-close pair: {head_open} ({beg_idx} - {end_idx})")
             # Add the total head
-            add_head(sheet_slice.loc[end_idx, :], context + [head_open])
+            # add_head(sheet_slice.loc[end_idx, :], context + [head_open])
         else:
+            head_close_found = False
             logging.debug(f"Cannot find close for {head_open}")
             beg_idx = get_row_idx(heads_cur, head_open)
             if head_idx + 1 == len(heads_beg):
@@ -247,7 +393,7 @@ def parse_recursive(
             )
 
             # Add the start head
-            add_head(sheet_slice.loc[beg_idx, :], context + [head_open])
+            # add_head(sheet_slice.loc[beg_idx, :], context + [head_open])
 
         if beg_idx < cur_max_end_idx:
             # recursive heads
@@ -266,12 +412,37 @@ def parse_recursive(
                 cur_col_idx,
                 context,
             )
-        parse_recursive(
-            sheet_slice.loc[beg_idx + 1 : end_idx - 1, :],
-            names_cols,
-            cur_col_idx,
-            context + [head_open],
-        )
+
+        if head_close_found:
+            add_head(sheet_slice.loc[end_idx, :], context + [head_open])
+            parse_recursive(
+                sheet_slice.loc[beg_idx + 1 : end_idx - 1],
+                names_cols,
+                cur_col_idx,
+                context + [head_open],
+            )
+        elif is_mostly_caps(head_open):
+            parse_recursive(
+                sheet_slice.loc[beg_idx + 1 : end_idx],
+                names_cols,
+                cur_col_idx,
+                context + [head_open],
+            )
+        else:
+            # consume head, either as individual entity, or as part of a net
+            # we have no right to consume past current head_open
+            # that is handled by recursion
+            net_slice = get_net_slice(
+                sheet_slice.loc[beg_idx:, :], names_cols, cur_col_idx
+            )
+            logging.debug(f"net slice: {net_slice}")
+            if net_slice is not None:
+                logging.debug("Found net slice!!")
+                add_slice(net_slice, names_cols[cur_col_idx], context + [head_open])
+            else:
+                head_is_valid = not np.isnan(sheet_slice.loc[beg_idx, "be_cur_total"])
+                if head_is_valid:
+                    add_head(sheet_slice.loc[beg_idx, :], context + [head_open])
 
         cur_max_end_idx = end_idx
 

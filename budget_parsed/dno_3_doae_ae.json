@@ -1,0 +1,557 @@
+{
+  "sheet_name": "sbe3",
+  "amount_header": {
+    "Gross": 35262.49,
+    "Recoveries": -1954.88,
+    "Receipts": -8229.12,
+    "Net": 25078.49
+  },
+  "header": [
+    "Department of Atomic Energy",
+    "Demand No. 3",
+    "Atomic Energy"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 89
+    },
+    {
+      "name": "B",
+      "start": 89,
+      "end": 103
+    },
+    {
+      "name": "C",
+      "start": 103,
+      "end": 109
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 5309.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 73.88
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Energy Regulatory Board"
+      ],
+      "amount": 119.98
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres"
+      ],
+      "amount": 4430.93
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres",
+        "Bhabha Atomic Research Centre"
+      ],
+      "amount": 2931.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres",
+        "Indira Gandhi Centre for Atomic Research, Kalpakkam"
+      ],
+      "amount": 529.65
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres",
+        "Raja Ramana Centre for Advanced Technology, Indore"
+      ],
+      "amount": 405.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres",
+        "Variable Energy Cyclotrone Centre, Kolkata"
+      ],
+      "amount": 171.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Atomic Research Centres",
+        "Atomic Minerals Directorate for Exploration and Research, Hyderabad"
+      ],
+      "amount": 392.79
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Fuel Cycle Facility (Nuclear Regulatory Board)"
+      ],
+      "amount": 797.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Service Units"
+      ],
+      "amount": 475.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Board of Radiation and Isotope Technology (BRIT)"
+      ],
+      "amount": 117.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Management Services Group"
+      ],
+      "amount": 1.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Nuclear Fuel Complex"
+      ],
+      "amount": -460.25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Heavy Water Production Facility"
+      ],
+      "amount": -244.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 6963.19
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development"
+      ],
+      "amount": 1689.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development",
+        "R&D projects of Bhabha Atomic Research Centre (BARC)"
+      ],
+      "amount": 1012.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development",
+        "R&D projects of Indira Gandhi Centre of Atomic Research (IGCAR)"
+      ],
+      "amount": 214.41
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development",
+        "R&D projects of Raja Ramanna Centre for Advanced Technology (RRCAT)"
+      ],
+      "amount": 140.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development",
+        "R&D projects of Atomic Minerals Directorate for Exploration and Research (AMDER)"
+      ],
+      "amount": 221.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development",
+        "Grants to other Institutions"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Fuel Recycle Projects (NRB)"
+      ],
+      "amount": 805.21
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Housing and Neighbourhood Development Projects",
+        "Housing Projects"
+      ],
+      "amount": 206.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Heavy Water Facilities"
+      ],
+      "amount": 1649.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Heavy Water Facilities",
+        "Improvement/Modifications of Heavy water projects"
+      ],
+      "amount": 50.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Heavy Water Facilities",
+        "Feedstock"
+      ],
+      "amount": 1599.47
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Radiation and Isotopes Project (BRIT)"
+      ],
+      "amount": 44.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Nuclear Power Projects"
+      ],
+      "amount": 442.28
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Nuclear Fuel Fabrication Projects"
+      ],
+      "amount": 763.61
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Atomic Energy Regulatory Board Expansion Project"
+      ],
+      "amount": 15.81
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "R&D projects of Variable Energy Cyclotron Centre (VECC)"
+      ],
+      "amount": 73.62
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Development Projects"
+      ],
+      "amount": 839.68
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Industries and Minerals Projects"
+      ],
+      "amount": 85.25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Fast Reactor Fuel Cycle Projects (FRFCF) Kalpakkam"
+      ],
+      "amount": 515.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Nuclear Fuel Inventory"
+      ],
+      "amount": -168.26
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 12805.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Other Autonomous Bodies"
+      ],
+      "amount": 3140.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings"
+      ],
+      "amount": 9610
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Nuclear Power Corporation of India Limited (NPCIL)"
+      ],
+      "amount": 9410
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Contribution to International Atomic Energy Agency"
+      ],
+      "amount": 55
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 25078.49
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Power"
+      ],
+      "amount": 128.99
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Industries"
+      ],
+      "amount": 1276.9
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Atomic Energy Research"
+      ],
+      "amount": 7618.13
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 72.97
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Power Projects"
+      ],
+      "amount": 3200.23
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Atomic Energy Industries"
+      ],
+      "amount": 3858.3
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Atomic Energy Research"
+      ],
+      "amount": 2358.06
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 0.91
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Loans for  Power Projects"
+      ],
+      "amount": 6564.0
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Electronics Corporation of India Limited"
+      ],
+      "amount": 15
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Indian Rare Earths Limited"
+      ],
+      "amount": 120.3
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Uranium Corporation of India Limited"
+      ],
+      "amount": 59.82
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Bharatiya Nabhikiya Vidyut Nigam Limited"
+      ],
+      "amount": 201
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Nuclear Power Corporation of India Limited"
+      ],
+      "amount": 22273
+    }
+  ]
+}

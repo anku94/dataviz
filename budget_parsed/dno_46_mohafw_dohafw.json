@@ -1,0 +1,759 @@
+{
+  "sheet_name": "sbe46",
+  "amount_header": {
+    "Gross": 104683.0,
+    "Recoveries": -18508.0,
+    "Receipts": 0.0,
+    "Net": 86175.0
+  },
+  "header": [
+    "Ministry of Health and Family Welfare",
+    "Demand No. 46",
+    "Department of Health and Family Welfare"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 154
+    },
+    {
+      "name": "B",
+      "start": 154,
+      "end": 178
+    },
+    {
+      "name": "C",
+      "start": 178,
+      "end": 182
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Government Health Scheme"
+      ],
+      "amount": 2220.24
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Safdarjung Hospital and Vardhman Mahavir Medical College, New Delhi"
+      ],
+      "amount": 1853.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Dr. Ram Manohar Lohia Hospital and Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi"
+      ],
+      "amount": 1272.18
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Lady Hardinge Medical College and Smt. S.K. Hospitals"
+      ],
+      "amount": 768.15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Kalawati Saran Children's Hospital, New Delhi"
+      ],
+      "amount": 168.53
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Hospitals / Institutions"
+      ],
+      "amount": 1067.59
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 8820.27
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Pardhan Mantri Swasthya Suraksha Yojana"
+      ],
+      "amount": 3365
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Pardhan Mantri Swasthya Suraksha Yojana",
+        "Support from  Gross Budgetary Support (GBS)"
+      ],
+      "amount": 3365
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National AIDS and STD Control Programme"
+      ],
+      "amount": 3079.97
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National AIDS and STD Control Programme",
+        "NACO",
+        "Blood Transfusion Service"
+      ],
+      "amount": 161
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National AIDS and STD Control Programme",
+        "NACO",
+        "National/State Blood Transfusion Council"
+      ],
+      "amount": 2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Global Fund Grant under Covid 19 Response Mechanism 2021(EAP)"
+      ],
+      "amount": 495
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Family Welfare Schemes"
+      ],
+      "amount": 516.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Establishment and strengthening of NCDC Branches and Health Initiatives Inter Sectoral coordination for preparation and control of Zoonotic Diseases and other neglected tropical diseases surveillance of Viral Hepatitis Anti Microbial Resistance"
+      ],
+      "amount": 55.54
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Pharmacovigilance Programme"
+      ],
+      "amount": 8.53
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Nursing Services"
+      ],
+      "amount": 33.41
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Health Sector Disaster Preparedness and Response and Human Resources Development for Emergency Medical Services"
+      ],
+      "amount": 128.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Organ Transplant Programme"
+      ],
+      "amount": 15.68
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM) (Health)"
+      ],
+      "amount": 645.86
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Tele Mental Health Programme"
+      ],
+      "amount": 133.73
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "COVID -19 Emergency Response and Health System Preparedness Package - EAP"
+      ],
+      "amount": 1.78
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "COVID -19 Emergency Response and Health System Preparedness Package - EAP",
+        "National Rural Health Mission (NRHM)"
+      ],
+      "amount": 1.78
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Digital Health Mission - NHM"
+      ],
+      "amount": 341.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 22309.86
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Regulatory and Statutory Bodies"
+      ],
+      "amount": 639.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 17322.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "All India Institute of Medical Sciences, N Delhi"
+      ],
+      "amount": 4134.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "All India Institute of Medical Sciences, N Delhi",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 4134.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Post Graduate Institute of Medical Education and Research, Chandigarh"
+      ],
+      "amount": 1923.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Post Graduate Institute of Medical Education and Research, Chandigarh",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 1923.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry"
+      ],
+      "amount": 1490.43
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 1490.43
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Institute of Mental Health and Neuro-Sciences, Bengaluru"
+      ],
+      "amount": 721.15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences, Shillong"
+      ],
+      "amount": 528.83
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Regional Institue of Medical Sciences, Imphal"
+      ],
+      "amount": 629.16
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Regional Institute of Paramedical and Nursing Sciences, Aizawl"
+      ],
+      "amount": 125.04
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Lokpriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur"
+      ],
+      "amount": 63.66
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Establishment Expenditure of New AIIMS"
+      ],
+      "amount": 6835
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Other Autonomous Bodies",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 871.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 4348.21
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Medical Treatment of CGHS Pensioners (PORB)"
+      ],
+      "amount": 3846.19
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "International Cooperation"
+      ],
+      "amount": 254
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Other Miscellaneous  Expenditure",
+        "Gross Budgetary Support"
+      ],
+      "amount": 248.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 47347.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission"
+      ],
+      "amount": 35585.26
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission"
+      ],
+      "amount": 22094.57
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission",
+        "Gross Budgetary Support (GBS)"
+      ],
+      "amount": 22094.57
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Infrastructure Maintenance"
+      ],
+      "amount": 6798.37
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Infrastructure Maintenance",
+        "Gross Budgetary Support (GBS)"
+      ],
+      "amount": 5498.37
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Infrastructure Maintenance",
+        "Support from PMSSN"
+      ],
+      "amount": 1300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Strengthening National Programme Management of the NRHM"
+      ],
+      "amount": 192.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Health Mission",
+        "Human Resources for Health and Medical Education"
+      ],
+      "amount": 6500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Strengthening of State Drug Regulatory System"
+      ],
+      "amount": 72.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Tertiary Care Programme"
+      ],
+      "amount": 289.81
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM)"
+      ],
+      "amount": 4200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)"
+      ],
+      "amount": 7200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+        "Gross Budgetary Support"
+      ],
+      "amount": 411
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+        "Support from (PMSSN)"
+      ],
+      "amount": 6789
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 3849.07
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Council of Ministers"
+      ],
+      "amount": 2.88
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Pensions and other Retirement Benefits"
+      ],
+      "amount": 3846.19
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 40521.53
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Medical and Public Health"
+      ],
+      "amount": 33655.67
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Family Welfare"
+      ],
+      "amount": 1353.05
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 262.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Medical and Public Health"
+      ],
+      "amount": 5205.85
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Family Welfare"
+      ],
+      "amount": 4.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Housing"
+      ],
+      "amount": 35.25
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 5.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 41804.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 6445.87
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 34154.92
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 1153.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 50.03
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "HLL Lifecare Ltd"
+      ],
+      "amount": 17.85
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "HLL Medi Park Ltd"
+      ],
+      "amount": 28.7
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Goa Antibiotics and  Pharmaceuticals Ltd"
+      ],
+      "amount": 5.25
+    }
+  ]
+}

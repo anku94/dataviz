@@ -1,0 +1,195 @@
+{
+  "sheet_name": "sbe91",
+  "amount_header": {
+    "Gross": 5746.51,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 5746.51
+  },
+  "header": [
+    "Ministry of Science and Technology",
+    "Demand No. 91",
+    "Department of Scientific and Industrial Research"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 33
+    },
+    {
+      "name": "B",
+      "start": 33,
+      "end": 45
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 18.47
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 45.03
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Industrial Research and Development"
+      ],
+      "amount": 23.3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Assistance to PSEs for Other Scientific Research Schemes"
+      ],
+      "amount": 21.73
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 5683.01
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Council of Scientific and Industrial Research (CSIR)"
+      ],
+      "amount": 5675.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Council of Scientific and Industrial Research (CSIR)",
+        "National Laboratories"
+      ],
+      "amount": 5175.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Council of Scientific and Industrial Research (CSIR)",
+        "Capacity Building and Human Resource Development"
+      ],
+      "amount": 500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 7.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Contribution to Asian & Pacific Centre for Transfer of Technology (UN Body)"
+      ],
+      "amount": 7.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 5746.51
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Scientific Research"
+      ],
+      "amount": 5719.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 17.91
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Telecommunication and Electronic Industries"
+      ],
+      "amount": 6.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other Scientific and Environmental Research"
+      ],
+      "amount": 0.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 0.56
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Loans for  Other Scientific Research"
+      ],
+      "amount": 2.2
+    }
+  ]
+}

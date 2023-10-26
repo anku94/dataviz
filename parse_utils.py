@@ -9,21 +9,18 @@ import numpy as np
 from typing import Any, TypedDict
 
 
-class SheetStructure(TypedDict):
-    header: list[str]
-    header_sec: dict[str, int]
-    sections: list[dict[str, int]]
-    amount_cols: list[str]
-
-
 class BudgetHead(TypedDict):
     head: list[str]
     amount: float
 
 
-class ParsedSheet(TypedDict):
-    sheet_structure: SheetStructure
-    list_of_heads: list[BudgetHead]
+class BudgetSheet(TypedDict):
+    header: list[str]
+    amount_header: dict[str, float]
+    header_sec: dict[str, int]
+    sections: list[dict[str, int]]
+    amount_cols: list[str]
+    amount_heads: list[BudgetHead]
 
 
 def find_candidates(sheet_strs: list[tuple[int, str]], search_str: str):
@@ -94,12 +91,12 @@ def normalize_col(col: pd.Series):
     return col
 
 
-def add_head(row: pd.Series, context: list[str], parsed_sheet: ParsedSheet) -> None:
+def add_head(row: pd.Series, context: list[str], parsed_sheet: BudgetSheet) -> None:
     head_amount = row["be_cur_total"]
     if abs(head_amount) > 1e-1:
         logging.info(f"-> !! Adding {context} to tree (amount: {head_amount})")
         head_row = {"head": context, "amount": head_amount}
-        parsed_sheet["list_of_heads"].append(head_row)
+        parsed_sheet["amount_heads"].append(head_row)
     else:
         logging.info(f"-> !! Skipping {context} (amount: {head_amount})")
 
@@ -208,7 +205,33 @@ def get_head_slice(
         idx_next_head = index_ls[1]
         head_slice = sheet_slice.loc[: idx_next_head - 1]
         return head_slice
+    elif len(valid_heads) == 1:
+        return sheet_slice
     return None
+
+
+def add_slice_handle_net_fallback(
+    slice: pd.DataFrame,
+    last_name_col: str,
+    net_row_loc: int,
+    context: list[str],
+    parsed_sheet: BudgetSheet,
+) -> None:
+    cur_head = slice[last_name_col].iloc[0]
+    if is_valid_head(cur_head) and cur_head == context[-1]:
+        cur_context = context[:-1]
+        logging.debug(f"-> removing duplicate head from context")
+    else:
+        logging.debug(
+            f"-> NOT removing duplicate head from context (cur_head: {cur_head})"
+        )
+        cur_context = context
+
+    for row_idx, row in slice.iterrows():
+        row_head = row[last_name_col]
+        if not is_valid_head(row_head):
+            continue
+        add_head(row, cur_context + [row_head], parsed_sheet)
 
 
 def add_slice_handle_net(
@@ -216,7 +239,7 @@ def add_slice_handle_net(
     last_name_col: str,
     net_row_loc: int,
     context: list[str],
-    parsed_sheet: ParsedSheet,
+    parsed_sheet: BudgetSheet,
 ) -> None:
     logging.debug(f"---> In add_slice_handle_net (context: {context})")
     net_total = slice.loc[net_row_loc, "be_cur_total"]
@@ -229,17 +252,20 @@ def add_slice_handle_net(
     if abs(net_total - slice_prev_total) > 1:
         logging.critical("!! NET TOTAL MISMATCH")
         logging.critical(slice)
-        cur_context = context
-        cur_head = slice[last_name_col].iloc[0]
-        if is_valid_head(cur_head) and cur_head != context[-1]:
-            cur_context = context + [cur_head]
+        add_slice_handle_net_fallback(
+            slice, last_name_col, net_row_loc, context, parsed_sheet
+        )
+        # cur_context = context
+        # cur_head = slice[last_name_col].iloc[0]
+        # if is_valid_head(cur_head) and cur_head != context[-1]:
+        #     cur_context = context + [cur_head]
 
-        logging.critical(f"Go with: {slice_prev_total} for {cur_context}?")
-        confirm = input("Confirm? (Y/n): ")
-        if len(confirm.lower()) > 0 and confirm.lower[0] == "n":
-            sys.exit(-1)
-        else:
-            add_head(slice.loc[net_row_loc, :], cur_context, parsed_sheet)
+        # logging.critical(f"Go with: {slice_prev_total} for {cur_context}?")
+        # confirm = input("Confirm? (Y/n): ")
+        # if len(confirm.lower()) > 0 and confirm.lower[0] == "n":
+        #     sys.exit(-1)
+        # else:
+        #     add_head(slice.loc[net_row_loc, :], cur_context, parsed_sheet)
     else:
         # skip all heads except net
         logging.debug(f"-> Adding net head: {context}")
@@ -259,7 +285,7 @@ def add_slice(
     slice: pd.DataFrame,
     last_name_col: str,
     context: list[str],
-    parsed_sheet: ParsedSheet,
+    parsed_sheet: BudgetSheet,
 ) -> None:
     logging.debug(f"Adding slice: \n{slice}")
     if "net" in slice.columns and is_net_col(slice["net"]):
@@ -315,7 +341,7 @@ def get_slice_columns(df: pd.DataFrame) -> tuple[list[str], list[str]]:
     return name_cols, amount_cols
 
 
-def get_meta_structure(dfg_sheet) -> SheetStructure:
+def get_meta_structure(dfg_sheet) -> BudgetSheet:
     """Parse sections in the sheet. Section ranges are (a, b]"""
     sheet_strs = []
     for row_idx, row in dfg_sheet.iterrows():
@@ -351,7 +377,7 @@ def get_meta_structure(dfg_sheet) -> SheetStructure:
     for sec_actual, sec_expected in zip(header_actual, header_sec_expected):
         assert sec_expected in sec_actual[1]
 
-    header_sec = {"start": revenue_lidx + 1, "end": revenue_lidx + 5}
+    header_sec = {"start": header_actual[0][0], "end": header_actual[-1][0]}
 
     find_candidates(sheet_strs, "^A. ")
     find_candidates(sheet_strs, "^D. ")
@@ -377,14 +403,16 @@ def get_meta_structure(dfg_sheet) -> SheetStructure:
     if len(all_sections) > 0:
         all_sections[-1]["end"] = sheet_strs[-1][0]
 
-    sheet_structure = {
+    sheet_structure: BudgetSheet = {
+        "sheet_name": "",
+        "amount_header": {},
         "header": demand_line.split("\n"),
         "header_sec": header_sec,
         "sections": all_sections,
         "amount_cols": amount_cols,
+        "amount_heads": [],
     }
 
-    logging.info(f"Sheet structure: {json.dumps(sheet_structure, indent=4)}")
     return sheet_structure
 
 
@@ -393,7 +421,7 @@ def parse_recursive(
     names_cols: list[str],
     cur_col_idx: int,
     context: list,
-    parsed_sheet: ParsedSheet,
+    parsed_sheet: BudgetSheet,
 ) -> None:
     if len(sheet_slice) == 0:
         return
@@ -416,13 +444,19 @@ def parse_recursive(
 
     logging.debug(f"In parse_recursive (context: {context})\n{sheet_slice}")
 
-    if cur_col_idx == len(names_cols) - 1:
-        last_name_col = names_cols[cur_col_idx]
-        add_slice(sheet_slice, last_name_col, context, parsed_sheet)
-        # for row_idx, row in sheet_slice.iterrows():
-        #     row_head = row[names_cols[cur_col_idx]]
-        #     # logging.debug(f"-> !! Adding {context}, {row_head} to tree")
-        #     add_head(row, context + [row_head])
+    # if cur_col_idx == len(names_cols) - 1:
+    #     last_name_col = names_cols[cur_col_idx]
+    #     add_slice(sheet_slice, last_name_col, context, parsed_sheet)
+    # for row_idx, row in sheet_slice.iterrows():
+    #     row_head = row[names_cols[cur_col_idx]]
+    #     # logging.debug(f"-> !! Adding {context}, {row_head} to tree")
+    #     add_head(row, context + [row_head])
+    # return
+    if cur_col_idx >= len(names_cols):
+        logging.critical(
+            f"parse_recursive: cur_col_idx >= len(names_cols)."
+            f" skipping slice:\n{sheet_slice}"
+        )
         return
 
     heads_cur = sheet_slice[names_cols[cur_col_idx]]
@@ -531,6 +565,9 @@ def parse_recursive(
             else:
                 logging.debug("Found head slice!!")
                 head_is_valid = not np.isnan(sheet_slice.loc[beg_idx, "be_cur_total"])
+                logging.debug(
+                    f"head_is_valid: {head_is_valid}, isnotnone: {head_slice is not None}"
+                )
                 if head_is_valid:
                     add_head(
                         sheet_slice.loc[beg_idx, :], context + [head_open], parsed_sheet
@@ -559,7 +596,7 @@ def parse_recursive(
 
 
 def parse_section(
-    sheet: pd.DataFrame, section_spec: dict, parsed_sheet: ParsedSheet
+    sheet: pd.DataFrame, section_spec: dict, parsed_sheet: BudgetSheet
 ) -> None:
     logging.info(f"Parsing section: {section_spec['name']}")
 
@@ -613,3 +650,23 @@ def parse_section(
         sec_slice = sec_slice.rename(columns={net_col: "net"})
 
     parse_recursive(sec_slice, name_cols, 0, [sec_header], parsed_sheet)
+
+
+def parse_header(sheet_header, names_cols: list[str]) -> dict[str, float]:
+    # sheet_header = sheet_header[names_cols]
+    sheet_header = sheet_header.dropna(axis=1, how="all")
+    logging.debug(f"Sheet header: \n{sheet_header}")
+    header_keys = sheet_header.iloc[:, 0].tolist()
+    header_vals = sheet_header.iloc[:, -1].tolist()
+    # convert to np.array, make NaN in case of errors
+    # header_vals = np.array(header_vals, dtype=float)
+    header_vals = pd.to_numeric(header_vals, errors="coerce")
+    # numpy array, replace NaN with 0
+    header_vals = np.nan_to_num(header_vals, nan=0).astype(float)
+    logging.debug(f"header_keys: {header_keys}\nheader_vals: {header_vals}")
+    header_dict = dict(zip(header_keys, header_vals))
+    logging.debug(f"header_dict: {header_dict}")
+
+    return header_dict
+
+    pass

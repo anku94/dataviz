@@ -1,0 +1,206 @@
+{
+  "sheet_name": "sbe61",
+  "amount_header": {
+    "Gross": 4692.0,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 4692.0
+  },
+  "header": [
+    "Ministry of Information and Broadcasting",
+    "Demand No. 61",
+    "Ministry of Information and Broadcasting"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 54
+    },
+    {
+      "name": "B",
+      "start": 54,
+      "end": 67
+    },
+    {
+      "name": "C",
+      "start": 67,
+      "end": 70
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 110.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 1105
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Broadcasting Infrastructure Network Development"
+      ],
+      "amount": 600
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development Communication and Dissemination of Filmic Content"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development Communication and Information Dissemination"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Supporting Community Radio Movement in India"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 3051.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 2808.36
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "National Film Development Corporation (NFDC)"
+      ],
+      "amount": 20.38
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 4581.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Art and Culture"
+      ],
+      "amount": 27.99
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Information and Publicity"
+      ],
+      "amount": 1063.75
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Broadcasting"
+      ],
+      "amount": 3348.36
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 110.56
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Information and Publicity"
+      ],
+      "amount": 30.84
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 110.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 110.5
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Braodcast Engineering Consultants India Limited"
+      ],
+      "amount": 196.34
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Film Development Corporation"
+      ],
+      "amount": 180.28
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "sheet_name": "sbe32",
+  "amount_header": {
+    "Gross": 1374.66,
+    "Recoveries": -50.01,
+    "Receipts": -0.01,
+    "Net": 1324.64
+  },
+  "header": [
+    "Ministry of Finance",
+    "Demand No. 32",
+    "Department of Financial Services"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 101
+    },
+    {
+      "name": "B",
+      "start": 101,
+      "end": 125
+    },
+    {
+      "name": "C",
+      "start": 125,
+      "end": 133
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat- General Services"
+      ],
+      "amount": 68.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Direction and Administration"
+      ],
+      "amount": 231.05
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Direction and Administration",
+        "Office of Special Court"
+      ],
+      "amount": 4.08
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Direction and Administration",
+        "Office of Custodian"
+      ],
+      "amount": 6.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Direction and Administration",
+        "Debt Recovery Tribunals (DRTs)"
+      ],
+      "amount": 208.44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Direction and Administration",
+        "Office of Court Liquidator"
+      ],
+      "amount": 12.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 1024.64
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Support to Financial Institutions"
+      ],
+      "amount": 0.89
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Support to Financial Institutions",
+        "Grants to NABARD to settle the claims under Indo-Swiss Cooperation-VI"
+      ],
+      "amount": 0.83
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes"
+      ],
+      "amount": 923.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes",
+        "Government Co-contribution to Atal Pension Yojana"
+      ],
+      "amount": 521
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes",
+        "Interest Subsidy to LIC for Pension Plan for Senior Citizens"
+      ],
+      "amount": 111.47
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes",
+        "Pradhan Mantri Jeevan Jyoti Bima Yojna and Pradhan Mantri Suraksha Bima Yojna (Publicity and Awareness)"
+      ],
+      "amount": 1.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes",
+        "Loan Guarantee Scheme for Covid Affected Sectors (LGSCAS)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Social Security Schemes",
+        "Pradhan Mantri Vaya Vandan Yojana (PMVVY)"
+      ],
+      "amount": 189.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Credit Guarantee Funds"
+      ],
+      "amount": 100.04
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Credit Guarantee Funds",
+        "Credit Guarantee Scheme for Micro Finance Institutions (CGSMFI)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 299.84
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Fiscal Services"
+      ],
+      "amount": 10.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 68.95
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Administrative Services"
+      ],
+      "amount": 208.44
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 12.1
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 0.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 823.67
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 823.67
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 201.13
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Agricultural Financial Institutions"
+      ],
+      "amount": 0.84
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other General Economic Services"
+      ],
+      "amount": 0.16
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Loans to Industries and Minerals"
+      ],
+      "amount": 100.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Loans to General Financial and Trading Institutions"
+      ],
+      "amount": 100.0
+    }
+  ]
+}

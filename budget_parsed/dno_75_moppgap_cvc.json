@@ -1,0 +1,78 @@
+{
+  "sheet_name": "sbe75",
+  "amount_header": {
+    "Gross": 44.46,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 44.46
+  },
+  "header": [
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Demand No. 75",
+    "Central Vigilance Commission"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "name": "B",
+      "start": 17,
+      "end": 22
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 14",
+    "Unnamed: 16",
+    "Unnamed: 18",
+    "Unnamed: 20",
+    "Unnamed: 22",
+    "Unnamed: 24",
+    "Unnamed: 28",
+    "Unnamed: 30",
+    "Unnamed: 32",
+    "Unnamed: 34",
+    "Unnamed: 38",
+    "Unnamed: 40"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Central Vigilance Commission"
+      ],
+      "amount": 44.46
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 44.46
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Vigilance"
+      ],
+      "amount": 43.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 1.25
+    }
+  ]
+}

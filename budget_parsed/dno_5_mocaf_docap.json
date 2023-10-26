@@ -1,0 +1,176 @@
+{
+  "sheet_name": "sbe5",
+  "amount_header": {
+    "Gross": 173.45,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 173.45
+  },
+  "header": [
+    "Ministry of Chemicals\u00a0and Fertilisers",
+    "Demand No. 5",
+    "Department of Chemicals and Petrochemicals"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 34
+    },
+    {
+      "name": "B",
+      "start": 34,
+      "end": 46
+    },
+    {
+      "name": "C",
+      "start": 46,
+      "end": 53
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 22
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "New Schemes of Petrochemicals"
+      ],
+      "amount": 22
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 128.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Assistance related to Bhopal Gas Leak Disaster"
+      ],
+      "amount": 23.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 105.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Central Institute of Petrochemicals Engineering and Technology (CIPET)"
+      ],
+      "amount": 92.88
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Institute of Pesticides Formulation Technology (IPFT)"
+      ],
+      "amount": 12.62
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 171.25
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Industries"
+      ],
+      "amount": 148.66
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 21.69
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 0.9
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 2.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 2.2
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "HIL India Limited"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "HIL India Limited",
+        "HIL India Limited"
+      ],
+      "amount": 3
+    }
+  ]
+}

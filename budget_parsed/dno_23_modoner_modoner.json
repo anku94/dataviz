@@ -1,0 +1,310 @@
+{
+  "sheet_name": "sbe23",
+  "amount_header": {
+    "Gross": 5892.0,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 5892.0
+  },
+  "header": [
+    "Ministry of Development \u00a0of North Eastern Region",
+    "Demand No. 23",
+    "Ministry of Development of North Eastern Region"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 67
+    },
+    {
+      "name": "B",
+      "start": 67,
+      "end": 88
+    },
+    {
+      "name": "C",
+      "start": 88,
+      "end": 91
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 31.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 5851
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Schemes of North East Council"
+      ],
+      "amount": 800
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Schemes of North East Council",
+        "Schemes of North East Council"
+      ],
+      "amount": 800
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Central Pool of Resources for North East and Sikkim"
+      ],
+      "amount": 2491
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Central Pool of Resources for North East and Sikkim",
+        "North East Special Infrastructure Development Scheme (NESIDS)"
+      ],
+      "amount": 2491
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Central Pool of Resources for North East and Sikkim",
+        "North East Special Infrastructure Development Scheme (NESIDS)",
+        "NESIDS Programme"
+      ],
+      "amount": 2491
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "North East Enterprise Development Scheme (NEEDS) erstwhile Loan to North East Development Finance Corporation"
+      ],
+      "amount": 60
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special Development Packages"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special Development Packages",
+        "Special package for Bodoland Territorial Council (BTC)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special Development Packages",
+        "Special package for Karbi Anglong (KAATC)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special Development Packages",
+        "Special package for Dima Hasao (DHATC)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister's Development Initiative for North East Region (PM-DevINE)"
+      ],
+      "amount": 2200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 9.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings"
+      ],
+      "amount": 9.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "North East Regional Agricultural Marketing Corporation"
+      ],
+      "amount": 7.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "North Eastern Handicrafts and Handlooms Development Corporation Ltd"
+      ],
+      "amount": 2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 61.79
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 30.38
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Administrative Services"
+      ],
+      "amount": 28.26
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 2.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 0.95
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 64.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Loans for  Village and Small Industries"
+      ],
+      "amount": 4.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Loans to Industries and Minerals"
+      ],
+      "amount": 60.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 5766.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 1740.11
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 4026.1
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "North East Regional Agricultural Marketing Corporation Limited"
+      ],
+      "amount": 9.17
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "North Eastern Handicrafts and Handlooms Corporation Development Limited"
+      ],
+      "amount": 2
+    }
+  ]
+}

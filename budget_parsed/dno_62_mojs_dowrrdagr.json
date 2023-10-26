@@ -1,0 +1,710 @@
+{
+  "sheet_name": "sbe62",
+  "amount_header": {
+    "Gross": 20118.69,
+    "Recoveries": -64.02,
+    "Receipts": 0.0,
+    "Net": 20054.67
+  },
+  "header": [
+    "Ministry of Jal Shakti",
+    "Demand No. 62",
+    "Department of Water Resources, River Development and Ganga Rejuvenation"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 118
+    },
+    {
+      "name": "B",
+      "start": 118,
+      "end": 141
+    },
+    {
+      "name": "C",
+      "start": 141,
+      "end": 143
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Secretariat"
+      ],
+      "amount": 279.07
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices"
+      ],
+      "amount": 1130.26
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Central Water Commission"
+      ],
+      "amount": 460
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Central Water and Power Research Station"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Central Soil and Material Research Station"
+      ],
+      "amount": 28.77
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Bansagar Control Board"
+      ],
+      "amount": 0.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Upper Yamuna River Board"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Central Ground Water Board"
+      ],
+      "amount": 304.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National Dam Safety Authority"
+      ],
+      "amount": 12.68
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National Institute of Hydrology"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National Water Informatics Centre"
+      ],
+      "amount": 3.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National River Conservation Directorate"
+      ],
+      "amount": 8.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "North Eastern Regional Institute of Water and Land Management (NERIWALM)"
+      ],
+      "amount": 26.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National Water Development Agency (NWDA)"
+      ],
+      "amount": 55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Brahmaputra Board"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "National Water Academy"
+      ],
+      "amount": 16.45
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Attached, Subordinate and Other Offices",
+        "Rajeev Gandhi National Ground Water Training and Research Institute"
+      ],
+      "amount": 3.85
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Total - Establishment Expenditure of the Centre"
+      ],
+      "amount": 1409.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 6258.11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Major Irrigation Projects"
+      ],
+      "amount": 105.98
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Major Irrigation Projects",
+        "Farakka Barrage Project"
+      ],
+      "amount": 55.98
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Major Irrigation Projects",
+        "Dam Rehabilitation and Improvement Programme"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Major Irrigation Projects",
+        "Dam Rehabilitation and Improvement Programme",
+        "EAP Component"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Namami Gange Mission-II",
+        "National Ganga Plan"
+      ],
+      "amount": 4000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Namami Gange Mission-II",
+        "National Ganga Plan",
+        "EAP Component"
+      ],
+      "amount": 1000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Namami Gange Mission-II",
+        "National Ganga Plan",
+        "Non EAP Component"
+      ],
+      "amount": 3000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "River Basin Management",
+        "River Basin Management"
+      ],
+      "amount": 110
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management"
+      ],
+      "amount": 2042.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Development of Water Resources Information System"
+      ],
+      "amount": 162.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Ground Water Management and Regulation"
+      ],
+      "amount": 330
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "National Hydrology Project"
+      ],
+      "amount": 500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "National Hydrology Project",
+        "EAP Component"
+      ],
+      "amount": 250
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "National Hydrology Project",
+        "Programme Component"
+      ],
+      "amount": 250
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Research and Development and Implementation of National Water Mission"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Atal Bhujal Yojna"
+      ],
+      "amount": 1000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Atal Bhujal Yojna",
+        "EAP Components"
+      ],
+      "amount": 453
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Water Resources Management",
+        "Atal Bhujal Yojna",
+        "Programme Component"
+      ],
+      "amount": 547
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 12387.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna"
+      ],
+      "amount": 8587.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Har Khet Ko Pani"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Command Area Development And Water Management"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Accelerated Irrigation Benefit Programme and National/Special Projects"
+      ],
+      "amount": 3122.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Servicing of loans from NABARD under PMKSY"
+      ],
+      "amount": 3875
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Servicing of loans from NABARD under PMKSY",
+        "Payment of interest for NABARD loan to NWDA under PMKSY"
+      ],
+      "amount": 2200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Servicing of loans from NABARD under PMKSY",
+        "Repayment of principal for NABARD loan to NWDA under PMKSY"
+      ],
+      "amount": 1025
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Servicing of loans from NABARD under PMKSY",
+        "Interest subvention for NABARD to States under PMKSY"
+      ],
+      "amount": 650
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Flood Management and Border Areas Programme(FMBAP)"
+      ],
+      "amount": 450
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Irrigation Census"
+      ],
+      "amount": 40
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Special Package for Irrigation Projects to address agrarian distress in districts of Vidarbha and Marathawada and other chronically drought prone areas of rest of Maharashtra"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National River Conservation Plan -Other Basins"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National River Conservation Plan -Other Basins",
+        "EAP Component"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National River Conservation Plan -Other Basins",
+        "Programme Component"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Interlinking of Rivers"
+      ],
+      "amount": 3500
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 14913.49
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Major Irrigation"
+      ],
+      "amount": 3500.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Major and Medium Irrigation"
+      ],
+      "amount": 6280.08
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Minor Irrigation"
+      ],
+      "amount": 399.34
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Flood Control and Drainage"
+      ],
+      "amount": 36.34
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Transport Services"
+      ],
+      "amount": 24.84
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Ecology and Environment"
+      ],
+      "amount": 4025.75
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 287.93
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Major and Medium Irrigation"
+      ],
+      "amount": 83.64
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Minor Irrigation"
+      ],
+      "amount": 239.04
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Flood Control Projects"
+      ],
+      "amount": 1.57
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other Transport Services"
+      ],
+      "amount": 31.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 3.82
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 5141.18
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 272.76
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 4704.11
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 163.04
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 1.27
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "WAPCOS Limited"
+      ],
+      "amount": 2
+    }
+  ]
+}

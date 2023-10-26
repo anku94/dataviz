@@ -1,0 +1,510 @@
+{
+  "sheet_name": "sbe79",
+  "amount_header": {
+    "Gross": 21811.32,
+    "Recoveries": -1140.0,
+    "Receipts": 0.0,
+    "Net": 20671.32
+  },
+  "header": [
+    "Ministry of Power",
+    "Demand No. 79",
+    "Ministry of Power"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 96
+    },
+    {
+      "name": "B",
+      "start": 96,
+      "end": 108
+    },
+    {
+      "name": "C",
+      "start": 108,
+      "end": 136
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 249.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 60.72
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Statutory Authorities"
+      ],
+      "amount": 189.2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 16108.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Conservation and Energy Efficiency",
+        "Energy Conservation Schemes",
+        "Energy Conservation"
+      ],
+      "amount": 30.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems"
+      ],
+      "amount": 2902.62
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Smart Grids"
+      ],
+      "amount": 14.62
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Green Energy Corridors"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Interest Subsidy to National Electricity Fund"
+      ],
+      "amount": 500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Power System Improvement in North Eastern States excluding Arunachal Pradesh and Sikkim (Program Component)"
+      ],
+      "amount": 517.05
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Power System Improvement in North Eastern States excluding Arunachal Pradesh and Sikkim (EAP Component)"
+      ],
+      "amount": 469.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Strengthening of Power Systems",
+        "Strengthening of Power Systems",
+        "Strengthening of Transmission System in the States of Arunachal Pradesh and Sikkim"
+      ],
+      "amount": 1400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Power System Development Fund"
+      ],
+      "amount": 1000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 4312.48
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 243
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Training and Research"
+      ],
+      "amount": 243
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Training and Research",
+        "Central Power Research Institute"
+      ],
+      "amount": 208
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Training and Research",
+        "National Power Training Institute"
+      ],
+      "amount": 35
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs"
+      ],
+      "amount": 3931.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs",
+        "Central Assistance for Pakul Dul HEP under J and K PMDP 2015 as grant to Chenab Valley Power Projects Private Limited (CVPPPL)"
+      ],
+      "amount": 1448
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs",
+        "GoI fully serviced bond issue expenditure and interest (PFC bonds)"
+      ],
+      "amount": 376.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs",
+        "GoI fully serviced bond issue expenditure and interest (REC Bonds)"
+      ],
+      "amount": 1945.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs",
+        "Reimbursement of Claim for any expenditure already incurred by NTPC on Lohari Nagpala Hydro Power"
+      ],
+      "amount": 104.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Assistance to CPSUs",
+        "Grant towards cost of downstream protection work of Subansiri Lower Project (NHPC)"
+      ],
+      "amount": 56.98
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 138.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Payment to SDMC- Badarpur Thermal Power Station"
+      ],
+      "amount": 16.08
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Support for cost of enabling infrastructure i.e Roads/ Bridge etc"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Payment Pertaining to International Arbitration Case"
+      ],
+      "amount": 12
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Manufacturing Zones under Atmanirbhar Bharat Package"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 17077.22
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Power"
+      ],
+      "amount": 17003.29
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 57.13
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Power Projects"
+      ],
+      "amount": 16.8
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 3594.1
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 3594.1
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Power System Operation Corporation Limited"
+      ],
+      "amount": 67
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Power System Operation Corporation Limited",
+        "Power System Operation Corporation Limited"
+      ],
+      "amount": 67
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Hydro Electric Power Corporation Limited"
+      ],
+      "amount": 10857.22
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Hydro Electric Power Corporation Limited",
+        "National Hydro Electric Power Corporation Limited"
+      ],
+      "amount": 10857.22
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Damodar Valley Corporation Limited"
+      ],
+      "amount": 2708
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Damodar Valley Corporation Limited",
+        "Damodar Valley Corporation Limited"
+      ],
+      "amount": 2708
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "North Eastern Electric Power Corporation Limited"
+      ],
+      "amount": 2018.59
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "North Eastern Electric Power Corporation Limited",
+        "North Eastern Electric Power Corporation Limited"
+      ],
+      "amount": 2018.59
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Satluj Jal Vidyut Nigam Limited"
+      ],
+      "amount": 10000
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Satluj Jal Vidyut Nigam Limited",
+        "Satluj Jal Vidyut Nigam Limited"
+      ],
+      "amount": 10000
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Tehri Hydro Development Corporation Limited"
+      ],
+      "amount": 3900.41
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Tehri Hydro Development Corporation Limited",
+        "Tehri Hydro Development Corporation Limited"
+      ],
+      "amount": 3900.41
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Power Grid Corporation of India Limited"
+      ],
+      "amount": 8800
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Power Grid Corporation of India Limited",
+        "Power Grid Corporation of India Limited"
+      ],
+      "amount": 8800
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Thermal Power Corporation Limited"
+      ],
+      "amount": 22454
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Thermal Power Corporation Limited",
+        "National Thermal Power Corporation Limited"
+      ],
+      "amount": 22454
+    }
+  ]
+}

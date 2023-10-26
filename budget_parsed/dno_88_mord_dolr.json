@@ -1,0 +1,174 @@
+{
+  "sheet_name": "sbe88",
+  "amount_header": {
+    "Gross": 2419.23,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 2419.23
+  },
+  "header": [
+    "Ministry of Rural Development",
+    "Demand No. 88",
+    "Department of Land Resources"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 39
+    },
+    {
+      "name": "B",
+      "start": 39,
+      "end": 51
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Digital India Initiative - Land records Modernisation Programme",
+        "Land Records Modernization Programme"
+      ],
+      "amount": 195.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 2200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna"
+      ],
+      "amount": 2200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana"
+      ],
+      "amount": 2200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana",
+        "Program Component"
+      ],
+      "amount": 2181
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Krishi Sinchai Yojna",
+        "Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana",
+        "EAP Component"
+      ],
+      "amount": 19
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 267.93
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Special Programmes for  Rural Development"
+      ],
+      "amount": 68.28
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Land Reforms"
+      ],
+      "amount": 176.17
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 22.22
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 1.26
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 2151.3
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 239.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 1864.22
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 47.5
+    }
+  ]
+}

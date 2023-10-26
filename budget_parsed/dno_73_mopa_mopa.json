@@ -1,0 +1,95 @@
+{
+  "sheet_name": "sbe73",
+  "amount_header": {
+    "Gross": 63.0,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 63.0
+  },
+  "header": [
+    "Ministry of Parliamentary Affairs",
+    "Demand No. 73",
+    "Ministry of Parliamentary Affairs"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 19
+    },
+    {
+      "name": "B",
+      "start": 19,
+      "end": 24
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 14",
+    "Unnamed: 16",
+    "Unnamed: 18",
+    "Unnamed: 20",
+    "Unnamed: 22",
+    "Unnamed: 24",
+    "Unnamed: 28",
+    "Unnamed: 30",
+    "Unnamed: 32",
+    "Unnamed: 34",
+    "Unnamed: 38",
+    "Unnamed: 40"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 63
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "National eVidhan Application"
+      ],
+      "amount": 38
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 63.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 59.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 4.0
+    }
+  ]
+}

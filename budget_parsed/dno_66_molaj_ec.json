@@ -1,0 +1,86 @@
+{
+  "sheet_name": "sbe66",
+  "amount_header": {
+    "Gross": 340.0,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 340.0
+  },
+  "header": [
+    "Ministry of Law and Justice",
+    "Demand No. 66",
+    "Election Commission"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 21
+    },
+    {
+      "name": "B",
+      "start": 21,
+      "end": 27
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Election Commission of India"
+      ],
+      "amount": 340
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 340.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Elections"
+      ],
+      "amount": 312.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Public Works"
+      ],
+      "amount": 7.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 21.0
+    }
+  ]
+}

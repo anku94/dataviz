@@ -1,0 +1,175 @@
+{
+  "sheet_name": "sbe47",
+  "amount_header": {
+    "Gross": 2980.0,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 2980.0
+  },
+  "header": [
+    "Ministry of Health and Family Welfare",
+    "Demand No. 47",
+    "Department of Health Research"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 30
+    },
+    {
+      "name": "B",
+      "start": 30,
+      "end": 39
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 14",
+    "Unnamed: 16",
+    "Unnamed: 18",
+    "Unnamed: 20",
+    "Unnamed: 22",
+    "Unnamed: 24",
+    "Unnamed: 28",
+    "Unnamed: 30",
+    "Unnamed: 32",
+    "Unnamed: 34",
+    "Unnamed: 38",
+    "Unnamed: 40"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 54
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 566.42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development for Health Research"
+      ],
+      "amount": 150
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development for Health Research",
+        "Setting up of nation wide network of laboratories for managing epidemics and national calamities"
+      ],
+      "amount": 60
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development for Health Research",
+        "Development of Infrastructure for Promotion of Health Research"
+      ],
+      "amount": 80
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development for Health Research",
+        "Development of tools/support to prevent outbreaks of epidemics"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Human Resource and Capacity Development"
+      ],
+      "amount": 92.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister's Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)-Bio Security Preparedness and strengthening Pandemic Research and Multi Sector and National Institutions and Platform for One Health"
+      ],
+      "amount": 324.36
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Autonomous Bodies",
+        "Indian Council of Medical Research, New Delhi"
+      ],
+      "amount": 2359.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 2823.04
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Medical and Public Health"
+      ],
+      "amount": 2769.04
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 53.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 0.8
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 156.96
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 156.96
+    }
+  ]
+}

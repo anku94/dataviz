@@ -1,0 +1,449 @@
+{
+  "sheet_name": "sbe78",
+  "amount_header": {
+    "Gross": 2728.74,
+    "Recoveries": -130.0,
+    "Receipts": -380.0,
+    "Net": 2218.74
+  },
+  "header": [
+    "Ministry of Ports, Shipping and Waterways",
+    "Demand No. 78",
+    "Ministry of Ports, Shipping and Waterways"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 61
+    },
+    {
+      "name": "B",
+      "start": 61,
+      "end": 80
+    },
+    {
+      "name": "C",
+      "start": 80,
+      "end": 99
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 80
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 578.03
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Ports",
+        "Research and Development (Ports)"
+      ],
+      "amount": 1.03
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Sagarmala"
+      ],
+      "amount": 450
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Shipping and Ship Building",
+        "Assistance to Ship Building, Research and Development"
+      ],
+      "amount": 112
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Inland Water Transport"
+      ],
+      "amount": 15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Inland Water Transport",
+        "Grants to Inland Water Transport Authority of India"
+      ],
+      "amount": 15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 1560.71
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 1410.54
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Tariff Authority for Major Ports"
+      ],
+      "amount": 10.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Maritime University"
+      ],
+      "amount": 87.85
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Kolkata Port Trust"
+      ],
+      "amount": 250.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Development of Minor Ports"
+      ],
+      "amount": 69.63
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Inland Water Transport Authority of India"
+      ],
+      "amount": 992.46
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Shipping Corporation of India"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 145.17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Directorate General of Shipping"
+      ],
+      "amount": 145.17
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 2006.74
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Industries"
+      ],
+      "amount": 112.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Ports and Light Houses"
+      ],
+      "amount": 651.26
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Shipping"
+      ],
+      "amount": 218.02
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Inland Water Transport"
+      ],
+      "amount": 76.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 77.75
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Ports and Light Houses"
+      ],
+      "amount": 130.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Shipping"
+      ],
+      "amount": 20.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Inland Water Transport"
+      ],
+      "amount": 718.96
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 2.25
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 212.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 15.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 197.0
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives"
+      ],
+      "amount": 4639.17
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Cochin Port Trust"
+      ],
+      "amount": 14.74
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Pradip Port Trust"
+      ],
+      "amount": 183.55
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "VoChidambaranar Port Trust"
+      ],
+      "amount": 68.16
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Jawaharlal Nehru Port Trust"
+      ],
+      "amount": 712.01
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "New Mangalore Port Trust"
+      ],
+      "amount": 18.66
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Chennai Port Trust"
+      ],
+      "amount": 58.3
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Mumbai Port Trust"
+      ],
+      "amount": 287.74
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Deendyal  Port Trust Kandla"
+      ],
+      "amount": 931.9
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Mormugao Port Trust"
+      ],
+      "amount": 88.12
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Visakapatnam Port Trust"
+      ],
+      "amount": 337.69
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Kamarajar Port Trust"
+      ],
+      "amount": 310
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Inland Waterway Authority of India"
+      ],
+      "amount": 915.96
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Cochin Shipyard Limited"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Shipping Corporation of India"
+      ],
+      "amount": 80
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Syama Prasad Mookerjee Port Kolkata"
+      ],
+      "amount": 242.34
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Loans to Credit Cooperatives",
+        "Sagarmala Development Company"
+      ],
+      "amount": 90
+    }
+  ]
+}

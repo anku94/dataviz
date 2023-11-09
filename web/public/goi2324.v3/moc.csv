@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Coal,,Ministry of Coal,192.32,1923200000.0,22625882.352941178
+0,,Ministry of Coal,,moc,192.32,1923200000.0,22625882.352941178
 1,Ministry of Coal,Ministry of Coal,moc,moc_moc,192.32,1923200000.0,22625882.352941178
 2,Ministry of Coal,CENTRE'S EXPENDITURE,moc_moc,moc_moc_cse,192.32,1923200000.0,22625882.352941178
 3,CENTRE'S EXPENDITURE,Autonomous Bodies,moc_moc_cse,moc_moc_cse_ab,10.64,106400000.0,1251764.705882353

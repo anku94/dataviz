@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Panchayati Raj,,Ministry of Panchayati Raj,971,9710000000,114235294.11764705
+0,,Ministry of Panchayati Raj,,mopr,971,9710000000,114235294.11764705
 1,Ministry of Panchayati Raj,Ministry of Panchayati Raj,mopr,mopr_mopr,971,9710000000,114235294.11764705
 2,Ministry of Panchayati Raj,CENTRE'S EXPENDITURE,mopr_mopr,mopr_mopr_cse,76,760000000,8941176.470588235
 3,Ministry of Panchayati Raj,TRANSFERS TO STATES/UTs,mopr_mopr,mopr_mopr_ttsu,895,8950000000,105294117.64705883

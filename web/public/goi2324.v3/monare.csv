@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of New and Renewable Energy,,Ministry of New and Renewable Energy,10222.0,102220000000.0,1202588235.2941177
+0,,Ministry of New and Renewable Energy,,monare,10222.0,102220000000.0,1202588235.2941177
 1,Ministry of New and Renewable Energy,Ministry of New and Renewable Energy,monare,monare_monare,10222.0,102220000000.0,1202588235.2941177
 2,Ministry of New and Renewable Energy,CENTRE'S EXPENDITURE,monare_monare,monare_monare_cse,10222.0,102220000000.0,1202588235.2941177
 3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,monare_monare_cse,monare_monare_cse_cssp,9874.81,98748100000.0,1161742352.9411764

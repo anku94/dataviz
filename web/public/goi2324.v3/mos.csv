@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Steel,,Ministry of Steel,70.15,701500000.0,8252941.176470588
+0,,Ministry of Steel,,mos,70.15,701500000.0,8252941.176470588
 1,Ministry of Steel,Ministry of Steel,mos,mos_mos,70.15,701500000.0,8252941.176470588
 2,Ministry of Steel,CENTRE'S EXPENDITURE,mos_mos,mos_mos_cse,70.15,701500000.0,8252941.176470588
 3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mos_mos_cse,mos_mos_cse_cssp,24.0,240000000.0,2823529.411764706

@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Finance,,Ministry of Finance,1706957.9400000002,17069579400000.002,200818581176.4706
+0,,Ministry of Finance,,mof,1706957.9400000002,17069579400000.002,200818581176.4706
 1,Ministry of Finance,Department of Expenditure,mof,mof_doe,517.34,5173400000.0,60863529.4117647
 2,Ministry of Finance,Department of Economic Affairs,mof,mof_doea,10881.050000000001,108810500000.00002,1280123529.4117649
 3,Ministry of Finance,Department of Financial Services,mof,mof_dofs,1324.64,13246400000.000002,155840000.00000003

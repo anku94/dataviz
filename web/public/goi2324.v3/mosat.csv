@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Science and Technology,,Ministry of Science and Technology,16361.420000000002,163614200000.00003,1924872941.176471
+0,,Ministry of Science and Technology,,mosat,16361.420000000002,163614200000.00003,1924872941.176471
 1,Ministry of Science and Technology,Department of Biotechnology,mosat,mosat_dob,2683.86,26838600000.0,315748235.2941176
 2,Ministry of Science and Technology,Department of Scientific and Industrial Research,mosat,mosat_dosair,5746.51,57465100000.0,676060000.0
 3,Ministry of Science and Technology,Department of Science and Technology,mosat,mosat_dosat,7931.05,79310500000.0,933064705.882353

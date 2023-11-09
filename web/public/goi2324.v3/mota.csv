@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Tribal Affairs,,Ministry of Tribal Affairs,12401.0,124010000000.0,1458941176.4705882
+0,,Ministry of Tribal Affairs,,mota,12401.0,124010000000.0,1458941176.4705882
 1,Ministry of Tribal Affairs,Ministry of Tribal Affairs,mota,mota_mota,12401.0,124010000000.0,1458941176.4705882
 2,Ministry of Tribal Affairs,CENTRE'S EXPENDITURE,mota_mota,mota_mota_cse,6633.49,66334900000.0,780410588.2352941
 3,Ministry of Tribal Affairs,TRANSFERS TO STATES/UTs,mota_mota,mota_mota_ttsu,5767.51,57675100000.0,678530588.2352941

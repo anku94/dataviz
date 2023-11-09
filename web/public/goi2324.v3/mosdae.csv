@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Skill Development and Entrepreneurship,,Ministry of Skill Development and Entrepreneurship,3195.08,31950800000.0,375891764.7058824
+0,,Ministry of Skill Development and Entrepreneurship,,mosdae,3195.08,31950800000.0,375891764.7058824
 1,Ministry of Skill Development and Entrepreneurship,Ministry of Skill Development and Entrepreneurship,mosdae,mosdae_mosdae,3195.08,31950800000.0,375891764.7058824
 2,Ministry of Skill Development and Entrepreneurship,CENTRE'S EXPENDITURE,mosdae_mosdae,mosdae_mosdae_cse,2300.62,23006200000.0,270661176.4705882
 3,Ministry of Skill Development and Entrepreneurship,TRANSFERS TO STATES/UTs,mosdae_mosdae,mosdae_mosdae_ttsu,894.46,8944600000.0,105230588.23529412

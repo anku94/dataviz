@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Minority Affairs,,Ministry of Minority Affairs,2965.6,29656000000.0,348894117.64705884
+0,,Ministry of Minority Affairs,,moma,2965.6,29656000000.0,348894117.64705884
 1,Ministry of Minority Affairs,Ministry of Minority Affairs,moma,moma_moma,2965.6,29656000000.0,348894117.64705884
 2,Ministry of Minority Affairs,CENTRE'S EXPENDITURE,moma_moma,moma_moma_cse,2355.6,23556000000.0,277129411.7647059
 3,Ministry of Minority Affairs,TRANSFERS TO STATES/UTs,moma_moma,moma_moma_ttsu,610.0,6100000000.0,71764705.88235295

@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Education,,Ministry of Education,154656.46000000002,1546564600000.0002,18194877647.058826
+0,,Ministry of Education,,moe,154656.46000000002,1546564600000.0002,18194877647.058826
 1,Ministry of Education,Department of Higher Education,moe,moe_dohe,49890.62000000001,498906200000.0001,5869484705.882355
 2,Ministry of Education,Department of School Education and Literacy,moe,moe_doseal,104765.84,1047658400000.0,12325392941.17647
 3,Department of Higher Education,CENTRE'S EXPENDITURE,moe_dohe,moe_dohe_cse,48390.62000000001,483906200000.0001,5693014117.64706

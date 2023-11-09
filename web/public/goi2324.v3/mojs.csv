@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Jal Shakti,,Ministry of Jal Shakti,98687.0,986870000000.0,11610235294.117647
+0,,Ministry of Jal Shakti,,mojs,98687.0,986870000000.0,11610235294.117647
 1,Ministry of Jal Shakti,Department of Drinking Water and Sanitation,mojs,mojs_dodwas,77223.0,772230000000.0,9085058823.529411
 2,Ministry of Jal Shakti,"Department of Water Resources, River Development and Ganga Rejuvenation",mojs,mojs_dowrrdagr,21464.0,214640000000.0,2525176470.5882354
 3,Department of Drinking Water and Sanitation,CENTRE'S EXPENDITURE,mojs_dodwas,mojs_dodwas_cse,31.0,310000000.0,3647058.8235294116

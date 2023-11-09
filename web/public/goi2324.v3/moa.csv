@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of AYUSH,,Ministry of AYUSH,3585.78,35857800000.0,421856470.5882353
+0,,Ministry of AYUSH,,moa,3585.78,35857800000.0,421856470.5882353
 1,Ministry of AYUSH,Ministry of Ayush,moa,moa_moa,3585.78,35857800000.0,421856470.5882353
 2,Ministry of Ayush,CENTRE'S EXPENDITURE,moa_moa,moa_moa_cse,2385.78,23857800000.000004,280680000.00000006
 3,Ministry of Ayush,TRANSFERS TO STATES/UTs,moa_moa,moa_moa_ttsu,1200.0,12000000000.0,141176470.5882353

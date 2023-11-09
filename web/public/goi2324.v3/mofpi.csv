@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Food Processing Industries,,Ministry of Food Processing Industries,3160.6099999999997,31606099999.999996,371836470.58823526
+0,,Ministry of Food Processing Industries,,mofpi,3160.6099999999997,31606099999.999996,371836470.58823526
 1,Ministry of Food Processing Industries,Ministry of Food Processing Industries,mofpi,mofpi_mofpi,3160.6099999999997,31606099999.999996,371836470.58823526
 2,Ministry of Food Processing Industries,CENTRE'S EXPENDITURE,mofpi_mofpi,mofpi_mofpi_cse,2521.56,25215600000.0,296654117.64705884
 3,Ministry of Food Processing Industries,TRANSFERS TO STATES/UTs,mofpi_mofpi,mofpi_mofpi_ttsu,639.05,6390500000.0,75182352.94117647

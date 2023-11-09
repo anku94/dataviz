@@ -1,5 +1,5 @@
 id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Law and Justice,,Ministry of Law and Justice,4486.44,44864399999.99999,527816470.5882352
+0,,Ministry of Law and Justice,,molaj,4486.44,44864399999.99999,527816470.5882352
 1,Ministry of Law and Justice,Election Commission,molaj,molaj_ec,340.0,3400000000.0,40000000.0
 2,Ministry of Law and Justice,Law and Justice,molaj,molaj_laj,3709.29,37092900000.0,436387058.8235294
 3,Ministry of Law and Justice,Supreme Court of India,molaj,molaj_scoi,437.15,4371500000.0,51429411.76470588

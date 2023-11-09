@@ -1,0 +1,18 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Home Affairs
+Demand No. 52
+Ministry of Home Affairs (Andaman and Nicobar Islands)",r,r_mohadn5mohaaani,5987.139999999999,59871399999.99999,704369411.7647058
+"Ministry of Home Affairs
+Demand No. 52
+Ministry of Home Affairs (Andaman and Nicobar Islands)",CENTRE'S EXPENDITURE,r_mohadn5mohaaani,r_mohadn5mohaaani_cse,5987.139999999999,59871399999.99999,704369411.7647058
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mohadn5mohaaani_cse,r_mohadn5mohaaani_cse_eeotc,2646.5,26465000000.0,311352941.1764706
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mohadn5mohaaani_cse,r_mohadn5mohaaani_cse_ocse,3340.64,33406400000.0,393016470.5882353
+Establishment Expenditure of the Centre,Other Establishment,r_mohadn5mohaaani_cse_eeotc,r_mohadn5mohaaani_cse_eeotc_oe,2572.24,25722399999.999996,302616470.58823526
+Establishment Expenditure of the Centre,Secretariat,r_mohadn5mohaaani_cse_eeotc,r_mohadn5mohaaani_cse_eeotc_s,74.26,742600000.0,8736470.588235294
+Other Central Sector Expenditure,Others,r_mohadn5mohaaani_cse_ocse,r_mohadn5mohaaani_cse_ocse_o,3340.64,33406400000.0,393016470.5882353
+Others,Grantee / Other Bodies,r_mohadn5mohaaani_cse_ocse_o,r_mohadn5mohaaani_cse_ocse_o_gob,9.9,99000000.0,1164705.8823529412
+Others,Schemes of UT,r_mohadn5mohaaani_cse_ocse_o,r_mohadn5mohaaani_cse_ocse_o_sou,0.5,5000000.0,58823.529411764706
+Others,Tribal Area Component,r_mohadn5mohaaani_cse_ocse_o,r_mohadn5mohaaani_cse_ocse_o_tac,226.76,2267600000.0,26677647.05882353
+Others,UT's Supplement to Centrally Sponsored Schemes,r_mohadn5mohaaani_cse_ocse_o,r_mohadn5mohaaani_cse_ocse_o_usstcss,30.6,306000000.0,3600000.0
+Grantee / Other Bodies,SOVTECH,r_mohadn5mohaaani_cse_ocse_o_gob,r_mohadn5mohaaani_cse_ocse_o_gob_s,3.9,39000000.0,458823.5294117647
+SOVTECH,Other Grantee Bodies,r_mohadn5mohaaani_cse_ocse_o_gob_s,r_mohadn5mohaaani_cse_ocse_o_gob_s_ogb,3.9,39000000.0,458823.5294117647

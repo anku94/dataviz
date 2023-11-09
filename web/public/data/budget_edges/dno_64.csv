@@ -1,0 +1,29 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Labour and Employment
+Demand No. 64
+Ministry of Labour and Employment",r,r_molaedn6molae,13100.77,131007700000.0,1541267058.8235295
+"Ministry of Labour and Employment
+Demand No. 64
+Ministry of Labour and Employment",CENTRE'S EXPENDITURE,r_molaedn6molae,r_molaedn6molae_cse,13100.77,131007700000.0,1541267058.8235295
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_molaedn6molae_cse,r_molaedn6molae_cse_cssp,12434.82,124348200000.0,1462920000.0
+CENTRE'S EXPENDITURE,Directorate General of Employment,r_molaedn6molae_cse,r_molaedn6molae_cse_dgoe,70.22,702200000.0,8261176.470588235
+CENTRE'S EXPENDITURE,Direcorate General of Factory Advice Services (DGFASLI),r_molaedn6molae_cse,r_molaedn6molae_cse_dgofasd,39.1,391000000.0,4600000.0
+CENTRE'S EXPENDITURE,Directorate General of Labour Welfare Scheme,r_molaedn6molae_cse,r_molaedn6molae_cse_dgolws,175.78,1757800000.0,20680000.0
+CENTRE'S EXPENDITURE,Directorate General of Mines Safety (DGMS),r_molaedn6molae_cse,r_molaedn6molae_cse_dgomsd,109.08,1090800000.0,12832941.176470589
+CENTRE'S EXPENDITURE,International Cooperation,r_molaedn6molae_cse,r_molaedn6molae_cse_ic,27.0,270000000.0,3176470.588235294
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_molaedn6molae_cse,r_molaedn6molae_cse_ocse,127.0,1270000000.0,14941176.470588235
+CENTRE'S EXPENDITURE,"Other Expenditure related to Chief Labour Commissioner,Central Government Industrial Tribunal, Research and Information Technology",r_molaedn6molae_cse,r_molaedn6molae_cse_oertclccgitrait,117.77,1177700000.0,13855294.11764706
+Central Sector Schemes/Projects,"Coaching and Guidance for SC,ST and Other Backward Classes",r_molaedn6molae_cse_cssp,r_molaedn6molae_cse_cssp_cagfssaobc,25.0,250000000.0,2941176.470588235
+Central Sector Schemes/Projects,Labour Welfare Scheme,r_molaedn6molae_cse_cssp,r_molaedn6molae_cse_cssp_lws,75.0,750000000.0,8823529.411764706
+Central Sector Schemes/Projects,National Child Labour Project including grants in aid to voluntary agencies and reimbursement of assistance to bonded labour,r_molaedn6molae_cse_cssp,r_molaedn6molae_cse_cssp_nclpigiatvaaroatbl,20.0,200000000.0,2352941.1764705884
+Central Sector Schemes/Projects,National Career Services,r_molaedn6molae_cse_cssp,r_molaedn6molae_cse_cssp_ncs,52.0,520000000.0,6117647.05882353
+Central Sector Schemes/Projects,Social Security Schemes for Workers,r_molaedn6molae_cse_cssp,r_molaedn6molae_cse_cssp_sssfw,12152.82,121528200000.0,1429743529.4117646
+Social Security Schemes for Workers,Aatmanirbhar Bharat Rojgar Yojana,r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_abry,2272.82,22728200000.0,267390588.2352941
+Social Security Schemes for Workers,"Employees Pension Scheme, 1995",r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_eps1,9167.0,91670000000.0,1078470588.235294
+Social Security Schemes for Workers,National database for Unorganized Workers,r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_ndfuw,300.0,3000000000.0,35294117.64705882
+Social Security Schemes for Workers,Pradhan Mantri Karam Yogi Maandhan,r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_pmkym,3.0,30000000.0,352941.17647058825
+Social Security Schemes for Workers,Pradhan Mantri Shram Yogi Maandhan,r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_pmsym,350.0,3500000000.0,41176470.5882353
+Social Security Schemes for Workers,Social Security for Plantation Workers in Assam,r_molaedn6molae_cse_cssp_sssfw,r_molaedn6molae_cse_cssp_sssfw_ssfpwia,60.0,600000000.0,7058823.529411765
+Other Central Sector Expenditure,Autonomous Bodies,r_molaedn6molae_cse_ocse,r_molaedn6molae_cse_ocse_ab,127.0,1270000000.0,14941176.470588235
+Autonomous Bodies,Dattopant Thengadi National Board for Workers Education and Development,r_molaedn6molae_cse_ocse_ab,r_molaedn6molae_cse_ocse_ab_dtnbfwead,113.1,1131000000.0,13305882.352941176
+Autonomous Bodies,National Labour Institute,r_molaedn6molae_cse_ocse_ab,r_molaedn6molae_cse_ocse_ab_nli,13.9,139000000.0,1635294.1176470588

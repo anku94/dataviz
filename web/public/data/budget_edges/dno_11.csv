@@ -1,0 +1,48 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Commerce and Industry
+Demand No. 11
+Department for Promotion of Industry and Internal Trade",r,r_mocaidn1dfpoiait,8200.630000000001,82006300000.00002,964780000.0000002
+"Ministry of Commerce and Industry
+Demand No. 11
+Department for Promotion of Industry and Internal Trade",CENTRE'S EXPENDITURE,r_mocaidn1dfpoiait,r_mocaidn1dfpoiait_cse,8200.630000000001,82006300000.00002,964780000.0000002
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocaidn1dfpoiait_cse,r_mocaidn1dfpoiait_cse_cssp,7372.03,73720300000.0,867297647.0588236
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocaidn1dfpoiait_cse,r_mocaidn1dfpoiait_cse_eeotc,648.35,6483500000.0,76276470.58823529
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocaidn1dfpoiait_cse,r_mocaidn1dfpoiait_cse_ocse,180.25,1802500000.0,21205882.352941178
+Central Sector Schemes/Projects,"Footwear, Leather and Accessories Development Programme (FLADP)",r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_flaadpf,250.0,2500000000.0,29411764.70588235
+Central Sector Schemes/Projects,Industrial Development of Backward and Remote Areas,r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_idobara,1108.0,11080000000.0,130352941.1764706
+Central Sector Schemes/Projects,"Industrial Development of Ladakh, 2022",r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_idol2,97.3,973000000.0,11447058.823529411
+Central Sector Schemes/Projects,Industrial Infrastructure Upgradation Scheme (IIUS),r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_iiusi,5.0,50000000.0,588235.2941176471
+Central Sector Schemes/Projects,Make in India,r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_mii,2180.0,21800000000.0,256470588.2352941
+Central Sector Schemes/Projects,National Industrial Corridors,r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_nic,2000.0,20000000000.0,235294117.6470588
+Central Sector Schemes/Projects,Price and Production Statistics,r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_paps,17.85,178500000.0,2100000.0
+Central Sector Schemes/Projects,Refund of Central and Integrated GST to Industrial Units in North Eastern Region and Himalayan States,r_mocaidn1dfpoiait_cse_cssp,r_mocaidn1dfpoiait_cse_cssp_rocaigtiuinerahs,1713.88,17138800000.000002,201632941.1764706
+Industrial Development of Backward and Remote Areas,Industrial Development of UT of Jammu and Kashmir,r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_idouojak,150.0,1500000000.0,17647058.82352941
+Industrial Development of Backward and Remote Areas,"Industrial Development Scheme, 2017 for Union Territory of Jammu & Kashmir and Union Territory of Ladakh",r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_ids2futojkautol,50.0,500000000.0,5882352.94117647
+Industrial Development of Backward and Remote Areas,"Industrial Development Scheme for Himachal Pradesh & Uttarakhand, 2017",r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_idsfhpu2,250.0,2500000000.0,29411764.70588235
+Industrial Development of Backward and Remote Areas,North Eastern Industrial and Investment Promotion Policy (NEIPP),r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_neiaippn,200.0,2000000000.0,23529411.76470588
+Industrial Development of Backward and Remote Areas,North East Industrial Development Scheme (NEIDS) 2017,r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_neidsn2,400.0,4000000000.0,47058823.52941176
+Industrial Development of Backward and Remote Areas,"Package for Special Catagory States for Jammu and Kashmir,  Himachal Pradesh and Uttarakhand",r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_pfscsfjakhpau,8.0,80000000.0,941176.4705882353
+Industrial Development of Backward and Remote Areas,Transport/Freight Subsidy Scheme,r_mocaidn1dfpoiait_cse_cssp_idobara,r_mocaidn1dfpoiait_cse_cssp_idobara_tfss,50.0,500000000.0,5882352.94117647
+Make in India,Credit Guarantee Fund,r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_cgf,250.0,2500000000.0,29411764.70588235
+Make in India,Ease of Doing Business,r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_eodb,10.0,100000000.0,1176470.5882352942
+Make in India,Fund of Funds,r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_fof,1470.0,14700000000.0,172941176.47058824
+Make in India,Production Linked Incentive Scheme (PLI) for White Goods (ACs and LED Lights),r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_plispfwgaall,65.0,650000000.0,7647058.823529412
+Make in India,Scheme for Investment Promotion,r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_sfip,195.0,1950000000.0,22941176.470588237
+Make in India,Startup India,r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_si,30.0,300000000.0,3529411.7647058824
+Make in India,Startup India Seed Fund Scheme (SISFS),r_mocaidn1dfpoiait_cse_cssp_mii,r_mocaidn1dfpoiait_cse_cssp_mii_sisfss,160.0,1600000000.0,18823529.411764707
+National Industrial Corridors,National Industrial Corridor Development and Implementation Trust (NICDIT),r_mocaidn1dfpoiait_cse_cssp_nic,r_mocaidn1dfpoiait_cse_cssp_nic_nicdaitn,2000.0,20000000000.0,235294117.6470588
+Establishment Expenditure of the Centre,Attached and Subordinate Offices,r_mocaidn1dfpoiait_cse_eeotc,r_mocaidn1dfpoiait_cse_eeotc_aaso,117.34,1173400000.0,13804705.88235294
+Establishment Expenditure of the Centre,Intellectual Property,r_mocaidn1dfpoiait_cse_eeotc,r_mocaidn1dfpoiait_cse_eeotc_ip,328.91,3289100000.0000005,38695294.11764707
+Establishment Expenditure of the Centre,Secretariat,r_mocaidn1dfpoiait_cse_eeotc,r_mocaidn1dfpoiait_cse_eeotc_s,202.1,2021000000.0,23776470.588235293
+Attached and Subordinate Offices,Petroleum and Explosives Safety Organisation (PESO),r_mocaidn1dfpoiait_cse_eeotc_aaso,r_mocaidn1dfpoiait_cse_eeotc_aaso_paesop,65.0,650000000.0,7647058.823529412
+Attached and Subordinate Offices,Salt Commissioner,r_mocaidn1dfpoiait_cse_eeotc_aaso,r_mocaidn1dfpoiait_cse_eeotc_aaso_sc,52.09,520900000.00000006,6128235.294117648
+Attached and Subordinate Offices,Survey of Boiler,r_mocaidn1dfpoiait_cse_eeotc_aaso,r_mocaidn1dfpoiait_cse_eeotc_aaso_sob,0.25,2500000.0,29411.764705882353
+Intellectual Property,Controller General of Patent Designs and Trademarks,r_mocaidn1dfpoiait_cse_eeotc_ip,r_mocaidn1dfpoiait_cse_eeotc_ip_cgopdat,281.6,2816000000.0,33129411.76470588
+Intellectual Property,Infrastructure Development in Controller General of Patents Designs and Trade Marks (IDCGPDTM),r_mocaidn1dfpoiait_cse_eeotc_ip,r_mocaidn1dfpoiait_cse_eeotc_ip_idicgopdatmi,11.0,110000000.0,1294117.6470588236
+Intellectual Property,Intellectual Policy Rights (IPR) Policy Management,r_mocaidn1dfpoiait_cse_eeotc_ip,r_mocaidn1dfpoiait_cse_eeotc_ip_ipripm,36.31,363100000.0,4271764.705882353
+Other Central Sector Expenditure,Autonomous Bodies,r_mocaidn1dfpoiait_cse_ocse,r_mocaidn1dfpoiait_cse_ocse_ab,180.24,1802400000.0,21204705.88235294
+Autonomous Bodies,Autonomous Organisations,r_mocaidn1dfpoiait_cse_ocse_ab,r_mocaidn1dfpoiait_cse_ocse_ab_ao,180.24,1802400000.0,21204705.88235294
+Autonomous Organisations,Asian Productivity Organization/United Nations Industrial Development Organization,r_mocaidn1dfpoiait_cse_ocse_ab_ao,r_mocaidn1dfpoiait_cse_ocse_ab_ao_apounido,22.0,220000000.0,2588235.294117647
+Autonomous Organisations,Assistance to Autonomous Bodies,r_mocaidn1dfpoiait_cse_ocse_ab_ao,r_mocaidn1dfpoiait_cse_ocse_ab_ao_atab,40.75,407500000.0,4794117.647058823
+Autonomous Organisations,Support to Autonomous Institutions,r_mocaidn1dfpoiait_cse_ocse_ab_ao,r_mocaidn1dfpoiait_cse_ocse_ab_ao_stai,116.66,1166600000.0,13724705.88235294
+Autonomous Organisations,World Intellectual Property Organisation (WIPO),r_mocaidn1dfpoiait_cse_ocse_ab_ao,r_mocaidn1dfpoiait_cse_ocse_ab_ao_wipow,0.83,8300000.0,97647.05882352941

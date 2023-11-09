@@ -1,0 +1,10 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Home Affairs
+Demand No. 59
+Transfers to Puducherry",r,r_mohadn5ttp,3117.77,31177700000.0,366796470.5882353
+"Ministry of Home Affairs
+Demand No. 59
+Transfers to Puducherry",TRANSFERS TO STATES/UTs,r_mohadn5ttp,r_mohadn5ttp_ttsu,3117.77,31177700000.0,366796470.5882353
+TRANSFERS TO STATES/UTs,Other Grants/Loans/Transfers,r_mohadn5ttp_ttsu,r_mohadn5ttp_ttsu_oglt,3117.77,31177700000.0,366796470.5882353
+Other Grants/Loans/Transfers,Central Assistance to Union Territories,r_mohadn5ttp_ttsu_oglt,r_mohadn5ttp_ttsu_oglt_catut,3112.75,31127500000.0,366205882.35294116
+Other Grants/Loans/Transfers,Grants towards contribution to Union Territory Disaster Response Fund,r_mohadn5ttp_ttsu_oglt,r_mohadn5ttp_ttsu_oglt_gtctutdrf,5.0,50000000.0,588235.2941176471

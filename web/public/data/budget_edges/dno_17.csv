@@ -1,0 +1,18 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Corporate Affairs
+Demand No. 17
+Ministry of Corporate Affairs",r,r_mocadn1moca,756.1700000000001,7561700000.000001,88961176.47058825
+"Ministry of Corporate Affairs
+Demand No. 17
+Ministry of Corporate Affairs",CENTRE'S EXPENDITURE,r_mocadn1moca,r_mocadn1moca_cse,756.1700000000001,7561700000.000001,88961176.47058825
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocadn1moca_cse,r_mocadn1moca_cse_eeotc,621.32,6213200000.000001,73096470.5882353
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocadn1moca_cse,r_mocadn1moca_cse_ocse,134.85,1348500000.0,15864705.88235294
+Establishment Expenditure of the Centre,Corporate Law Regulation,r_mocadn1moca_cse_eeotc,r_mocadn1moca_cse_eeotc_clr,407.96,4079600000.0,47995294.11764706
+Establishment Expenditure of the Centre,Secretariat,r_mocadn1moca_cse_eeotc,r_mocadn1moca_cse_eeotc_s,213.36,2133600000.0000002,25101176.470588237
+Corporate Law Regulation,"Regional Directors, Official Liquidators and Other Expenditure with reference to various bodies under Companies Act",r_mocadn1moca_cse_eeotc_clr,r_mocadn1moca_cse_eeotc_clr_rdolaoewrtvbuca,330.0,3300000000.0,38823529.4117647
+Corporate Law Regulation,Registrar of Joint Stock Companies,r_mocadn1moca_cse_eeotc_clr,r_mocadn1moca_cse_eeotc_clr_rojsc,77.96,779599999.9999999,9171764.705882352
+Other Central Sector Expenditure,Others,r_mocadn1moca_cse_ocse,r_mocadn1moca_cse_ocse_o,42.0,420000000.0,4941176.470588235
+Other Central Sector Expenditure,Statutory and Regulatory Bodies,r_mocadn1moca_cse_ocse,r_mocadn1moca_cse_ocse_sarb,92.85,928500000.0,10923529.411764706
+Others,Major Works - Land and Buildings,r_mocadn1moca_cse_ocse_o,r_mocadn1moca_cse_ocse_o_mwlab,42.0,420000000.0,4941176.470588235
+Statutory and Regulatory Bodies,Competition Commission of India,r_mocadn1moca_cse_ocse_sarb,r_mocadn1moca_cse_ocse_sarb_ccoi,51.0,510000000.0,6000000.0
+Statutory and Regulatory Bodies,Insolvency and Bankruptcy Board of India,r_mocadn1moca_cse_ocse_sarb,r_mocadn1moca_cse_ocse_sarb_iabboi,41.85,418500000.0,4923529.411764706

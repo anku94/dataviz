@@ -1,0 +1,22 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Chemicals and Fertilisers
+Demand No. 7
+Department of Pharmaceuticals",r,r_mocafdn7dop,3120,31200000000,367058823.5294118
+"Ministry of Chemicals and Fertilisers
+Demand No. 7
+Department of Pharmaceuticals",CENTRE'S EXPENDITURE,r_mocafdn7dop,r_mocafdn7dop_cse,3120,31200000000,367058823.5294118
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocafdn7dop_cse,r_mocafdn7dop_cse_cssp,3120,31200000000,367058823.5294118
+Central Sector Schemes/Projects,Consumer Awareness Publicity and Price Monitoring,r_mocafdn7dop_cse_cssp,r_mocafdn7dop_cse_cssp_capapm,5,50000000,588235.2941176471
+Central Sector Schemes/Projects,Development of Pharmaceutical Industry,r_mocafdn7dop_cse_cssp,r_mocafdn7dop_cse_cssp_dopi,1250,12500000000,147058823.52941176
+Central Sector Schemes/Projects,Jan Aushadhi Scheme,r_mocafdn7dop_cse_cssp,r_mocafdn7dop_cse_cssp_jas,115,1150000000,13529411.764705881
+Central Sector Schemes/Projects,Production Linked Incentive Schemes,r_mocafdn7dop_cse_cssp,r_mocafdn7dop_cse_cssp_plis,1200,12000000000,141176470.5882353
+Development of Pharmaceutical Industry,Development of Pharmaceutical Indsutry,r_mocafdn7dop_cse_cssp_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi,1250,12500000000,147058823.52941176
+Development of Pharmaceutical Indsutry,Assistance to Pharmaceutical Industry for Common Facilities(API-CF)/Cluster Development,r_mocafdn7dop_cse_cssp_dopi_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi_atpifcfaccd,51,510000000,6000000.0
+Development of Pharmaceutical Indsutry,Promotion of Bulk Drug Parks,r_mocafdn7dop_cse_cssp_dopi_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi_pobdp,900,9000000000,105882352.94117647
+Development of Pharmaceutical Indsutry,Promotion of Medical Device Parks,r_mocafdn7dop_cse_cssp_dopi_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi_pomdp,200,2000000000,23529411.76470588
+Development of Pharmaceutical Indsutry,Pharmaceutical Promotion & Development Scheme(PPDS),r_mocafdn7dop_cse_cssp_dopi_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi_ppdsp,4,40000000,470588.23529411765
+Development of Pharmaceutical Indsutry,Pharmaceuticals Technology Upgradation Assistance Scheme(PTUAS),r_mocafdn7dop_cse_cssp_dopi_dopi,r_mocafdn7dop_cse_cssp_dopi_dopi_ptuasp,95,950000000,11176470.588235294
+Production Linked Incentive Schemes,Production Linked Incentive Schemes,r_mocafdn7dop_cse_cssp_plis,r_mocafdn7dop_cse_cssp_plis_plis,1200,12000000000,141176470.5882353
+Production Linked Incentive Schemes,Production Linked Incentive (PLI) Scheme for Domestic Manufacturing of Medical Devices,r_mocafdn7dop_cse_cssp_plis_plis,r_mocafdn7dop_cse_cssp_plis_plis_plipsfdmomd,100,1000000000,11764705.88235294
+Production Linked Incentive Schemes,Production Linked Incentive(PLI) Scheme for Promotion of Domestic Manufacturing of Critical Key Starting Materials(KSMs)/Drug Intermediates(DIs) and Active Pharmaceutical Ingredients(APIs) in India,r_mocafdn7dop_cse_cssp_plis_plis,r_mocafdn7dop_cse_cssp_plis_plis_plipsfpodmocksmkdidaapiaii,100,1000000000,11764705.88235294
+Production Linked Incentive Schemes,Production Linked Incentive Scheme for Pharmaceuticals,r_mocafdn7dop_cse_cssp_plis_plis,r_mocafdn7dop_cse_cssp_plis_plis_plisfp,1000,10000000000,117647058.8235294

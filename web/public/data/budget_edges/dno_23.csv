@@ -1,0 +1,25 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Development of North Eastern Region
+Demand No. 23
+Ministry of Development of North Eastern Region",r,r_modonerdn2modoner,5892.0,58920000000.0,693176470.5882353
+"Ministry of Development of North Eastern Region
+Demand No. 23
+Ministry of Development of North Eastern Region",CENTRE'S EXPENDITURE,r_modonerdn2modoner,r_modonerdn2modoner_cse,5892.0,58920000000.0,693176470.5882353
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_modonerdn2modoner_cse,r_modonerdn2modoner_cse_cssp,5851.0,58510000000.0,688352941.1764706
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_modonerdn2modoner_cse,r_modonerdn2modoner_cse_eeotc,31.33,313300000.0,3685882.3529411764
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_modonerdn2modoner_cse,r_modonerdn2modoner_cse_ocse,9.67,96700000.0,1137647.0588235294
+Central Sector Schemes/Projects,Central Pool of Resources for North East and Sikkim,r_modonerdn2modoner_cse_cssp,r_modonerdn2modoner_cse_cssp_cporfneas,2491.0,24910000000.0,293058823.5294118
+Central Sector Schemes/Projects,North East Enterprise Development Scheme (NEEDS) erstwhile Loan to North East Development Finance Corporation,r_modonerdn2modoner_cse_cssp,r_modonerdn2modoner_cse_cssp_needsneltnedfc,60.0,600000000.0,7058823.529411765
+Central Sector Schemes/Projects,Prime Minister's Development Initiative for North East Region (PM-DevINE),r_modonerdn2modoner_cse_cssp,r_modonerdn2modoner_cse_cssp_pmsdifnerpd,2200.0,22000000000.0,258823529.4117647
+Central Sector Schemes/Projects,Special Development Packages,r_modonerdn2modoner_cse_cssp,r_modonerdn2modoner_cse_cssp_sdp,300.0,3000000000.0,35294117.64705882
+Central Sector Schemes/Projects,Schemes of North East Council,r_modonerdn2modoner_cse_cssp,r_modonerdn2modoner_cse_cssp_sonec,800.0,8000000000.0,94117647.05882353
+Central Pool of Resources for North East and Sikkim,North East Special Infrastructure Development Scheme (NESIDS),r_modonerdn2modoner_cse_cssp_cporfneas,r_modonerdn2modoner_cse_cssp_cporfneas_nesidsn,2491.0,24910000000.0,293058823.5294118
+North East Special Infrastructure Development Scheme (NESIDS),NESIDS Programme,r_modonerdn2modoner_cse_cssp_cporfneas_nesidsn,r_modonerdn2modoner_cse_cssp_cporfneas_nesidsn_np,2491.0,24910000000.0,293058823.5294118
+Special Development Packages,Special package for Bodoland Territorial Council (BTC),r_modonerdn2modoner_cse_cssp_sdp,r_modonerdn2modoner_cse_cssp_sdp_spfbtcb,100.0,1000000000.0,11764705.88235294
+Special Development Packages,Special package for Dima Hasao (DHATC),r_modonerdn2modoner_cse_cssp_sdp,r_modonerdn2modoner_cse_cssp_sdp_spfdhd,100.0,1000000000.0,11764705.88235294
+Special Development Packages,Special package for Karbi Anglong (KAATC),r_modonerdn2modoner_cse_cssp_sdp,r_modonerdn2modoner_cse_cssp_sdp_spfkak,100.0,1000000000.0,11764705.88235294
+Schemes of North East Council,Schemes of North East Council,r_modonerdn2modoner_cse_cssp_sonec,r_modonerdn2modoner_cse_cssp_sonec_sonec,800.0,8000000000.0,94117647.05882353
+Establishment Expenditure of the Centre,Secretariat,r_modonerdn2modoner_cse_eeotc,r_modonerdn2modoner_cse_eeotc_s,31.33,313300000.0,3685882.3529411764
+Other Central Sector Expenditure,Public Sector Undertakings,r_modonerdn2modoner_cse_ocse,r_modonerdn2modoner_cse_ocse_psu,9.67,96700000.0,1137647.0588235294
+Public Sector Undertakings,North Eastern Handicrafts and Handlooms Development Corporation Ltd,r_modonerdn2modoner_cse_ocse_psu,r_modonerdn2modoner_cse_ocse_psu_nehahdcl,2.0,20000000.0,235294.11764705883
+Public Sector Undertakings,North East Regional Agricultural Marketing Corporation,r_modonerdn2modoner_cse_ocse_psu,r_modonerdn2modoner_cse_ocse_psu_neramc,7.67,76700000.0,902352.9411764706

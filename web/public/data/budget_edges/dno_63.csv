@@ -1,0 +1,14 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Jal Shakti
+Demand No. 63
+Department of Drinking Water and Sanitation",r,r_mojsdn6dodwas,77223,772230000000,9085058823.529411
+"Ministry of Jal Shakti
+Demand No. 63
+Department of Drinking Water and Sanitation",CENTRE'S EXPENDITURE,r_mojsdn6dodwas,r_mojsdn6dodwas_cse,31,310000000,3647058.8235294116
+"Ministry of Jal Shakti
+Demand No. 63
+Department of Drinking Water and Sanitation",TRANSFERS TO STATES/UTs,r_mojsdn6dodwas,r_mojsdn6dodwas_ttsu,77192,771920000000,9081411764.705883
+CENTRE'S EXPENDITURE,Secretariat,r_mojsdn6dodwas_cse,r_mojsdn6dodwas_cse_s,31,310000000,3647058.8235294116
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_mojsdn6dodwas_ttsu,r_mojsdn6dodwas_ttsu_css,77192,771920000000,9081411764.705883
+Centrally Sponsored Schemes,Jal Jeevan Mission (JJM)/National Rural Drinking Water Mission,r_mojsdn6dodwas_ttsu_css,r_mojsdn6dodwas_ttsu_css_jjmjnrdwm,70000,700000000000,8235294117.6470585
+Centrally Sponsored Schemes,Swachh Bharat Mission (Gramin),r_mojsdn6dodwas_ttsu_css,r_mojsdn6dodwas_ttsu_css_sbmg,7192,71920000000,846117647.0588236

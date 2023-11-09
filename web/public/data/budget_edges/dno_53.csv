@@ -1,0 +1,28 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Home Affairs
+Demand No. 53
+Ministry of Home Affairs (Chandigarh)",r,r_mohadn5mohac,5436.1,54361000000.0,639541176.4705882
+"Ministry of Home Affairs
+Demand No. 53
+Ministry of Home Affairs (Chandigarh)",CENTRE'S EXPENDITURE,r_mohadn5mohac,r_mohadn5mohac_cse,5436.1,54361000000.0,639541176.4705882
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mohadn5mohac_cse,r_mohadn5mohac_cse_eeotc,2867.16,28671600000.0,337312941.1764706
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mohadn5mohac_cse,r_mohadn5mohac_cse_ocse,2568.94,25689400000.0,302228235.2941176
+Establishment Expenditure of the Centre,Other Establishment,r_mohadn5mohac_cse_eeotc,r_mohadn5mohac_cse_eeotc_oe,2840.29,28402900000.0,334151764.7058824
+Establishment Expenditure of the Centre,Secretariat,r_mohadn5mohac_cse_eeotc,r_mohadn5mohac_cse_eeotc_s,26.87,268700000.0,3161176.470588235
+Other Central Sector Expenditure,Others,r_mohadn5mohac_cse_ocse,r_mohadn5mohac_cse_ocse_o,2568.94,25689400000.0,302228235.2941176
+Others,Grantee / Other Bodies,r_mohadn5mohac_cse_ocse_o,r_mohadn5mohac_cse_ocse_o_gob,987.84,9878400000.0,116216470.58823529
+Others,Schemes of UT,r_mohadn5mohac_cse_ocse_o,r_mohadn5mohac_cse_ocse_o_sou,1566.1,15661000000.0,184247058.82352942
+Others,UT's Supplement to Centrally Sponsored Schemes,r_mohadn5mohac_cse_ocse_o,r_mohadn5mohac_cse_ocse_o_usstcss,15.0,150000000.0,1764705.8823529412
+Schemes of UT,"Art, Culture and Museum",r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_acam,4.05,40500000.0,476470.5882352941
+Schemes of UT,Education,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_e,112.39,1123900000.0,13222352.94117647
+Schemes of UT,"Forests, Wildlife, Ecology and Environment",r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_fweae,36.29,362900000.0,4269411.764705882
+Schemes of UT,Govt- Housing,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_gh,15.83,158300000.0,1862352.9411764706
+Schemes of UT,Health Services,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_hs,69.52,695200000.0,8178823.529411765
+Schemes of UT,Khadi and Village Industries,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_kavi,15.0,150000000.0,1764705.8823529412
+Schemes of UT,Other Schemes,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_os,123.8,1238000000.0,14564705.88235294
+Schemes of UT,Power and Renewable Energy,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_pare,858.75,8587500000.0,101029411.76470588
+Schemes of UT,Police Housing and Allied works,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_phaaw,94.82,948199999.9999999,11155294.117647057
+Schemes of UT,Road and Transport,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_rat,75.55,755500000.0,8888235.294117646
+Schemes of UT,Urban Development,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_ud,101.63,1016300000.0,11956470.588235294
+Schemes of UT,Welfare of Differently Abled and Aged,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_wodaaa,19.34,193400000.0,2275294.117647059
+Schemes of UT,Welfare of Women and Children,r_mohadn5mohac_cse_ocse_o_sou,r_mohadn5mohac_cse_ocse_o_sou_wowac,39.13,391300000.0,4603529.411764706

@@ -1,0 +1,29 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Personnel, Public Grievances and Pensions
+Demand No. 74
+Ministry of Personnel, Public Grievances and Pensions",r,r_moppgapdn7moppgap,2207.7400000000002,22077400000.000004,259734117.64705887
+"Ministry of Personnel, Public Grievances and Pensions
+Demand No. 74
+Ministry of Personnel, Public Grievances and Pensions",CENTRE'S EXPENDITURE,r_moppgapdn7moppgap,r_moppgapdn7moppgap_cse,2207.7400000000002,22077400000.000004,259734117.64705887
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_moppgapdn7moppgap_cse,r_moppgapdn7moppgap_cse_cssp,226.75,2267500000.0,26676470.588235293
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_moppgapdn7moppgap_cse,r_moppgapdn7moppgap_cse_eeotc,1909.39,19093900000.0,224634117.6470588
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_moppgapdn7moppgap_cse,r_moppgapdn7moppgap_cse_ocse,71.6,716000000.0,8423529.411764706
+Central Sector Schemes/Projects,Integrated Building for Institute of Secretariat Training and Management (ISTM) and other Institute of Department of Personnel and Training (DoPT),r_moppgapdn7moppgap_cse_cssp,r_moppgapdn7moppgap_cse_cssp_ibfiostamiaoiodopatd,20.0,200000000.0,2352941.1764705884
+Central Sector Schemes/Projects,National Programme for Civil Services Capacity Building,r_moppgapdn7moppgap_cse_cssp,r_moppgapdn7moppgap_cse_cssp_npfcscb,105.69,1056900000.0,12434117.647058824
+Central Sector Schemes/Projects,Pensioner's Portal,r_moppgapdn7moppgap_cse_cssp,r_moppgapdn7moppgap_cse_cssp_psp,3.5,35000000.0,411764.70588235295
+Central Sector Schemes/Projects,Scheme for Administrative Reforms,r_moppgapdn7moppgap_cse_cssp,r_moppgapdn7moppgap_cse_cssp_sfar,21.75,217500000.0,2558823.529411765
+Central Sector Schemes/Projects,Training Schemes,r_moppgapdn7moppgap_cse_cssp,r_moppgapdn7moppgap_cse_cssp_ts,75.81,758100000.0,8918823.529411765
+Establishment Expenditure of the Centre,Attached and Subordinate Offices,r_moppgapdn7moppgap_cse_eeotc,r_moppgapdn7moppgap_cse_eeotc_aaso,1722.99,17229900000.0,202704705.88235295
+Establishment Expenditure of the Centre,Loans to All India Service(AIS) Officers,r_moppgapdn7moppgap_cse_eeotc,r_moppgapdn7moppgap_cse_eeotc_ltaisao,2.0,20000000.0,235294.11764705883
+Establishment Expenditure of the Centre,Secretariat,r_moppgapdn7moppgap_cse_eeotc,r_moppgapdn7moppgap_cse_eeotc_s,184.4,1844000000.0,21694117.647058822
+Attached and Subordinate Offices,Central Administrative Tribunal,r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_cat,163.42,1634199999.9999998,19225882.352941174
+Attached and Subordinate Offices,Central Bureau of Investigation,r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_cboi,946.51,9465100000.0,111354117.64705883
+Attached and Subordinate Offices,Central Information Commission(CIC) and Public Enterprises Selection Board(PESB),r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_ciccapesbp,32.46,324600000.0,3818823.529411765
+Attached and Subordinate Offices,Lokpal,r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_l,92.0,920000000.0,10823529.411764706
+Attached and Subordinate Offices,Staff Selection Commission,r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_ssc,399.73,3997300000.0,47027058.823529415
+Attached and Subordinate Offices,"Training Division, Institute of Secretariat Training & Management(ISTM) and Lal Bahadur Shastri National Academy of Administration(LBSNAA)",r_moppgapdn7moppgap_cse_eeotc_aaso,r_moppgapdn7moppgap_cse_eeotc_aaso_tdiostmialbsnaoal,88.87,888700000.0,10455294.11764706
+Other Central Sector Expenditure,Autonomous Bodies,r_moppgapdn7moppgap_cse_ocse,r_moppgapdn7moppgap_cse_ocse_ab,68.6,686000000.0,8070588.235294118
+Other Central Sector Expenditure,Others,r_moppgapdn7moppgap_cse_ocse,r_moppgapdn7moppgap_cse_ocse_o,3.0,30000000.0,352941.17647058825
+Autonomous Bodies,Autonomous Bodies of DoPT,r_moppgapdn7moppgap_cse_ocse_ab,r_moppgapdn7moppgap_cse_ocse_ab_abod,14.1,141000000.0,1658823.5294117648
+Autonomous Bodies,Indian Institute of Public Administration (IIPA) and National Centre for Good Governance(NCGG),r_moppgapdn7moppgap_cse_ocse_ab,r_moppgapdn7moppgap_cse_ocse_ab_iiopaiancfggn,54.5,545000000.0,6411764.705882353
+Others,Right to Information( RTI),r_moppgapdn7moppgap_cse_ocse_o,r_moppgapdn7moppgap_cse_ocse_o_rtir,3.0,30000000.0,352941.17647058825

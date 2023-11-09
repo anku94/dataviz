@@ -1,0 +1,30 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Consumer Affairs, Food and Public Distribution
+Demand No. 15
+Department of Food and Public Distribution",r,r_mocafapddn1dofapd,205400.67,2054006700000.0002,24164784705.882355
+"Ministry of Consumer Affairs, Food and Public Distribution
+Demand No. 15
+Department of Food and Public Distribution",CENTRE'S EXPENDITURE,r_mocafapddn1dofapd,r_mocafapddn1dofapd_cse,197976.07,1979760700000.0,23291302352.941177
+"Ministry of Consumer Affairs, Food and Public Distribution
+Demand No. 15
+Department of Food and Public Distribution",TRANSFERS TO STATES/UTs,r_mocafapddn1dofapd,r_mocafapddn1dofapd_ttsu,7424.6,74246000000.0,873482352.9411764
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocafapddn1dofapd_cse,r_mocafapddn1dofapd_cse_cssp,197868.57,1978685700000.0,23278655294.117645
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocafapddn1dofapd_cse,r_mocafapddn1dofapd_cse_ocse,26.01,260100000.00000003,3060000.0000000005
+CENTRE'S EXPENDITURE,"Other Establishment Expenditure of Food, Storage and Warehousing",r_mocafapddn1dofapd_cse,r_mocafapddn1dofapd_cse_oeeofsaw,81.49,814900000.0,9587058.823529411
+Central Sector Schemes/Projects,Development of Sugar Industry,r_mocafapddn1dofapd_cse_cssp,r_mocafapddn1dofapd_cse_cssp_dosi,118.57,1185700000.0,13949411.764705881
+Central Sector Schemes/Projects,Food Subsidy,r_mocafapddn1dofapd_cse_cssp,r_mocafapddn1dofapd_cse_cssp_fs,197350.0,1973500000000.0,23217647058.82353
+Central Sector Schemes/Projects,Scheme for extending financial assistance to sugar mills for enhancement and augmentation of ethanol production capacity,r_mocafapddn1dofapd_cse_cssp,r_mocafapddn1dofapd_cse_cssp_sfefatsmfeaaoepc,400.0,4000000000.0,47058823.52941176
+Development of Sugar Industry,Storage and Godowns,r_mocafapddn1dofapd_cse_cssp_dosi,r_mocafapddn1dofapd_cse_cssp_dosi_sag,103.57,1035699999.9999999,12184705.882352939
+Development of Sugar Industry,Schemes for Development of Sugar Industries,r_mocafapddn1dofapd_cse_cssp_dosi,r_mocafapddn1dofapd_cse_cssp_dosi_sfdosi,10.0,100000000.0,1176470.5882352942
+Development of Sugar Industry,Strengthening of PDS Operations,r_mocafapddn1dofapd_cse_cssp_dosi,r_mocafapddn1dofapd_cse_cssp_dosi_sopo,5.0,50000000.0,588235.2941176471
+Schemes for Development of Sugar Industries,Financial Assistance to Sugar Undertakings/Other Expenditure,r_mocafapddn1dofapd_cse_cssp_dosi_sfdosi,r_mocafapddn1dofapd_cse_cssp_dosi_sfdosi_fatsuoe,10.0,100000000.0,1176470.5882352942
+Food Subsidy,Food Subsidy for Decentralized Procurement of Foodgrains under NFSA,r_mocafapddn1dofapd_cse_cssp_fs,r_mocafapddn1dofapd_cse_cssp_fs_fsfdpofun,59793.0,597930000000.0,7034470588.235294
+Food Subsidy,Food Subsidy  to Food Corporation of India under National Food Security Act.,r_mocafapddn1dofapd_cse_cssp_fs,r_mocafapddn1dofapd_cse_cssp_fs_fstfcoiunfsa,137207.0,1372070000000.0,16142000000.0
+Food Subsidy,Sugar Subsidy payable under Public Distribution System,r_mocafapddn1dofapd_cse_cssp_fs,r_mocafapddn1dofapd_cse_cssp_fs_sspupds,350.0,3500000000.0,41176470.5882353
+Other Central Sector Expenditure,Autonomous Bodies,r_mocafapddn1dofapd_cse_ocse,r_mocafapddn1dofapd_cse_ocse_ab,22.0,220000000.0,2588235.294117647
+Other Central Sector Expenditure,Others,r_mocafapddn1dofapd_cse_ocse,r_mocafapddn1dofapd_cse_ocse_o,4.01,40100000.0,471764.70588235295
+Autonomous Bodies,Warehousing Development and Regulatory Authority,r_mocafapddn1dofapd_cse_ocse_ab,r_mocafapddn1dofapd_cse_ocse_ab_wdara,22.0,220000000.0,2588235.294117647
+Others,Generating Awareness amongst TPDS beneficiaries,r_mocafapddn1dofapd_cse_ocse_o,r_mocafapddn1dofapd_cse_ocse_o_gaatb,3.67,36700000.0,431764.70588235295
+Others,"PDS-Evaluation, Monitoring & Research",r_mocafapddn1dofapd_cse_ocse_o,r_mocafapddn1dofapd_cse_ocse_o_pemr,0.34,3400000.0000000005,40000.00000000001
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_mocafapddn1dofapd_ttsu,r_mocafapddn1dofapd_ttsu_css,7424.6,74246000000.0,873482352.9411764
+Centrally Sponsored Schemes,Assistance to States Agencies for Intra-State Movement of Foodgrains and FPS Dealers Margin under NFSA,r_mocafapddn1dofapd_ttsu_css,r_mocafapddn1dofapd_ttsu_css_atsafismofafdmun,7424.6,74246000000.0,873482352.9411764

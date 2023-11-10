@@ -1,0 +1,9 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President
+Demand No. 83
+Secretariat of the Vice-President",r,r_tppupscatsotvpdn8sotvp,9.31,93100000.0,1095294.1176470588
+"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President
+Demand No. 83
+Secretariat of the Vice-President",CENTRE'S EXPENDITURE,r_tppupscatsotvpdn8sotvp,r_tppupscatsotvpdn8sotvp_cse,9.31,93100000.0,1095294.1176470588
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_tppupscatsotvpdn8sotvp_cse,r_tppupscatsotvpdn8sotvp_cse_eeotc,9.31,93100000.0,1095294.1176470588
+Establishment Expenditure of the Centre,Secretariat,r_tppupscatsotvpdn8sotvp_cse_eeotc,r_tppupscatsotvpdn8sotvp_cse_eeotc_s,9.23,92300000.0,1085882.3529411764

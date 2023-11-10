@@ -1,0 +1,10 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President
+Demand No. 84
+Union Public Service Commission",r,r_tppupscatsotvpdn8upsc,380.0,3800000000.0,44705882.35294118
+"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President
+Demand No. 84
+Union Public Service Commission",CENTRE'S EXPENDITURE,r_tppupscatsotvpdn8upsc,r_tppupscatsotvpdn8upsc_cse,380.0,3800000000.0,44705882.35294118
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_tppupscatsotvpdn8upsc_cse,r_tppupscatsotvpdn8upsc_cse_eeotc,380.0,3800000000.0,44705882.35294118
+Establishment Expenditure of the Centre,Administrative Expenditure,r_tppupscatsotvpdn8upsc_cse_eeotc,r_tppupscatsotvpdn8upsc_cse_eeotc_ae,208.44,2084400000.0,24522352.94117647
+Establishment Expenditure of the Centre,Examinations and Selections,r_tppupscatsotvpdn8upsc_cse_eeotc,r_tppupscatsotvpdn8upsc_cse_eeotc_eas,171.56,1715600000.0,20183529.411764707

@@ -1,0 +1,15 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 41
+Pensions",r,r_mofdn4p,71701.0,717010000000.0,8435411764.705882
+"Ministry of Finance
+Demand No. 41
+Pensions",CENTRE'S EXPENDITURE,r_mofdn4p,r_mofdn4p_cse,71701.0,717010000000.0,8435411764.705882
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn4p_cse,r_mofdn4p_cse_eeotc,71701.0,717010000000.0,8435411764.705882
+Establishment Expenditure of the Centre,Pensions and other Retirement Benefits,r_mofdn4p_cse_eeotc,r_mofdn4p_cse_eeotc_paorb,68356.25,683562500000.0,8041911764.705882
+Establishment Expenditure of the Centre,Pensionary charges of Government of National Capital Territory (NCT) of Delhi,r_mofdn4p_cse_eeotc,r_mofdn4p_cse_eeotc_pcogonctnod,3301.35,33013500000.0,388394117.64705884
+Establishment Expenditure of the Centre,Social Security and Welfare,r_mofdn4p_cse_eeotc,r_mofdn4p_cse_eeotc_ssaw,43.4,434000000.0,5105882.352941177
+Social Security and Welfare,Central Government Employees Insurance Scheme,r_mofdn4p_cse_eeotc_ssaw,r_mofdn4p_cse_eeotc_ssaw_cgeis,1.0,10000000.0,117647.05882352941
+Social Security and Welfare,Deposit Linked Insurance Scheme,r_mofdn4p_cse_eeotc_ssaw,r_mofdn4p_cse_eeotc_ssaw_dlis,40.1,401000000.0,4717647.05882353
+Social Security and Welfare,Deposit Linked Insurance Scheme Payable to employees of Government of NCT Delhi,r_mofdn4p_cse_eeotc_ssaw,r_mofdn4p_cse_eeotc_ssaw_dlispteogond,1.7,17000000.0,200000.0
+Social Security and Welfare,Others,r_mofdn4p_cse_eeotc_ssaw,r_mofdn4p_cse_eeotc_ssaw_o,0.6,6000000.0,70588.23529411765

@@ -1,0 +1,24 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Civil Aviation
+Demand No. 8
+Ministry of Civil Aviation",r,r_mocadn8moca,3113.3599999999997,31133599999.999996,366277647.05882347
+"Ministry of Civil Aviation
+Demand No. 8
+Ministry of Civil Aviation",CENTRE'S EXPENDITURE,r_mocadn8moca,r_mocadn8moca_cse,3113.3599999999997,31133599999.999996,366277647.05882347
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocadn8moca_cse,r_mocadn8moca_cse_cssp,1277.09,12770900000.0,150245882.3529412
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocadn8moca_cse,r_mocadn8moca_cse_eeotc,641.76,6417600000.0,75501176.47058824
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocadn8moca_cse,r_mocadn8moca_cse_ocse,1194.51,11945100000.0,140530588.2352941
+Central Sector Schemes/Projects,Production Linked Incentive (PLI) Scheme for Drone and Drone Component,r_mocadn8moca_cse_cssp,r_mocadn8moca_cse_cssp_plipsfdadc,33.0,330000000.0,3882352.9411764704
+Central Sector Schemes/Projects,Regional Connectivity Scheme,r_mocadn8moca_cse_cssp,r_mocadn8moca_cse_cssp_rcs,1244.07,12440700000.0,146361176.47058824
+Establishment Expenditure of the Centre,Bureau of Civil Aviation Security,r_mocadn8moca_cse_eeotc,r_mocadn8moca_cse_eeotc_bocas,110.0,1100000000.0,12941176.470588235
+Establishment Expenditure of the Centre,Commissioner for Railway Safety,r_mocadn8moca_cse_eeotc,r_mocadn8moca_cse_eeotc_cfrs,19.0,190000000.0,2235294.117647059
+Establishment Expenditure of the Centre,Directorate General of Civil Aviation,r_mocadn8moca_cse_eeotc,r_mocadn8moca_cse_eeotc_dgoca,309.0,3090000000.0,36352941.176470585
+Establishment Expenditure of the Centre,Providing Medical Benefit to Retired Employees of Air India,r_mocadn8moca_cse_eeotc,r_mocadn8moca_cse_eeotc_pmbtreoai,130.0,1300000000.0,15294117.647058824
+Establishment Expenditure of the Centre,Secretariat,r_mocadn8moca_cse_eeotc,r_mocadn8moca_cse_eeotc_s,73.74,737400000.0,8675294.11764706
+Commissioner for Railway Safety,Commissioner for Railway Safety,r_mocadn8moca_cse_eeotc_cfrs,r_mocadn8moca_cse_eeotc_cfrs_cfrs,19.0,190000000.0,2235294.117647059
+Other Central Sector Expenditure,Autonomous Bodies,r_mocadn8moca_cse_ocse,r_mocadn8moca_cse_ocse_ab,20.02,200200000.0,2355294.117647059
+Other Central Sector Expenditure,Public Sector Undertakings,r_mocadn8moca_cse_ocse,r_mocadn8moca_cse_ocse_psu,1174.49,11744900000.0,138175294.11764705
+Autonomous Bodies,Airports Economic Regulatory Authority,r_mocadn8moca_cse_ocse_ab,r_mocadn8moca_cse_ocse_ab_aera,13.0,130000000.0,1529411.7647058824
+Autonomous Bodies,Indira Gandhi Rashtriya Udaan Academy and National Aviation University,r_mocadn8moca_cse_ocse_ab,r_mocadn8moca_cse_ocse_ab_igruaanau,7.02,70200000.0,825882.3529411765
+Public Sector Undertakings,Airports Authority of India,r_mocadn8moca_cse_ocse_psu,r_mocadn8moca_cse_ocse_psu_aaoi,30.0,300000000.0,3529411.7647058824
+Public Sector Undertakings,Air India Asset Holding Limited(SPV),r_mocadn8moca_cse_ocse_psu,r_mocadn8moca_cse_ocse_psu_aiahls,1144.49,11444900000.0,134645882.3529412

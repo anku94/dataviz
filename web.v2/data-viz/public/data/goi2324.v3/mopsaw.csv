@@ -1,0 +1,25 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,"Ministry of Ports, Shipping and Waterways",,mopsaw,2218.74,22187399999.999996,261028235.2941176
+1,"Ministry of Ports, Shipping and Waterways","Ministry of Ports, Shipping and Waterways",mopsaw,mopsaw_mopsaw,2218.74,22187399999.999996,261028235.2941176
+2,"Ministry of Ports, Shipping and Waterways",CENTRE'S EXPENDITURE,mopsaw_mopsaw,mopsaw_mopsaw_cse,2218.74,22187399999.999996,261028235.2941176
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mopsaw_mopsaw_cse,mopsaw_mopsaw_cse_cssp,578.03,5780300000.0,68003529.41176471
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mopsaw_mopsaw_cse,mopsaw_mopsaw_cse_eeotc,80.0,800000000.0,9411764.705882354
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mopsaw_mopsaw_cse,mopsaw_mopsaw_cse_ocse,1560.71,15607100000.0,183612941.17647058
+6,Central Sector Schemes/Projects,Development of Ports,mopsaw_mopsaw_cse_cssp,mopsaw_mopsaw_cse_cssp_dop,1.03,10300000.0,121176.4705882353
+7,Central Sector Schemes/Projects,Inland Water Transport,mopsaw_mopsaw_cse_cssp,mopsaw_mopsaw_cse_cssp_iwt,15.0,150000000.0,1764705.8823529412
+8,Central Sector Schemes/Projects,Sagarmala,mopsaw_mopsaw_cse_cssp,mopsaw_mopsaw_cse_cssp_s,450.0,4500000000.0,52941176.47058824
+9,Central Sector Schemes/Projects,Shipping and Ship Building,mopsaw_mopsaw_cse_cssp,mopsaw_mopsaw_cse_cssp_sasb,112.0,1120000000.0,13176470.588235294
+10,Development of Ports,Research and Development (Ports),mopsaw_mopsaw_cse_cssp_dop,mopsaw_mopsaw_cse_cssp_dop_radp,1.03,10300000.0,121176.4705882353
+11,Inland Water Transport,Grants to Inland Water Transport Authority of India,mopsaw_mopsaw_cse_cssp_iwt,mopsaw_mopsaw_cse_cssp_iwt_gtiwtaoi,15.0,150000000.0,1764705.8823529412
+12,Shipping and Ship Building,"Assistance to Ship Building, Research and Development",mopsaw_mopsaw_cse_cssp_sasb,mopsaw_mopsaw_cse_cssp_sasb_atsbrad,112.0,1120000000.0,13176470.588235294
+13,Establishment Expenditure of the Centre,Secretariat,mopsaw_mopsaw_cse_eeotc,mopsaw_mopsaw_cse_eeotc_s,80.0,800000000.0,9411764.705882354
+14,Other Central Sector Expenditure,Autonomous Bodies,mopsaw_mopsaw_cse_ocse,mopsaw_mopsaw_cse_ocse_ab,1410.54,14105400000.0,165945882.3529412
+15,Other Central Sector Expenditure,Others,mopsaw_mopsaw_cse_ocse,mopsaw_mopsaw_cse_ocse_o,145.17,1451699999.9999998,17078823.529411763
+16,Other Central Sector Expenditure,Public Sector Undertakings,mopsaw_mopsaw_cse_ocse,mopsaw_mopsaw_cse_ocse_psu,5.0,50000000.0,588235.2941176471
+17,Autonomous Bodies,Development of Minor Ports,mopsaw_mopsaw_cse_ocse_ab,mopsaw_mopsaw_cse_ocse_ab_domp,69.63,696300000.0,8191764.705882353
+18,Autonomous Bodies,Indian Maritime University,mopsaw_mopsaw_cse_ocse_ab,mopsaw_mopsaw_cse_ocse_ab_imu,87.85,878500000.0,10335294.11764706
+19,Autonomous Bodies,Inland Water Transport Authority of India,mopsaw_mopsaw_cse_ocse_ab,mopsaw_mopsaw_cse_ocse_ab_iwtaoi,992.46,9924600000.0,116760000.0
+20,Autonomous Bodies,Kolkata Port Trust,mopsaw_mopsaw_cse_ocse_ab,mopsaw_mopsaw_cse_ocse_ab_kpt,250.1,2501000000.0,29423529.411764707
+21,Autonomous Bodies,Tariff Authority for Major Ports,mopsaw_mopsaw_cse_ocse_ab,mopsaw_mopsaw_cse_ocse_ab_tafmp,10.5,105000000.0,1235294.1176470588
+22,Others,Directorate General of Shipping,mopsaw_mopsaw_cse_ocse_o,mopsaw_mopsaw_cse_ocse_o_dgos,145.17,1451699999.9999998,17078823.529411763
+23,Public Sector Undertakings,Shipping Corporation of India,mopsaw_mopsaw_cse_ocse_psu,mopsaw_mopsaw_cse_ocse_psu_scoi,5.0,50000000.0,588235.2941176471

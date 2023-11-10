@@ -1,0 +1,26 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Labour and Employment,,molae,13100.77,131007700000.0,1541267058.8235295
+1,Ministry of Labour and Employment,Ministry of Labour and Employment,molae,molae_molae,13100.77,131007700000.0,1541267058.8235295
+2,Ministry of Labour and Employment,CENTRE'S EXPENDITURE,molae_molae,molae_molae_cse,13100.77,131007700000.0,1541267058.8235295
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,molae_molae_cse,molae_molae_cse_cssp,12434.82,124348200000.0,1462920000.0
+4,CENTRE'S EXPENDITURE,Directorate General of Employment,molae_molae_cse,molae_molae_cse_dgoe,70.22,702200000.0,8261176.470588235
+5,CENTRE'S EXPENDITURE,Direcorate General of Factory Advice Services (DGFASLI),molae_molae_cse,molae_molae_cse_dgofasd,39.1,391000000.0,4600000.0
+6,CENTRE'S EXPENDITURE,Directorate General of Labour Welfare Scheme,molae_molae_cse,molae_molae_cse_dgolws,175.78,1757800000.0,20680000.0
+7,CENTRE'S EXPENDITURE,Directorate General of Mines Safety (DGMS),molae_molae_cse,molae_molae_cse_dgomsd,109.08,1090800000.0,12832941.176470589
+8,CENTRE'S EXPENDITURE,International Cooperation,molae_molae_cse,molae_molae_cse_ic,27.0,270000000.0,3176470.588235294
+9,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,molae_molae_cse,molae_molae_cse_ocse,127.0,1270000000.0,14941176.470588235
+10,CENTRE'S EXPENDITURE,"Other Expenditure related to Chief Labour Commissioner,Central Government Industrial Tribunal, Research and Information Technology",molae_molae_cse,molae_molae_cse_oertclccgitrait,117.77,1177700000.0,13855294.11764706
+11,Central Sector Schemes/Projects,"Coaching and Guidance for SC,ST and Other Backward Classes",molae_molae_cse_cssp,molae_molae_cse_cssp_cagfssaobc,25.0,250000000.0,2941176.470588235
+12,Central Sector Schemes/Projects,Labour Welfare Scheme,molae_molae_cse_cssp,molae_molae_cse_cssp_lws,75.0,750000000.0,8823529.411764706
+13,Central Sector Schemes/Projects,National Child Labour Project including grants in aid to voluntary agencies and reimbursement of assistance to bonded labour,molae_molae_cse_cssp,molae_molae_cse_cssp_nclpigiatvaaroatbl,20.0,200000000.0,2352941.1764705884
+14,Central Sector Schemes/Projects,National Career Services,molae_molae_cse_cssp,molae_molae_cse_cssp_ncs,52.0,520000000.0,6117647.05882353
+15,Central Sector Schemes/Projects,Social Security Schemes for Workers,molae_molae_cse_cssp,molae_molae_cse_cssp_sssfw,12152.82,121528200000.0,1429743529.4117646
+16,Social Security Schemes for Workers,Aatmanirbhar Bharat Rojgar Yojana,molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_abry,2272.82,22728200000.0,267390588.2352941
+17,Social Security Schemes for Workers,"Employees Pension Scheme, 1995",molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_eps1,9167.0,91670000000.0,1078470588.235294
+18,Social Security Schemes for Workers,National database for Unorganized Workers,molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_ndfuw,300.0,3000000000.0,35294117.64705882
+19,Social Security Schemes for Workers,Pradhan Mantri Karam Yogi Maandhan,molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_pmkym,3.0,30000000.0,352941.17647058825
+20,Social Security Schemes for Workers,Pradhan Mantri Shram Yogi Maandhan,molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_pmsym,350.0,3500000000.0,41176470.5882353
+21,Social Security Schemes for Workers,Social Security for Plantation Workers in Assam,molae_molae_cse_cssp_sssfw,molae_molae_cse_cssp_sssfw_ssfpwia,60.0,600000000.0,7058823.529411765
+22,Other Central Sector Expenditure,Autonomous Bodies,molae_molae_cse_ocse,molae_molae_cse_ocse_ab,127.0,1270000000.0,14941176.470588235
+23,Autonomous Bodies,Dattopant Thengadi National Board for Workers Education and Development,molae_molae_cse_ocse_ab,molae_molae_cse_ocse_ab_dtnbfwead,113.1,1131000000.0,13305882.352941176
+24,Autonomous Bodies,National Labour Institute,molae_molae_cse_ocse_ab,molae_molae_cse_ocse_ab_nli,13.9,139000000.0,1635294.1176470588

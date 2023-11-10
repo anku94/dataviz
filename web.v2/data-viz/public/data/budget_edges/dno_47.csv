@@ -1,0 +1,18 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Health and Family Welfare
+Demand No. 47
+Department of Health Research",r,r_mohafwdn4dohr,2980.0,29800000000.0,350588235.2941176
+"Ministry of Health and Family Welfare
+Demand No. 47
+Department of Health Research",CENTRE'S EXPENDITURE,r_mohafwdn4dohr,r_mohafwdn4dohr_cse,2980.0,29800000000.0,350588235.2941176
+CENTRE'S EXPENDITURE,Autonomous Bodies,r_mohafwdn4dohr_cse,r_mohafwdn4dohr_cse_ab,2359.58,23595800000.0,277597647.0588235
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mohafwdn4dohr_cse,r_mohafwdn4dohr_cse_cssp,566.42,5664200000.0,66637647.058823526
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mohafwdn4dohr_cse,r_mohafwdn4dohr_cse_eeotc,54.0,540000000.0,6352941.176470588
+Autonomous Bodies,"Indian Council of Medical Research, New Delhi",r_mohafwdn4dohr_cse_ab,r_mohafwdn4dohr_cse_ab_icomrnd,2359.58,23595800000.0,277597647.0588235
+Central Sector Schemes/Projects,Human Resource and Capacity Development,r_mohafwdn4dohr_cse_cssp,r_mohafwdn4dohr_cse_cssp_hracd,92.06,920600000.0,10830588.235294119
+Central Sector Schemes/Projects,Infrastructure Development for Health Research,r_mohafwdn4dohr_cse_cssp,r_mohafwdn4dohr_cse_cssp_idfhr,150.0,1500000000.0,17647058.82352941
+Central Sector Schemes/Projects,Prime Minister's Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)-Bio Security Preparedness and strengthening Pandemic Research and Multi Sector and National Institutions and Platform for One Health,r_mohafwdn4dohr_cse_cssp,r_mohafwdn4dohr_cse_cssp_pmsabhimpabspaspramsaniapfoh,324.36,3243600000.0,38160000.0
+Infrastructure Development for Health Research,Development of Infrastructure for Promotion of Health Research,r_mohafwdn4dohr_cse_cssp_idfhr,r_mohafwdn4dohr_cse_cssp_idfhr_doifpohr,80.0,800000000.0,9411764.705882354
+Infrastructure Development for Health Research,Development of tools/support to prevent outbreaks of epidemics,r_mohafwdn4dohr_cse_cssp_idfhr,r_mohafwdn4dohr_cse_cssp_idfhr_dotstpooe,10.0,100000000.0,1176470.5882352942
+Infrastructure Development for Health Research,Setting up of nation wide network of laboratories for managing epidemics and national calamities,r_mohafwdn4dohr_cse_cssp_idfhr,r_mohafwdn4dohr_cse_cssp_idfhr_suonwnolfmeanc,60.0,600000000.0,7058823.529411765
+Establishment Expenditure of the Centre,Secretariat,r_mohafwdn4dohr_cse_eeotc,r_mohafwdn4dohr_cse_eeotc_s,54.0,540000000.0,6352941.176470588

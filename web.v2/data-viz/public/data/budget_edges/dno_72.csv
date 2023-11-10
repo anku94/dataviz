@@ -1,0 +1,15 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Panchayati Raj
+Demand No. 72
+Ministry of Panchayati Raj",r,r_moprdn7mopr,971,9710000000,114235294.11764705
+"Ministry of Panchayati Raj
+Demand No. 72
+Ministry of Panchayati Raj",CENTRE'S EXPENDITURE,r_moprdn7mopr,r_moprdn7mopr_cse,76,760000000,8941176.470588235
+"Ministry of Panchayati Raj
+Demand No. 72
+Ministry of Panchayati Raj",TRANSFERS TO STATES/UTs,r_moprdn7mopr,r_moprdn7mopr_ttsu,895,8950000000,105294117.64705883
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_moprdn7mopr_cse,r_moprdn7mopr_cse_cssp,76,760000000,8941176.470588235
+Central Sector Schemes/Projects,Svamitva,r_moprdn7mopr_cse_cssp,r_moprdn7mopr_cse_cssp_s,76,760000000,8941176.470588235
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_moprdn7mopr_ttsu,r_moprdn7mopr_ttsu_css,895,8950000000,105294117.64705883
+Centrally Sponsored Schemes,Rashtriya Gram Swaraj Abhiyan(RGSA),r_moprdn7mopr_ttsu_css,r_moprdn7mopr_ttsu_css_rgsar,895,8950000000,105294117.64705883
+Rashtriya Gram Swaraj Abhiyan(RGSA),Rashtriya Gram Swaraj Abhiyan (RGSA),r_moprdn7mopr_ttsu_css_rgsar,r_moprdn7mopr_ttsu_css_rgsar_rgsar,895,8950000000,105294117.64705883

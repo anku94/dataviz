@@ -1,0 +1,13 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 33
+Department of Public Enterprises",r,r_mofdn3dope,33.05,330500000.0,3888235.294117647
+"Ministry of Finance
+Demand No. 33
+Department of Public Enterprises",CENTRE'S EXPENDITURE,r_mofdn3dope,r_mofdn3dope_cse,33.05,330500000.0,3888235.294117647
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mofdn3dope_cse,r_mofdn3dope_cse_cssp,9.91,99100000.0,1165882.3529411764
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn3dope_cse,r_mofdn3dope_cse_eeotc,23.14,231400000.0,2722352.9411764704
+Central Sector Schemes/Projects,"Counselling, Retraining and Redeployment (CRR) Scheme for rationalised employees of CPSEs",r_mofdn3dope_cse_cssp,r_mofdn3dope_cse_cssp_crarcsfreoc,9.91,99100000.0,1165882.3529411764
+"Counselling, Retraining and Redeployment (CRR) Scheme for rationalised employees of CPSEs","Counselling, Retraining and Redeployment (CRR) Scheme",r_mofdn3dope_cse_cssp_crarcsfreoc,r_mofdn3dope_cse_cssp_crarcsfreoc_crarcs,3.4,34000000.0,400000.0
+"Counselling, Retraining and Redeployment (CRR) Scheme for rationalised employees of CPSEs","Research, Development and Consultancy on generic issues related to CPSEs and State Level Public Enterprises",r_mofdn3dope_cse_cssp_crarcsfreoc,r_mofdn3dope_cse_cssp_crarcsfreoc_rdacogirtcaslpe,6.51,65100000.0,765882.3529411765
+Establishment Expenditure of the Centre,Secretariat- Economic Services,r_mofdn3dope_cse_eeotc,r_mofdn3dope_cse_eeotc_ses,23.14,231400000.0,2722352.9411764704

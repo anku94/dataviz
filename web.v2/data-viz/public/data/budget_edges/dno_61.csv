@@ -1,0 +1,17 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Information and Broadcasting
+Demand No. 61
+Ministry of Information and Broadcasting",r,r_moiabdn6moiab,4267.25,42672500000.0,502029411.7647059
+"Ministry of Information and Broadcasting
+Demand No. 61
+Ministry of Information and Broadcasting",CENTRE'S EXPENDITURE,r_moiabdn6moiab,r_moiabdn6moiab_cse,4267.25,42672500000.0,502029411.7647059
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_moiabdn6moiab_cse,r_moiabdn6moiab_cse_cssp,1105.0,11050000000.0,130000000.0
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_moiabdn6moiab_cse,r_moiabdn6moiab_cse_eeotc,110.75,1107500000.0,13029411.764705881
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_moiabdn6moiab_cse,r_moiabdn6moiab_cse_ocse,3051.5,30515000000.0,359000000.0
+Central Sector Schemes/Projects,Broadcasting Infrastructure Network Development,r_moiabdn6moiab_cse_cssp,r_moiabdn6moiab_cse_cssp_bind,600.0,6000000000.0,70588235.29411764
+Central Sector Schemes/Projects,Development Communication and Dissemination of Filmic Content,r_moiabdn6moiab_cse_cssp,r_moiabdn6moiab_cse_cssp_dcadofc,300.0,3000000000.0,35294117.64705882
+Central Sector Schemes/Projects,Development Communication and Information Dissemination,r_moiabdn6moiab_cse_cssp,r_moiabdn6moiab_cse_cssp_dcaid,200.0,2000000000.0,23529411.76470588
+Central Sector Schemes/Projects,Supporting Community Radio Movement in India,r_moiabdn6moiab_cse_cssp,r_moiabdn6moiab_cse_cssp_scrmii,5.0,50000000.0,588235.2941176471
+Other Central Sector Expenditure,Autonomous Bodies,r_moiabdn6moiab_cse_ocse,r_moiabdn6moiab_cse_ocse_ab,2808.36,28083600000.0,330395294.11764705
+Other Central Sector Expenditure,Public Sector Undertakings,r_moiabdn6moiab_cse_ocse,r_moiabdn6moiab_cse_ocse_psu,20.38,203800000.0,2397647.0588235296
+Public Sector Undertakings,National Film Development Corporation (NFDC),r_moiabdn6moiab_cse_ocse_psu,r_moiabdn6moiab_cse_ocse_psu_nfdcn,20.38,203800000.0,2397647.0588235296

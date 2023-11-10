@@ -1,0 +1,43 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Electronics and Information Technology
+Demand No. 27
+Ministry of Electronics and Information Technology",r,r_moeaitdn2moeait,16549.04,165490400000.0,1946945882.3529413
+"Ministry of Electronics and Information Technology
+Demand No. 27
+Ministry of Electronics and Information Technology",CENTRE'S EXPENDITURE,r_moeaitdn2moeait,r_moeaitdn2moeait_cse,16549.04,165490400000.0,1946945882.3529413
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_moeaitdn2moeait_cse,r_moeaitdn2moeait_cse_cssp,12440.28,124402800000.0,1463562352.9411764
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_moeaitdn2moeait_cse,r_moeaitdn2moeait_cse_eeotc,2040.76,20407600000.0,240089411.7647059
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_moeaitdn2moeait_cse,r_moeaitdn2moeait_cse_ocse,2068.0,20680000000.0,243294117.6470588
+Central Sector Schemes/Projects,DIGITAL INDIA Program,r_moeaitdn2moeait_cse_cssp,r_moeaitdn2moeait_cse_cssp_dip,4795.24,47952400000.0,564145882.3529412
+Central Sector Schemes/Projects,Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India,r_moeaitdn2moeait_cse_cssp,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii,3000.0,30000000000.0,352941176.4705882
+Central Sector Schemes/Projects,Production Linked Incentive Scheme (PLI),r_moeaitdn2moeait_cse_cssp,r_moeaitdn2moeait_cse_cssp_plisp,4645.04,46450400000.0,546475294.117647
+DIGITAL INDIA Program,Capacity Building and Skill Development Scheme,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_cbasds,537.5,5375000000.0,63235294.11764706
+DIGITAL INDIA Program,Cyber Security Projects,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_csp,400.0,4000000000.0,47058823.52941176
+DIGITAL INDIA Program,Electronic Governance,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_eg,555.74,5557400000.0,65381176.47058824
+DIGITAL INDIA Program,National Knowledge Network,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_nkn,352.0,3520000000.0,41411764.705882356
+DIGITAL INDIA Program,Promotion of Digital payment,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_podp,1500.0,15000000000.0,176470588.2352941
+DIGITAL INDIA Program,"Promotion of Electronics and IT HW Manufacturing  (MSIPS, EDF and Manufacturing Clusters)",r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_poeaihmmeamc,700.0,7000000000.0,82352941.1764706
+DIGITAL INDIA Program,Promotion of IT/ITeS Industries,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_poiii,150.0,1500000000.0,17647058.82352941
+DIGITAL INDIA Program,R and D in IT/Electronics/CCBT,r_moeaitdn2moeait_cse_cssp_dip,r_moeaitdn2moeait_cse_cssp_dip_radiiec,600.0,6000000000.0,70588235.29411764
+Electronic Governance,EAP Component,r_moeaitdn2moeait_cse_cssp_dip_eg,r_moeaitdn2moeait_cse_cssp_dip_eg_ec,25.0,250000000.0,2941176.470588235
+Electronic Governance,Program Component,r_moeaitdn2moeait_cse_cssp_dip_eg,r_moeaitdn2moeait_cse_cssp_dip_eg_pc,530.74,5307400000.0,62440000.0
+Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India,Design Linked Incentive Scheme,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii_dlis,200.0,2000000000.0,23529411.76470588
+Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India,"Modified Scheme for setting up of Compound Semiconducors/Silicon Photonics/Sensors Fab/Discrete Semiconductors Fab and Semiconductor Assembly, Testing, Marking and Packaging (ATMP)/Outsourced Semiconductor Assembly and Test (OSAT) facilities in India",r_moeaitdn2moeait_cse_cssp_mpfdosadmeii,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii_msfsuocsspsfdsfasatmapaosaatofii,1799.92,17999200000.0,211755294.11764705
+Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India,Modified Scheme for Setting up of Semiconductor Fabs in India,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii,r_moeaitdn2moeait_cse_cssp_mpfdosadmeii_msfsuosfii,1000.0,10000000000.0,117647058.8235294
+Production Linked Incentive Scheme (PLI),Production Linked Incentive for IT Hardware,r_moeaitdn2moeait_cse_cssp_plisp,r_moeaitdn2moeait_cse_cssp_plisp_plifih,146.0,1460000000.0,17176470.588235293
+Production Linked Incentive Scheme (PLI),Production linked Incentive for Large Scale Electronics Manufacturing,r_moeaitdn2moeait_cse_cssp_plisp,r_moeaitdn2moeait_cse_cssp_plisp_pliflsem,4499.04,44990400000.0,529298823.5294118
+Establishment Expenditure of the Centre,National Informatics Centre,r_moeaitdn2moeait_cse_eeotc,r_moeaitdn2moeait_cse_eeotc_nic,1527.26,15272600000.0,179677647.05882353
+Establishment Expenditure of the Centre,Regulatory Authorities,r_moeaitdn2moeait_cse_eeotc,r_moeaitdn2moeait_cse_eeotc_ra,373.5,3735000000.0,43941176.47058824
+Establishment Expenditure of the Centre,Secretariat,r_moeaitdn2moeait_cse_eeotc,r_moeaitdn2moeait_cse_eeotc_s,140.0,1400000000.0,16470588.235294119
+Regulatory Authorities,Controller of Certifying Authorities (CCA),r_moeaitdn2moeait_cse_eeotc_ra,r_moeaitdn2moeait_cse_eeotc_ra_cocac,13.0,130000000.0,1529411.7647058824
+Regulatory Authorities,Cyber Security (CERT-In),r_moeaitdn2moeait_cse_eeotc_ra,r_moeaitdn2moeait_cse_eeotc_ra_csci,225.0,2250000000.0,26470588.23529412
+Regulatory Authorities,Standardization Testing and Quality Certification (STQC),r_moeaitdn2moeait_cse_eeotc_ra,r_moeaitdn2moeait_cse_eeotc_ra_staqcs,135.5,1355000000.0,15941176.470588235
+Other Central Sector Expenditure,Autonomous Bodies,r_moeaitdn2moeait_cse_ocse,r_moeaitdn2moeait_cse_ocse_ab,2057.0,20570000000.0,242000000.0
+Other Central Sector Expenditure,Others,r_moeaitdn2moeait_cse_ocse,r_moeaitdn2moeait_cse_ocse_o,11.0,110000000.0,1294117.6470588236
+Autonomous Bodies,Bhaskaracharya National Institute for Space Applications and Geo-Information,r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_bnifsaagi,44.0,440000000.0,5176470.588235294
+Autonomous Bodies,Centre for Development of Advanced Computing (C-DAC),r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_cfdoaccd,270.0,2700000000.0,31764705.88235294
+Autonomous Bodies,Centre for Materials for Electronics and Information Technology (C-MET),r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_cfmfeaitcm,110.0,1100000000.0,12941176.470588235
+Autonomous Bodies,Semi Conductor Laboratory (SCL),r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_scls,533.0,5330000000.0,62705882.35294118
+Autonomous Bodies,Society for Applied Microwave Electronics Engineering and Research (SAMEER),r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_sfameears,160.0,1600000000.0,18823529.411764707
+Autonomous Bodies,Unique Identification Authority of India (UIDAI),r_moeaitdn2moeait_cse_ocse_ab,r_moeaitdn2moeait_cse_ocse_ab_uiaoiu,940.0,9400000000.0,110588235.29411764
+Others,Digital India Corporation erstwhile Media Lab Asia,r_moeaitdn2moeait_cse_ocse_o,r_moeaitdn2moeait_cse_ocse_o_dicemla,11.0,110000000.0,1294117.6470588236

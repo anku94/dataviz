@@ -1,0 +1,33 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 37
+Indirect Taxes",r,r_mofdn3it,38510.08,385100800000.0,4530597647.058824
+"Ministry of Finance
+Demand No. 37
+Indirect Taxes",CENTRE'S EXPENDITURE,r_mofdn3it,r_mofdn3it_cse,38510.08,385100800000.0,4530597647.058824
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mofdn3it_cse,r_mofdn3it_cse_cssp,27554.59,275545900000.0,3241716470.5882354
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn3it_cse,r_mofdn3it_cse_eeotc,10955.49,109554900000.0,1288881176.4705882
+Central Sector Schemes/Projects,Onetime payment of Arrears.,r_mofdn3it_cse_cssp,r_mofdn3it_cse_cssp_opoa,4080.59,40805900000.0,480069411.7647059
+Central Sector Schemes/Projects,Remission of Duties and Taxes on Exported Products (RoDTEP),r_mofdn3it_cse_cssp,r_mofdn3it_cse_cssp_rodatoepr,15069.34,150693400000.0,1772863529.4117646
+Central Sector Schemes/Projects,Rebate on State and Central Taxes and Levies (RoSCTL),r_mofdn3it_cse_cssp,r_mofdn3it_cse_cssp_rosactalr,8404.66,84046600000.0,988783529.4117647
+Onetime payment of Arrears.,2 percent Additional Adhoc Bonus Incentive for Mobile Phones.,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_2paabifmp,4.27,42699999.99999999,502352.9411764705
+Onetime payment of Arrears.,Focus Market Scheme.,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_fms,89.89,898900000.0,10575294.11764706
+Onetime payment of Arrears.,Focus Product Scheme and Market Linked Product Scheme.,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_fpsamlps,301.7,3017000000.0,35494117.64705882
+Onetime payment of Arrears.,Incremental Export Incentivisation Scheme (Annual and Quarterly).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_ieisaaq,119.92,1199200000.0,14108235.294117646
+Onetime payment of Arrears.,Merchandise Export from India Scheme (MEIS).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_mefism,999.15,9991500000.0,117547058.8235294
+Onetime payment of Arrears.,Rebate on State and Central Taxes and Levies (RoSCTL).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_rosactalr,91.08,910800000.0,10715294.11764706
+Onetime payment of Arrears.,Rebate on State Levies Scheme (RoSL).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_roslsr,52.8,528000000.0,6211764.705882353
+Onetime payment of Arrears.,Service Exports from India Scheme (SEIS).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_sefiss,1390.45,13904500000.0,163582352.94117647
+Onetime payment of Arrears.,Status Holders Incentive Scheme (SHIS).,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_shiss,132.68,1326800000.0,15609411.764705881
+Onetime payment of Arrears.,Target Plus Scheme.,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_tps,826.14,8261400000.0,97192941.1764706
+Onetime payment of Arrears.,Vishesh Krishi and Gram Udyog Yojna.,r_mofdn3it_cse_cssp_opoa,r_mofdn3it_cse_cssp_opoa_vkaguy,72.51,725100000.0,8530588.235294119
+Establishment Expenditure of the Centre,Customs,r_mofdn3it_cse_eeotc,r_mofdn3it_cse_eeotc_c,2943.11,29431100000.0,346248235.2941176
+Establishment Expenditure of the Centre,Union Excise Duties /Central Goods & Service Tax,r_mofdn3it_cse_eeotc,r_mofdn3it_cse_eeotc_uedcgst,8012.88,80128800000.0,942691764.7058823
+Customs,Collection of Customs,r_mofdn3it_cse_eeotc_c,r_mofdn3it_cse_eeotc_c_coc,2713.11,27131100000.0,319189411.7647059
+Customs,Establishment Expenditure of Customs,r_mofdn3it_cse_eeotc_c,r_mofdn3it_cse_eeotc_c_eeoc,230.0,2300000000.0,27058823.529411763
+Union Excise Duties /Central Goods & Service Tax,Collection of Union Excise Duties / Central Goods & Service Tax,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_couedcgst,5318.33,53183300000.0,625685882.3529412
+Union Excise Duties /Central Goods & Service Tax,Establishment Expenditure of CGST,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_eeoc,625.0,6250000000.0,73529411.76470588
+Union Excise Duties /Central Goods & Service Tax,Establishment Expenditure of Excise /Central Goods & Service Tax,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_eeoecgst,700.55,7005500000.0,82417647.05882353
+Union Excise Duties /Central Goods & Service Tax,Housing - Maintenance and Repairs,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_hmar,19.0,190000000.0,2235294.117647059
+Union Excise Duties /Central Goods & Service Tax,Purchase of ready built Accomodation - Office Building,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_porbaob,950.0,9500000000.0,111764705.88235295
+Union Excise Duties /Central Goods & Service Tax,Purchase of Ready Built Accomodation - Residential Buildings,r_mofdn3it_cse_eeotc_uedcgst,r_mofdn3it_cse_eeotc_uedcgst_porbarb,400.0,4000000000.0,47058823.52941176

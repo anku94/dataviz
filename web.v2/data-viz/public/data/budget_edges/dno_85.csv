@@ -1,0 +1,55 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Railways
+Demand No. 85
+Ministry of Railways",r,r_mordn8mor,241267.51,2412675100000.0,28384412941.17647
+"Ministry of Railways
+Demand No. 85
+Ministry of Railways",CENTRE'S EXPENDITURE,r_mordn8mor,r_mordn8mor_cse,241267.51,2412675100000.0,28384412941.17647
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mordn8mor_cse,r_mordn8mor_cse_cssp,240000.0,2400000000000.0,28235294117.64706
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mordn8mor_cse,r_mordn8mor_cse_eeotc,1267.51,12675100000.0,149118823.52941176
+Central Sector Schemes/Projects,Amount met from,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_amf,-188150.07,-1881500700000.0,-22135302352.941177
+Central Sector Schemes/Projects,"Bridge Works, Turnnel Works and Approaches",r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_bwtwaa,1255.0,12550000000.0,147647058.82352942
+Central Sector Schemes/Projects,Computerisation,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_c,425.0,4250000000.0,50000000.0
+Central Sector Schemes/Projects,Customer Amenities,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ca,13355.0,133550000000.0,1571176470.5882354
+Central Sector Schemes/Projects,Doubling,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_d,30749.4,307494000000.0,3617576470.5882354
+Central Sector Schemes/Projects,Electrification Projects,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ep,8070.0,80700000000.0,949411764.7058823
+Central Sector Schemes/Projects,Gauge Conversion,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_gc,4600.0,46000000000.0,541176470.5882353
+Central Sector Schemes/Projects,Investment in PSU/JV/SPV etc.,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_iipjse,34353.55,343535500000.0,4041594117.647059
+Central Sector Schemes/Projects,Leased assets - Payment of Capital Component,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_lapocc,22228.57,222285700000.0,2615125882.352941
+Central Sector Schemes/Projects,Miscellaneous Advances,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ma,1304.93,13049300000.0,153521176.47058824
+Central Sector Schemes/Projects,Machinery and Plant,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_map,740.0,7400000000.0,87058823.52941176
+Central Sector Schemes/Projects,Manufacturing Suspense,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ms,55855.18,558551800000.0,6571197647.058824
+Central Sector Schemes/Projects,Metropolitan Transportation Projects,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_mtp,2450.0,24500000000.0,288235294.11764705
+Central Sector Schemes/Projects,New Lines,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_nl,31850.0,318500000000.0,3747058823.529412
+Central Sector Schemes/Projects,Other Electrical Works,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_oew,1650.0,16500000000.0,194117647.05882353
+Central Sector Schemes/Projects,Other Specified Works,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_osw,1300.0,13000000000.0,152941176.47058824
+Central Sector Schemes/Projects,Railway Research,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_rr,61.5,615000000.0,7235294.117647059
+Central Sector Schemes/Projects,Rolling Stock,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_rs,37581.0,375810000000.0,4421294117.6470585
+Central Sector Schemes/Projects,Road Safety Works - Level Crossings,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_rswlc,700.0,7000000000.0,82352941.1764706
+Central Sector Schemes/Projects,Road Safety Works - Road Over/Under Bridges,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_rswroub,7400.0,74000000000.0,870588235.2941177
+Central Sector Schemes/Projects,Signalling and Telecom,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_sat,4198.22,41982200000.0,493908235.2941176
+Central Sector Schemes/Projects,Sovereign Green Fund,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_sgf,12479.0,124790000000.0,1468117647.0588236
+Central Sector Schemes/Projects,Stores Suspense,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ss,29512.87,295128700000.0,3472102352.9411764
+Central Sector Schemes/Projects,Staff Welfare,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_sw,628.82,6288200000.000001,73978823.52941178
+Central Sector Schemes/Projects,Traffic Facilities - Yard Remodelling and Others,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_tfyrao,6715.0,67150000000.0,790000000.0
+Central Sector Schemes/Projects,Training/Human Resource Development,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_thrd,305.0,3050000000.0,35882352.941176474
+Central Sector Schemes/Projects,Track Renewals,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_tr,17296.84,172968400000.0,2034922352.9411764
+Central Sector Schemes/Projects,Transfer to Central Road and Infrastructure Fund,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ttcraif,12049.7,120497000000.0,1417611764.7058823
+Central Sector Schemes/Projects,Transfer to National Investment Fund,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ttnif,29434.99,294349900000.0,3462940000.0
+Central Sector Schemes/Projects,Transfer to Rashtirya Rail Sanraksha Kosh,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ttrrsk,10000.0,100000000000.0,1176470588.235294
+Central Sector Schemes/Projects,Transfer to Railway Safety Fund,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_ttrsf,45000.0,450000000000.0,5294117647.058824
+Central Sector Schemes/Projects,Unallocated,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_u,130671.07,1306710700000.0,15373067058.82353
+Central Sector Schemes/Projects,Workshop Including Production Units,r_mordn8mor_cse_cssp,r_mordn8mor_cse_cssp_wipu,4600.5,46005000000.0,541235294.117647
+Transfer to Rashtirya Rail Sanraksha Kosh,From Gross Budgetary Support,r_mordn8mor_cse_cssp_ttrrsk,r_mordn8mor_cse_cssp_ttrrsk_fgbs,10000.0,100000000000.0,1176470588.235294
+Establishment Expenditure of the Centre,Budget Support from General Revenues,r_mordn8mor_cse_eeotc,r_mordn8mor_cse_eeotc_bsfgr,1267.51,12675100000.0,149118823.52941176
+Establishment Expenditure of the Centre,Other Ordinary Working Expenses,r_mordn8mor_cse_eeotc,r_mordn8mor_cse_eeotc_oowe,155259.48,1552594800000.0,18265821176.47059
+Establishment Expenditure of the Centre,Railway Revenue Receipts,r_mordn8mor_cse_eeotc,r_mordn8mor_cse_eeotc_rrr,-260090.0,-2600900000000.0,-30598823529.411766
+Establishment Expenditure of the Centre,Working Expenses,r_mordn8mor_cse_eeotc,r_mordn8mor_cse_eeotc_we,104830.52,1048305200000.0,12333002352.941177
+Budget Support from General Revenues,Debt Servicing (interest component) against market borrowings for National Projects in 2018-19,r_mordn8mor_cse_eeotc_bsfgr,r_mordn8mor_cse_eeotc_bsfgr_dsicambfnpi21,780.0,7800000000.0,91764705.88235295
+Budget Support from General Revenues,Reimbursement of losses on operation of Strategic lines,r_mordn8mor_cse_eeotc_bsfgr,r_mordn8mor_cse_eeotc_bsfgr_rolooosl,487.51,4875100000.0,57354117.64705882
+Railway Revenue Receipts,Goods,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_g,-174590.0,-1745900000000.0,-20540000000.0
+Railway Revenue Receipts,Other Coaching,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_oc,-7000.0,-70000000000.0,-823529411.7647059
+Railway Revenue Receipts,Other Miscellaneous Receipts,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_omr,-400.0,-4000000000.0,-47058823.52941176
+Railway Revenue Receipts,Passenger,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_p,-70000.0,-700000000000.0,-8235294117.6470585
+Railway Revenue Receipts,Suspense,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_s,-100.0,-1000000000.0,-11764705.88235294
+Railway Revenue Receipts,Sundry,r_mordn8mor_cse_eeotc_rrr,r_mordn8mor_cse_eeotc_rrr_s,-8000.0,-80000000000.0,-941176470.5882353

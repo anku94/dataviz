@@ -1,0 +1,39 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Commerce and Industry
+Demand No. 10
+Department of Commerce",r,r_mocaidn1doc,5254.58,52545800000.0,618185882.3529412
+"Ministry of Commerce and Industry
+Demand No. 10
+Department of Commerce",CENTRE'S EXPENDITURE,r_mocaidn1doc,r_mocaidn1doc_cse,5254.58,52545800000.0,618185882.3529412
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocaidn1doc_cse,r_mocaidn1doc_cse_cssp,4351.47,43514700000.0,511937647.0588235
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocaidn1doc_cse,r_mocaidn1doc_cse_eeotc,839.61,8396100000.0,98777647.05882353
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocaidn1doc_cse,r_mocaidn1doc_cse_ocse,63.5,635000000.0,7470588.235294118
+Central Sector Schemes/Projects,Coffee Board,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_cb,226.2,2262000000.0,26611764.70588235
+Central Sector Schemes/Projects,Centre For Research on International Trade-CRIT (Centre for WTO Studies),r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_cfroitccfws,41.0,410000000.0,4823529.411764706
+Central Sector Schemes/Projects,Duty Drawback Scheme,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_dds,180.0,1800000000.0,21176470.588235293
+Central Sector Schemes/Projects,Export Promotion Schemes,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_eps,3132.01,31320100000.000004,368471764.7058824
+Central Sector Schemes/Projects,Marine Product Export Development Authority (MPEDA),r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_mpedam,100.0,1000000000.0,11764705.88235294
+Central Sector Schemes/Projects,Project Development Fund,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_pdf,1.99,19900000.0,234117.64705882352
+Central Sector Schemes/Projects,Rubber Board,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_rb,268.76,2687600000.0,31618823.529411763
+Central Sector Schemes/Projects,Spices Board,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_sb,115.5,1155000000.0,13588235.294117646
+Central Sector Schemes/Projects,Tea Board,r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_tb,135.0,1350000000.0,15882352.94117647
+Central Sector Schemes/Projects,Trade Infrastructure for Export Schemes (TIES),r_mocaidn1doc_cse_cssp,r_mocaidn1doc_cse_cssp_tifest,71.0,710000000.0,8352941.176470588
+Export Promotion Schemes,Interest Equalisation Scheme,r_mocaidn1doc_cse_cssp_eps,r_mocaidn1doc_cse_cssp_eps_ies,2932.0,29320000000.0,344941176.4705882
+Export Promotion Schemes,Market Access Initiative,r_mocaidn1doc_cse_cssp_eps,r_mocaidn1doc_cse_cssp_eps_mai,200.0,2000000000.0,23529411.76470588
+Establishment Expenditure of the Centre,Assistance to Special Economic Zones,r_mocaidn1doc_cse_eeotc,r_mocaidn1doc_cse_eeotc_atsez,113.9,1139000000.0,13400000.0
+Establishment Expenditure of the Centre,Directorate General of Commercial Intelligence and Statistics,r_mocaidn1doc_cse_eeotc,r_mocaidn1doc_cse_eeotc_dgocias,43.0,430000000.0,5058823.529411765
+Establishment Expenditure of the Centre,Foreign Trade and Export Promotion,r_mocaidn1doc_cse_eeotc,r_mocaidn1doc_cse_eeotc_ftaep,272.1,2721000000.0,32011764.70588235
+Establishment Expenditure of the Centre,Secretariat,r_mocaidn1doc_cse_eeotc,r_mocaidn1doc_cse_eeotc_s,170.61,1706100000.0000002,20071764.705882356
+Establishment Expenditure of the Centre,Trade Commissioners,r_mocaidn1doc_cse_eeotc,r_mocaidn1doc_cse_eeotc_tc,240.0,2400000000.0,28235294.11764706
+Foreign Trade and Export Promotion,Director General of Foreign Trade,r_mocaidn1doc_cse_eeotc_ftaep,r_mocaidn1doc_cse_eeotc_ftaep_dgoft,174.0,1740000000.0,20470588.23529412
+Foreign Trade and Export Promotion,International Cooperation,r_mocaidn1doc_cse_eeotc_ftaep,r_mocaidn1doc_cse_eeotc_ftaep_ic,41.0,410000000.0,4823529.411764706
+Foreign Trade and Export Promotion,International Conferences,r_mocaidn1doc_cse_eeotc_ftaep,r_mocaidn1doc_cse_eeotc_ftaep_ic,30.0,300000000.0,3529411.7647058824
+Foreign Trade and Export Promotion,Trade Remedies and Trade Defence,r_mocaidn1doc_cse_eeotc_ftaep,r_mocaidn1doc_cse_eeotc_ftaep_tratd,27.1,271000000.0,3188235.294117647
+Other Central Sector Expenditure,Autonomous Bodies,r_mocaidn1doc_cse_ocse,r_mocaidn1doc_cse_ocse_ab,60.0,600000000.0,7058823.529411765
+Other Central Sector Expenditure,Others,r_mocaidn1doc_cse_ocse,r_mocaidn1doc_cse_ocse_o,3.5,35000000.0,411764.70588235295
+Autonomous Bodies,Autonomous Institutions,r_mocaidn1doc_cse_ocse_ab,r_mocaidn1doc_cse_ocse_ab_ai,60.0,600000000.0,7058823.529411765
+Autonomous Institutions,Indian Institute of Foreign Trade,r_mocaidn1doc_cse_ocse_ab_ai,r_mocaidn1doc_cse_ocse_ab_ai_iioft,50.0,500000000.0,5882352.94117647
+Autonomous Institutions,Indian Institute of Packaging,r_mocaidn1doc_cse_ocse_ab_ai,r_mocaidn1doc_cse_ocse_ab_ai_iiop,10.0,100000000.0,1176470.5882352942
+Others,Delegation from abroad,r_mocaidn1doc_cse_ocse_o,r_mocaidn1doc_cse_ocse_o_dfa,2.0,20000000.0,235294.11764705883
+Others,Delegation going abroad,r_mocaidn1doc_cse_ocse_o,r_mocaidn1doc_cse_ocse_o_dga,0.5,5000000.0,58823.529411764706
+Others,Unallocated,r_mocaidn1doc_cse_ocse_o,r_mocaidn1doc_cse_ocse_o_u,1.0,10000000.0,117647.05882352941

@@ -1,0 +1,17 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Rural Development
+Demand No. 88
+Department of Land Resources",r,r_morddn8dolr,2395.75,23957500000.0,281852941.1764706
+"Ministry of Rural Development
+Demand No. 88
+Department of Land Resources",CENTRE'S EXPENDITURE,r_morddn8dolr,r_morddn8dolr_cse,195.75,1957500000.0,23029411.76470588
+"Ministry of Rural Development
+Demand No. 88
+Department of Land Resources",TRANSFERS TO STATES/UTs,r_morddn8dolr,r_morddn8dolr_ttsu,2200.0,22000000000.0,258823529.4117647
+CENTRE'S EXPENDITURE,Digital India Initiative - Land records Modernisation Programme,r_morddn8dolr_cse,r_morddn8dolr_cse_diilrmp,195.75,1957500000.0,23029411.76470588
+Digital India Initiative - Land records Modernisation Programme,Land Records Modernization Programme,r_morddn8dolr_cse_diilrmp,r_morddn8dolr_cse_diilrmp_lrmp,195.75,1957500000.0,23029411.76470588
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_morddn8dolr_ttsu,r_morddn8dolr_ttsu_css,2200.0,22000000000.0,258823529.4117647
+Centrally Sponsored Schemes,Pradhan Mantri Krishi Sinchai Yojna,r_morddn8dolr_ttsu_css,r_morddn8dolr_ttsu_css_pmksy,2200.0,22000000000.0,258823529.4117647
+Pradhan Mantri Krishi Sinchai Yojna,Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,r_morddn8dolr_ttsu_css_pmksy,r_morddn8dolr_ttsu_css_pmksy_wdcpmksy,2200.0,22000000000.0,258823529.4117647
+Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,EAP Component,r_morddn8dolr_ttsu_css_pmksy_wdcpmksy,r_morddn8dolr_ttsu_css_pmksy_wdcpmksy_ec,19.0,190000000.0,2235294.117647059
+Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,Program Component,r_morddn8dolr_ttsu_css_pmksy_wdcpmksy,r_morddn8dolr_ttsu_css_pmksy_wdcpmksy_pc,2181.0,21810000000.0,256588235.29411766

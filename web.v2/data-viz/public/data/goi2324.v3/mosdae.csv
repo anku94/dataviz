@@ -1,0 +1,18 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Skill Development and Entrepreneurship,,mosdae,3195.08,31950800000.0,375891764.7058824
+1,Ministry of Skill Development and Entrepreneurship,Ministry of Skill Development and Entrepreneurship,mosdae,mosdae_mosdae,3195.08,31950800000.0,375891764.7058824
+2,Ministry of Skill Development and Entrepreneurship,CENTRE'S EXPENDITURE,mosdae_mosdae,mosdae_mosdae_cse,2300.62,23006200000.0,270661176.4705882
+3,Ministry of Skill Development and Entrepreneurship,TRANSFERS TO STATES/UTs,mosdae_mosdae,mosdae_mosdae_ttsu,894.46,8944600000.0,105230588.23529412
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mosdae_mosdae_cse,mosdae_mosdae_cse_cssp,2278.37,22783700000.0,268043529.4117647
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mosdae_mosdae_cse,mosdae_mosdae_cse_ocse,22.25,222500000.0,2617647.0588235296
+6,Central Sector Schemes/Projects,Skill India Programme,mosdae_mosdae_cse_cssp,mosdae_mosdae_cse_cssp_sip,2278.37,22783700000.0,268043529.4117647
+7,Other Central Sector Expenditure,Autonomous Bodies,mosdae_mosdae_cse_ocse,mosdae_mosdae_cse_ocse_ab,2.01,20099999.999999996,236470.58823529407
+8,Other Central Sector Expenditure,Statutory and Regulatory Bodies,mosdae_mosdae_cse_ocse,mosdae_mosdae_cse_ocse_sarb,20.24,202399999.99999997,2381176.4705882347
+9,Autonomous Bodies,Indian Institute of Entrepreneurship (IIE),mosdae_mosdae_cse_ocse_ab,mosdae_mosdae_cse_ocse_ab_iioei,1.0,10000000.0,117647.05882352941
+10,Autonomous Bodies,National Institute of Entrepreneurship and Small Business Development (NIESBUD),mosdae_mosdae_cse_ocse_ab,mosdae_mosdae_cse_ocse_ab_nioeasbdn,1.0,10000000.0,117647.05882352941
+11,Statutory and Regulatory Bodies,National Council for Vocational Education and Training (NCVET),mosdae_mosdae_cse_ocse_sarb,mosdae_mosdae_cse_ocse_sarb_ncfveatn,20.24,202399999.99999997,2381176.4705882347
+12,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mosdae_mosdae_ttsu,mosdae_mosdae_ttsu_css,894.46,8944600000.0,105230588.23529412
+13,Centrally Sponsored Schemes,Jobs and Skill Development,mosdae_mosdae_ttsu_css,mosdae_mosdae_ttsu_css_jasd,894.4599999999999,8944600000.0,105230588.23529412
+14,Jobs and Skill Development,Skill Acquisition and Knowledge Awareness for Livelihood Promotion (SANKALP) - EAP,mosdae_mosdae_ttsu_css_jasd,mosdae_mosdae_ttsu_css_jasd_saakaflpse,488.08,4880800000.0,57421176.47058824
+15,Jobs and Skill Development,Strengthening of Infrastructure for Institutional Training,mosdae_mosdae_ttsu_css_jasd,mosdae_mosdae_ttsu_css_jasd_soifit,106.38,1063800000.0,12515294.11764706
+16,Jobs and Skill Development,Skill Strengthening for Industrial Value Enhancements (STRIVE) - EAP,mosdae_mosdae_ttsu_css_jasd,mosdae_mosdae_ttsu_css_jasd_ssfivese,300.0,3000000000.0,35294117.64705882

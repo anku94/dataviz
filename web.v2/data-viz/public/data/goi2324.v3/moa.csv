@@ -1,0 +1,33 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of AYUSH,,moa,3585.78,35857800000.0,421856470.5882353
+1,Ministry of AYUSH,Ministry of Ayush,moa,moa_moa,3585.78,35857800000.0,421856470.5882353
+2,Ministry of Ayush,CENTRE'S EXPENDITURE,moa_moa,moa_moa_cse,2385.78,23857800000.000004,280680000.00000006
+3,Ministry of Ayush,TRANSFERS TO STATES/UTs,moa_moa,moa_moa_ttsu,1200.0,12000000000.0,141176470.5882353
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moa_moa_cse,moa_moa_cse_cssp,185.44,1854400000.0,21816470.588235293
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moa_moa_cse,moa_moa_cse_ocse,2182.3,21823000000.0,256741176.47058824
+6,CENTRE'S EXPENDITURE,Pharmacopoeia Commission for Indian Medicine and Homoeopathy (PCIM&H),moa_moa_cse,moa_moa_cse_pcfimahph,18.04,180400000.0,2122352.9411764704
+7,Central Sector Schemes/Projects,Central Sector Schemes of Ayush,moa_moa_cse_cssp,moa_moa_cse_cssp_cssoa,185.44,1854400000.0,21816470.588235293
+8,Central Sector Schemes of Ayush,AYURGYAN,moa_moa_cse_cssp_cssoa,moa_moa_cse_cssp_cssoa_a,69.49000000000001,694900000.0000001,8175294.11764706
+9,Central Sector Schemes of Ayush,Champion Services Sector Scheme,moa_moa_cse_cssp_cssoa,moa_moa_cse_cssp_cssoa_csss,21.68,216800000.0,2550588.2352941176
+10,Central Sector Schemes of Ayush,"Information, Education and Communication",moa_moa_cse_cssp_cssoa,moa_moa_cse_cssp_cssoa_ieac,41.0,410000000.0,4823529.411764706
+11,Central Sector Schemes of Ayush,Promotion of International Cooperation,moa_moa_cse_cssp_cssoa,moa_moa_cse_cssp_cssoa_poic,44.27,442700000.00000006,5208235.294117648
+12,Central Sector Schemes of Ayush,Unallocated,moa_moa_cse_cssp_cssoa,moa_moa_cse_cssp_cssoa_u,8.999999999999972,89999999.99999972,1058823.5294117613
+13,AYURGYAN,AYUSH Oushadhi Gunvatta evum Uttapadan Samvardhan Yojana (AOGUSY),moa_moa_cse_cssp_cssoa_a,moa_moa_cse_cssp_cssoa_a_aogeusya,20.0,200000000.0,2352941.1764705884
+14,AYURGYAN,Ayurswasthay Yojana,moa_moa_cse_cssp_cssoa_a,moa_moa_cse_cssp_cssoa_a_ay,6.0,60000000.0,705882.3529411765
+15,AYURGYAN,"Central Sector Scheme for Conservation, Development and Sustainable Management of Medicinal Plants",moa_moa_cse_cssp_cssoa_a,moa_moa_cse_cssp_cssoa_a_cssfcdasmomp,43.49,434900000.0,5116470.588235294
+16,Other Central Sector Expenditure,Autonomous Bodies,moa_moa_cse_ocse,moa_moa_cse_ocse_ab,1996.05,19960500000.0,234829411.7647059
+17,Other Central Sector Expenditure,Statutory and Regulatory Bodies,moa_moa_cse_ocse,moa_moa_cse_ocse_sarb,186.25,1862500000.0,21911764.70588235
+18,Autonomous Bodies,All India Institute of Ayurveda,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_aiioa,235.15,2351500000.0,27664705.88235294
+19,Autonomous Bodies,Central Council for Research in Ayurvedic Sciences,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_ccfrias,379.5,3795000000.0,44647058.823529415
+20,Autonomous Bodies,Central Council for Research in Homeopathy,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_ccfrih,145.0,1450000000.0,17058823.529411763
+21,Autonomous Bodies,Central Council for Research in Unani Medicine,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_ccfrium,173.3,1733000000.0,20388235.29411765
+22,Autonomous Bodies,National Institute of Homoeopathy Kolkatta,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_niohk,108.59,1085900000.0,12775294.11764706
+23,Autonomous Bodies,Other Autonomous Bodies,moa_moa_cse_ocse_ab,moa_moa_cse_ocse_ab_oab,954.51,9545100000.0,112295294.11764705
+24,All India Institute of Ayurveda,Support from Gross Budgetary Support (GBS),moa_moa_cse_ocse_ab_aiioa,moa_moa_cse_ocse_ab_aiioa_sfgbsg,235.15,2351500000.0,27664705.88235294
+25,National Institute of Homoeopathy Kolkatta,Support from Gross Budgetary Support (GBS),moa_moa_cse_ocse_ab_niohk,moa_moa_cse_ocse_ab_niohk_sfgbsg,108.59,1085900000.0,12775294.11764706
+26,Other Autonomous Bodies,Support from Gross Budgetary Support (GBS),moa_moa_cse_ocse_ab_oab,moa_moa_cse_ocse_ab_oab_sfgbsg,954.51,9545100000.0,112295294.11764705
+27,Statutory and Regulatory Bodies,Institute of Teaching and Research in Ayurveda,moa_moa_cse_ocse_sarb,moa_moa_cse_ocse_sarb_iotaria,150.13,1501300000.0,17662352.94117647
+28,Statutory and Regulatory Bodies,National Commission for Homoeopathy,moa_moa_cse_ocse_sarb,moa_moa_cse_ocse_sarb_ncfh,12.67,126700000.0,1490588.2352941176
+29,Statutory and Regulatory Bodies,National Commission For Indian System Of Medicine,moa_moa_cse_ocse_sarb,moa_moa_cse_ocse_sarb_ncfisom,23.45,234500000.0,2758823.529411765
+30,TRANSFERS TO STATES/UTs,National Health Mission,moa_moa_ttsu,moa_moa_ttsu_nhm,1200.0,12000000000.0,141176470.5882353
+31,National Health Mission,National AYUSH Misson,moa_moa_ttsu_nhm,moa_moa_ttsu_nhm_nam,1200.0,12000000000.0,141176470.5882353

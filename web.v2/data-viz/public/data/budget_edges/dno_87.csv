@@ -1,0 +1,33 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Rural Development
+Demand No. 87
+Department of Rural Development",r,r_morddn8dord,157480.97999999998,1574809799999.9998,18527174117.647057
+"Ministry of Rural Development
+Demand No. 87
+Department of Rural Development",CENTRE'S EXPENDITURE,r_morddn8dord,r_morddn8dord_cse,228.49,2284900000.0,26881176.470588237
+"Ministry of Rural Development
+Demand No. 87
+Department of Rural Development",TRANSFERS TO STATES/UTs,r_morddn8dord,r_morddn8dord_ttsu,157252.49,1572524900000.0,18500292941.17647
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_morddn8dord_cse,r_morddn8dord_cse_cssp,113.49,1134900000.0,13351764.705882354
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_morddn8dord_cse,r_morddn8dord_cse_ocse,115.0,1150000000.0,13529411.764705881
+Central Sector Schemes/Projects,Management Support to Rural Development Programs and Strengthening of District Planning Process,r_morddn8dord_cse_cssp,r_morddn8dord_cse_cssp_mstrdpasodpp,113.49,1134900000.0,13351764.705882354
+Other Central Sector Expenditure,Autonomous Bodies,r_morddn8dord_cse_ocse,r_morddn8dord_cse_ocse_ab,115.0,1150000000.0,13529411.764705881
+Autonomous Bodies,"National Institute of Rural Development and Panchayati Raj, Hyderabad",r_morddn8dord_cse_ocse_ab,r_morddn8dord_cse_ocse_ab_niordaprh,115.0,1150000000.0,13529411.764705881
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_morddn8dord_ttsu,r_morddn8dord_ttsu_css,157252.49,1572524900000.0,18500292941.17647
+Centrally Sponsored Schemes,Mahatma Gandhi National Rural Employment Guarantee Program,r_morddn8dord_ttsu_css,r_morddn8dord_ttsu_css_mgnregp,60000.0,600000000000.0,7058823529.411765
+Centrally Sponsored Schemes,National Livelihood Mission - Ajeevika,r_morddn8dord_ttsu_css,r_morddn8dord_ttsu_css_nlma,14129.17,141291700000.0,1662255294.1176472
+Centrally Sponsored Schemes,National Social Assistance Progamme,r_morddn8dord_ttsu_css,r_morddn8dord_ttsu_css_nsap,9636.32,96363200000.0,1133684705.8823528
+Centrally Sponsored Schemes,Pradhan Mantri Awas Yojna (PMAY),r_morddn8dord_ttsu_css,r_morddn8dord_ttsu_css_pmayp,54487.0,544870000000.0,6410235294.117647
+Centrally Sponsored Schemes,Pradhan Mantri Gram Sadak Yojna,r_morddn8dord_ttsu_css,r_morddn8dord_ttsu_css_pmgsy,19000.0,190000000000.0,2235294117.647059
+Mahatma Gandhi National Rural Employment Guarantee Program,MGNREGA-Programme Component,r_morddn8dord_ttsu_css_mgnregp,r_morddn8dord_ttsu_css_mgnregp_mpc,60000.0,600000000000.0,7058823529.411765
+Mahatma Gandhi National Rural Employment Guarantee Program,Transfer to National Employment Guarantee Fund,r_morddn8dord_ttsu_css_mgnregp,r_morddn8dord_ttsu_css_mgnregp_ttnegf,60000.0,600000000000.0,7058823529.411765
+National Livelihood Mission - Ajeevika,National Rural Livelihood Mission,r_morddn8dord_ttsu_css_nlma,r_morddn8dord_ttsu_css_nlma_nrlm,14129.17,141291700000.0,1662255294.1176472
+National Rural Livelihood Mission,NRLM-EAP Component,r_morddn8dord_ttsu_css_nlma_nrlm,r_morddn8dord_ttsu_css_nlma_nrlm_nec,3272.0,32720000000.0,384941176.4705882
+National Rural Livelihood Mission,North-east Region,r_morddn8dord_ttsu_css_nlma_nrlm,r_morddn8dord_ttsu_css_nlma_nrlm_ner,1362.52,13625200000.0,160296470.5882353
+National Rural Livelihood Mission,NRLM-Programme Component,r_morddn8dord_ttsu_css_nlma_nrlm,r_morddn8dord_ttsu_css_nlma_nrlm_npc,9494.65,94946500000.0,1117017647.0588236
+National Social Assistance Progamme,Administrative Expenditure,r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_ae,16.0,160000000.0,1882352.9411764706
+National Social Assistance Progamme,Annapurna Scheme,r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_as,10.01,100100000.0,1177647.0588235294
+National Social Assistance Progamme,Indira Gandhi National Disability Pension Scheme(IGNDPS),r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_igndpsi,290.0,2900000000.0,34117647.058823526
+National Social Assistance Progamme,Indira Gandhi National Old Age Pension Scheme (IGNOAPS),r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_ignoapsi,6634.32,66343200000.0,780508235.2941177
+National Social Assistance Progamme,Indira Gandhi National Widow Pension Scheme(IGNWPS),r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_ignwpsi,2026.99,20269900000.0,238469411.7647059
+National Social Assistance Progamme,National Family Benefit Scheme,r_morddn8dord_ttsu_css_nsap,r_morddn8dord_ttsu_css_nsap_nfbs,659.0,6590000000.0,77529411.76470588

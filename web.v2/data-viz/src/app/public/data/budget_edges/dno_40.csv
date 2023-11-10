@@ -1,0 +1,24 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 40
+Repayment of Debt",r,r_mofdn4rod,8902796.709999999,89027967099999.98,1047387848235.294
+"Ministry of Finance
+Demand No. 40
+Repayment of Debt",CENTRE'S EXPENDITURE,r_mofdn4rod,r_mofdn4rod_cse,8902796.709999999,89027967099999.98,1047387848235.294
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mofdn4rod_cse,r_mofdn4rod_cse_ocse,8902796.709999999,89027967099999.98,1047387848235.294
+Other Central Sector Expenditure,Others,r_mofdn4rod_cse_ocse,r_mofdn4rod_cse_ocse_o,8902796.709999999,89027967099999.98,1047387848235.294
+Others,Internal Debt of Central Government,r_mofdn4rod_cse_ocse_o,r_mofdn4rod_cse_ocse_o_idocg,78103.99999999814,781039999999.9813,9188705882.352722
+Internal Debt of Central Government,14 days Treasury Bills,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_1dtb,5834338.47,58343384700000.0,686392761176.4706
+Internal Debt of Central Government,182 days Treasury Bills,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_1dtb,562557.95,5625579500000.0,66183288235.29412
+Internal Debt of Central Government,364 days Treasury Bills,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_3dtb,443989.75,4439897500000.0,52234088235.29412
+Internal Debt of Central Government,91 days Treasury Bills,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_9dtb,711661.48,7116614800000.0,83724880000.0
+Internal Debt of Central Government,Buyback / Switching,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_bs,100000.0,1000000000000.0,11764705882.352942
+Internal Debt of Central Government,Compensation and Other Bonds,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_caob,23563.49,235634900000.00003,2772175294.1176476
+Internal Debt of Central Government,Cash Management Bills,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_cmb,100000.0,1000000000000.0,11764705882.352942
+Internal Debt of Central Government,Gold Monetization Scheme,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_gms,187.0,1870000000.0,22000000.0
+Internal Debt of Central Government,Less Receipts,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_lr,-8824692.71,-88246927100000.02,-1038199142352.9414
+Internal Debt of Central Government,Market Loans,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_ml,440192.78,4401927800000.0,51787385882.35294
+Internal Debt of Central Government,Redemption of securities issued to International Financial Institutions,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_rositifi,7855.09,78550900000.0,924128235.2941177
+Internal Debt of Central Government,Redemption of Securities issued to NSSF,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_rositn,176950.7,1769507000000.0,20817729411.764706
+Internal Debt of Central Government,Sovereign Gold Bond Scheme,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_sgbs,1500.0,15000000000.0,176470588.2352941
+Internal Debt of Central Government,Ways and Means Advances,r_mofdn4rod_cse_ocse_o_idocg,r_mofdn4rod_cse_ocse_o_idocg_wama,500000.0,5000000000000.0,58823529411.76471

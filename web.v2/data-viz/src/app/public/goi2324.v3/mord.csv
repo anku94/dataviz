@@ -1,0 +1,38 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Rural Development,,mord,219876.73,2198767300000.0,25867850588.235294
+1,Ministry of Rural Development,Department of Land Resources,mord,mord_dolr,2395.75,23957500000.0,281852941.1764706
+2,Ministry of Rural Development,Department of Rural Development,mord,mord_dord,217480.98,2174809800000.0,25585997647.058823
+3,Department of Land Resources,CENTRE'S EXPENDITURE,mord_dolr,mord_dolr_cse,195.75,1957500000.0,23029411.76470588
+4,Department of Land Resources,TRANSFERS TO STATES/UTs,mord_dolr,mord_dolr_ttsu,2200.0,22000000000.0,258823529.4117647
+5,CENTRE'S EXPENDITURE,Digital India Initiative - Land records Modernisation Programme,mord_dolr_cse,mord_dolr_cse_diilrmp,195.75,1957500000.0,23029411.76470588
+6,Digital India Initiative - Land records Modernisation Programme,Land Records Modernization Programme,mord_dolr_cse_diilrmp,mord_dolr_cse_diilrmp_lrmp,195.75,1957500000.0,23029411.76470588
+7,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mord_dolr_ttsu,mord_dolr_ttsu_css,2200.0,22000000000.0,258823529.4117647
+8,Centrally Sponsored Schemes,Pradhan Mantri Krishi Sinchai Yojna,mord_dolr_ttsu_css,mord_dolr_ttsu_css_pmksy,2200.0,22000000000.0,258823529.4117647
+9,Pradhan Mantri Krishi Sinchai Yojna,Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,mord_dolr_ttsu_css_pmksy,mord_dolr_ttsu_css_pmksy_wdcpmksy,2200.0,22000000000.0,258823529.4117647
+10,Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,EAP Component,mord_dolr_ttsu_css_pmksy_wdcpmksy,mord_dolr_ttsu_css_pmksy_wdcpmksy_ec,19.0,190000000.0,2235294.117647059
+11,Watershed Development Component-Pradhan Mantri Krishi Sinchai Yojana,Program Component,mord_dolr_ttsu_css_pmksy_wdcpmksy,mord_dolr_ttsu_css_pmksy_wdcpmksy_pc,2181.0,21810000000.0,256588235.29411766
+12,Department of Rural Development,CENTRE'S EXPENDITURE,mord_dord,mord_dord_cse,228.49,2284900000.0,26881176.470588237
+13,Department of Rural Development,TRANSFERS TO STATES/UTs,mord_dord,mord_dord_ttsu,217252.49000000002,2172524900000.0002,25559116470.588238
+14,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mord_dord_cse,mord_dord_cse_cssp,113.49,1134900000.0,13351764.705882354
+15,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mord_dord_cse,mord_dord_cse_ocse,115.0,1150000000.0,13529411.764705881
+16,Central Sector Schemes/Projects,Management Support to Rural Development Programs and Strengthening of District Planning Process,mord_dord_cse_cssp,mord_dord_cse_cssp_mstrdpasodpp,113.49,1134900000.0,13351764.705882354
+17,Other Central Sector Expenditure,Autonomous Bodies,mord_dord_cse_ocse,mord_dord_cse_ocse_ab,115.0,1150000000.0,13529411.764705881
+18,Autonomous Bodies,"National Institute of Rural Development and Panchayati Raj, Hyderabad",mord_dord_cse_ocse_ab,mord_dord_cse_ocse_ab_niordaprh,115.0,1150000000.0,13529411.764705881
+19,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mord_dord_ttsu,mord_dord_ttsu_css,217252.49000000002,2172524900000.0002,25559116470.588238
+20,Centrally Sponsored Schemes,Mahatma Gandhi National Rural Employment Guarantee Program,mord_dord_ttsu_css,mord_dord_ttsu_css_mgnregp,120000.0,1200000000000.0,14117647058.82353
+21,Centrally Sponsored Schemes,National Livelihood Mission - Ajeevika,mord_dord_ttsu_css,mord_dord_ttsu_css_nlma,14129.17,141291700000.0,1662255294.1176472
+22,Centrally Sponsored Schemes,National Social Assistance Progamme,mord_dord_ttsu_css,mord_dord_ttsu_css_nsap,9636.32,96363200000.0,1133684705.8823528
+23,Centrally Sponsored Schemes,Pradhan Mantri Awas Yojna (PMAY),mord_dord_ttsu_css,mord_dord_ttsu_css_pmayp,54487.0,544870000000.0,6410235294.117647
+24,Centrally Sponsored Schemes,Pradhan Mantri Gram Sadak Yojna,mord_dord_ttsu_css,mord_dord_ttsu_css_pmgsy,19000.0,190000000000.0,2235294117.647059
+25,Mahatma Gandhi National Rural Employment Guarantee Program,MGNREGA-Programme Component,mord_dord_ttsu_css_mgnregp,mord_dord_ttsu_css_mgnregp_mpc,60000.0,600000000000.0,7058823529.411765
+26,Mahatma Gandhi National Rural Employment Guarantee Program,Transfer to National Employment Guarantee Fund,mord_dord_ttsu_css_mgnregp,mord_dord_ttsu_css_mgnregp_ttnegf,60000.0,600000000000.0,7058823529.411765
+27,National Livelihood Mission - Ajeevika,National Rural Livelihood Mission,mord_dord_ttsu_css_nlma,mord_dord_ttsu_css_nlma_nrlm,14129.17,141291700000.0,1662255294.1176472
+28,National Rural Livelihood Mission,NRLM-EAP Component,mord_dord_ttsu_css_nlma_nrlm,mord_dord_ttsu_css_nlma_nrlm_nec,3272.0,32720000000.0,384941176.4705882
+29,National Rural Livelihood Mission,North-east Region,mord_dord_ttsu_css_nlma_nrlm,mord_dord_ttsu_css_nlma_nrlm_ner,1362.52,13625200000.0,160296470.5882353
+30,National Rural Livelihood Mission,NRLM-Programme Component,mord_dord_ttsu_css_nlma_nrlm,mord_dord_ttsu_css_nlma_nrlm_npc,9494.65,94946500000.0,1117017647.0588236
+31,National Social Assistance Progamme,Administrative Expenditure,mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_ae,16.0,160000000.0,1882352.9411764706
+32,National Social Assistance Progamme,Annapurna Scheme,mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_as,10.01,100100000.0,1177647.0588235294
+33,National Social Assistance Progamme,Indira Gandhi National Disability Pension Scheme(IGNDPS),mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_igndpsi,290.0,2900000000.0,34117647.058823526
+34,National Social Assistance Progamme,Indira Gandhi National Old Age Pension Scheme (IGNOAPS),mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_ignoapsi,6634.32,66343200000.0,780508235.2941177
+35,National Social Assistance Progamme,Indira Gandhi National Widow Pension Scheme(IGNWPS),mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_ignwpsi,2026.99,20269900000.0,238469411.7647059
+36,National Social Assistance Progamme,National Family Benefit Scheme,mord_dord_ttsu_css_nsap,mord_dord_ttsu_css_nsap_nfbs,659.0,6590000000.0,77529411.76470588

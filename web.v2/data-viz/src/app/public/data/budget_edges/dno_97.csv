@@ -1,0 +1,14 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Steel
+Demand No. 97
+Ministry of Steel",r,r_mosdn9mos,70.15,701500000.0,8252941.176470588
+"Ministry of Steel
+Demand No. 97
+Ministry of Steel",CENTRE'S EXPENDITURE,r_mosdn9mos,r_mosdn9mos_cse,70.15,701500000.0,8252941.176470588
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mosdn9mos_cse,r_mosdn9mos_cse_cssp,24.0,240000000.0,2823529.411764706
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mosdn9mos_cse,r_mosdn9mos_cse_eeotc,43.64,436400000.0,5134117.647058823
+CENTRE'S EXPENDITURE,Others,r_mosdn9mos_cse,r_mosdn9mos_cse_o,2.51,25099999.999999996,295294.1176470588
+Central Sector Schemes/Projects,Flagging of Merchant Ships in India,r_mosdn9mos_cse_cssp,r_mosdn9mos_cse_cssp_fomsii,14.0,140000000.0,1647058.8235294118
+Central Sector Schemes/Projects,Scheme for Promotion of Research and Development in Iron and Steel sector,r_mosdn9mos_cse_cssp,r_mosdn9mos_cse_cssp_sfporadiiass,10.0,100000000.0,1176470.5882352942
+Establishment Expenditure of the Centre,Secretariat,r_mosdn9mos_cse_eeotc,r_mosdn9mos_cse_eeotc_s,43.64,436400000.0,5134117.647058823
+Others,Other Programmes,r_mosdn9mos_cse_o,r_mosdn9mos_cse_o_op,2.51,25099999.999999996,295294.1176470588

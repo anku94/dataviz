@@ -1,0 +1,82 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Health and Family Welfare,,mohafw,88807.39,888073900000.0,10447928235.294117
+1,Ministry of Health and Family Welfare,Department of Health and Family Welfare,mohafw,mohafw_dohafw,85827.39,858273900000.0,10097340000.0
+2,Ministry of Health and Family Welfare,Department of Health Research,mohafw,mohafw_dohr,2980.0,29800000000.0,350588235.2941176
+3,Department of Health and Family Welfare,CENTRE'S EXPENDITURE,mohafw_dohafw,mohafw_dohafw_cse,38480.159999999996,384801599999.99994,4527077647.058823
+4,Department of Health and Family Welfare,TRANSFERS TO STATES/UTs,mohafw_dohafw,mohafw_dohafw_ttsu,47347.23,473472300000.00006,5570262352.941177
+5,CENTRE'S EXPENDITURE,Central Government Health Scheme,mohafw_dohafw_cse,mohafw_dohafw_cse_cghs,2220.24,22202399999.999996,261204705.8823529
+6,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mohafw_dohafw_cse,mohafw_dohafw_cse_cssp,8820.27,88202700000.0,1037678823.5294118
+7,CENTRE'S EXPENDITURE,"Dr. Ram Manohar Lohia Hospital and Atal Bihari Vajpayee Institute of Medical Sciences, New Delhi",mohafw_dohafw_cse,mohafw_dohafw_cse_drmlhaabviomsnd,1272.18,12721800000.0,149668235.29411766
+8,CENTRE'S EXPENDITURE,"Kalawati Saran Children's Hospital, New Delhi",mohafw_dohafw_cse,mohafw_dohafw_cse_kscshnd,168.53,1685300000.0,19827058.82352941
+9,CENTRE'S EXPENDITURE,Lady Hardinge Medical College and Smt. S.K. Hospitals,mohafw_dohafw_cse,mohafw_dohafw_cse_lhmcasskh,768.15,7681500000.0,90370588.23529412
+10,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mohafw_dohafw_cse,mohafw_dohafw_cse_ocse,22309.86,223098600000.0,2624689411.7647057
+11,CENTRE'S EXPENDITURE,Other Hospitals / Institutions,mohafw_dohafw_cse,mohafw_dohafw_cse_ohi,1067.59,10675900000.0,125598823.52941176
+12,CENTRE'S EXPENDITURE,"Safdarjung Hospital and Vardhman Mahavir Medical College, New Delhi",mohafw_dohafw_cse,mohafw_dohafw_cse_shavmmcnd,1853.34,18533400000.0,218040000.0
+13,Central Sector Schemes/Projects,COVID -19 Emergency Response and Health System Preparedness Package - EAP,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_c1erahsppe,1.78,17800000.0,209411.76470588235
+14,Central Sector Schemes/Projects,Development of Nursing Services,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_dons,33.41,334099999.99999994,3930588.235294117
+15,Central Sector Schemes/Projects,Establishment and strengthening of NCDC Branches and Health Initiatives Inter Sectoral coordination for preparation and control of Zoonotic Diseases and other neglected tropical diseases surveillance of Viral Hepatitis Anti Microbial Resistance,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_easonbahiiscfpacozdaontdsovhamr,55.54,555400000.0,6534117.647058823
+16,Central Sector Schemes/Projects,Family Welfare Schemes,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_fws,516.6,5166000000.0,60776470.5882353
+17,Central Sector Schemes/Projects,Global Fund Grant under Covid 19 Response Mechanism 2021(EAP),mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_gfguc1rm2e,495.0,4950000000.0,58235294.11764706
+18,Central Sector Schemes/Projects,Health Sector Disaster Preparedness and Response and Human Resources Development for Emergency Medical Services,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_hsdparahrdfems,128.14,1281399999.9999998,15075294.117647056
+19,Central Sector Schemes/Projects,National AIDS and STD Control Programme,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_naascp,3079.97,30799699999.999996,362349411.76470584
+20,Central Sector Schemes/Projects,National Digital Health Mission - NHM,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_ndhmn,341.02,3410200000.0,40120000.0
+21,Central Sector Schemes/Projects,National Organ Transplant Programme,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_notp,15.68,156800000.0,1844705.8823529412
+22,Central Sector Schemes/Projects,National Pharmacovigilance Programme,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_npp,8.53,85300000.0,1003529.4117647059
+23,Central Sector Schemes/Projects,National Tele Mental Health Programme,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_ntmhp,133.73,1337300000.0,15732941.176470589
+24,Central Sector Schemes/Projects,Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM) (Health),mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_pmabhimph,645.86,6458600000.0,75983529.41176471
+25,Central Sector Schemes/Projects,Pardhan Mantri Swasthya Suraksha Yojana,mohafw_dohafw_cse_cssp,mohafw_dohafw_cse_cssp_pmssy,3365.0,33650000000.0,395882352.9411765
+26,COVID -19 Emergency Response and Health System Preparedness Package - EAP,National Rural Health Mission (NRHM),mohafw_dohafw_cse_cssp_c1erahsppe,mohafw_dohafw_cse_cssp_c1erahsppe_nrhmn,1.78,17800000.0,209411.76470588235
+27,National AIDS and STD Control Programme,NACO,mohafw_dohafw_cse_cssp_naascp,mohafw_dohafw_cse_cssp_naascp_n,163.0,1630000000.0,19176470.588235293
+28,National AIDS and STD Control Programme,Unallocated,mohafw_dohafw_cse_cssp_naascp,mohafw_dohafw_cse_cssp_naascp_u,2916.97,29169699999.999996,343172941.1764705
+29,NACO,Blood Transfusion Service,mohafw_dohafw_cse_cssp_naascp_n,mohafw_dohafw_cse_cssp_naascp_n_bts,161.0,1610000000.0,18941176.470588237
+30,NACO,National/State Blood Transfusion Council,mohafw_dohafw_cse_cssp_naascp_n,mohafw_dohafw_cse_cssp_naascp_n_nsbtc,2.0,20000000.0,235294.11764705883
+31,Pardhan Mantri Swasthya Suraksha Yojana,Support from  Gross Budgetary Support (GBS),mohafw_dohafw_cse_cssp_pmssy,mohafw_dohafw_cse_cssp_pmssy_sfgbsg,3365.0,33650000000.0,395882352.9411765
+32,Other Central Sector Expenditure,Autonomous Bodies,mohafw_dohafw_cse_ocse,mohafw_dohafw_cse_ocse_ab,17322.550000000003,173225500000.00003,2037947058.8235297
+33,Other Central Sector Expenditure,Others,mohafw_dohafw_cse_ocse,mohafw_dohafw_cse_ocse_o,4348.210000000001,43482100000.00001,511554117.6470589
+34,Other Central Sector Expenditure,Statutory and Regulatory Bodies,mohafw_dohafw_cse_ocse,mohafw_dohafw_cse_ocse_sarb,639.1,6391000000.0,75188235.29411764
+35,Autonomous Bodies,"All India Institute of Medical Sciences, N Delhi",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_aiiomsnd,4134.67,41346700000.0,486431764.7058824
+36,Autonomous Bodies,Establishment Expenditure of New AIIMS,mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_eeona,6835.0,68350000000.0,804117647.0588236
+37,Autonomous Bodies,"Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_jiopgmearp,1490.43,14904300000.0,175344705.88235295
+38,Autonomous Bodies,"Lokpriya Gopinath Bordoloi Regional Institute of Mental Health, Tezpur",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_lgbriomht,63.66,636600000.0,7489411.764705882
+39,Autonomous Bodies,"North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences, Shillong",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_neigriohamss,528.83,5288300000.0,62215294.11764706
+40,Autonomous Bodies,"National Institute of Mental Health and Neuro-Sciences, Bengaluru",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_niomhansb,721.15,7211500000.0,84841176.47058824
+41,Autonomous Bodies,Other Autonomous Bodies,mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_oab,871.51,8715100000.0,102530588.23529412
+42,Autonomous Bodies,"Post Graduate Institute of Medical Education and Research, Chandigarh",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_pgiomearc,1923.1,19231000000.0,226247058.82352942
+43,Autonomous Bodies,"Regional Institue of Medical Sciences, Imphal",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_riomsi,629.16,6291600000.0,74018823.52941176
+44,Autonomous Bodies,"Regional Institute of Paramedical and Nursing Sciences, Aizawl",mohafw_dohafw_cse_ocse_ab,mohafw_dohafw_cse_ocse_ab_riopansa,125.04,1250400000.0,14710588.235294119
+45,"All India Institute of Medical Sciences, N Delhi",Support from Gross Budgetary Support (GBS),mohafw_dohafw_cse_ocse_ab_aiiomsnd,mohafw_dohafw_cse_ocse_ab_aiiomsnd_sfgbsg,4134.67,41346700000.0,486431764.7058824
+46,"Jawaharlal Institute of Post Graduate Medical Education and Research, Puducherry",Support from Gross Budgetary Support (GBS),mohafw_dohafw_cse_ocse_ab_jiopgmearp,mohafw_dohafw_cse_ocse_ab_jiopgmearp_sfgbsg,1490.43,14904300000.0,175344705.88235295
+47,Other Autonomous Bodies,Support from Gross Budgetary Support (GBS),mohafw_dohafw_cse_ocse_ab_oab,mohafw_dohafw_cse_ocse_ab_oab_sfgbsg,871.51,8715100000.0,102530588.23529412
+48,"Post Graduate Institute of Medical Education and Research, Chandigarh",Support from Gross Budgetary Support (GBS),mohafw_dohafw_cse_ocse_ab_pgiomearc,mohafw_dohafw_cse_ocse_ab_pgiomearc_sfgbsg,1923.1,19231000000.0,226247058.82352942
+49,Others,International Cooperation,mohafw_dohafw_cse_ocse_o,mohafw_dohafw_cse_ocse_o_ic,254.0,2540000000.0,29882352.94117647
+50,Others,Medical Treatment of CGHS Pensioners (PORB),mohafw_dohafw_cse_ocse_o,mohafw_dohafw_cse_ocse_o_mtocpp,3846.19,38461900000.0,452492941.1764706
+51,Others,Other Miscellaneous  Expenditure,mohafw_dohafw_cse_ocse_o,mohafw_dohafw_cse_ocse_o_ome,248.02,2480200000.0,29178823.529411763
+52,Other Miscellaneous  Expenditure,Gross Budgetary Support,mohafw_dohafw_cse_ocse_o_ome,mohafw_dohafw_cse_ocse_o_ome_gbs,248.02,2480200000.0,29178823.529411763
+53,Statutory and Regulatory Bodies,Regulatory and Statutory Bodies,mohafw_dohafw_cse_ocse_sarb,mohafw_dohafw_cse_ocse_sarb_rasb,639.1,6391000000.0,75188235.29411764
+54,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mohafw_dohafw_ttsu,mohafw_dohafw_ttsu_css,47347.23,473472300000.00006,5570262352.941177
+55,Centrally Sponsored Schemes,Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY),mohafw_dohafw_ttsu_css,mohafw_dohafw_ttsu_css_abpmjayp,7200.0,72000000000.0,847058823.5294118
+56,Centrally Sponsored Schemes,National Health Mission,mohafw_dohafw_ttsu_css,mohafw_dohafw_ttsu_css_nhm,35585.26,355852600000.0,4186501176.470588
+57,Centrally Sponsored Schemes,Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PMABHIM),mohafw_dohafw_ttsu_css,mohafw_dohafw_ttsu_css_pmabhimp,4200.0,42000000000.0,494117647.0588235
+58,Centrally Sponsored Schemes,Strengthening of State Drug Regulatory System,mohafw_dohafw_ttsu_css,mohafw_dohafw_ttsu_css_sosdrs,72.14,721400000.0,8487058.823529411
+59,Centrally Sponsored Schemes,Tertiary Care Programme,mohafw_dohafw_ttsu_css,mohafw_dohafw_ttsu_css_tcp,289.81,2898100000.0,34095294.11764706
+60,Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY),Gross Budgetary Support,mohafw_dohafw_ttsu_css_abpmjayp,mohafw_dohafw_ttsu_css_abpmjayp_gbs,411.0,4110000000.0,48352941.176470585
+61,Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY),Support from (PMSSN),mohafw_dohafw_ttsu_css_abpmjayp,mohafw_dohafw_ttsu_css_abpmjayp_sfp,6789.0,67890000000.0,798705882.3529412
+62,National Health Mission,"Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission",mohafw_dohafw_ttsu_css_nhm,mohafw_dohafw_ttsu_css_nhm_fpfrhssnhpanuhm,22094.57,220945700000.0,2599361176.470588
+63,National Health Mission,Human Resources for Health and Medical Education,mohafw_dohafw_ttsu_css_nhm,mohafw_dohafw_ttsu_css_nhm_hrfhame,6500.0,65000000000.0,764705882.3529412
+64,National Health Mission,Infrastructure Maintenance,mohafw_dohafw_ttsu_css_nhm,mohafw_dohafw_ttsu_css_nhm_im,6798.37,67983700000.0,799808235.2941177
+65,National Health Mission,Strengthening National Programme Management of the NRHM,mohafw_dohafw_ttsu_css_nhm,mohafw_dohafw_ttsu_css_nhm_snpmotn,192.32,1923200000.0,22625882.352941178
+66,"Flexible Pool for RCH & Health System Strengthening , National Health Programme and National Urban Health Mission",Gross Budgetary Support (GBS),mohafw_dohafw_ttsu_css_nhm_fpfrhssnhpanuhm,mohafw_dohafw_ttsu_css_nhm_fpfrhssnhpanuhm_gbsg,22094.57,220945700000.0,2599361176.470588
+67,Infrastructure Maintenance,Gross Budgetary Support (GBS),mohafw_dohafw_ttsu_css_nhm_im,mohafw_dohafw_ttsu_css_nhm_im_gbsg,5498.37,54983700000.0,646867058.8235294
+68,Infrastructure Maintenance,Support from PMSSN,mohafw_dohafw_ttsu_css_nhm_im,mohafw_dohafw_ttsu_css_nhm_im_sfp,1300.0,13000000000.0,152941176.47058824
+69,Department of Health Research,CENTRE'S EXPENDITURE,mohafw_dohr,mohafw_dohr_cse,2980.0,29800000000.0,350588235.2941176
+70,CENTRE'S EXPENDITURE,Autonomous Bodies,mohafw_dohr_cse,mohafw_dohr_cse_ab,2359.58,23595800000.0,277597647.0588235
+71,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mohafw_dohr_cse,mohafw_dohr_cse_cssp,566.4200000000001,5664200000.000001,66637647.05882354
+72,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mohafw_dohr_cse,mohafw_dohr_cse_eeotc,54.0,540000000.0,6352941.176470588
+73,Autonomous Bodies,"Indian Council of Medical Research, New Delhi",mohafw_dohr_cse_ab,mohafw_dohr_cse_ab_icomrnd,2359.58,23595800000.0,277597647.0588235
+74,Central Sector Schemes/Projects,Human Resource and Capacity Development,mohafw_dohr_cse_cssp,mohafw_dohr_cse_cssp_hracd,92.06,920600000.0,10830588.235294119
+75,Central Sector Schemes/Projects,Infrastructure Development for Health Research,mohafw_dohr_cse_cssp,mohafw_dohr_cse_cssp_idfhr,150.0,1500000000.0,17647058.82352941
+76,Central Sector Schemes/Projects,Prime Minister's Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)-Bio Security Preparedness and strengthening Pandemic Research and Multi Sector and National Institutions and Platform for One Health,mohafw_dohr_cse_cssp,mohafw_dohr_cse_cssp_pmsabhimpabspaspramsaniapfoh,324.36,3243600000.0,38160000.0
+77,Infrastructure Development for Health Research,Development of Infrastructure for Promotion of Health Research,mohafw_dohr_cse_cssp_idfhr,mohafw_dohr_cse_cssp_idfhr_doifpohr,80.0,800000000.0,9411764.705882354
+78,Infrastructure Development for Health Research,Development of tools/support to prevent outbreaks of epidemics,mohafw_dohr_cse_cssp_idfhr,mohafw_dohr_cse_cssp_idfhr_dotstpooe,10.0,100000000.0,1176470.5882352942
+79,Infrastructure Development for Health Research,Setting up of nation wide network of laboratories for managing epidemics and national calamities,mohafw_dohr_cse_cssp_idfhr,mohafw_dohr_cse_cssp_idfhr_suonwnolfmeanc,60.0,600000000.0,7058823.529411765
+80,Establishment Expenditure of the Centre,Secretariat,mohafw_dohr_cse_eeotc,mohafw_dohr_cse_eeotc_s,54.0,540000000.0,6352941.176470588

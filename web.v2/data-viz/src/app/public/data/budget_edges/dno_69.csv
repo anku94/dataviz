@@ -1,0 +1,21 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Mines
+Demand No. 69
+Ministry of Mines",r,r_momdn6mom,1911.6,19116000000.0,224894117.6470588
+"Ministry of Mines
+Demand No. 69
+Ministry of Mines",CENTRE'S EXPENDITURE,r_momdn6mom,r_momdn6mom_cse,1911.6,19116000000.0,224894117.6470588
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_momdn6mom_cse,r_momdn6mom_cse_eeotc,927.01,9270100000.0,109060000.0
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_momdn6mom_cse,r_momdn6mom_cse_ocse,984.59,9845900000.0,115834117.64705883
+Establishment Expenditure of the Centre,Geological Survey of India,r_momdn6mom_cse_eeotc,r_momdn6mom_cse_eeotc_gsoi,780.5,7805000000.0,91823529.41176471
+Establishment Expenditure of the Centre,Indian Bureau of Mines,r_momdn6mom_cse_eeotc,r_momdn6mom_cse_eeotc_ibom,101.51,1015100000.0,11942352.94117647
+Establishment Expenditure of the Centre,Secretariat,r_momdn6mom_cse_eeotc,r_momdn6mom_cse_eeotc_s,45.0,450000000.0,5294117.647058823
+Other Central Sector Expenditure,Autonomous Bodies,r_momdn6mom_cse_ocse,r_momdn6mom_cse_ocse_ab,28.82,288200000.0,3390588.2352941176
+Other Central Sector Expenditure,Others,r_momdn6mom_cse_ocse,r_momdn6mom_cse_ocse_o,949.07,9490700000.0,111655294.11764705
+Other Central Sector Expenditure,Public Sector Undertakings,r_momdn6mom_cse_ocse,r_momdn6mom_cse_ocse_psu,6.7,67000000.0,788235.2941176471
+Autonomous Bodies,Support to Autonomous Bodies,r_momdn6mom_cse_ocse_ab,r_momdn6mom_cse_ocse_ab_stab,28.82,288200000.0,3390588.2352941176
+Others,Exploration Activities under National Mineral Exploration Trust,r_momdn6mom_cse_ocse_o,r_momdn6mom_cse_ocse_o_eaunmet,400.0,4000000000.0,47058823.52941176
+Others,Indian Bureau of Mines Activities,r_momdn6mom_cse_ocse_o,r_momdn6mom_cse_ocse_o_iboma,20.97,209700000.0,2467058.8235294116
+Exploration Activities under National Mineral Exploration Trust,Programme Component,r_momdn6mom_cse_ocse_o_eaunmet,r_momdn6mom_cse_ocse_o_eaunmet_pc,400.0,4000000000.0,47058823.52941176
+Exploration Activities under National Mineral Exploration Trust,Transfer to National Mineral Exploration Fund,r_momdn6mom_cse_ocse_o_eaunmet,r_momdn6mom_cse_ocse_o_eaunmet_ttnmef,400.0,4000000000.0,47058823.52941176
+Public Sector Undertakings,Bharat Gold Mines Ltd.,r_momdn6mom_cse_ocse_psu,r_momdn6mom_cse_ocse_psu_bgml,6.7,67000000.0,788235.2941176471

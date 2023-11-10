@@ -1,0 +1,20 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 36
+Direct Taxes",r,r_mofdn3dt,9890.87,98908700000.00002,1163631764.7058825
+"Ministry of Finance
+Demand No. 36
+Direct Taxes",CENTRE'S EXPENDITURE,r_mofdn3dt,r_mofdn3dt_cse,9890.87,98908700000.00002,1163631764.7058825
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn3dt_cse,r_mofdn3dt_cse_eeotc,8840.87,88408700000.00002,1040102352.9411767
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mofdn3dt_cse,r_mofdn3dt_cse_ocse,1050.0,10500000000.0,123529411.76470588
+Establishment Expenditure of the Centre,Collection of Taxes on Income and Expenditure,r_mofdn3dt_cse_eeotc,r_mofdn3dt_cse_eeotc_cotoiae,8075.8,80758000000.0,950094117.6470588
+Establishment Expenditure of the Centre,"Collection of Taxes on Wealth, Securities Transaction and other Taxes",r_mofdn3dt_cse_eeotc,r_mofdn3dt_cse_eeotc_cotowstaot,765.07,7650700000.000001,90008235.29411766
+Collection of Taxes on Income and Expenditure,Collection of Corporation Tax,r_mofdn3dt_cse_eeotc_cotoiae,r_mofdn3dt_cse_eeotc_cotoiae_coct,1076.77,10767700000.0,126678823.52941176
+Collection of Taxes on Income and Expenditure,Collection of Income Tax,r_mofdn3dt_cse_eeotc_cotoiae,r_mofdn3dt_cse_eeotc_cotoiae_coit,6999.03,69990300000.0,823415294.117647
+"Collection of Taxes on Wealth, Securities Transaction and other Taxes",Collection of Other Taxes,r_mofdn3dt_cse_eeotc_cotowstaot,r_mofdn3dt_cse_eeotc_cotowstaot_coot,144.95,1449500000.0,17052941.17647059
+"Collection of Taxes on Wealth, Securities Transaction and other Taxes",Collection of Wealth Tax,r_mofdn3dt_cse_eeotc_cotowstaot,r_mofdn3dt_cse_eeotc_cotowstaot_cowt,20.71,207100000.0,2436470.588235294
+"Collection of Taxes on Wealth, Securities Transaction and other Taxes",Purchase of Ready Built Accommodation - Office Buildings,r_mofdn3dt_cse_eeotc_cotowstaot,r_mofdn3dt_cse_eeotc_cotowstaot_porbaob,466.2,4662000000.0,54847058.823529415
+"Collection of Taxes on Wealth, Securities Transaction and other Taxes",Purchase of Ready Built Accommodation - Residential Buildings,r_mofdn3dt_cse_eeotc_cotowstaot,r_mofdn3dt_cse_eeotc_cotowstaot_porbarb,91.8,918000000.0,10800000.0
+"Collection of Taxes on Wealth, Securities Transaction and other Taxes",Securities Transaction Tax,r_mofdn3dt_cse_eeotc_cotowstaot,r_mofdn3dt_cse_eeotc_cotowstaot_stt,41.41,414099999.99999994,4871764.705882352
+Other Central Sector Expenditure,Others,r_mofdn3dt_cse_ocse,r_mofdn3dt_cse_ocse_o,1050.0,10500000000.0,123529411.76470588
+Others,Capital Outlay on Miscellaneous General Services,r_mofdn3dt_cse_ocse_o,r_mofdn3dt_cse_ocse_o_coomgs,1050.0,10500000000.0,123529411.76470588

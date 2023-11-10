@@ -1,0 +1,24 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Women and Child Development,,mowacd,25866.350000000002,258663500000.00003,3043100000.0000005
+1,Ministry of Women and Child Development,Ministry of Women and Child Development,mowacd,mowacd_mowacd,25866.350000000002,258663500000.00003,3043100000.0000005
+2,Ministry of Women and Child Development,CENTRE'S EXPENDITURE,mowacd_mowacd,mowacd_mowacd_cse,175.91,1759100000.0,20695294.11764706
+3,Ministry of Women and Child Development,TRANSFERS TO STATES/UTs,mowacd_mowacd,mowacd_mowacd_ttsu,25690.440000000002,256904400000.00003,3022404705.8823533
+4,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mowacd_mowacd_cse,mowacd_mowacd_cse_ocse,175.91,1759100000.0,20695294.11764706
+5,Other Central Sector Expenditure,Autonomous Bodies,mowacd_mowacd_cse_ocse,mowacd_mowacd_cse_ocse_ab,168.71,1687100000.0,19848235.29411765
+6,Other Central Sector Expenditure,Others,mowacd_mowacd_cse_ocse,mowacd_mowacd_cse_ocse_o,7.2,72000000.0,847058.8235294118
+7,Autonomous Bodies,Central Adoption Resource Agency (CARA),mowacd_mowacd_cse_ocse_ab,mowacd_mowacd_cse_ocse_ab_carac,9.4,94000000.0,1105882.3529411764
+8,Autonomous Bodies,Central Social Welfare Board,mowacd_mowacd_cse_ocse_ab,mowacd_mowacd_cse_ocse_ab_cswb,40.06,400600000.0,4712941.176470588
+9,Autonomous Bodies,National Commission for Protection of Child Rights (NCPCR),mowacd_mowacd_cse_ocse_ab,mowacd_mowacd_cse_ocse_ab_ncfpocrn,21.25,212500000.0,2500000.0
+10,Autonomous Bodies,National Commission for Women,mowacd_mowacd_cse_ocse_ab,mowacd_mowacd_cse_ocse_ab_ncfw,42.0,420000000.0,4941176.470588235
+11,Autonomous Bodies,National Institute of Public Cooperation and Child Development (NIPCCD),mowacd_mowacd_cse_ocse_ab,mowacd_mowacd_cse_ocse_ab_niopcacdn,56.0,560000000.0,6588235.294117647
+12,Others,Contribution to UNICEF,mowacd_mowacd_cse_ocse_o,mowacd_mowacd_cse_ocse_o_ctu,5.6,56000000.0,658823.5294117647
+13,Others,National Awards,mowacd_mowacd_cse_ocse_o,mowacd_mowacd_cse_ocse_o_na,1.6,16000000.0,188235.29411764705
+14,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mowacd_mowacd_ttsu,mowacd_mowacd_ttsu_css,25690.440000000002,256904400000.00003,3022404705.8823533
+15,Centrally Sponsored Schemes,Mission for Protection and Empowerment  for Women,mowacd_mowacd_ttsu_css,mowacd_mowacd_ttsu_css_mfpaefw,520.0,5200000000.0,61176470.5882353
+16,Centrally Sponsored Schemes,Mission Shakti (Mission for Protection and Empowerment for Women),mowacd_mowacd_ttsu_css,mowacd_mowacd_ttsu_css_msmfpaefw,3143.96,31439600000.0,369877647.0588235
+17,Centrally Sponsored Schemes,Mission VATSALYA (Child Protection Services and Child Welfare Services),mowacd_mowacd_ttsu_css,mowacd_mowacd_ttsu_css_mvcpsacws,1472.17,14721700000.0,173196470.5882353
+18,Centrally Sponsored Schemes,"Saksham Anganwadi and POSHAN 2.0 (Umbrella ICDS - Anganwadi Services, Poshan Abhiyan, Scheme for Adolescent Girls)",mowacd_mowacd_ttsu_css,mowacd_mowacd_ttsu_css_saap20uiaspasfag,20554.31,205543100000.0,2418154117.647059
+19,Mission for Protection and Empowerment  for Women,Other Schemes Funded from Nirbhaya Fund,mowacd_mowacd_ttsu_css_mfpaefw,mowacd_mowacd_ttsu_css_mfpaefw_osffnf,20.0,200000000.0,2352941.1764705884
+20,Mission for Protection and Empowerment  for Women,Transfer to Nirbhaya Fund,mowacd_mowacd_ttsu_css_mfpaefw,mowacd_mowacd_ttsu_css_mfpaefw_ttnf,500.0,5000000000.0,58823529.4117647
+21,Mission Shakti (Mission for Protection and Empowerment for Women),"SAMBAL (Beti Bacaho Beti Padhao, One Stop Centre, Nari Adalat, Mahila Police Volunteer, Women's Helpline etc.)",mowacd_mowacd_ttsu_css_msmfpaefw,mowacd_mowacd_ttsu_css_msmfpaefw_sbbbposcnampvwshe,562.0,5620000000.0,66117647.058823526
+22,Mission Shakti (Mission for Protection and Empowerment for Women),"SAMARTHYA(Shakti Sadan (Swadhar, Ujjawala, Widow Home), Shakhi Niwas (Working Women Hostel), Palna (National Creche Scheme), Pradhan Mantri Matru Vandana Yojana/ National Hub for Women Empowerment/Gender Budgeting/Research/ Skilling/ Trg/ Media etc.)",mowacd_mowacd_ttsu_css_msmfpaefw,mowacd_mowacd_ttsu_css_msmfpaefw_ssssuwhsnwwhpncspmmvynhfwegbrstme,2581.96,25819600000.0,303760000.0

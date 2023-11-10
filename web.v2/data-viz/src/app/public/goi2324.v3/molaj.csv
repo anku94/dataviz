@@ -1,0 +1,35 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Law and Justice,,molaj,4486.44,44864399999.99999,527816470.5882352
+1,Ministry of Law and Justice,Election Commission,molaj,molaj_ec,340.0,3400000000.0,40000000.0
+2,Ministry of Law and Justice,Law and Justice,molaj,molaj_laj,3709.29,37092900000.0,436387058.8235294
+3,Ministry of Law and Justice,Supreme Court of India,molaj,molaj_scoi,437.15,4371500000.0,51429411.76470588
+4,Election Commission,CENTRE'S EXPENDITURE,molaj_ec,molaj_ec_cse,340.0,3400000000.0,40000000.0
+5,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,molaj_ec_cse,molaj_ec_cse_eeotc,340.0,3400000000.0,40000000.0
+6,Establishment Expenditure of the Centre,Election Commission of India,molaj_ec_cse_eeotc,molaj_ec_cse_eeotc_ecoi,340.0,3400000000.0,40000000.0
+7,Law and Justice,CENTRE'S EXPENDITURE,molaj_laj,molaj_laj_cse,464.51,4645100000.0,54648235.294117644
+8,Law and Justice,TRANSFERS TO STATES/UTs,molaj_laj,molaj_laj_ttsu,3244.78,32447800000.000004,381738823.5294118
+9,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,molaj_laj_cse,molaj_laj_cse_cssp,40.01,400100000.0,4707058.823529412
+10,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,molaj_laj_cse,molaj_laj_cse_ocse,228.5,2285000000.0,26882352.94117647
+11,CENTRE'S EXPENDITURE,Tax Tribunals,molaj_laj_cse,molaj_laj_cse_tt,196.0,1960000000.0,23058823.529411763
+12,Central Sector Schemes/Projects,National Mission for Justice Delivery and Legal Reforms,molaj_laj_cse_cssp,molaj_laj_cse_cssp_nmfjdalr,40.01,400100000.0,4707058.823529412
+13,National Mission for Justice Delivery and Legal Reforms,Designing Innovative Solutions for Holistic Access to Justice in India(DISHA),molaj_laj_cse_cssp_nmfjdalr,molaj_laj_cse_cssp_nmfjdalr_disfhatjiid,40.0,400000000.0,4705882.352941177
+14,Other Central Sector Expenditure,Autonomous Bodies,molaj_laj_cse_ocse,molaj_laj_cse_ocse_ab,228.5,2285000000.0,26882352.94117647
+15,Autonomous Bodies,Aribitration Council of India (ACI),molaj_laj_cse_ocse_ab,molaj_laj_cse_ocse_ab_acoia,2.0,20000000.0,235294.11764705883
+16,Autonomous Bodies,Indian Law Institute (ILI),molaj_laj_cse_ocse_ab,molaj_laj_cse_ocse_ab_ilii,3.5,35000000.0,411764.70588235295
+17,Autonomous Bodies,New Delhi International Arbitration Centre,molaj_laj_cse_ocse_ab,molaj_laj_cse_ocse_ab_ndiac,3.0,30000000.0,352941.17647058825
+18,Autonomous Bodies,National Judicial Academy,molaj_laj_cse_ocse_ab,molaj_laj_cse_ocse_ab_nja,20.0,200000000.0,2352941.1764705884
+19,Autonomous Bodies,National Legal Services Authority,molaj_laj_cse_ocse_ab,molaj_laj_cse_ocse_ab_nlsa,200.0,2000000000.0,23529411.76470588
+20,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,molaj_laj_ttsu,molaj_laj_ttsu_css,1061.0,10610000000.0,124823529.41176471
+21,TRANSFERS TO STATES/UTs,Other Grants/Loans/Transfers,molaj_laj_ttsu,molaj_laj_ttsu_oglt,2183.78,21837800000.000004,256915294.1176471
+22,Centrally Sponsored Schemes,Infrastructure Facilities for Judiciary,molaj_laj_ttsu_css,molaj_laj_ttsu_css_iffj,1061.0,10610000000.0,124823529.41176471
+23,Infrastructure Facilities for Judiciary,Infrastructure Facilities for Judiciary,molaj_laj_ttsu_css_iffj,molaj_laj_ttsu_css_iffj_iffj,1061.0,10610000000.0,124823529.41176471
+24,Infrastructure Facilities for Judiciary,Gram Nyayalayas,molaj_laj_ttsu_css_iffj_iffj,molaj_laj_ttsu_css_iffj_iffj_gn,10.0,100000000.0,1176470.5882352942
+25,Infrastructure Facilities for Judiciary,Infrastructure Facilities for Judiciary,molaj_laj_ttsu_css_iffj_iffj,molaj_laj_ttsu_css_iffj_iffj_iffj,1051.0,10510000000.0,123647058.8235294
+26,Other Grants/Loans/Transfers,EVMs for Election Commission,molaj_laj_ttsu_oglt,molaj_laj_ttsu_oglt_efec,1891.78,18917800000.0,222562352.94117647
+27,Other Grants/Loans/Transfers,Organs of Elections,molaj_laj_ttsu_oglt,molaj_laj_ttsu_oglt_ooe,292.0,2920000000.0,34352941.176470585
+28,Organs of Elections,Identity Cards to Voters,molaj_laj_ttsu_oglt_ooe,molaj_laj_ttsu_oglt_ooe_ictv,18.0,180000000.0,2117647.0588235296
+29,Organs of Elections,Lok Sabha Elections,molaj_laj_ttsu_oglt_ooe,molaj_laj_ttsu_oglt_ooe_lse,180.0,1800000000.0,21176470.588235293
+30,Organs of Elections,Other Election Expenses,molaj_laj_ttsu_oglt_ooe,molaj_laj_ttsu_oglt_ooe_oee,94.0,940000000.0,11058823.529411765
+31,Supreme Court of India,CENTRE'S EXPENDITURE,molaj_scoi,molaj_scoi_cse,437.15,4371500000.0,51429411.76470588
+32,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,molaj_scoi_cse,molaj_scoi_cse_eeotc,437.15,4371500000.0,51429411.76470588
+33,Establishment Expenditure of the Centre,Supreme Court of India,molaj_scoi_cse_eeotc,molaj_scoi_cse_eeotc_scoi,437.15,4371500000.0,51429411.76470588

@@ -1,0 +1,23 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 38
+Indian Audit and Accounts Department",r,r_mofdn3iaaad,5806.13,58061300000.0,683074117.6470588
+"Ministry of Finance
+Demand No. 38
+Indian Audit and Accounts Department",CENTRE'S EXPENDITURE,r_mofdn3iaaad,r_mofdn3iaaad_cse,5806.13,58061300000.0,683074117.6470588
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn3iaaad_cse,r_mofdn3iaaad_cse_eeotc,5806.13,58061300000.0,683074117.6470588
+Establishment Expenditure of the Centre,Civil Audit and Accounts Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_caaao,4820.48,48204799999.99999,567115294.1176469
+Establishment Expenditure of the Centre,Comptroller and Auditor General of India,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_caagoi,263.67,2636700000.0,31020000.0
+Establishment Expenditure of the Centre,Commercial Audit Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_cao,273.42,2734200000.0,32167058.82352941
+Establishment Expenditure of the Centre,Defence Audit Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_dao,149.67,1496699999.9999998,17608235.294117644
+Establishment Expenditure of the Centre,Indian Audit and Accounts Department,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_iaaad,112.76,1127600000.0,13265882.352941176
+Establishment Expenditure of the Centre,Overseas Audit Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_oao,40.77,407700000.00000006,4796470.588235294
+Establishment Expenditure of the Centre,P and  T Audit Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_patao,179.74,1797400000.0,21145882.352941178
+Establishment Expenditure of the Centre,Purchase of ready-built office building,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_porbob,20.0,200000000.0,2352941.1764705884
+Establishment Expenditure of the Centre,Purchase of ready-built Residential Accommodation,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_porbra,10.0,100000000.0,1176470.5882352942
+Establishment Expenditure of the Centre,Recoveries adjusted in reduction of Expenditure,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_rairoe,-376.9,-3769000000.0,-44341176.47058824
+Establishment Expenditure of the Centre,Railway Audit Offices,r_mofdn3iaaad_cse_eeotc,r_mofdn3iaaad_cse_eeotc_rao,312.52,3125200000.0,36767058.823529415
+Civil Audit and Accounts Offices,Civil Audit Offices,r_mofdn3iaaad_cse_eeotc_caaao,r_mofdn3iaaad_cse_eeotc_caaao_cao,3157.48,31574800000.0,371468235.2941176
+Civil Audit and Accounts Offices,Civil Accounts Offices,r_mofdn3iaaad_cse_eeotc_caaao,r_mofdn3iaaad_cse_eeotc_caaao_cao,1554.44,15544400000.0,182875294.11764705
+Civil Audit and Accounts Offices,Centralised Procurement,r_mofdn3iaaad_cse_eeotc_caaao,r_mofdn3iaaad_cse_eeotc_caaao_cp,24.04,240400000.0,2828235.294117647
+Civil Audit and Accounts Offices,Training,r_mofdn3iaaad_cse_eeotc_caaao,r_mofdn3iaaad_cse_eeotc_caaao_t,84.52,845200000.0,9943529.411764706

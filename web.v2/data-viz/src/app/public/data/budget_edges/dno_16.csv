@@ -1,0 +1,20 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Cooperation
+Demand No. 16
+Ministry of Cooperation",r,r_mocdn1moc,1089.79,10897900000.0,128210588.23529412
+"Ministry of Cooperation
+Demand No. 16
+Ministry of Cooperation",CENTRE'S EXPENDITURE,r_mocdn1moc,r_mocdn1moc_cse,121.53999999999999,1215400000.0,14298823.529411765
+"Ministry of Cooperation
+Demand No. 16
+Ministry of Cooperation",TRANSFERS TO STATES/UTs,r_mocdn1moc,r_mocdn1moc_ttsu,968.25,9682500000.0,113911764.70588236
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocdn1moc_cse,r_mocdn1moc_cse_cssp,55.01,550100000.0,6471764.705882353
+CENTRE'S EXPENDITURE,Other Attached and Subordinate Offices,r_mocdn1moc_cse,r_mocdn1moc_cse_oaaso,15.41,154100000.0,1812941.1764705882
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocdn1moc_cse,r_mocdn1moc_cse_ocse,51.12,511200000.0,6014117.647058823
+Central Sector Schemes/Projects,Co-operative Education,r_mocdn1moc_cse_cssp,r_mocdn1moc_cse_cssp_coe,30.0,300000000.0,3529411.7647058824
+Central Sector Schemes/Projects,Cooperative Training,r_mocdn1moc_cse_cssp,r_mocdn1moc_cse_cssp_ct,25.0,250000000.0,2941176.470588235
+Other Central Sector Expenditure,Autonomous Bodies,r_mocdn1moc_cse_ocse,r_mocdn1moc_cse_ocse_ab,51.12,511200000.0,6014117.647058823
+Autonomous Bodies,National Council for Cooperative Training (NCCT),r_mocdn1moc_cse_ocse_ab,r_mocdn1moc_cse_ocse_ab_ncfctn,40.0,400000000.0,4705882.352941177
+Autonomous Bodies,Vaikunthlal Mehta National Institute of Cooperative Management (VAMNICOM),r_mocdn1moc_cse_ocse_ab,r_mocdn1moc_cse_ocse_ab_vmniocmv,11.12,111199999.99999999,1308235.294117647
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_mocdn1moc_ttsu,r_mocdn1moc_ttsu_css,968.25,9682500000.0,113911764.70588236
+Centrally Sponsored Schemes,Computerization of Primary Agricultural Credit Societies,r_mocdn1moc_ttsu_css,r_mocdn1moc_ttsu_css_copacs,968.24,9682400000.0,113910588.23529412

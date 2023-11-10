@@ -1,0 +1,70 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Social Justice and Empowerment,,mosjae,13995.17,139951700000.0,1646490588.235294
+1,Ministry of Social Justice and Empowerment,Department of Empowerment of Persons with Disabilities,mosjae,mosjae_doeopwd,1225.15,12251500000.0,144135294.11764705
+2,Ministry of Social Justice and Empowerment,Department of Social Justice and Empowerment,mosjae,mosjae_dosjae,12770.02,127700200000.0,1502355294.1176472
+3,Department of Empowerment of Persons with Disabilities,CENTRE'S EXPENDITURE,mosjae_doeopwd,mosjae_doeopwd_cse,1225.15,12251500000.0,144135294.11764705
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mosjae_doeopwd_cse,mosjae_doeopwd_cse_cssp,680.0,6800000000.0,80000000.0
+5,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mosjae_doeopwd_cse,mosjae_doeopwd_cse_eeotc,42.720000000000006,427200000.00000006,5025882.352941177
+6,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mosjae_doeopwd_cse,mosjae_doeopwd_cse_ocse,502.43,5024300000.0,59109411.76470588
+7,Central Sector Schemes/Projects,National Program for the Welfare of Persons with Disabilities,mosjae_doeopwd_cse_cssp,mosjae_doeopwd_cse_cssp_npftwopwd,525.0,5250000000.0,61764705.88235294
+8,Central Sector Schemes/Projects,Scholarship for Students with Disabilidties,mosjae_doeopwd_cse_cssp,mosjae_doeopwd_cse_cssp_sfswd,155.0,1550000000.0,18235294.11764706
+9,National Program for the Welfare of Persons with Disabilities,Assistance to Disabled Persons for Purchase/Fitting of Aids and Applicances,mosjae_doeopwd_cse_cssp_npftwopwd,mosjae_doeopwd_cse_cssp_npftwopwd_atdpfpfoaaa,245.0,2450000000.0,28823529.411764707
+10,National Program for the Welfare of Persons with Disabilities,Deendayal Disabled Rehabilitation Scheme,mosjae_doeopwd_cse_cssp_npftwopwd,mosjae_doeopwd_cse_cssp_npftwopwd_ddrs,130.0,1300000000.0,15294117.647058824
+11,National Program for the Welfare of Persons with Disabilities,Scheme for implementation of Persons with Disability Act,mosjae_doeopwd_cse_cssp_npftwopwd,mosjae_doeopwd_cse_cssp_npftwopwd_sfiopwda,150.0,1500000000.0,17647058.82352941
+12,Establishment Expenditure of the Centre,Attached Office CCPD,mosjae_doeopwd_cse_eeotc,mosjae_doeopwd_cse_eeotc_aoc,0.2,2000000.0,23529.41176470588
+13,Establishment Expenditure of the Centre,Secretariat,mosjae_doeopwd_cse_eeotc,mosjae_doeopwd_cse_eeotc_s,42.52,425200000.00000006,5002352.941176471
+14,Other Central Sector Expenditure,Autonomous Bodies,mosjae_doeopwd_cse_ocse,mosjae_doeopwd_cse_ocse_ab,502.41,5024100000.0,59107058.823529415
+15,Autonomous Bodies,Budgetary Support to National Trust,mosjae_doeopwd_cse_ocse_ab,mosjae_doeopwd_cse_ocse_ab_bstnt,35.0,350000000.0,4117647.0588235296
+16,Autonomous Bodies,Centre for Disability Sports,mosjae_doeopwd_cse_ocse_ab,mosjae_doeopwd_cse_ocse_ab_cfds,76.0,760000000.0,8941176.470588235
+17,Autonomous Bodies,Rehabilitation Council of India,mosjae_doeopwd_cse_ocse_ab,mosjae_doeopwd_cse_ocse_ab_rcoi,6.4,64000000.0,752941.1764705882
+18,Autonomous Bodies,Support to National Institutes,mosjae_doeopwd_cse_ocse_ab,mosjae_doeopwd_cse_ocse_ab_stni,385.0,3850000000.0,45294117.64705882
+19,Department of Social Justice and Empowerment,CENTRE'S EXPENDITURE,mosjae_dosjae,mosjae_dosjae_cse,1166.91,11669100000.0,137283529.4117647
+20,Department of Social Justice and Empowerment,TRANSFERS TO STATES/UTs,mosjae_dosjae,mosjae_dosjae_ttsu,11603.11,116031100000.0,1365071764.7058823
+21,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mosjae_dosjae_cse,mosjae_dosjae_cse_cssp,976.86,9768600000.0,114924705.88235295
+22,CENTRE'S EXPENDITURE,"Commission under Commissions of Inquiry Act, 1952 to examine the matter of according Scheduled Caste status to new persons, who claim to historically have belonged to Scheduled Castes but have converted to religion other than those mentioned in the P",mosjae_dosjae_cse,mosjae_dosjae_cse_cucoia1tetmoascstnpwcthhbtscbhctrottmitp,3.05,30500000.0,358823.5294117647
+23,CENTRE'S EXPENDITURE,National Commissions,mosjae_dosjae_cse,mosjae_dosjae_cse_nc,67.0,670000000.0,7882352.94117647
+24,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mosjae_dosjae_cse,mosjae_dosjae_cse_ocse,120.0,1200000000.0,14117647.05882353
+25,Central Sector Schemes/Projects,"Information, Monitoring, Evaluation and Social Audit",mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_imeasa,20.0,200000000.0,2352941.1764705884
+26,Central Sector Schemes/Projects,National Action for Mechanised Sanitation Ecosystem (NAMASTE),mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_nafmsen,97.41,974100000.0,11460000.0
+27,Central Sector Schemes/Projects,Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM DAKSH) Yojana,mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_pmdakshpdy,92.47,924700000.0,10878823.529411765
+28,Central Sector Schemes/Projects,Scheme for Economic Empowerment of DNT/NT/SNTs (SEED),mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_sfeeodnss,40.4,404000000.0,4752941.176470588
+29,Central Sector Schemes/Projects,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for OBCs and EBCs,mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_sfhefyassfoae,86.0,860000000.0,10117647.05882353
+30,Central Sector Schemes/Projects,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs,mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_sfhefyassfs,371.0,3710000000.0,43647058.823529415
+31,Central Sector Schemes/Projects,Support for Marginalized Individuals for Livelihood & Enterprise (SMILE),mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_sfmifles,72.91,729100000.0,8577647.05882353
+32,Central Sector Schemes/Projects,Scheme of Residential Education for Students in High School in Targeted Area (SRESHTA) for SCs,mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_sorefsihsitasfs,104.65,1046500000.0,12311764.705882354
+33,Central Sector Schemes/Projects,Venture Capital Fund for SCs and OBCs,mosjae_dosjae_cse_cssp,mosjae_dosjae_cse_cssp_vcffsao,92.0,920000000.0,10823529.411764706
+34,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for OBCs and EBCs,Interest Subsidy on Overseas Studies of OBCs and EBCs,mosjae_dosjae_cse_cssp_sfhefyassfoae,mosjae_dosjae_cse_cssp_sfhefyassfoae_isoosooae,29.0,290000000.0,3411764.705882353
+35,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for OBCs and EBCs,National Fellowship for OBCs,mosjae_dosjae_cse_cssp_sfhefyassfoae,mosjae_dosjae_cse_cssp_sfhefyassfoae_nffo,57.0,570000000.0,6705882.352941177
+36,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs,Free Coaching for SCs and OBCs,mosjae_dosjae_cse_cssp_sfhefyassfs,mosjae_dosjae_cse_cssp_sfhefyassfs_fcfsao,47.0,470000000.0,5529411.764705882
+37,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs,National Fellowship for SCs,mosjae_dosjae_cse_cssp_sfhefyassfs,mosjae_dosjae_cse_cssp_sfhefyassfs_nffs,163.0,1630000000.0,19176470.588235293
+38,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs,National Overseas Scholarship for SCs,mosjae_dosjae_cse_cssp_sfhefyassfs,mosjae_dosjae_cse_cssp_sfhefyassfs_nosfs,50.0,500000000.0,5882352.94117647
+39,Scholarships for Higher Education for Young Achievers Scheme (SHREYAS) for SCs,Top Class Education for SCs,mosjae_dosjae_cse_cssp_sfhefyassfs,mosjae_dosjae_cse_cssp_sfhefyassfs_tcefs,111.0,1110000000.0,13058823.529411765
+40,Support for Marginalized Individuals for Livelihood & Enterprise (SMILE),Comprehensive Rehabilitation for Welfare of Transgender Persons,mosjae_dosjae_cse_cssp_sfmifles,mosjae_dosjae_cse_cssp_sfmifles_crfwotp,52.91,529099999.99999994,6224705.882352941
+41,Support for Marginalized Individuals for Livelihood & Enterprise (SMILE),Comprehensive Rehabilitation of Persons Engaged in the Act of Begging,mosjae_dosjae_cse_cssp_sfmifles,mosjae_dosjae_cse_cssp_sfmifles_cropeitaob,20.0,200000000.0,2352941.1764705884
+42,National Commissions,National Commission for Backward Classes,mosjae_dosjae_cse_nc,mosjae_dosjae_cse_nc_ncfbc,20.0,200000000.0,2352941.1764705884
+43,National Commissions,National Commission for Scheduled Castes,mosjae_dosjae_cse_nc,mosjae_dosjae_cse_nc_ncfsc,35.0,350000000.0,4117647.0588235296
+44,National Commissions,National Commission for Safai Karamcharis,mosjae_dosjae_cse_nc,mosjae_dosjae_cse_nc_ncfsk,12.0,120000000.0,1411764.705882353
+45,Other Central Sector Expenditure,Autonomous Bodies,mosjae_dosjae_cse_ocse,mosjae_dosjae_cse_ocse_ab,70.0,700000000.0,8235294.117647059
+46,Other Central Sector Expenditure,Others,mosjae_dosjae_cse_ocse,mosjae_dosjae_cse_ocse_o,10.0,100000000.0,1176470.5882352942
+47,Other Central Sector Expenditure,Public Sector Undertakings,mosjae_dosjae_cse_ocse,mosjae_dosjae_cse_ocse_psu,40.0,400000000.0,4705882.352941177
+48,Autonomous Bodies,Baba Saheb Dr. B.R. Ambedkar Foundation,mosjae_dosjae_cse_ocse_ab,mosjae_dosjae_cse_ocse_ab_bsdbraf,40.0,400000000.0,4705882.352941177
+49,Autonomous Bodies,National Institute of Social Defence,mosjae_dosjae_cse_ocse_ab,mosjae_dosjae_cse_ocse_ab_niosd,30.0,300000000.0,3529411.7647058824
+50,Others,Other Miscellaneous Expenditure,mosjae_dosjae_cse_ocse_o,mosjae_dosjae_cse_ocse_o_ome,10.0,100000000.0,1176470.5882352942
+51,Public Sector Undertakings,National Backward Classes Finance and Development Corporation,mosjae_dosjae_cse_ocse_psu,mosjae_dosjae_cse_ocse_psu_nbcfadc,15.0,150000000.0,1764705.8823529412
+52,Public Sector Undertakings,National Scheduled Castes Finance and Development Corporation,mosjae_dosjae_cse_ocse_psu,mosjae_dosjae_cse_ocse_psu_nscfadc,15.0,150000000.0,1764705.8823529412
+53,Public Sector Undertakings,National Safai Karamcharis Finance and Development Corporation,mosjae_dosjae_cse_ocse_psu,mosjae_dosjae_cse_ocse_psu_nskfadc,10.0,100000000.0,1176470.5882352942
+54,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mosjae_dosjae_ttsu,mosjae_dosjae_ttsu_css,11603.11,116031100000.0,1365071764.7058823
+55,Centrally Sponsored Schemes,Umbrella Programme for Development of Other Vulnerable Groups,mosjae_dosjae_ttsu_css,mosjae_dosjae_ttsu_css_upfdoovg,2193.9700000000003,21939700000.000004,258114117.64705887
+56,Centrally Sponsored Schemes,Umbrella Scheme for Development of Schedule Castes,mosjae_dosjae_ttsu_css,mosjae_dosjae_ttsu_css_usfdosc,9409.14,94091400000.0,1106957647.0588236
+57,Umbrella Programme for Development of Other Vulnerable Groups,Atal Vayo Abhyuday Yojana (AVYAY),mosjae_dosjae_ttsu_css_upfdoovg,mosjae_dosjae_ttsu_css_upfdoovg_avaya,294.97,2949700000.0000005,34702352.941176474
+58,Umbrella Programme for Development of Other Vulnerable Groups,National Action Plan for Drug Demand Reduction (NAPDDR),mosjae_dosjae_ttsu_css_upfdoovg,mosjae_dosjae_ttsu_css_upfdoovg_napfddrn,311.0,3110000000.0,36588235.294117644
+59,Umbrella Programme for Development of Other Vulnerable Groups,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs",mosjae_dosjae_ttsu_css_upfdoovg,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,1588.0,15880000000.0,186823529.4117647
+60,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs",Boys and Girls Hostel for OBCs,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead_baghfo,30.0,300000000.0,3529411.7647058824
+61,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs","Post Matric Scholarship for OBCs, EBCs and DNTs",mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead_pmsfoead,1087.0,10870000000.0,127882352.94117647
+62,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs","Pre Matric Scholarship for OBCs, EBCs and DNTs",mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead_pmsfoead,281.0,2810000000.0,33058823.529411763
+63,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs",Top Class Colleges,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead_tcc,90.0,900000000.0,10588235.294117646
+64,"PM Young Achievers Scholarship Award Scheme for Vibrant India (PM YASASVI) for OBCs, EBCs and DNTs",Top Class Schools,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead,mosjae_dosjae_ttsu_css_upfdoovg_pyasasfvipyfoead_tcs,100.0,1000000000.0,11764705.88235294
+65,Umbrella Scheme for Development of Schedule Castes,Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM AJAY),mosjae_dosjae_ttsu_css_usfdosc,mosjae_dosjae_ttsu_css_usfdosc_pmajaypa,2050.0,20500000000.0,241176470.5882353
+66,Umbrella Scheme for Development of Schedule Castes,Post Matric Scholarship for SCs,mosjae_dosjae_ttsu_css_usfdosc,mosjae_dosjae_ttsu_css_usfdosc_pmsfs,6359.14,63591400000.0,748134117.6470588
+67,Umbrella Scheme for Development of Schedule Castes,Pre Matric Scholarship for SCs and Others,mosjae_dosjae_ttsu_css_usfdosc,mosjae_dosjae_ttsu_css_usfdosc_pmsfsao,500.0,5000000000.0,58823529.4117647
+68,Umbrella Scheme for Development of Schedule Castes,"Strengthening of Machinery for Enforcement of Protection of Civil Rights Act, 1995 and Prevention of Atrocities Act, 1989",mosjae_dosjae_ttsu_css_usfdosc,mosjae_dosjae_ttsu_css_usfdosc_somfeopocra1apoaa1,500.0,5000000000.0,58823529.4117647

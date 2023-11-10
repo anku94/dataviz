@@ -1,0 +1,15 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Home Affairs
+Demand No. 58
+Transfers to Jammu and Kashmir",r,r_mohadn5ttjak,35581.44,355814400000.0,4186051764.7058825
+"Ministry of Home Affairs
+Demand No. 58
+Transfers to Jammu and Kashmir",TRANSFERS TO STATES/UTs,r_mohadn5ttjak,r_mohadn5ttjak_ttsu,35581.44,355814400000.0,4186051764.7058825
+TRANSFERS TO STATES/UTs,Other Grants/Loans/Transfers,r_mohadn5ttjak_ttsu,r_mohadn5ttjak_ttsu_oglt,35581.44,355814400000.0,4186051764.7058825
+Other Grants/Loans/Transfers,Central Assistance to Union Territories,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_catut,33923.0,339230000000.0,3990941176.470588
+Other Grants/Loans/Transfers,Grants for equity contribution for 540MW KWR HEP,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_gfecf5kh,171.23,1712300000.0,20144705.88235294
+Other Grants/Loans/Transfers,Grants towards contribution to Union Territory Disaster Response Fund,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_gtctutdrf,279.0,2790000000.0,32823529.411764707
+Other Grants/Loans/Transfers,Grants towards equity contribution for 624 MW Kiru HEP,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_gtecf6mkh,130.0,1300000000.0,15294117.647058824
+Other Grants/Loans/Transfers,Grants towards equity for Ratle 800 MW HEP,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_gtefr8mh,476.44,4764400000.0,56051764.705882356
+Other Grants/Loans/Transfers,Grant towards JTFRP-EAP,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_gtje,500.0,5000000000.0,58823529.4117647
+Other Grants/Loans/Transfers,Support for Capital Expenditure of UT,r_mohadn5ttjak_ttsu_oglt,r_mohadn5ttjak_ttsu_oglt_sfceou,101.77,1017700000.0,11972941.176470589

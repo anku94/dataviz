@@ -1,0 +1,21 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Heavy Industries 
+Demand No. 48
+Ministry of Heavy Industries",r,r_mohidn4mohi,6171.630000000001,61716300000.00001,726074117.647059
+"Ministry of Heavy Industries 
+Demand No. 48
+Ministry of Heavy Industries",CENTRE'S EXPENDITURE,r_mohidn4mohi,r_mohidn4mohi_cse,6171.630000000001,61716300000.00001,726074117.647059
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mohidn4mohi_cse,r_mohidn4mohi_cse_cssp,6026.97,60269700000.0,709055294.117647
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mohidn4mohi_cse,r_mohidn4mohi_cse_eeotc,39.02,390200000.00000006,4590588.2352941185
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mohidn4mohi_cse,r_mohidn4mohi_cse_ocse,105.64,1056400000.0,12428235.294117646
+Central Sector Schemes/Projects,Development of Automobile Industry,r_mohidn4mohi_cse_cssp,r_mohidn4mohi_cse_cssp_doai,5776.97,57769700000.0,679643529.4117647
+Central Sector Schemes/Projects,Development of Capital Goods Sector,r_mohidn4mohi_cse_cssp,r_mohidn4mohi_cse_cssp_docgs,250.0,2500000000.0,29411764.70588235
+Development of Automobile Industry,Production Linked Incentive (PLI) Scheme for Automobiles and Auto Components,r_mohidn4mohi_cse_cssp_doai,r_mohidn4mohi_cse_cssp_doai_plipsfaaac,604.0,6040000000.0,71058823.52941176
+Development of Automobile Industry,Production Linked Incentive (PLI) Scheme for National Programme on Advanced Chemistry Cell (ACC) Battery Storage,r_mohidn4mohi_cse_cssp_doai,r_mohidn4mohi_cse_cssp_doai_plipsfnpoaccabs,1.0,10000000.0,117647.05882352941
+Development of Automobile Industry,Scheme for Faster Adoption and Manufacturing of (Hybrid and) Electric Vehicle in India - (FAME - India).,r_mohidn4mohi_cse_cssp_doai,r_mohidn4mohi_cse_cssp_doai_sffaamohaeviifi,5171.97,51719700000.0,608467058.8235294
+Development of Capital Goods Sector,Enhancement of Competitiveness in the Indian Capital Goods Sector,r_mohidn4mohi_cse_cssp_docgs,r_mohidn4mohi_cse_cssp_docgs_eociticgs,250.0,2500000000.0,29411764.70588235
+Establishment Expenditure of the Centre,Secretariat,r_mohidn4mohi_cse_eeotc,r_mohidn4mohi_cse_eeotc_s,39.02,390200000.00000006,4590588.2352941185
+Other Central Sector Expenditure,Autonomous Bodies,r_mohidn4mohi_cse_ocse,r_mohidn4mohi_cse_ocse_ab,24.0,240000000.0,2823529.411764706
+Other Central Sector Expenditure,Public Sector Undertakings,r_mohidn4mohi_cse_ocse,r_mohidn4mohi_cse_ocse_psu,81.64,816400000.0,9604705.88235294
+Autonomous Bodies,Central Manufacturing Technology Institute (CMTI),r_mohidn4mohi_cse_ocse_ab,r_mohidn4mohi_cse_ocse_ab_cmtic,24.0,240000000.0,2823529.411764706
+Public Sector Undertakings,Support to Central Public Sector Enterprises,r_mohidn4mohi_cse_ocse_psu,r_mohidn4mohi_cse_ocse_psu_stcpse,81.64,816400000.0,9604705.88235294

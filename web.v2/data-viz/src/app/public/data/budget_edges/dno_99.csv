@@ -1,0 +1,24 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Tourism
+Demand No. 99
+Ministry of Tourism",r,r_motdn9mot,2291.49,22914899999.999996,269587058.82352936
+"Ministry of Tourism
+Demand No. 99
+Ministry of Tourism",CENTRE'S EXPENDITURE,r_motdn9mot,r_motdn9mot_cse,2286.22,22862199999.999996,268967058.82352936
+"Ministry of Tourism
+Demand No. 99
+Ministry of Tourism",TRANSFERS TO STATES/UTs,r_motdn9mot,r_motdn9mot_ttsu,5.27,52699999.99999999,619999.9999999999
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_motdn9mot_cse,r_motdn9mot_cse_cssp,2286.22,22862199999.999996,268967058.82352936
+Central Sector Schemes/Projects,Promotion and Publicity,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_pap,242.0,2420000000.0,28470588.23529412
+Central Sector Schemes/Projects,Training and Skill Development,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_tasd,105.0,1050000000.0,12352941.176470589
+Central Sector Schemes/Projects,Tourism Infrastructure,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_ti,1939.22,19392200000.0,228143529.4117647
+Promotion and Publicity,Domestic Promotion and Publicity including Market Development Assistance,r_motdn9mot_cse_cssp_pap,r_motdn9mot_cse_cssp_pap_dpapimda,75.0,750000000.0,8823529.411764706
+Promotion and Publicity,Overseas Promotion and Publicity including Market Development Assistance,r_motdn9mot_cse_cssp_pap,r_motdn9mot_cse_cssp_pap_opapimda,167.0,1670000000.0,19647058.82352941
+Training and Skill Development,Assistance to IHMS/FCIs/IITTM/NIWS,r_motdn9mot_cse_cssp_tasd,r_motdn9mot_cse_cssp_tasd_atifin,70.0,700000000.0,8235294.117647059
+Training and Skill Development,Capacity Building for Service Providers,r_motdn9mot_cse_cssp_tasd,r_motdn9mot_cse_cssp_tasd_cbfsp,35.0,350000000.0,4117647.0588235296
+Tourism Infrastructure,Assistance to Central Agencies for Tourism Infrastructure Development,r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_atcaftid,80.0,800000000.0,9411764.705882354
+Tourism Infrastructure,Champion Services Sector Scheme,r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_csss,196.22,1962200000.0,23084705.88235294
+Tourism Infrastructure,Integrated Development of Tourist Circuits around specific themes (Swadesh Darshan),r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_idotcastsd,1412.0,14120000000.0,166117647.05882353
+Tourism Infrastructure,Loan Guarantee Scheme for the Covid affected Tourism Service Sector,r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_lgsftcatss,1.0,10000000.0,117647.05882352941
+Tourism Infrastructure,"Pilgrimage Rejuvenation and Spiritual, Heritage Augmentation Drive (PRASHAD)",r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_prashadp,250.0,2500000000.0,29411764.70588235
+TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,r_motdn9mot_ttsu,r_motdn9mot_ttsu_css,5.27,52699999.99999999,619999.9999999999

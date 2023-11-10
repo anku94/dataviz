@@ -1,0 +1,25 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Finance
+Demand No. 35
+Department of Revenue",r,r_mofdn3dor,145940.46,1459404600000.0,17169465882.352942
+"Ministry of Finance
+Demand No. 35
+Department of Revenue",CENTRE'S EXPENDITURE,r_mofdn3dor,r_mofdn3dor_cse,940.4299999999998,9404299999.999998,110638823.52941175
+"Ministry of Finance
+Demand No. 35
+Department of Revenue",TRANSFERS TO STATES/UTs,r_mofdn3dor,r_mofdn3dor_ttsu,145000.03,1450000300000.0,17058827058.82353
+CENTRE'S EXPENDITURE,Enforcement Directorate,r_mofdn3dor_cse,r_mofdn3dor_cse_ed,404.57,4045700000.0,47596470.5882353
+CENTRE'S EXPENDITURE,Narcotics Control,r_mofdn3dor_cse,r_mofdn3dor_cse_nc,49.92,499200000.0,5872941.176470588
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mofdn3dor_cse,r_mofdn3dor_cse_ocse,483.03,4830300000.0,56827058.823529415
+CENTRE'S EXPENDITURE,Special Investigation Team (SIT),r_mofdn3dor_cse,r_mofdn3dor_cse_sits,2.91,29100000.0,342352.9411764706
+Other Central Sector Expenditure,Autonomous Bodies,r_mofdn3dor_cse_ocse,r_mofdn3dor_cse_ocse_ab,10.5,105000000.0,1235294.1176470588
+Other Central Sector Expenditure,Others,r_mofdn3dor_cse_ocse,r_mofdn3dor_cse_ocse_o,429.82,4298200000.0,50567058.823529415
+Other Central Sector Expenditure,Public Sector Undertakings,r_mofdn3dor_cse_ocse,r_mofdn3dor_cse_ocse_psu,42.71,427100000.0,5024705.882352941
+Autonomous Bodies,National Institute of Public Finance and Policy,r_mofdn3dor_cse_ocse_ab,r_mofdn3dor_cse_ocse_ab_niopfap,10.5,105000000.0,1235294.1176470588
+Others,International Cooperation,r_mofdn3dor_cse_ocse_o,r_mofdn3dor_cse_ocse_o_ic,13.7,137000000.0,1611764.705882353
+Others,Opium and Alkaloid Factories,r_mofdn3dor_cse_ocse_o,r_mofdn3dor_cse_ocse_o_oaaf,61.93,619300000.0,7285882.352941177
+Others,Other Expenditure,r_mofdn3dor_cse_ocse_o,r_mofdn3dor_cse_ocse_o_oe,58.07,580700000.0,6831764.705882353
+Others,User Charges to GSTN(Goods and Services Tax Network),r_mofdn3dor_cse_ocse_o,r_mofdn3dor_cse_ocse_o_uctggastn,296.0,2960000000.0,34823529.4117647
+Public Sector Undertakings,Capital Outlay for Other Fiscal Services,r_mofdn3dor_cse_ocse_psu,r_mofdn3dor_cse_ocse_psu_cofofs,42.71,427100000.0,5024705.882352941
+TRANSFERS TO STATES/UTs,Other Grants/Loans/Transfers,r_mofdn3dor_ttsu,r_mofdn3dor_ttsu_oglt,145000.03,1450000300000.0,17058827058.82353
+Other Grants/Loans/Transfers,Compensation to States/UTs for revenue losses on roll out of GST,r_mofdn3dor_ttsu_oglt,r_mofdn3dor_ttsu_oglt_ctsufrloroog,145000.0,1450000000000.0,17058823529.411764

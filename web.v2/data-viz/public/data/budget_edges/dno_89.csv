@@ -1,0 +1,25 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Science and Technology
+Demand No. 89
+Department of Science and Technology",r,r_mosatdn8dosat,7931.05,79310500000.0,933064705.882353
+"Ministry of Science and Technology
+Demand No. 89
+Department of Science and Technology",CENTRE'S EXPENDITURE,r_mosatdn8dosat,r_mosatdn8dosat_cse,7931.05,79310500000.0,933064705.882353
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mosatdn8dosat_cse,r_mosatdn8dosat_cse_cssp,2777.0,27770000000.0,326705882.35294116
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mosatdn8dosat_cse,r_mosatdn8dosat_cse_eeotc,691.05,6910500000.0,81300000.0
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mosatdn8dosat_cse,r_mosatdn8dosat_cse_ocse,4463.0,44630000000.0,525058823.5294118
+Central Sector Schemes/Projects,"Innovation, Technology Development and Deployment",r_mosatdn8dosat_cse_cssp,r_mosatdn8dosat_cse_cssp_itdad,536.6,5366000000.0,63129411.76470588
+Central Sector Schemes/Projects,National Mission on Interdisciplinary Cyber Physical Systems,r_mosatdn8dosat_cse_cssp,r_mosatdn8dosat_cse_cssp_nmoicps,580.0,5800000000.0,68235294.11764705
+Central Sector Schemes/Projects,Research and Development,r_mosatdn8dosat_cse_cssp,r_mosatdn8dosat_cse_cssp_rad,592.0,5920000000.0,69647058.8235294
+Central Sector Schemes/Projects,Science and Technology Institutional and Human Capacity Building,r_mosatdn8dosat_cse_cssp,r_mosatdn8dosat_cse_cssp_satiahcb,1068.4,10684000000.0,125694117.64705883
+Establishment Expenditure of the Centre,National Atlas and Thematic Mapping Organization,r_mosatdn8dosat_cse_eeotc,r_mosatdn8dosat_cse_eeotc_naatmo,36.05,360500000.0,4241176.470588235
+Establishment Expenditure of the Centre,Secretariat,r_mosatdn8dosat_cse_eeotc,r_mosatdn8dosat_cse_eeotc_s,114.0,1140000000.0,13411764.705882354
+Establishment Expenditure of the Centre,Science Counsellor Abroad,r_mosatdn8dosat_cse_eeotc,r_mosatdn8dosat_cse_eeotc_sca,11.5,115000000.0,1352941.1764705882
+Establishment Expenditure of the Centre,Survey of India,r_mosatdn8dosat_cse_eeotc,r_mosatdn8dosat_cse_eeotc_soi,529.5,5295000000.0,62294117.64705882
+Other Central Sector Expenditure,Autonomous Bodies,r_mosatdn8dosat_cse_ocse,r_mosatdn8dosat_cse_ocse_ab,1560.0,15600000000.0,183529411.7647059
+Other Central Sector Expenditure,Others,r_mosatdn8dosat_cse_ocse,r_mosatdn8dosat_cse_ocse_o,2000.0,20000000000.0,235294117.6470588
+Other Central Sector Expenditure,Statutory and Regulatory Bodies,r_mosatdn8dosat_cse_ocse,r_mosatdn8dosat_cse_ocse_sarb,903.0,9030000000.0,106235294.11764705
+Autonomous Bodies,Assistance to Autonomous Bodies,r_mosatdn8dosat_cse_ocse_ab,r_mosatdn8dosat_cse_ocse_ab_atab,1560.0,15600000000.0,183529411.7647059
+Others,National Research Foundation (NRF),r_mosatdn8dosat_cse_ocse_o,r_mosatdn8dosat_cse_ocse_o_nrfn,2000.0,20000000000.0,235294117.6470588
+Statutory and Regulatory Bodies,Science and Engineering Research Board,r_mosatdn8dosat_cse_ocse_sarb,r_mosatdn8dosat_cse_ocse_sarb_saerb,803.0,8030000000.0,94470588.23529412
+Statutory and Regulatory Bodies,Technology Development Board,r_mosatdn8dosat_cse_ocse_sarb,r_mosatdn8dosat_cse_ocse_sarb_tdb,100.0,1000000000.0,11764705.88235294

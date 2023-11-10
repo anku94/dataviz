@@ -1,0 +1,38 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Communications
+Demand No. 13
+Department of Telecommunications",r,r_mocdn1dot,97579.04999999999,975790499999.9999,11479888235.294117
+"Ministry of Communications
+Demand No. 13
+Department of Telecommunications",CENTRE'S EXPENDITURE,r_mocdn1dot,r_mocdn1dot_cse,97579.04999999999,975790499999.9999,11479888235.294117
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocdn1dot_cse,r_mocdn1dot_cse_cssp,14843.32,148433200000.0,1746272941.1764705
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocdn1dot_cse,r_mocdn1dot_cse_eeotc,22042.91,220429100000.0,2593283529.4117646
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mocdn1dot_cse,r_mocdn1dot_cse_ocse,60692.82,606928200000.0,7140331764.705882
+Central Sector Schemes/Projects,DoT Projects,r_mocdn1dot_cse_cssp,r_mocdn1dot_cse_cssp_dp,2285.32,22853200000.0,268861176.4705882
+Central Sector Schemes/Projects,Defence Spectrum,r_mocdn1dot_cse_cssp,r_mocdn1dot_cse_cssp_ds,2158.0,21580000000.0,253882352.94117647
+Central Sector Schemes/Projects,Universal Service Obligation Fund,r_mocdn1dot_cse_cssp,r_mocdn1dot_cse_cssp_usof,10400.0,104000000000.0,1223529411.764706
+DoT Projects,5G Connectivity Test Bed,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_5ctb,5.56,55599999.99999999,654117.6470588235
+DoT Projects,Domestic Industry Incentivisation Scheme,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_diis,915.0,9150000000.0,107647058.8235294
+DoT Projects,Digital Intelligence Unit Project,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_diup,220.0,2200000000.0,25882352.94117647
+DoT Projects,Funding to BSNL for providing Telecom Connectivity for Amarnath Yatra,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_ftbfptcfay,1.0,10000000.0,117647.05882352941
+DoT Projects,Telecom Computer Emergency Response Team(T-Cert),r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_tcerttc,351.34,3513399999.9999995,41334117.647058815
+DoT Projects,Telecom Engineering Centre,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_tec,12.0,120000000.0,1411764.705882353
+DoT Projects,Telecom Testing and Security Certification Centre,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_ttascc,24.0,240000000.0,2823529.411764706
+DoT Projects,Wireless Planning and Coordination,r_mocdn1dot_cse_cssp_dp,r_mocdn1dot_cse_cssp_dp_wpac,756.42,7564200000.0,88990588.23529412
+Wireless Planning and Coordination,Wireless Monitoring  Services,r_mocdn1dot_cse_cssp_dp_wpac,r_mocdn1dot_cse_cssp_dp_wpac_wms,536.42,5364200000.0,63108235.294117644
+Wireless Planning and Coordination,Wireless Planning and Coordination,r_mocdn1dot_cse_cssp_dp_wpac,r_mocdn1dot_cse_cssp_dp_wpac_wpac,220.0,2200000000.0,25882352.94117647
+Establishment Expenditure of the Centre,Artificial Intelligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR),r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_aiafrpsftssva,0.5,5000000.0,58823.529411764706
+Establishment Expenditure of the Centre,Human Resource Management(NICF),r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_hrmn,58.7,587000000.0,6905882.352941177
+Establishment Expenditure of the Centre,Labour Employment and Skill Development,r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_leasd,0.4,4000000.0,47058.82352941176
+Establishment Expenditure of the Centre,Mandatory Testing and Certification of Telecom Equipment (MTCTE),r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_mtacotem,1.4,14000000.0,164705.88235294117
+Establishment Expenditure of the Centre,Pensions,r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_p,20650.0,206500000000.0,2429411764.7058825
+Establishment Expenditure of the Centre,Regulatory Bodies,r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_rb,238.53,2385300000.0,28062352.94117647
+Establishment Expenditure of the Centre,Special Assistance for Swachhta Action Plan,r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_safsap,2.0,20000000.0,235294.11764705883
+Establishment Expenditure of the Centre,Secretariat -Economic Services,r_mocdn1dot_cse_eeotc,r_mocdn1dot_cse_eeotc_ses,1091.38,10913800000.000002,128397647.05882356
+Regulatory Bodies,Telecom Disputes Settlement and Appellate Tribunal (TDSAT),r_mocdn1dot_cse_eeotc_rb,r_mocdn1dot_cse_eeotc_rb_tdsaatt,24.18,241800000.0,2844705.882352941
+Regulatory Bodies,Telecom Regulatory Authority of India General Fund,r_mocdn1dot_cse_eeotc_rb,r_mocdn1dot_cse_eeotc_rb_traoigf,214.35,2143500000.0,25217647.05882353
+Other Central Sector Expenditure,Autonomous Bodies,r_mocdn1dot_cse_ocse,r_mocdn1dot_cse_ocse_ab,550.0,5500000000.0,64705882.35294118
+Other Central Sector Expenditure,Others,r_mocdn1dot_cse_ocse,r_mocdn1dot_cse_ocse_o,33.0,330000000.0,3882352.9411764704
+Other Central Sector Expenditure,Public Sector Undertakings,r_mocdn1dot_cse_ocse,r_mocdn1dot_cse_ocse_psu,60109.82,601098200000.0,7071743529.411765
+Autonomous Bodies,Centre for Development of Telematics (C-DoT),r_mocdn1dot_cse_ocse_ab,r_mocdn1dot_cse_ocse_ab_cfdotcd,550.0,5500000000.0,64705882.35294118
+Others,International Cooperation,r_mocdn1dot_cse_ocse_o,r_mocdn1dot_cse_ocse_o_ic,33.0,330000000.0,3882352.9411764704

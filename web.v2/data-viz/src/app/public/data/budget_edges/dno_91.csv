@@ -1,0 +1,19 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Science and Technology
+Demand No. 91
+Department of Scientific and Industrial Research",r,r_mosatdn9dosair,5746.51,57465100000.0,676060000.0
+"Ministry of Science and Technology
+Demand No. 91
+Department of Scientific and Industrial Research",CENTRE'S EXPENDITURE,r_mosatdn9dosair,r_mosatdn9dosair_cse,5746.51,57465100000.0,676060000.0
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mosatdn9dosair_cse,r_mosatdn9dosair_cse_cssp,45.03,450300000.0,5297647.05882353
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mosatdn9dosair_cse,r_mosatdn9dosair_cse_eeotc,18.47,184700000.0,2172941.1764705884
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_mosatdn9dosair_cse,r_mosatdn9dosair_cse_ocse,5683.01,56830100000.0,668589411.7647059
+Central Sector Schemes/Projects,Assistance to PSEs for Other Scientific Research Schemes,r_mosatdn9dosair_cse_cssp,r_mosatdn9dosair_cse_cssp_atpfosrs,21.73,217300000.0,2556470.588235294
+Central Sector Schemes/Projects,Industrial Research and Development,r_mosatdn9dosair_cse_cssp,r_mosatdn9dosair_cse_cssp_irad,23.3,233000000.0,2741176.470588235
+Establishment Expenditure of the Centre,Secretariat,r_mosatdn9dosair_cse_eeotc,r_mosatdn9dosair_cse_eeotc_s,18.47,184700000.0,2172941.1764705884
+Other Central Sector Expenditure,Autonomous Bodies,r_mosatdn9dosair_cse_ocse,r_mosatdn9dosair_cse_ocse_ab,5675.51,56755100000.0,667707058.8235294
+Other Central Sector Expenditure,Others,r_mosatdn9dosair_cse_ocse,r_mosatdn9dosair_cse_ocse_o,7.5,75000000.0,882352.9411764706
+Autonomous Bodies,Council of Scientific and Industrial Research (CSIR),r_mosatdn9dosair_cse_ocse_ab,r_mosatdn9dosair_cse_ocse_ab_cosairc,5675.51,56755100000.0,667707058.8235294
+Council of Scientific and Industrial Research (CSIR),Capacity Building and Human Resource Development,r_mosatdn9dosair_cse_ocse_ab_cosairc,r_mosatdn9dosair_cse_ocse_ab_cosairc_cbahrd,500.0,5000000000.0,58823529.4117647
+Council of Scientific and Industrial Research (CSIR),National Laboratories,r_mosatdn9dosair_cse_ocse_ab_cosairc,r_mosatdn9dosair_cse_ocse_ab_cosairc_nl,5175.51,51755100000.0,608883529.4117647
+Others,Contribution to Asian & Pacific Centre for Transfer of Technology (UN Body),r_mosatdn9dosair_cse_ocse_o,r_mosatdn9dosair_cse_ocse_o_ctapcftotub,7.5,75000000.0,882352.9411764706

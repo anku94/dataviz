@@ -1,0 +1,13 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Communications
+Demand No. 12
+Department of Posts",r,r_mocdn1dop,25814.0,258140000000.0,3036941176.470588
+"Ministry of Communications
+Demand No. 12
+Department of Posts",CENTRE'S EXPENDITURE,r_mocdn1dop,r_mocdn1dop_cse,25814.0,258140000000.0,3036941176.470588
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_mocdn1dop_cse,r_mocdn1dop_cse_cssp,1528.31,15283100000.0,179801176.47058824
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mocdn1dop_cse,r_mocdn1dop_cse_eeotc,24285.69,242856900000.0,2857140000.0
+Central Sector Schemes/Projects,Estates Management,r_mocdn1dop_cse_cssp,r_mocdn1dop_cse_cssp_em,100.0,1000000000.0,11764705.88235294
+Central Sector Schemes/Projects,Human Resource Management,r_mocdn1dop_cse_cssp,r_mocdn1dop_cse_cssp_hrm,34.0,340000000.0,4000000.0
+Central Sector Schemes/Projects,India Post Payments Bank,r_mocdn1dop_cse_cssp,r_mocdn1dop_cse_cssp_ippb,250.0,2500000000.0,29411764.70588235
+Central Sector Schemes/Projects,Postal Operation,r_mocdn1dop_cse_cssp,r_mocdn1dop_cse_cssp_po,1144.31,11443100000.0,134624705.88235295

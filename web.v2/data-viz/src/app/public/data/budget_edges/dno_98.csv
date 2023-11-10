@@ -1,0 +1,50 @@
+source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+ROOT,"Ministry of Textiles
+Demand No. 98
+Ministry of Textiles",r,r_motdn9mot,4389.34,43893400000.0,516392941.1764706
+"Ministry of Textiles
+Demand No. 98
+Ministry of Textiles",CENTRE'S EXPENDITURE,r_motdn9mot,r_motdn9mot_cse,4389.34,43893400000.0,516392941.1764706
+CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,r_motdn9mot_cse,r_motdn9mot_cse_cssp,3603.78,36037800000.0,423974117.64705884
+CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_motdn9mot_cse,r_motdn9mot_cse_eeotc,376.95,3769500000.0,44347058.823529415
+CENTRE'S EXPENDITURE,Other Central Sector Expenditure,r_motdn9mot_cse,r_motdn9mot_cse_ocse,408.61,4086100000.0,48071764.705882356
+Central Sector Schemes/Projects,Development of Jute Industries,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_doji,142.0,1420000000.0,16705882.352941176
+Central Sector Schemes/Projects,Development of Silk Textiles,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_dost,917.77,9177700000.0,107972941.1764706
+Central Sector Schemes/Projects,Development of Woollen Textiles,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_dowt,27.11,271100000.0,3189411.7647058824
+Central Sector Schemes/Projects,National Handicraft Development Programme,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_nhdp,278.33,2783300000.0,32744705.88235294
+Central Sector Schemes/Projects,National Handloom Development Programme,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_nhdp,200.0,2000000000.0,23529411.76470588
+Central Sector Schemes/Projects,PM - MITRA,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_pm,167.0,1670000000.0,19647058.82352941
+Central Sector Schemes/Projects,Research and Capacity Building,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_racb,711.56,7115599999.999999,83712941.17647058
+Central Sector Schemes/Projects,Textile Infrastructure,r_motdn9mot_cse_cssp,r_motdn9mot_cse_cssp_ti,60.0,600000000.0,7058823.529411765
+Development of Jute Industries,Scheme for Development of Jute Sector,r_motdn9mot_cse_cssp_doji,r_motdn9mot_cse_cssp_doji_sfdojs,100.0,1000000000.0,11764705.88235294
+Development of Jute Industries,Subsidy to Jute Corporation of India towards market operation,r_motdn9mot_cse_cssp_doji,r_motdn9mot_cse_cssp_doji_stjcoitmo,42.0,420000000.0,4941176.470588235
+Development of Silk Textiles,Central Silk Board,r_motdn9mot_cse_cssp_dost,r_motdn9mot_cse_cssp_dost_csb,917.77,9177700000.0,107972941.1764706
+Development of Woollen Textiles,Integrated Wool Development Programme,r_motdn9mot_cse_cssp_dowt,r_motdn9mot_cse_cssp_dowt_iwdp,27.11,271100000.0,3189411.7647058824
+National Handicraft Development Programme,Handicraft Cluster Development Program - Handicraft Mega Cluster,r_motdn9mot_cse_cssp_nhdp,r_motdn9mot_cse_cssp_nhdp_hcdphmc,40.0,400000000.0,4705882.352941177
+National Handloom Development Programme,National Handloom Development Programme,r_motdn9mot_cse_cssp_nhdp,r_motdn9mot_cse_cssp_nhdp_nhdp,200.0,2000000000.0,23529411.76470588
+National Handicraft Development Programme,National Handicrafts Development Programme (NHDP),r_motdn9mot_cse_cssp_nhdp,r_motdn9mot_cse_cssp_nhdp_nhdpn,238.33,2383300000.0,28038823.529411763
+PM - MITRA,Raw Material Supply Scheme,r_motdn9mot_cse_cssp_pm,r_motdn9mot_cse_cssp_pm_rmss,160.0,1600000000.0,18823529.411764707
+PM - MITRA,"Scheme for Protection of the Handlooms and Implementation of the Handlooms (Reservation of Articles for Production) Act, 1985",r_motdn9mot_cse_cssp_pm,r_motdn9mot_cse_cssp_pm_sfpothaiothroafpa1,7.0,70000000.0,823529.4117647059
+Research and Capacity Building,Integrated Scheme for Skill Development,r_motdn9mot_cse_cssp_racb,r_motdn9mot_cse_cssp_racb_isfsd,115.0,1150000000.0,13529411.764705881
+Research and Capacity Building,National Technical Textiles Mission.,r_motdn9mot_cse_cssp_racb,r_motdn9mot_cse_cssp_racb_nttm,450.0,4500000000.0,52941176.47058824
+Research and Capacity Building,Production Linked Incentive (PLI) Scheme for Textiles,r_motdn9mot_cse_cssp_racb,r_motdn9mot_cse_cssp_racb_plipsft,5.0,50000000.0,588235.2941176471
+Research and Capacity Building,Textile Cluster Development Scheme,r_motdn9mot_cse_cssp_racb,r_motdn9mot_cse_cssp_racb_tcds,141.54,1415400000.0,16651764.705882354
+Textile Infrastructure,Integrated Processing Development Scheme,r_motdn9mot_cse_cssp_ti,r_motdn9mot_cse_cssp_ti_ipds,60.0,600000000.0,7058823.529411765
+Establishment Expenditure of the Centre,COP and COP Jute,r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_cacj,0.14,1400000.0000000002,16470.58823529412
+Establishment Expenditure of the Centre,Development Commissioner (Handloom),r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_dch,124.96,1249600000.0,14701176.470588235
+Establishment Expenditure of the Centre,Development Commissioner (Handicraft),r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_dch,119.61,1196100000.0,14071764.705882354
+Establishment Expenditure of the Centre,Export Promotion Studies & Activities,r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_epsa,5.0,50000000.0,588235.2941176471
+Establishment Expenditure of the Centre,Jute Commissioner,r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_jc,12.4,124000000.0,1458823.5294117648
+Establishment Expenditure of the Centre,Secretariat,r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_s,51.5,515000000.0,6058823.529411765
+Establishment Expenditure of the Centre,Textile Commissioner,r_motdn9mot_cse_eeotc,r_motdn9mot_cse_eeotc_tc,63.34,633400000.0,7451764.705882353
+Other Central Sector Expenditure,Autonomous Bodies,r_motdn9mot_cse_ocse,r_motdn9mot_cse_ocse_ab,23.69,236900000.0,2787058.8235294116
+Other Central Sector Expenditure,Others,r_motdn9mot_cse_ocse,r_motdn9mot_cse_ocse_o,1.5,15000000.0,176470.58823529413
+Other Central Sector Expenditure,Public Sector Undertakings,r_motdn9mot_cse_ocse,r_motdn9mot_cse_ocse_psu,222.87,2228700000.0,26220000.0
+Other Central Sector Expenditure,Statutory and Regulatory Bodies,r_motdn9mot_cse_ocse,r_motdn9mot_cse_ocse_sarb,160.55,1605500000.0,18888235.29411765
+Autonomous Bodies,Assistance to Sardar Vallbhabhai Patel Institute of Textiles Management,r_motdn9mot_cse_ocse_ab,r_motdn9mot_cse_ocse_ab_atsvpiotm,0.5,5000000.0,58823.529411764706
+Autonomous Bodies,Indian Institute of Carpet Technology (IICT),r_motdn9mot_cse_ocse_ab,r_motdn9mot_cse_ocse_ab_iiocti,6.19,61900000.00000001,728235.2941176471
+Autonomous Bodies,Textiles Research Association & IJIRA,r_motdn9mot_cse_ocse_ab,r_motdn9mot_cse_ocse_ab_trai,17.0,170000000.0,2000000.0
+Others,Contributions to International Institute of Cotton and Cotton Advisory Committee,r_motdn9mot_cse_ocse_o,r_motdn9mot_cse_ocse_o_ctiiocacac,1.5,15000000.0,176470.58823529413
+Public Sector Undertakings,Support to PSU's,r_motdn9mot_cse_ocse_psu,r_motdn9mot_cse_ocse_psu_stps,222.84,2228400000.0,26216470.588235293
+Statutory and Regulatory Bodies,Assistant to Textiles Committee,r_motdn9mot_cse_ocse_sarb,r_motdn9mot_cse_ocse_sarb_attc,56.55,565500000.0,6652941.176470588
+Statutory and Regulatory Bodies,National Institute of Fashion Technology,r_motdn9mot_cse_ocse_sarb,r_motdn9mot_cse_ocse_sarb_nioft,104.0,1040000000.0,12235294.11764706

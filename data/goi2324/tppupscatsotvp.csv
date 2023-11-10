@@ -1,0 +1,33 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President",,tppupscatsotvp,1785.8600000000001,17858600000.0,210101176.47058824
+1,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President",Lok Sabha,tppupscatsotvp,tppupscatsotvp_ls,822.0,8220000000.0,96705882.35294117
+2,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President",Rajya Sabha,tppupscatsotvp,tppupscatsotvp_rs,484.41,4844100000.0,56989411.76470588
+3,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President","Staff, Household and Allowances of the President",tppupscatsotvp,tppupscatsotvp_shaaotp,90.14,901400000.0,10604705.88235294
+4,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President",Secretariat of the Vice-President,tppupscatsotvp,tppupscatsotvp_sotvp,9.31,93100000.0,1095294.1176470588
+5,"The President, Parliament, Union Public Service Commission and the Secretariat of the Vice President",Union Public Service Commission,tppupscatsotvp,tppupscatsotvp_upsc,380.0,3800000000.0,44705882.35294118
+6,Lok Sabha,CENTRE'S EXPENDITURE,tppupscatsotvp_ls,tppupscatsotvp_ls_cse,822.0,8220000000.0,96705882.35294117
+7,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,tppupscatsotvp_ls_cse,tppupscatsotvp_ls_cse_eeotc,822.0,8220000000.0,96705882.35294117
+8,Establishment Expenditure of the Centre,Members,tppupscatsotvp_ls_cse_eeotc,tppupscatsotvp_ls_cse_eeotc_m,298.6,2986000000.0,35129411.76470588
+9,Establishment Expenditure of the Centre,Other Expenditure,tppupscatsotvp_ls_cse_eeotc,tppupscatsotvp_ls_cse_eeotc_oe,2.67,26700000.0,314117.64705882355
+10,Establishment Expenditure of the Centre,Secretariat,tppupscatsotvp_ls_cse_eeotc,tppupscatsotvp_ls_cse_eeotc_s,519.31,5193099999.999999,61095294.117647044
+11,Establishment Expenditure of the Centre,Speaker and Deputy  Speaker,tppupscatsotvp_ls_cse_eeotc,tppupscatsotvp_ls_cse_eeotc_sads,1.1,11000000.0,129411.76470588235
+12,Establishment Expenditure of the Centre,Secretariat (Chief Whips),tppupscatsotvp_ls_cse_eeotc,tppupscatsotvp_ls_cse_eeotc_scw,0.32,3200000.0,37647.05882352941
+13,Rajya Sabha,CENTRE'S EXPENDITURE,tppupscatsotvp_rs,tppupscatsotvp_rs_cse,484.41,4844100000.0,56989411.76470588
+14,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,tppupscatsotvp_rs_cse,tppupscatsotvp_rs_cse_eeotc,484.41,4844100000.0,56989411.76470588
+15,Establishment Expenditure of the Centre,Chairman and Deputy Chairman,tppupscatsotvp_rs_cse_eeotc,tppupscatsotvp_rs_cse_eeotc_cadc,2.04,20400000.0,240000.0
+16,Establishment Expenditure of the Centre,Leader of Opposition and Secretariat,tppupscatsotvp_rs_cse_eeotc,tppupscatsotvp_rs_cse_eeotc_looas,2.95,29500000.0,347058.82352941175
+17,Establishment Expenditure of the Centre,Members,tppupscatsotvp_rs_cse_eeotc,tppupscatsotvp_rs_cse_eeotc_m,141.51,1415100000.0,16648235.294117646
+18,Establishment Expenditure of the Centre,Secretariat,tppupscatsotvp_rs_cse_eeotc,tppupscatsotvp_rs_cse_eeotc_s,337.34,3373399999.9999995,39687058.82352941
+19,Establishment Expenditure of the Centre,"Secretariat of the leaders, Deputy Leaders and Chief Whips of recognised parties and groups",tppupscatsotvp_rs_cse_eeotc,tppupscatsotvp_rs_cse_eeotc_sotldlacworpag,0.22,2200000.0,25882.352941176472
+20,"Staff, Household and Allowances of the President",CENTRE'S EXPENDITURE,tppupscatsotvp_shaaotp,tppupscatsotvp_shaaotp_cse,90.14,901400000.0,10604705.88235294
+21,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,tppupscatsotvp_shaaotp_cse,tppupscatsotvp_shaaotp_cse_eeotc,90.14,901400000.0,10604705.88235294
+22,Establishment Expenditure of the Centre,Other  Expenditure,tppupscatsotvp_shaaotp_cse_eeotc,tppupscatsotvp_shaaotp_cse_eeotc_oe,36.22,362200000.0,4261176.470588235
+23,Establishment Expenditure of the Centre,President,tppupscatsotvp_shaaotp_cse_eeotc,tppupscatsotvp_shaaotp_cse_eeotc_p,0.6,6000000.0,70588.23529411765
+24,Establishment Expenditure of the Centre,Secretariat,tppupscatsotvp_shaaotp_cse_eeotc,tppupscatsotvp_shaaotp_cse_eeotc_s,53.32,533200000.0,6272941.176470588
+25,Secretariat of the Vice-President,CENTRE'S EXPENDITURE,tppupscatsotvp_sotvp,tppupscatsotvp_sotvp_cse,9.31,93100000.0,1095294.1176470588
+26,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,tppupscatsotvp_sotvp_cse,tppupscatsotvp_sotvp_cse_eeotc,9.31,93100000.0,1095294.1176470588
+27,Establishment Expenditure of the Centre,Secretariat,tppupscatsotvp_sotvp_cse_eeotc,tppupscatsotvp_sotvp_cse_eeotc_s,9.23,92300000.0,1085882.3529411764
+28,Union Public Service Commission,CENTRE'S EXPENDITURE,tppupscatsotvp_upsc,tppupscatsotvp_upsc_cse,380.0,3800000000.0,44705882.35294118
+29,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,tppupscatsotvp_upsc_cse,tppupscatsotvp_upsc_cse_eeotc,380.0,3800000000.0,44705882.35294118
+30,Establishment Expenditure of the Centre,Administrative Expenditure,tppupscatsotvp_upsc_cse_eeotc,tppupscatsotvp_upsc_cse_eeotc_ae,208.44,2084400000.0,24522352.94117647
+31,Establishment Expenditure of the Centre,Examinations and Selections,tppupscatsotvp_upsc_cse_eeotc,tppupscatsotvp_upsc_cse_eeotc_eas,171.56,1715600000.0,20183529.411764707

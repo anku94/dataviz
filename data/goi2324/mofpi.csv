@@ -1,0 +1,14 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Food Processing Industries,,mofpi,3160.6099999999997,31606099999.999996,371836470.58823526
+1,Ministry of Food Processing Industries,Ministry of Food Processing Industries,mofpi,mofpi_mofpi,3160.6099999999997,31606099999.999996,371836470.58823526
+2,Ministry of Food Processing Industries,CENTRE'S EXPENDITURE,mofpi_mofpi,mofpi_mofpi_cse,2521.56,25215600000.0,296654117.64705884
+3,Ministry of Food Processing Industries,TRANSFERS TO STATES/UTs,mofpi_mofpi,mofpi_mofpi_ttsu,639.05,6390500000.0,75182352.94117647
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mofpi_mofpi_cse,mofpi_mofpi_cse_cssp,2453.24,24532399999.999996,288616470.58823526
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mofpi_mofpi_cse,mofpi_mofpi_cse_ocse,68.32,683199999.9999999,8037647.058823528
+6,Central Sector Schemes/Projects,Production-Linked Incentive Scheme for Food Processing Industry,mofpi_mofpi_cse_cssp,mofpi_mofpi_cse_cssp_plisffpi,1530.0,15300000000.0,180000000.0
+7,Central Sector Schemes/Projects,Pradhan Mantri Kisan Sampada Yojana,mofpi_mofpi_cse_cssp,mofpi_mofpi_cse_cssp_pmksy,923.24,9232400000.0,108616470.58823529
+8,Other Central Sector Expenditure,Autonomous Bodies,mofpi_mofpi_cse_ocse,mofpi_mofpi_cse_ocse_ab,68.32,683199999.9999999,8037647.058823528
+9,Autonomous Bodies,National Institute of Food Technology Entrepreneurship and Management (NIFTEM)-KUNDLI,mofpi_mofpi_cse_ocse_ab,mofpi_mofpi_cse_ocse_ab_niofteamnk,38.26,382600000.0,4501176.470588235
+10,Autonomous Bodies,National Institute of Food Technology Entrepreneurship and Management (NIFTEM)-THANJAVUR,mofpi_mofpi_cse_ocse_ab,mofpi_mofpi_cse_ocse_ab_niofteamnt,30.06,300600000.0,3536470.588235294
+11,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mofpi_mofpi_ttsu,mofpi_mofpi_ttsu_css,639.05,6390500000.0,75182352.94117647
+12,Centrally Sponsored Schemes,Prime Minister Formalisation of Micro Food Processing Enterprises Scheme (PM FME),mofpi_mofpi_ttsu_css,mofpi_mofpi_ttsu_css_pmfomfpespf,639.05,6390500000.0,75182352.94117647

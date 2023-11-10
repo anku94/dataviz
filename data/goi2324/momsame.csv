@@ -1,0 +1,42 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,"Ministry of Micro, Small and Medium Enterprises",,momsame,22137.95,221379500000.0,2604464705.882353
+1,"Ministry of Micro, Small and Medium Enterprises","Ministry of Micro, Small and Medium Enterprises",momsame,momsame_momsame,22137.95,221379500000.0,2604464705.882353
+2,"Ministry of Micro, Small and Medium Enterprises",CENTRE'S EXPENDITURE,momsame_momsame,momsame_momsame_cse,22137.95,221379500000.0,2604464705.882353
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,momsame_momsame_cse,momsame_momsame_cse_cssp,21852.55,218525500000.0,2570888235.2941175
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,momsame_momsame_cse,momsame_momsame_cse_eeotc,265.40000000000003,2654000000.0000005,31223529.41176471
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,momsame_momsame_cse,momsame_momsame_cse_ocse,20.0,200000000.0,2352941.1764705884
+6,Central Sector Schemes/Projects,Credit Linked Capital Subsidy (CLCS),momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_clcsc,1.06,10600000.0,124705.88235294117
+7,Central Sector Schemes/Projects,"Development of Khadi, Village and Coir Industries",momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_dokvaci,1289.0,12890000000.0,151647058.82352942
+8,Central Sector Schemes/Projects,Enterpreneurship and Skill Development,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_easd,685.0,6850000000.0,80588235.29411764
+9,Central Sector Schemes/Projects,Infrastructure Development Programme,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_idp,2270.0,22700000000.0,267058823.52941176
+10,Central Sector Schemes/Projects,Market Promotion Scheme,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_mps,96.35,963500000.0,11335294.11764706
+11,Central Sector Schemes/Projects,Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_pmegppaocss,17300.12,173001200000.0,2035308235.2941177
+12,Central Sector Schemes/Projects,Research and Evaluation Studies,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_raes,100.0,1000000000.0,11764705.88235294
+13,Central Sector Schemes/Projects,"Studies, Publicity & International Cooperation (SPIC)",momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_spics,36.07,360700000.0,4243529.411764706
+14,Central Sector Schemes/Projects,Technology Upgradation and Quality Certification,momsame_momsame_cse_cssp,momsame_momsame_cse_cssp_tuaqc,74.95,749500000.0,8817647.05882353
+15,"Development of Khadi, Village and Coir Industries",Coir Vikas Yojana,momsame_momsame_cse_cssp_dokvaci,momsame_momsame_cse_cssp_dokvaci_cvy,92.0,920000000.0,10823529.411764706
+16,"Development of Khadi, Village and Coir Industries",Khadi Gramodyog Vikas Yojana,momsame_momsame_cse_cssp_dokvaci,momsame_momsame_cse_cssp_dokvaci_kgvy,917.0000000000001,9170000000.000002,107882352.94117649
+17,"Development of Khadi, Village and Coir Industries",Scheme for Fund for Regeneration of Traditional Industries (SFURTI),momsame_momsame_cse_cssp_dokvaci,momsame_momsame_cse_cssp_dokvaci_sfffrotis,280.0,2800000000.0,32941176.470588237
+18,Khadi Gramodyog Vikas Yojana,Gramodyog Vikas Yojana,momsame_momsame_cse_cssp_dokvaci_kgvy,momsame_momsame_cse_cssp_dokvaci_kgvy_gvy,42.6,426000000.0,5011764.705882353
+19,Khadi Gramodyog Vikas Yojana,Khadi Grant (KG),momsame_momsame_cse_cssp_dokvaci_kgvy,momsame_momsame_cse_cssp_dokvaci_kgvy_kgk,375.98,3759800000.0,44232941.176470585
+20,Khadi Gramodyog Vikas Yojana,Khadi Vikas Yojana,momsame_momsame_cse_cssp_dokvaci_kgvy,momsame_momsame_cse_cssp_dokvaci_kgvy_kvy,498.42,4984200000.0,58637647.058823526
+21,Enterpreneurship and Skill Development,Assistance to Training Institutions,momsame_momsame_cse_cssp_easd,momsame_momsame_cse_cssp_easd_atti,30.0,300000000.0,3529411.7647058824
+22,Enterpreneurship and Skill Development,Entrepreneurship cum Skill Development Programme (ESDP),momsame_momsame_cse_cssp_easd,momsame_momsame_cse_cssp_easd_ecsdpe,80.0,800000000.0,9411764.705882354
+23,Enterpreneurship and Skill Development,Fund of Funds,momsame_momsame_cse_cssp_easd,momsame_momsame_cse_cssp_easd_fof,575.0,5750000000.0,67647058.8235294
+24,Infrastructure Development Programme,Establishment of New Technology Centres,momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_eontc,450.0,4500000000.0,52941176.47058824
+25,Infrastructure Development Programme,Micro and Small Enterprise-Cluster Development Programme (MSE-CDP),momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_masecdpmc,150.0,1500000000.0,17647058.82352941
+26,Infrastructure Development Programme,Promotion of MSMEs in NER and Sikkim,momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_pominas,50.0,500000000.0,5882352.94117647
+27,Infrastructure Development Programme,Raising and Accelerating MSME Performance - RAMP,momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_raampr,1170.0,11700000000.0,137647058.82352942
+28,Infrastructure Development Programme,Technology Centre Systems Programme (TCSP) EAP,momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_tcspte,350.0,3500000000.0,41176470.5882353
+29,Infrastructure Development Programme,Tool Rooms & Technical Institutions (TR/TIs),momsame_momsame_cse_cssp_idp,momsame_momsame_cse_cssp_idp_trtitt,100.0,1000000000.0,11764705.88235294
+30,Market Promotion Scheme,Procurement and Marketing Support Scheme,momsame_momsame_cse_cssp_mps,momsame_momsame_cse_cssp_mps_pamss,96.35,963500000.0,11335294.11764706
+31,Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes,Credit Support Programme,momsame_momsame_cse_cssp_pmegppaocss,momsame_momsame_cse_cssp_pmegppaocss_csp,500.08,5000800000.0,58832941.176470585
+32,Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes,Guarantee Emergency Credit Line (GECL) facility to eligible MSME borrowers,momsame_momsame_cse_cssp_pmegppaocss,momsame_momsame_cse_cssp_pmegppaocss_geclgftemb,14100.0,141000000000.0,1658823529.4117646
+33,Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes,Prime Minister Employment Generation Programme (PMEGP),momsame_momsame_cse_cssp_pmegppaocss,momsame_momsame_cse_cssp_pmegppaocss_pmegpp,2700.0,27000000000.0,317647058.8235294
+34,Research and Evaluation Studies,National Schedule Caste/Schedule Tribe Hub Centre,momsame_momsame_cse_cssp_raes,momsame_momsame_cse_cssp_raes_nscsthc,100.0,1000000000.0,11764705.88235294
+35,Technology Upgradation and Quality Certification,"ASPIRE (Promotion of Innovation, Rural Industry and Entrepreneurship)",momsame_momsame_cse_cssp_tuaqc,momsame_momsame_cse_cssp_tuaqc_apoiriae,22.23,222300000.0,2615294.117647059
+36,Technology Upgradation and Quality Certification,MSME Champions Scheme,momsame_momsame_cse_cssp_tuaqc,momsame_momsame_cse_cssp_tuaqc_mcs,52.72,527200000.0,6202352.94117647
+37,Establishment Expenditure of the Centre,Development Commissioner (MSME),momsame_momsame_cse_eeotc,momsame_momsame_cse_eeotc_dcm,232.55,2325500000.0,27358823.529411763
+38,Establishment Expenditure of the Centre,Secretariat,momsame_momsame_cse_eeotc,momsame_momsame_cse_eeotc_s,32.85,328500000.0,3864705.882352941
+39,Other Central Sector Expenditure,Autonomous Bodies,momsame_momsame_cse_ocse,momsame_momsame_cse_ocse_ab,20.0,200000000.0,2352941.1764705884
+40,Autonomous Bodies,Mahatma Gandhi Institute for Rural Industrialisation.,momsame_momsame_cse_ocse_ab,momsame_momsame_cse_ocse_ab_mgifri,20.0,200000000.0,2352941.1764705884

@@ -1,0 +1,13 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Coal,,moc,192.32,1923200000.0,22625882.352941178
+1,Ministry of Coal,Ministry of Coal,moc,moc_moc,192.32,1923200000.0,22625882.352941178
+2,Ministry of Coal,CENTRE'S EXPENDITURE,moc_moc,moc_moc_cse,192.32,1923200000.0,22625882.352941178
+3,CENTRE'S EXPENDITURE,Autonomous Bodies,moc_moc_cse,moc_moc_cse_ab,10.64,106400000.0,1251764.705882353
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moc_moc_cse,moc_moc_cse_cssp,113.5,1135000000.0,13352941.176470589
+5,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,moc_moc_cse,moc_moc_cse_eeotc,68.18,681800000.0000001,8021176.470588237
+6,Autonomous Bodies,Coal Mines Pension Scheme,moc_moc_cse_ab,moc_moc_cse_ab_cmps,10.64,106400000.0,1251764.705882353
+7,Central Sector Schemes/Projects,Coal and Lignite,moc_moc_cse_cssp,moc_moc_cse_cssp_cal,113.5,1135000000.0,13352941.176470589
+8,Coal and Lignite,"Conservation, Safety and Infrastructure Development in Coal Mines",moc_moc_cse_cssp_cal,moc_moc_cse_cssp_cal_csaidicm,92.5,925000000.0,10882352.94117647
+9,Coal and Lignite,Research and Development,moc_moc_cse_cssp_cal,moc_moc_cse_cssp_cal_rad,21.0,210000000.0,2470588.2352941176
+10,Establishment Expenditure of the Centre,Secretariat,moc_moc_cse_eeotc,moc_moc_cse_eeotc_s,40.63,406300000.0,4780000.0
+11,Establishment Expenditure of the Centre,"Statutory Bodies, Attached and Sub-ordinate Offices",moc_moc_cse_eeotc,moc_moc_cse_eeotc_sbaasoo,27.55,275500000.0,3241176.470588235

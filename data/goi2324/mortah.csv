@@ -1,0 +1,12 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Road Transport and Highways,,mortah,270434.71,2704347100000.0,31815848235.294117
+1,Ministry of Road Transport and Highways,Ministry of Road Transport and Highways,mortah,mortah_mortah,270434.71,2704347100000.0,31815848235.294117
+2,Ministry of Road Transport and Highways,CENTRE'S EXPENDITURE,mortah_mortah,mortah_mortah_cse,270434.71,2704347100000.0,31815848235.294117
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mortah_mortah_cse,mortah_mortah_cse_cssp,270250.38,2702503800000.0,31794162352.941177
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mortah_mortah_cse,mortah_mortah_cse_eeotc,184.33,1843300000.0000002,21685882.352941178
+5,Central Sector Schemes/Projects,National Highways Authority of India,mortah_mortah_cse_cssp,mortah_mortah_cse_cssp_nhaoi,162207.0,1622070000000.0,19083176470.588234
+6,Central Sector Schemes/Projects,Roads and Bridges,mortah_mortah_cse_cssp,mortah_mortah_cse_cssp_rab,107713.38,1077133800000.0,12672162352.941177
+7,Central Sector Schemes/Projects,Road Transport and Safety,mortah_mortah_cse_cssp,mortah_mortah_cse_cssp_rtas,330.0,3300000000.0,38823529.4117647
+8,Roads and Bridges,Road Works,mortah_mortah_cse_cssp_rab,mortah_mortah_cse_cssp_rab_rw,107713.38,1077133800000.0,12672162352.941177
+9,Road Transport and Safety,"Research, Training, Studies and Other Road Safety Schemes",mortah_mortah_cse_cssp_rtas,mortah_mortah_cse_cssp_rtas_rtsaorss,330.0,3300000000.0,38823529.4117647
+10,Establishment Expenditure of the Centre,Secretariat,mortah_mortah_cse_eeotc,mortah_mortah_cse_eeotc_s,184.33,1843300000.0000002,21685882.352941178

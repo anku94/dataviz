@@ -1,0 +1,67 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Jal Shakti,,mojs,98687.0,986870000000.0,11610235294.117647
+1,Ministry of Jal Shakti,Department of Drinking Water and Sanitation,mojs,mojs_dodwas,77223.0,772230000000.0,9085058823.529411
+2,Ministry of Jal Shakti,"Department of Water Resources, River Development and Ganga Rejuvenation",mojs,mojs_dowrrdagr,21464.0,214640000000.0,2525176470.5882354
+3,Department of Drinking Water and Sanitation,CENTRE'S EXPENDITURE,mojs_dodwas,mojs_dodwas_cse,31.0,310000000.0,3647058.8235294116
+4,Department of Drinking Water and Sanitation,TRANSFERS TO STATES/UTs,mojs_dodwas,mojs_dodwas_ttsu,77192.0,771920000000.0,9081411764.705883
+5,CENTRE'S EXPENDITURE,Secretariat,mojs_dodwas_cse,mojs_dodwas_cse_s,31.0,310000000.0,3647058.8235294116
+6,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mojs_dodwas_ttsu,mojs_dodwas_ttsu_css,77192.0,771920000000.0,9081411764.705883
+7,Centrally Sponsored Schemes,Jal Jeevan Mission (JJM)/National Rural Drinking Water Mission,mojs_dodwas_ttsu_css,mojs_dodwas_ttsu_css_jjmjnrdwm,70000.0,700000000000.0,8235294117.6470585
+8,Centrally Sponsored Schemes,Swachh Bharat Mission (Gramin),mojs_dodwas_ttsu_css,mojs_dodwas_ttsu_css_sbmg,7192.0,71920000000.0,846117647.0588236
+9,"Department of Water Resources, River Development and Ganga Rejuvenation",CENTRE'S EXPENDITURE,mojs_dowrrdagr,mojs_dowrrdagr_cse,9076.769999999999,90767699999.99998,1067855294.1176469
+10,"Department of Water Resources, River Development and Ganga Rejuvenation",TRANSFERS TO STATES/UTs,mojs_dowrrdagr,mojs_dowrrdagr_ttsu,12387.23,123872300000.0,1457321176.4705882
+11,CENTRE'S EXPENDITURE,"Attached, Subordinate and Other Offices",mojs_dowrrdagr_cse,mojs_dowrrdagr_cse_asaoo,1130.26,11302600000.0,132971764.70588236
+12,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mojs_dowrrdagr_cse,mojs_dowrrdagr_cse_cssp,6258.11,62581100000.0,736248235.2941177
+13,CENTRE'S EXPENDITURE,Secretariat,mojs_dowrrdagr_cse,mojs_dowrrdagr_cse_s,279.07,2790700000.0,32831764.70588235
+14,CENTRE'S EXPENDITURE,Total - Establishment Expenditure of the Centre,mojs_dowrrdagr_cse,mojs_dowrrdagr_cse_teeotc,1409.33,14093300000.0,165803529.4117647
+15,"Attached, Subordinate and Other Offices",Brahmaputra Board,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_bb,50.0,500000000.0,5882352.94117647
+16,"Attached, Subordinate and Other Offices",Bansagar Control Board,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_bcb,0.55,5500000.0,64705.882352941175
+17,"Attached, Subordinate and Other Offices",Central Ground Water Board,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_cgwb,304.49,3044900000.0,35822352.941176474
+18,"Attached, Subordinate and Other Offices",Central Soil and Material Research Station,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_csamrs,28.77,287700000.0,3384705.882352941
+19,"Attached, Subordinate and Other Offices",Central Water and Power Research Station,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_cwaprs,100.0,1000000000.0,11764705.88235294
+20,"Attached, Subordinate and Other Offices",Central Water Commission,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_cwc,460.0,4600000000.0,54117647.058823526
+21,"Attached, Subordinate and Other Offices",National Dam Safety Authority,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_ndsa,12.68,126800000.0,1491764.705882353
+22,"Attached, Subordinate and Other Offices",North Eastern Regional Institute of Water and Land Management (NERIWALM),mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_neriowalmn,26.02,260200000.0,3061176.470588235
+23,"Attached, Subordinate and Other Offices",National Institute of Hydrology,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_nioh,50.0,500000000.0,5882352.94117647
+24,"Attached, Subordinate and Other Offices",National River Conservation Directorate,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_nrcd,8.5,85000000.0,1000000.0
+25,"Attached, Subordinate and Other Offices",National Water Academy,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_nwa,16.45,164500000.0,1935294.1176470588
+26,"Attached, Subordinate and Other Offices",National Water Development Agency (NWDA),mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_nwdan,55.0,550000000.0,6470588.235294118
+27,"Attached, Subordinate and Other Offices",National Water Informatics Centre,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_nwic,3.95,39500000.0,464705.8823529412
+28,"Attached, Subordinate and Other Offices",Rajeev Gandhi National Ground Water Training and Research Institute,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_rgngwtari,3.85,38500000.0,452941.17647058825
+29,"Attached, Subordinate and Other Offices",Upper Yamuna River Board,mojs_dowrrdagr_cse_asaoo,mojs_dowrrdagr_cse_asaoo_uyrb,10.0,100000000.0,1176470.5882352942
+30,Central Sector Schemes/Projects,Major Irrigation Projects,mojs_dowrrdagr_cse_cssp,mojs_dowrrdagr_cse_cssp_mip,105.98,1059800000.0,12468235.294117646
+31,Central Sector Schemes/Projects,Namami Gange Mission-II,mojs_dowrrdagr_cse_cssp,mojs_dowrrdagr_cse_cssp_ngmi,4000.0,40000000000.0,470588235.2941176
+32,Central Sector Schemes/Projects,River Basin Management,mojs_dowrrdagr_cse_cssp,mojs_dowrrdagr_cse_cssp_rbm,110.0,1100000000.0,12941176.470588235
+33,Central Sector Schemes/Projects,Water Resources Management,mojs_dowrrdagr_cse_cssp,mojs_dowrrdagr_cse_cssp_wrm,2042.13,20421300000.0,240250588.2352941
+34,Major Irrigation Projects,Dam Rehabilitation and Improvement Programme,mojs_dowrrdagr_cse_cssp_mip,mojs_dowrrdagr_cse_cssp_mip_draip,50.0,500000000.0,5882352.94117647
+35,Major Irrigation Projects,Farakka Barrage Project,mojs_dowrrdagr_cse_cssp_mip,mojs_dowrrdagr_cse_cssp_mip_fbp,55.98,559800000.0,6585882.352941177
+36,Dam Rehabilitation and Improvement Programme,EAP Component,mojs_dowrrdagr_cse_cssp_mip_draip,mojs_dowrrdagr_cse_cssp_mip_draip_ec,50.0,500000000.0,5882352.94117647
+37,Namami Gange Mission-II,National Ganga Plan,mojs_dowrrdagr_cse_cssp_ngmi,mojs_dowrrdagr_cse_cssp_ngmi_ngp,4000.0,40000000000.0,470588235.2941176
+38,National Ganga Plan,EAP Component,mojs_dowrrdagr_cse_cssp_ngmi_ngp,mojs_dowrrdagr_cse_cssp_ngmi_ngp_ec,1000.0,10000000000.0,117647058.8235294
+39,National Ganga Plan,Non EAP Component,mojs_dowrrdagr_cse_cssp_ngmi_ngp,mojs_dowrrdagr_cse_cssp_ngmi_ngp_nec,3000.0,30000000000.0,352941176.4705882
+40,River Basin Management,River Basin Management,mojs_dowrrdagr_cse_cssp_rbm,mojs_dowrrdagr_cse_cssp_rbm_rbm,110.0,1100000000.0,12941176.470588235
+41,Water Resources Management,Atal Bhujal Yojna,mojs_dowrrdagr_cse_cssp_wrm,mojs_dowrrdagr_cse_cssp_wrm_aby,1000.0,10000000000.0,117647058.8235294
+42,Water Resources Management,Development of Water Resources Information System,mojs_dowrrdagr_cse_cssp_wrm,mojs_dowrrdagr_cse_cssp_wrm_dowris,162.13,1621300000.0,19074117.647058822
+43,Water Resources Management,Ground Water Management and Regulation,mojs_dowrrdagr_cse_cssp_wrm,mojs_dowrrdagr_cse_cssp_wrm_gwmar,330.0,3300000000.0,38823529.4117647
+44,Water Resources Management,National Hydrology Project,mojs_dowrrdagr_cse_cssp_wrm,mojs_dowrrdagr_cse_cssp_wrm_nhp,500.0,5000000000.0,58823529.4117647
+45,Water Resources Management,Research and Development and Implementation of National Water Mission,mojs_dowrrdagr_cse_cssp_wrm,mojs_dowrrdagr_cse_cssp_wrm_radaionwm,50.0,500000000.0,5882352.94117647
+46,Atal Bhujal Yojna,EAP Components,mojs_dowrrdagr_cse_cssp_wrm_aby,mojs_dowrrdagr_cse_cssp_wrm_aby_ec,453.0,4530000000.0,53294117.64705882
+47,Atal Bhujal Yojna,Programme Component,mojs_dowrrdagr_cse_cssp_wrm_aby,mojs_dowrrdagr_cse_cssp_wrm_aby_pc,547.0,5470000000.0,64352941.176470585
+48,National Hydrology Project,EAP Component,mojs_dowrrdagr_cse_cssp_wrm_nhp,mojs_dowrrdagr_cse_cssp_wrm_nhp_ec,250.0,2500000000.0,29411764.70588235
+49,National Hydrology Project,Programme Component,mojs_dowrrdagr_cse_cssp_wrm_nhp,mojs_dowrrdagr_cse_cssp_wrm_nhp_pc,250.0,2500000000.0,29411764.70588235
+50,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mojs_dowrrdagr_ttsu,mojs_dowrrdagr_ttsu_css,12387.23,123872300000.0,1457321176.4705882
+51,Centrally Sponsored Schemes,Interlinking of Rivers,mojs_dowrrdagr_ttsu_css,mojs_dowrrdagr_ttsu_css_ior,3500.0,35000000000.0,411764705.88235295
+52,Centrally Sponsored Schemes,National River Conservation Plan -Other Basins,mojs_dowrrdagr_ttsu_css,mojs_dowrrdagr_ttsu_css_nrcpob,300.0,3000000000.0,35294117.64705882
+53,Centrally Sponsored Schemes,Pradhan Mantri Krishi Sinchai Yojna,mojs_dowrrdagr_ttsu_css,mojs_dowrrdagr_ttsu_css_pmksy,8587.23,85872300000.0,1010262352.9411764
+54,National River Conservation Plan -Other Basins,EAP Component,mojs_dowrrdagr_ttsu_css_nrcpob,mojs_dowrrdagr_ttsu_css_nrcpob_ec,100.0,1000000000.0,11764705.88235294
+55,National River Conservation Plan -Other Basins,Programme Component,mojs_dowrrdagr_ttsu_css_nrcpob,mojs_dowrrdagr_ttsu_css_nrcpob_pc,200.0,2000000000.0,23529411.76470588
+56,Pradhan Mantri Krishi Sinchai Yojna,Accelerated Irrigation Benefit Programme and National/Special Projects,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_aibpansp,3122.23,31222300000.0,367321176.4705882
+57,Pradhan Mantri Krishi Sinchai Yojna,Command Area Development And Water Management,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_cadawm,400.0,4000000000.0,47058823.52941176
+58,Pradhan Mantri Krishi Sinchai Yojna,Flood Management and Border Areas Programme(FMBAP),mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_fmabapf,450.0,4500000000.0,52941176.47058824
+59,Pradhan Mantri Krishi Sinchai Yojna,Har Khet Ko Pani,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_hkkp,300.0,3000000000.0,35294117.64705882
+60,Pradhan Mantri Krishi Sinchai Yojna,Irrigation Census,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_ic,40.0,400000000.0,4705882.352941177
+61,Pradhan Mantri Krishi Sinchai Yojna,Servicing of loans from NABARD under PMKSY,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_solfnup,3875.0,38750000000.0,455882352.9411765
+62,Pradhan Mantri Krishi Sinchai Yojna,Special Package for Irrigation Projects to address agrarian distress in districts of Vidarbha and Marathawada and other chronically drought prone areas of rest of Maharashtra,mojs_dowrrdagr_ttsu_css_pmksy,mojs_dowrrdagr_ttsu_css_pmksy_spfiptaadidovamaocdpaorom,400.0,4000000000.0,47058823.52941176
+63,Servicing of loans from NABARD under PMKSY,Interest subvention for NABARD to States under PMKSY,mojs_dowrrdagr_ttsu_css_pmksy_solfnup,mojs_dowrrdagr_ttsu_css_pmksy_solfnup_isfntsup,650.0,6500000000.0,76470588.23529412
+64,Servicing of loans from NABARD under PMKSY,Payment of interest for NABARD loan to NWDA under PMKSY,mojs_dowrrdagr_ttsu_css_pmksy_solfnup,mojs_dowrrdagr_ttsu_css_pmksy_solfnup_poifnltnup,2200.0,22000000000.0,258823529.4117647
+65,Servicing of loans from NABARD under PMKSY,Repayment of principal for NABARD loan to NWDA under PMKSY,mojs_dowrrdagr_ttsu_css_pmksy_solfnup,mojs_dowrrdagr_ttsu_css_pmksy_solfnup_ropfnltnup,1025.0,10250000000.0,120588235.29411764

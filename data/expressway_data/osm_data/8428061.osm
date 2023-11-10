@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="245660363" lat="19.0125624" lon="72.8167028">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="245666152" lat="19.0608909" lon="72.8221539">
+    <tag k="source" v="AND"/>
+  </node>
+  <node id="346395730" lat="19.0145942" lon="72.8123613"/>
+  <node id="346395731" lat="19.0380606" lon="72.8174664"/>
+  <node id="346395732" lat="19.0394808" lon="72.8180608"/>
+  <node id="346395733" lat="19.0384331" lon="72.8175754"/>
+  <node id="346395734" lat="19.0387926" lon="72.8177117"/>
+  <node id="346395735" lat="19.0398063" lon="72.8182721"/>
+  <node id="346395736" lat="19.0411878" lon="72.8196525"/>
+  <node id="347183370" lat="19.0404122" lon="72.8187632"/>
+  <node id="457453779" lat="19.0391424" lon="72.8178737"/>
+  <node id="457453780" lat="19.0417740" lon="72.8206902"/>
+  <node id="457453781" lat="19.0419286" lon="72.8210521"/>
+  <node id="457458961" lat="19.0161273" lon="72.8121784"/>
+  <node id="457458963" lat="19.0162892" lon="72.8122199"/>
+  <node id="457458965" lat="19.0164895" lon="72.8122454"/>
+  <node id="457458967" lat="19.0167425" lon="72.8122498"/>
+  <node id="457458969" lat="19.0174285" lon="72.8122224"/>
+  <node id="457458992" lat="19.0427174" lon="72.8233694"/>
+  <node id="457458994" lat="19.0417422" lon="72.8211192"/>
+  <node id="457458996" lat="19.0415895" lon="72.8207617"/>
+  <node id="457458998" lat="19.0414229" lon="72.8204145"/>
+  <node id="457459000" lat="19.0412346" lon="72.8200812"/>
+  <node id="457459002" lat="19.0410251" lon="72.8197624"/>
+  <node id="457459004" lat="19.0407954" lon="72.8194595"/>
+  <node id="457459006" lat="19.0405465" lon="72.8191742"/>
+  <node id="457459007" lat="19.0402797" lon="72.8189075"/>
+  <node id="457459010" lat="19.0399962" lon="72.8186610"/>
+  <node id="457459012" lat="19.0396973" lon="72.8184356"/>
+  <node id="457459014" lat="19.0393845" lon="72.8182325"/>
+  <node id="457459016" lat="19.0390592" lon="72.8180527"/>
+  <node id="457459018" lat="19.0387230" lon="72.8178969"/>
+  <node id="457459020" lat="19.0383775" lon="72.8177660"/>
+  <node id="457459022" lat="19.0380147" lon="72.8176599"/>
+  <node id="457459024" lat="19.0143625" lon="72.8125912"/>
+  <node id="457459027" lat="19.0144916" lon="72.8125055"/>
+  <node id="457459028" lat="19.0147650" lon="72.8123635"/>
+  <node id="457459030" lat="19.0150542" lon="72.8122624"/>
+  <node id="457459031" lat="19.0152030" lon="72.8122279"/>
+  <node id="457459033" lat="19.0180780" lon="72.8125701"/>
+  <node id="457459035" lat="19.0171721" lon="72.8123677"/>
+  <node id="457459036" lat="19.0161107" lon="72.8122525"/>
+  <node id="457459037" lat="19.0164846" lon="72.8123214"/>
+  <node id="457459038" lat="19.0167413" lon="72.8123258"/>
+  <node id="457459039" lat="19.0159613" lon="72.8122208"/>
+  <node id="457459040" lat="19.0155057" lon="72.8121919"/>
+  <node id="457459041" lat="19.0153538" lon="72.8122044"/>
+  <node id="457459042" lat="19.0149079" lon="72.8123077"/>
+  <node id="457459043" lat="19.0146259" lon="72.8124295"/>
+  <node id="457459044" lat="19.0142392" lon="72.8126860"/>
+  <node id="457459045" lat="19.0139106" lon="72.8130210"/>
+  <node id="457459046" lat="19.0136539" lon="72.8134202"/>
+  <node id="457459047" lat="19.0134609" lon="72.8136872"/>
+  <node id="457459048" lat="19.0134115" lon="72.8138438"/>
+  <node id="457459050" lat="19.0126242" lon="72.8166194">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="457459986" lat="19.0431329" lon="72.8244914">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="charge" v="Rs 75"/>
+  </node>
+  <node id="588644617" lat="19.0433096" lon="72.8248679"/>
+  <node id="588644618" lat="19.0433227" lon="72.8243850"/>
+  <node id="705948701" lat="19.0181162" lon="72.8123592"/>
+  <node id="705948735" lat="19.0150364" lon="72.8121887"/>
+  <node id="705948760" lat="19.0147377" lon="72.8122931"/>
+  <node id="705948761" lat="19.0172529" lon="72.8122146"/>
+  <node id="706015798" lat="19.0429033" lon="72.8233012"/>
+  <node id="1650382573" lat="19.0126026" lon="72.8166629"/>
+  <node id="1650382574" lat="19.0126893" lon="72.8166921"/>
+  <node id="1650382575" lat="19.0126931" lon="72.8166412">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="Worli Seaface"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1650382576" lat="19.0126980" lon="72.8167443"/>
+  <node id="1650382577" lat="19.0127986" lon="72.8168367"/>
+  <node id="1650382581" lat="19.0134797" lon="72.8138678"/>
+  <node id="1650382582" lat="19.0135282" lon="72.8137137"/>
+  <node id="1650382591" lat="19.0159685" lon="72.8117765"/>
+  <node id="1933208849" lat="19.0156581" lon="72.8121904"/>
+  <node id="1933208852" lat="19.0158102" lon="72.8122001"/>
+  <node id="1933208856" lat="19.0162759" lon="72.8122947"/>
+  <node id="1933247047" lat="19.0135905" lon="72.8133841"/>
+  <node id="1933247049" lat="19.0138556" lon="72.8129720"/>
+  <node id="1933247050" lat="19.0141950" lon="72.8126261"/>
+  <node id="1933247051" lat="19.0144555" lon="72.8124398"/>
+  <node id="1933247053" lat="19.0148854" lon="72.8122355"/>
+  <node id="1933247054" lat="19.0151901" lon="72.8121531"/>
+  <node id="1933247055" lat="19.0155026" lon="72.8121159"/>
+  <node id="1933247058" lat="19.0153457" lon="72.8121288"/>
+  <node id="1933247059" lat="19.0156599" lon="72.8121144"/>
+  <node id="1933247062" lat="19.0159730" lon="72.8121457"/>
+  <node id="1933247064" lat="19.0158170" lon="72.8121244"/>
+  <node id="2299255950" lat="19.0123717" lon="72.8167276"/>
+  <node id="2299255953" lat="19.0125169" lon="72.8167180"/>
+  <node id="2299255955" lat="19.0127287" lon="72.8167911"/>
+  <node id="2930952701" lat="19.0135208" lon="72.8135333"/>
+  <node id="2930952702" lat="19.0135863" lon="72.8135646"/>
+  <node id="2930952703" lat="19.0136699" lon="72.8132404"/>
+  <node id="2930952704" lat="19.0137307" lon="72.8132810"/>
+  <node id="2930952705" lat="19.0137583" lon="72.8131028"/>
+  <node id="2930952706" lat="19.0138164" lon="72.8131477"/>
+  <node id="2930952707" lat="19.0139611" lon="72.8128485"/>
+  <node id="2930952708" lat="19.0140127" lon="72.8129014"/>
+  <node id="2930952709" lat="19.0140744" lon="72.8127330"/>
+  <node id="2930952710" lat="19.0141225" lon="72.8127896"/>
+  <node id="2930952711" lat="19.0143222" lon="72.8125282"/>
+  <node id="2930952713" lat="19.0177089" lon="72.8122489"/>
+  <node id="2930952714" lat="19.0401173" lon="72.8185066"/>
+  <node id="2930952715" lat="19.0406899" lon="72.8190405"/>
+  <node id="2930952716" lat="19.0409488" lon="72.8193375"/>
+  <node id="2930952717" lat="19.0414057" lon="72.8199842"/>
+  <node id="2930952718" lat="19.0416016" lon="72.8203310"/>
+  <node id="4844510599" lat="19.0435020" lon="72.8247602">
+    <tag k="barrier" v="toll_booth"/>
+  </node>
+  <node id="4844510600" lat="19.0434198" lon="72.8245880"/>
+  <node id="4844562022" lat="19.0432285" lon="72.8246952"/>
+  <node id="5729995101" lat="19.0158801" lon="72.8120232"/>
+  <node id="5842287215" lat="18.9869901" lon="72.8102374"/>
+  <node id="5842287216" lat="18.9927219" lon="72.8114498"/>
+  <node id="5842287217" lat="18.9954204" lon="72.8113639"/>
+  <node id="5842287218" lat="19.0001173" lon="72.8105378"/>
+  <node id="5842287220" lat="19.0139941" lon="72.8112244"/>
+  <node id="5907164910" lat="18.9636812" lon="72.7997131"/>
+  <node id="5907164976" lat="18.9710762" lon="72.8019625"/>
+  <node id="5907164977" lat="18.9696782" lon="72.8012987"/>
+  <node id="5907165108" lat="18.9654136" lon="72.8004319"/>
+  <node id="5907165113" lat="18.9229124" lon="72.8214065"/>
+  <node id="5907165176" lat="18.9234939" lon="72.8198468"/>
+  <node id="5907165299" lat="18.9252177" lon="72.8182276"/>
+  <node id="5907165300" lat="18.9601041" lon="72.7994597"/>
+  <node id="5907165301" lat="18.9600597" lon="72.7992480"/>
+  <node id="5907165361" lat="18.9826587" lon="72.8132418"/>
+  <node id="5907165362" lat="18.9826834" lon="72.8133997"/>
+  <node id="5907165363" lat="18.9793668" lon="72.8090784"/>
+  <node id="5907165398" lat="18.9834864" lon="72.8131964"/>
+  <node id="5907165466" lat="18.9794086" lon="72.8081501"/>
+  <node id="5907165467" lat="18.9923618" lon="72.8113854"/>
+  <node id="5907165646" lat="19.0027666" lon="72.8111008"/>
+  <node id="5907165794" lat="19.0139941" lon="72.8115249"/>
+  <node id="5907165795" lat="19.0130609" lon="72.8114390"/>
+  <node id="5907165796" lat="19.0121734" lon="72.8115356"/>
+  <node id="5907165797" lat="19.0114938" lon="72.8117824"/>
+  <node id="5907165798" lat="19.0107736" lon="72.8121471"/>
+  <node id="5907165799" lat="19.0101193" lon="72.8125173"/>
+  <node id="5907165800" lat="19.0094092" lon="72.8128445"/>
+  <node id="5907165801" lat="19.0084354" lon="72.8131181"/>
+  <node id="5907165802" lat="19.0078014" lon="72.8131932"/>
+  <node id="5907165803" lat="19.0070609" lon="72.8131181"/>
+  <node id="5907165804" lat="19.0064675" lon="72.8129786"/>
+  <node id="5907165805" lat="19.0031048" lon="72.8115034"/>
+  <node id="5907165806" lat="19.0022425" lon="72.8112084"/>
+  <node id="5907165807" lat="19.0012180" lon="72.8109348"/>
+  <node id="5907165808" lat="19.0001427" lon="72.8107953"/>
+  <node id="5907165809" lat="18.9992601" lon="72.8108168"/>
+  <node id="5907165810" lat="18.9984536" lon="72.8108919"/>
+  <node id="5907165811" lat="18.9973022" lon="72.8111386"/>
+  <node id="5907165812" lat="18.9966175" lon="72.8113478"/>
+  <node id="5907165813" lat="18.9954509" lon="72.8116375"/>
+  <node id="5907165814" lat="18.9945886" lon="72.8117502"/>
+  <node id="5907165815" lat="18.9937364" lon="72.8117770"/>
+  <node id="5907165816" lat="18.9927219" lon="72.8117073"/>
+  <node id="5907165817" lat="18.9923415" lon="72.8116375"/>
+  <node id="5907165818" lat="18.9916517" lon="72.8114873"/>
+  <node id="5907165819" lat="18.9907031" lon="72.8111976"/>
+  <node id="5907165820" lat="18.9897241" lon="72.8107846"/>
+  <node id="5907165821" lat="18.9891814" lon="72.8104949"/>
+  <node id="5907165822" lat="18.9885828" lon="72.8102696"/>
+  <node id="5907165823" lat="18.9881517" lon="72.8102213"/>
+  <node id="5907165824" lat="18.9876647" lon="72.8102696"/>
+  <node id="5907165825" lat="18.9870915" lon="72.8104573"/>
+  <node id="5907165826" lat="18.9866958" lon="72.8107470"/>
+  <node id="5907165827" lat="18.9862495" lon="72.8111976"/>
+  <node id="5907165828" lat="18.9852349" lon="72.8122679"/>
+  <node id="5907165829" lat="18.9844919" lon="72.8129518"/>
+  <node id="5907165830" lat="18.9837334" lon="72.8133219"/>
+  <node id="5907165831" lat="18.9830486" lon="72.8133970"/>
+  <node id="5907165832" lat="18.9823232" lon="72.8133488"/>
+  <node id="5907165833" lat="18.9816790" lon="72.8131396"/>
+  <node id="5907165834" lat="18.9812732" lon="72.8129250"/>
+  <node id="5907165835" lat="18.9806746" lon="72.8124475"/>
+  <node id="5907165836" lat="18.9802181" lon="72.8118735"/>
+  <node id="5907165837" lat="18.9798985" lon="72.8111762"/>
+  <node id="5907165838" lat="18.9795180" lon="72.8097331"/>
+  <node id="5907165839" lat="18.9789752" lon="72.8073835"/>
+  <node id="5907165840" lat="18.9788180" lon="72.8067291"/>
+  <node id="5907165841" lat="18.9786658" lon="72.8063267"/>
+  <node id="5907165842" lat="18.9784527" lon="72.8059566"/>
+  <node id="5907165843" lat="18.9781889" lon="72.8056669"/>
+  <node id="5907165844" lat="18.9777933" lon="72.8053451"/>
+  <node id="5907165845" lat="18.9773164" lon="72.8051305"/>
+  <node id="5907165846" lat="18.9766011" lon="72.8048944"/>
+  <node id="5907165847" lat="18.9759823" lon="72.8047281"/>
+  <node id="5907165848" lat="18.9753684" lon="72.8045082"/>
+  <node id="5907165849" lat="18.9748256" lon="72.8042507"/>
+  <node id="5907165850" lat="18.9743082" lon="72.8039503"/>
+  <node id="5907165851" lat="18.9736791" lon="72.8034621"/>
+  <node id="5907165852" lat="18.9728776" lon="72.8027701"/>
+  <node id="5907165853" lat="18.9723703" lon="72.8024161"/>
+  <node id="5907165854" lat="18.9717818" lon="72.8021532"/>
+  <node id="5907165855" lat="18.9634264" lon="72.7998948"/>
+  <node id="5907165856" lat="18.9623762" lon="72.7996319"/>
+  <node id="5907165857" lat="18.9615467" lon="72.7994656"/>
+  <node id="5907165858" lat="18.9607401" lon="72.7994093"/>
+  <node id="5907165860" lat="18.9590659" lon="72.7999939"/>
+  <node id="5907165861" lat="18.9253192" lon="72.8183618"/>
+  <node id="5907165862" lat="18.9248245" lon="72.8187132"/>
+  <node id="5907165863" lat="18.9237182" lon="72.8198665"/>
+  <node id="5907165864" lat="18.9242358" lon="72.8192496"/>
+  <node id="5907165865" lat="18.9234087" lon="72.8203171"/>
+  <node id="5907165866" lat="18.9230180" lon="72.8211164"/>
+  <node id="5907165867" lat="18.9227896" lon="72.8217441"/>
+  <node id="5907165868" lat="18.9225866" lon="72.8226453"/>
+  <node id="5907165869" lat="18.9225359" lon="72.8233856"/>
+  <node id="5907165870" lat="18.9225562" lon="72.8238738"/>
+  <node id="5907165871" lat="18.9226120" lon="72.8244317"/>
+  <node id="5907165872" lat="18.9226475" lon="72.8249037"/>
+  <node id="5907165873" lat="18.9226830" lon="72.8255367"/>
+  <node id="5907165874" lat="18.9226627" lon="72.8260302"/>
+  <node id="5907165875" lat="18.9226171" lon="72.8262341"/>
+  <node id="5907165876" lat="18.9225562" lon="72.8263682"/>
+  <node id="5907165877" lat="18.9223633" lon="72.8266042"/>
+  <node id="5907165878" lat="18.9221096" lon="72.8267437"/>
+  <node id="5907165879" lat="18.9218457" lon="72.8267759"/>
+  <node id="5907165880" lat="18.9215413" lon="72.8267008"/>
+  <node id="5907165881" lat="18.9205010" lon="72.8263092"/>
+  <node id="5907165882" lat="18.9199123" lon="72.8261268"/>
+  <node id="5907165883" lat="18.9217544" lon="72.8263950"/>
+  <node id="5907165884" lat="18.9220183" lon="72.8264487"/>
+  <node id="5907165985" lat="18.9222720" lon="72.8264272"/>
+  <node id="5907165986" lat="18.9224445" lon="72.8262448"/>
+  <node id="5907165987" lat="18.9225359" lon="72.8260088"/>
+  <node id="5907165988" lat="18.9225460" lon="72.8254294"/>
+  <node id="5907165989" lat="18.9224750" lon="72.8245067"/>
+  <node id="5907165990" lat="18.9224040" lon="72.8234124"/>
+  <node id="5907165991" lat="18.9224547" lon="72.8226185"/>
+  <node id="5907165992" lat="18.9226171" lon="72.8217065"/>
+  <node id="5907165993" lat="18.9228404" lon="72.8210306"/>
+  <node id="5907165994" lat="18.9232463" lon="72.8202045"/>
+  <node id="5907165995" lat="18.9235508" lon="72.8197646"/>
+  <node id="5907165996" lat="18.9240988" lon="72.8191101"/>
+  <node id="5907165997" lat="18.9247484" lon="72.8185308"/>
+  <node id="5907165999" lat="18.9589770" lon="72.7998734"/>
+  <node id="5907166001" lat="18.9607274" lon="72.7991974"/>
+  <node id="5907166002" lat="18.9615416" lon="72.7992564"/>
+  <node id="5907166003" lat="18.9623864" lon="72.7994013"/>
+  <node id="5907166004" lat="18.9634720" lon="72.7996588"/>
+  <node id="5907166005" lat="18.9664855" lon="72.8004420"/>
+  <node id="5907166006" lat="18.9718833" lon="72.8018904"/>
+  <node id="5907166007" lat="18.9724413" lon="72.8021586"/>
+  <node id="5907166008" lat="18.9729588" lon="72.8025126"/>
+  <node id="5907166009" lat="18.9737705" lon="72.8031886"/>
+  <node id="5907166010" lat="18.9743995" lon="72.8036821"/>
+  <node id="5907166011" lat="18.9748967" lon="72.8039718"/>
+  <node id="5907166012" lat="18.9754750" lon="72.8042507"/>
+  <node id="5907166013" lat="18.9760025" lon="72.8044546"/>
+  <node id="5907166014" lat="18.9766316" lon="72.8046155"/>
+  <node id="5907166015" lat="18.9773316" lon="72.8048301"/>
+  <node id="5907166016" lat="18.9778389" lon="72.8050768"/>
+  <node id="5907166017" lat="18.9781940" lon="72.8053343"/>
+  <node id="5907166018" lat="18.9785288" lon="72.8056133"/>
+  <node id="5907166019" lat="18.9788433" lon="72.8061175"/>
+  <node id="5907166020" lat="18.9790361" lon="72.8066003"/>
+  <node id="5907166021" lat="18.9792086" lon="72.8072441"/>
+  <node id="5907166022" lat="18.9797463" lon="72.8096795"/>
+  <node id="5907166023" lat="18.9801014" lon="72.8110742"/>
+  <node id="5907166024" lat="18.9803855" lon="72.8117180"/>
+  <node id="5907166025" lat="18.9808116" lon="72.8122544"/>
+  <node id="5907166026" lat="18.9813215" lon="72.8127202"/>
+  <node id="5907166027" lat="18.9817837" lon="72.8129649"/>
+  <node id="5907166028" lat="18.9824677" lon="72.8132017"/>
+  <node id="5907166029" lat="18.9831213" lon="72.8132686"/>
+  <node id="5907166030" lat="18.9837537" lon="72.8130591"/>
+  <node id="5907166031" lat="18.9844030" lon="72.8127694"/>
+  <node id="5907166032" lat="18.9850650" lon="72.8121874"/>
+  <node id="5907166033" lat="18.9860161" lon="72.8110528"/>
+  <node id="5907166034" lat="18.9865132" lon="72.8105271"/>
+  <node id="5907166035" lat="18.9875886" lon="72.8100014"/>
+  <node id="5907166036" lat="18.9881669" lon="72.8099692"/>
+  <node id="5907166037" lat="18.9885930" lon="72.8100121"/>
+  <node id="5907166038" lat="18.9892524" lon="72.8102374"/>
+  <node id="5907166039" lat="18.9898408" lon="72.8105378"/>
+  <node id="5907166040" lat="18.9907437" lon="72.8109240"/>
+  <node id="5907166041" lat="18.9919509" lon="72.8113210"/>
+  <node id="5907166042" lat="18.9937669" lon="72.8115141"/>
+  <node id="5907166043" lat="18.9945784" lon="72.8114927"/>
+  <node id="5907166044" lat="18.9965465" lon="72.8110957"/>
+  <node id="5907166045" lat="18.9972566" lon="72.8109133"/>
+  <node id="5907166046" lat="18.9984131" lon="72.8106129"/>
+  <node id="5907166047" lat="18.9992348" lon="72.8105593"/>
+  <node id="5907166048" lat="19.0012230" lon="72.8106773"/>
+  <node id="5907166049" lat="19.0022882" lon="72.8109240"/>
+  <node id="5907166050" lat="19.0031301" lon="72.8112352"/>
+  <node id="5907166051" lat="19.0054430" lon="72.8122973"/>
+  <node id="5907166052" lat="19.0064980" lon="72.8127158"/>
+  <node id="5907166053" lat="19.0070660" lon="72.8128552"/>
+  <node id="5907166054" lat="19.0077761" lon="72.8129089"/>
+  <node id="5907166055" lat="19.0083543" lon="72.8128981"/>
+  <node id="5907166056" lat="19.0093382" lon="72.8126192"/>
+  <node id="5907166057" lat="19.0099570" lon="72.8123188"/>
+  <node id="5907166058" lat="19.0106772" lon="72.8119004"/>
+  <node id="5907166059" lat="19.0114278" lon="72.8115463"/>
+  <node id="5907166060" lat="19.0121277" lon="72.8112996"/>
+  <node id="5907166061" lat="19.0130508" lon="72.8111708"/>
+  <node id="5907181720" lat="19.0544616" lon="72.8210541"/>
+  <node id="5907181733" lat="19.0473121" lon="72.8308904"/>
+  <node id="5907181734" lat="19.0468151" lon="72.8305042"/>
+  <node id="5907181735" lat="19.0462776" lon="72.8301930"/>
+  <node id="5907181736" lat="19.0453345" lon="72.8298604"/>
+  <node id="5907181737" lat="19.0445029" lon="72.8293562"/>
+  <node id="5907181738" lat="19.0440668" lon="72.8289485"/>
+  <node id="5907181739" lat="19.0436307" lon="72.8282726"/>
+  <node id="5907181740" lat="19.0410446" lon="72.8228116"/>
+  <node id="5907181741" lat="19.0407302" lon="72.8218031"/>
+  <node id="5907181742" lat="19.0406896" lon="72.8210199"/>
+  <node id="5907181743" lat="19.0407707" lon="72.8201616"/>
+  <node id="5907181744" lat="19.0410851" lon="72.8192496"/>
+  <node id="5907181745" lat="19.0414299" lon="72.8186703"/>
+  <node id="5907181746" lat="19.0422311" lon="72.8178227"/>
+  <node id="5907181747" lat="19.0429208" lon="72.8173721"/>
+  <node id="5907181748" lat="19.0435293" lon="72.8171253"/>
+  <node id="5907181749" lat="19.0444116" lon="72.8169429"/>
+  <node id="5907181750" lat="19.0453750" lon="72.8170180"/>
+  <node id="5907181751" lat="19.0463689" lon="72.8173828"/>
+  <node id="5907181752" lat="19.0473222" lon="72.8179943"/>
+  <node id="5907181753" lat="19.0497561" lon="72.8196895"/>
+  <node id="5907181754" lat="19.0506689" lon="72.8201830"/>
+  <node id="5907181755" lat="19.0515613" lon="72.8205693"/>
+  <node id="5907181756" lat="19.0524841" lon="72.8208268"/>
+  <node id="5907181757" lat="19.0537619" lon="72.8210628"/>
+  <node id="5907181759" lat="19.0556684" lon="72.8209770"/>
+  <node id="5907181760" lat="19.0565405" lon="72.8207731"/>
+  <node id="5907181761" lat="19.0588323" lon="72.8201079"/>
+  <node id="5907181762" lat="19.0596436" lon="72.8199577"/>
+  <node id="5907181763" lat="19.0606678" lon="72.8199041"/>
+  <node id="5907181764" lat="19.0619962" lon="72.8199470"/>
+  <node id="5907181765" lat="19.0699236" lon="72.8191705"/>
+  <node id="5907181766" lat="19.0730010" lon="72.8191089"/>
+  <node id="5907181768" lat="19.0750428" lon="72.8190906"/>
+  <node id="7004539313" lat="18.9595199" lon="72.7993691"/>
+  <node id="7004539314" lat="18.9595859" lon="72.7995756"/>
+  <node id="8347800189" lat="19.0457504" lon="72.8171558"/>
+  <node id="8371746006" lat="19.0740176" lon="72.8190998"/>
+  <node id="8424511161" lat="19.0359400" lon="72.8171302"/>
+  <node id="8562956910" lat="19.0613319" lon="72.8199255"/>
+  <node id="8562956911" lat="19.0609399" lon="72.8199129"/>
+  <node id="8646586154" lat="19.0776855" lon="72.8192220"/>
+  <node id="8703731100" lat="19.0610496" lon="72.8219574"/>
+  <node id="8703731101" lat="19.0611379" lon="72.8218849"/>
+  <node id="9888691764" lat="18.9498054" lon="72.8186421"/>
+  <node id="9888691765" lat="18.9506920" lon="72.8177476"/>
+  <node id="9888691766" lat="18.9516585" lon="72.8164306"/>
+  <node id="9888691767" lat="18.9518919" lon="72.8166023"/>
+  <node id="9888691768" lat="18.9537159" lon="72.8134936"/>
+  <node id="9888691769" lat="18.9533150" lon="72.8133327"/>
+  <node id="9888691770" lat="18.9585357" lon="72.8010374"/>
+  <node id="9888691771" lat="18.9583987" lon="72.8009650"/>
+  <node id="9888691772" lat="18.9550396" lon="72.8099312"/>
+  <node id="9888691773" lat="18.9548207" lon="72.8097405"/>
+  <node id="10908185061" lat="18.9810256" lon="72.8124990"/>
+  <node id="10908185062" lat="18.9811857" lon="72.8126212"/>
+  <node id="10908185063" lat="18.9814663" lon="72.8128110"/>
+  <node id="10908185064" lat="18.9816299" lon="72.8128944"/>
+  <node id="10908185065" lat="18.9819517" lon="72.8130352"/>
+  <node id="10908185066" lat="18.9822361" lon="72.8131357"/>
+  <node id="11038481154" lat="18.9789976" lon="72.8074806"/>
+  <node id="11038481160" lat="18.9774671" lon="72.8051983"/>
+  <way id="46171314">
+    <nd ref="706015798"/>
+    <nd ref="588644618"/>
+    <nd ref="4844510600"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="8"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="56252061">
+    <nd ref="457459050"/>
+    <nd ref="457459048"/>
+    <nd ref="457459047"/>
+    <nd ref="2930952701"/>
+    <nd ref="1933247047"/>
+    <nd ref="2930952703"/>
+    <nd ref="2930952705"/>
+    <nd ref="1933247049"/>
+    <nd ref="2930952707"/>
+    <nd ref="2930952709"/>
+    <nd ref="1933247050"/>
+    <nd ref="2930952711"/>
+    <nd ref="1933247051"/>
+    <nd ref="346395730"/>
+    <nd ref="705948760"/>
+    <nd ref="1933247053"/>
+    <nd ref="705948735"/>
+    <nd ref="1933247054"/>
+    <nd ref="1933247058"/>
+    <nd ref="1933247055"/>
+    <nd ref="1933247059"/>
+    <nd ref="1933247064"/>
+    <nd ref="1933247062"/>
+    <nd ref="457458961"/>
+    <nd ref="457458963"/>
+    <nd ref="457458965"/>
+    <nd ref="457458967"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH8"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="website" v="http://www.bandraworlisealink.com/"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="56683663">
+    <nd ref="457458992"/>
+    <nd ref="457458994"/>
+    <nd ref="457458996"/>
+    <nd ref="457458998"/>
+    <nd ref="457459000"/>
+    <nd ref="457459002"/>
+    <nd ref="457459004"/>
+    <nd ref="457459006"/>
+    <nd ref="457459007"/>
+    <nd ref="457459010"/>
+    <nd ref="457459012"/>
+    <nd ref="457459014"/>
+    <nd ref="457459016"/>
+    <nd ref="457459018"/>
+    <nd ref="457459020"/>
+    <nd ref="457459022"/>
+    <nd ref="8424511161"/>
+    <nd ref="457459033"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="name:zh" v="班德拉－沃利跨海大桥"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="56683664">
+    <nd ref="4844562022"/>
+    <nd ref="457459986"/>
+    <nd ref="457458992"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="8"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="152203340">
+    <nd ref="2299255950"/>
+    <nd ref="2299255953"/>
+    <nd ref="245660363"/>
+    <nd ref="1650382573"/>
+    <nd ref="457459050"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="old_name" v="Bandra-Worli Sea Link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="152203341">
+    <nd ref="1650382575"/>
+    <nd ref="1650382574"/>
+    <nd ref="1650382576"/>
+    <nd ref="2299255955"/>
+    <nd ref="1650382577"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="old_name" v="Bandra-Worli Sea Link"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="289540742">
+    <nd ref="705948701"/>
+    <nd ref="346395731"/>
+    <nd ref="346395733"/>
+    <nd ref="346395734"/>
+    <nd ref="457453779"/>
+    <nd ref="346395732"/>
+    <nd ref="346395735"/>
+    <nd ref="2930952714"/>
+    <nd ref="347183370"/>
+    <nd ref="2930952715"/>
+    <nd ref="2930952716"/>
+    <nd ref="346395736"/>
+    <nd ref="2930952717"/>
+    <nd ref="2930952718"/>
+    <nd ref="457453780"/>
+    <nd ref="457453781"/>
+    <nd ref="706015798"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="name:zh" v="班德拉－沃利跨海大桥"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="289540743">
+    <nd ref="457459038"/>
+    <nd ref="457459037"/>
+    <nd ref="1933208856"/>
+    <nd ref="457459036"/>
+    <nd ref="457459039"/>
+    <nd ref="1933208852"/>
+    <nd ref="1933208849"/>
+    <nd ref="457459040"/>
+    <nd ref="457459041"/>
+    <nd ref="457459031"/>
+    <nd ref="457459030"/>
+    <nd ref="457459042"/>
+    <nd ref="457459028"/>
+    <nd ref="457459043"/>
+    <nd ref="457459027"/>
+    <nd ref="457459024"/>
+    <nd ref="457459044"/>
+    <nd ref="2930952710"/>
+    <nd ref="2930952708"/>
+    <nd ref="457459045"/>
+    <nd ref="2930952706"/>
+    <nd ref="2930952704"/>
+    <nd ref="457459046"/>
+    <nd ref="2930952702"/>
+    <nd ref="1650382582"/>
+    <nd ref="1650382581"/>
+    <nd ref="1650382575"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:hi" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH8"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="289540744">
+    <nd ref="457459033"/>
+    <nd ref="457459035"/>
+    <nd ref="457459038"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH8"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="289540745">
+    <nd ref="457458967"/>
+    <nd ref="705948761"/>
+    <nd ref="457458969"/>
+    <nd ref="2930952713"/>
+    <nd ref="705948701"/>
+    <tag k="alt_name" v="Bandra - Worli Sea Link"/>
+    <tag k="alt_name:mr" v="वांद्रे - वरळी सागरी सेतू"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Rajiv Gandhi Sea Link"/>
+    <tag k="name:etymology:wikidata" v="Q4593"/>
+    <tag k="name:mr" v="राजीव गांधी सागरी सेतू"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH8"/>
+    <tag k="source" v="GPS"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="toll" v="yes"/>
+    <tag k="wikipedia" v="en:Bandra–Worli Sea Link"/>
+  </way>
+  <way id="492430206">
+    <nd ref="4844510600"/>
+    <nd ref="4844510599"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="8"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="492435241">
+    <nd ref="588644617"/>
+    <nd ref="4844562022"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="8"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source" v="GPS"/>
+  </way>
+  <way id="618069958">
+    <nd ref="5907165883"/>
+    <nd ref="5907165884"/>
+    <nd ref="5907165985"/>
+    <nd ref="5907165986"/>
+    <nd ref="5907165987"/>
+    <nd ref="5907165988"/>
+    <nd ref="5907165989"/>
+    <nd ref="5907165990"/>
+    <nd ref="5907165991"/>
+    <nd ref="5907165992"/>
+    <nd ref="5907165993"/>
+    <nd ref="5907165994"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655121">
+    <nd ref="5907165874"/>
+    <nd ref="5907165875"/>
+    <nd ref="5907165876"/>
+    <nd ref="5907165877"/>
+    <nd ref="5907165878"/>
+    <nd ref="5907165879"/>
+    <nd ref="5907165880"/>
+    <nd ref="5907165881"/>
+    <nd ref="5907165882"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655123">
+    <nd ref="5907165861"/>
+    <nd ref="5907165862"/>
+    <nd ref="5907165864"/>
+    <nd ref="5907165863"/>
+    <nd ref="5907165865"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="625655126">
+    <nd ref="5907165994"/>
+    <nd ref="5907165176"/>
+    <nd ref="5907165995"/>
+    <nd ref="5907165996"/>
+    <nd ref="5907165997"/>
+    <nd ref="5907165299"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="625655128">
+    <nd ref="5907165855"/>
+    <nd ref="5907165856"/>
+    <nd ref="5907165857"/>
+    <nd ref="5907165858"/>
+    <nd ref="5907165300"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655130">
+    <nd ref="5907165301"/>
+    <nd ref="5907166001"/>
+    <nd ref="5907166002"/>
+    <nd ref="5907166003"/>
+    <nd ref="5907166004"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655145">
+    <nd ref="5907166004"/>
+    <nd ref="5907164910"/>
+    <nd ref="5907166005"/>
+    <nd ref="5907164977"/>
+    <nd ref="5907166006"/>
+    <nd ref="5907166007"/>
+    <nd ref="5907166008"/>
+    <nd ref="5907166009"/>
+    <nd ref="5907166010"/>
+    <nd ref="5907166011"/>
+    <nd ref="5907166012"/>
+    <nd ref="5907166013"/>
+    <nd ref="5907166014"/>
+    <nd ref="5907166015"/>
+    <nd ref="5907166016"/>
+    <nd ref="5907166017"/>
+    <nd ref="5907166018"/>
+    <nd ref="5907166019"/>
+    <nd ref="5907166020"/>
+    <nd ref="5907166021"/>
+    <nd ref="5907165466"/>
+    <nd ref="5907166022"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655147">
+    <nd ref="5907165838"/>
+    <nd ref="5907165363"/>
+    <nd ref="11038481154"/>
+    <nd ref="5907165839"/>
+    <nd ref="5907165840"/>
+    <nd ref="5907165841"/>
+    <nd ref="5907165842"/>
+    <nd ref="5907165843"/>
+    <nd ref="5907165844"/>
+    <nd ref="11038481160"/>
+    <nd ref="5907165845"/>
+    <nd ref="5907165846"/>
+    <nd ref="5907165847"/>
+    <nd ref="5907165848"/>
+    <nd ref="5907165849"/>
+    <nd ref="5907165850"/>
+    <nd ref="5907165851"/>
+    <nd ref="5907165852"/>
+    <nd ref="5907165853"/>
+    <nd ref="5907165854"/>
+    <nd ref="5907164976"/>
+    <nd ref="5907165108"/>
+    <nd ref="5907165855"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655172">
+    <nd ref="5907165826"/>
+    <nd ref="5907165827"/>
+    <nd ref="5907165828"/>
+    <nd ref="5907165829"/>
+    <nd ref="5907165830"/>
+    <nd ref="5907165831"/>
+    <nd ref="5907165362"/>
+    <nd ref="5907165832"/>
+    <nd ref="5907165833"/>
+    <nd ref="5907165834"/>
+    <nd ref="5907165835"/>
+    <nd ref="5907165836"/>
+    <nd ref="5907165837"/>
+    <nd ref="5907165838"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655173">
+    <nd ref="5907166022"/>
+    <nd ref="5907166023"/>
+    <nd ref="5907166024"/>
+    <nd ref="5907166025"/>
+    <nd ref="10908185061"/>
+    <nd ref="10908185062"/>
+    <nd ref="5907166026"/>
+    <nd ref="10908185063"/>
+    <nd ref="10908185064"/>
+    <nd ref="5907166027"/>
+    <nd ref="10908185065"/>
+    <nd ref="10908185066"/>
+    <nd ref="5907166028"/>
+    <nd ref="5907165361"/>
+    <nd ref="5907166029"/>
+    <nd ref="5907165398"/>
+    <nd ref="5907166030"/>
+    <nd ref="5907166031"/>
+    <nd ref="5907166032"/>
+    <nd ref="5907166033"/>
+    <nd ref="5907166034"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655174">
+    <nd ref="5907166034"/>
+    <nd ref="5842287215"/>
+    <nd ref="5907166035"/>
+    <nd ref="5907166036"/>
+    <nd ref="5907166037"/>
+    <nd ref="5907166038"/>
+    <nd ref="5907166039"/>
+    <nd ref="5907166040"/>
+    <nd ref="5907166041"/>
+    <nd ref="5907165467"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655175">
+    <nd ref="5907165817"/>
+    <nd ref="5907165818"/>
+    <nd ref="5907165819"/>
+    <nd ref="5907165820"/>
+    <nd ref="5907165821"/>
+    <nd ref="5907165822"/>
+    <nd ref="5907165823"/>
+    <nd ref="5907165824"/>
+    <nd ref="5907165825"/>
+    <nd ref="5907165826"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655176">
+    <nd ref="5907165815"/>
+    <nd ref="5907165816"/>
+    <nd ref="5907165817"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655177">
+    <nd ref="5907165467"/>
+    <nd ref="5842287216"/>
+    <nd ref="5907166042"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655178">
+    <nd ref="5907166042"/>
+    <nd ref="5907166043"/>
+    <nd ref="5842287217"/>
+    <nd ref="5907166044"/>
+    <nd ref="5907166045"/>
+    <nd ref="5907166046"/>
+    <nd ref="5907166047"/>
+    <nd ref="5842287218"/>
+    <nd ref="5907166048"/>
+    <nd ref="5907166049"/>
+    <nd ref="5907165646"/>
+    <nd ref="5907166050"/>
+    <nd ref="5907166051"/>
+    <nd ref="5907166052"/>
+    <nd ref="5907166053"/>
+    <nd ref="5907166054"/>
+    <nd ref="5907166055"/>
+    <nd ref="5907166056"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655179">
+    <nd ref="5907165800"/>
+    <nd ref="5907165801"/>
+    <nd ref="5907165802"/>
+    <nd ref="5907165803"/>
+    <nd ref="5907165804"/>
+    <nd ref="5907165805"/>
+    <nd ref="5907165806"/>
+    <nd ref="5907165807"/>
+    <nd ref="5907165808"/>
+    <nd ref="5907165809"/>
+    <nd ref="5907165810"/>
+    <nd ref="5907165811"/>
+    <nd ref="5907165812"/>
+    <nd ref="5907165813"/>
+    <nd ref="5907165814"/>
+    <nd ref="5907165815"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655189">
+    <nd ref="5729995101"/>
+    <nd ref="5907165794"/>
+    <nd ref="5907165795"/>
+    <nd ref="5907165796"/>
+    <nd ref="5907165797"/>
+    <nd ref="5907165798"/>
+    <nd ref="5907165799"/>
+    <nd ref="5907165800"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655190">
+    <nd ref="5907166056"/>
+    <nd ref="5907166057"/>
+    <nd ref="5907166058"/>
+    <nd ref="5907166059"/>
+    <nd ref="5907166060"/>
+    <nd ref="5907166061"/>
+    <nd ref="5842287220"/>
+    <nd ref="1650382591"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625655196">
+    <nd ref="5907165865"/>
+    <nd ref="5907165866"/>
+    <nd ref="5907165113"/>
+    <nd ref="5907165867"/>
+    <nd ref="5907165868"/>
+    <nd ref="5907165869"/>
+    <nd ref="5907165870"/>
+    <nd ref="5907165871"/>
+    <nd ref="5907165872"/>
+    <nd ref="5907165873"/>
+    <nd ref="5907165874"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="625656756">
+    <nd ref="5907181733"/>
+    <nd ref="5907181734"/>
+    <nd ref="5907181735"/>
+    <nd ref="5907181736"/>
+    <nd ref="5907181737"/>
+    <nd ref="5907181738"/>
+    <nd ref="5907181739"/>
+    <nd ref="5907181740"/>
+    <nd ref="5907181741"/>
+    <nd ref="5907181742"/>
+    <nd ref="5907181743"/>
+    <nd ref="5907181744"/>
+    <nd ref="5907181745"/>
+    <nd ref="5907181746"/>
+    <nd ref="5907181747"/>
+    <nd ref="5907181748"/>
+    <nd ref="5907181749"/>
+    <nd ref="5907181750"/>
+    <nd ref="8347800189"/>
+    <nd ref="5907181751"/>
+    <nd ref="5907181752"/>
+    <nd ref="5907181753"/>
+    <nd ref="5907181754"/>
+    <nd ref="5907181755"/>
+    <nd ref="5907181756"/>
+    <nd ref="5907181757"/>
+    <nd ref="5907181720"/>
+    <nd ref="5907181759"/>
+    <nd ref="5907181760"/>
+    <nd ref="5907181761"/>
+    <nd ref="5907181762"/>
+    <nd ref="5907181763"/>
+    <nd ref="8562956911"/>
+    <nd ref="8562956910"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase II"/>
+    <tag k="oneway" v="no"/>
+    <tag k="proposed" v="motorway"/>
+  </way>
+  <way id="939629331">
+    <nd ref="245666152"/>
+    <nd ref="8703731100"/>
+    <nd ref="8703731101"/>
+    <nd ref="8562956910"/>
+    <nd ref="5907181764"/>
+    <nd ref="5907181765"/>
+    <nd ref="5907181766"/>
+    <nd ref="8371746006"/>
+    <nd ref="5907181768"/>
+    <nd ref="8646586154"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase II"/>
+    <tag k="oneway" v="no"/>
+    <tag k="proposed" v="motorway"/>
+  </way>
+  <way id="1078682564">
+    <nd ref="5907165300"/>
+    <nd ref="7004539314"/>
+    <nd ref="5907165860"/>
+    <nd ref="9888691770"/>
+    <nd ref="9888691772"/>
+    <nd ref="9888691768"/>
+    <nd ref="9888691767"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <way id="1078682565">
+    <nd ref="9888691764"/>
+    <nd ref="9888691765"/>
+    <nd ref="9888691766"/>
+    <nd ref="9888691769"/>
+    <nd ref="9888691773"/>
+    <nd ref="9888691771"/>
+    <nd ref="5907165999"/>
+    <nd ref="7004539313"/>
+    <nd ref="5907165301"/>
+    <tag k="construction" v="motorway"/>
+    <tag k="highway" v="construction"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Mumbai Coastal Road - Phase I"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+  </way>
+  <relation id="8428061">
+    <member type="way" ref="152203340" role=""/>
+    <member type="way" ref="56252061" role=""/>
+    <member type="way" ref="289540745" role=""/>
+    <member type="way" ref="289540742" role=""/>
+    <member type="way" ref="46171314" role=""/>
+    <member type="way" ref="492430206" role=""/>
+    <member type="way" ref="152203341" role=""/>
+    <member type="way" ref="289540743" role=""/>
+    <member type="way" ref="289540744" role=""/>
+    <member type="way" ref="56683663" role=""/>
+    <member type="way" ref="56683664" role=""/>
+    <member type="way" ref="492435241" role=""/>
+    <member type="way" ref="625655189" role=""/>
+    <member type="way" ref="625655179" role=""/>
+    <member type="way" ref="625655176" role=""/>
+    <member type="way" ref="625655175" role=""/>
+    <member type="way" ref="625655172" role=""/>
+    <member type="way" ref="625655147" role=""/>
+    <member type="way" ref="625655128" role=""/>
+    <member type="way" ref="1078682564" role=""/>
+    <member type="way" ref="625655123" role=""/>
+    <member type="way" ref="625655196" role=""/>
+    <member type="way" ref="625655121" role=""/>
+    <member type="way" ref="625655174" role=""/>
+    <member type="way" ref="625655177" role=""/>
+    <member type="way" ref="625655178" role=""/>
+    <member type="way" ref="625655190" role=""/>
+    <member type="way" ref="625655173" role=""/>
+    <member type="way" ref="625655145" role=""/>
+    <member type="way" ref="625655130" role=""/>
+    <member type="way" ref="1078682565" role=""/>
+    <member type="way" ref="625655126" role=""/>
+    <member type="way" ref="618069958" role=""/>
+    <member type="way" ref="625656756" role=""/>
+    <member type="way" ref="939629331" role=""/>
+    <tag k="name" v="Western Freeway"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+
+</osm>

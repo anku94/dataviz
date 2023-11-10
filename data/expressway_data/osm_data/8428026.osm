@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="308729156" lat="28.5454135" lon="77.3378223"/>
+  <node id="308729157" lat="28.5413364" lon="77.3441835"/>
+  <node id="308729158" lat="28.5362641" lon="77.3523687"/>
+  <node id="308729159" lat="28.5299724" lon="77.3614318"/>
+  <node id="308729160" lat="28.5275781" lon="77.3657188"/>
+  <node id="308729161" lat="28.5223161" lon="77.3738905"/>
+  <node id="308729162" lat="28.5176030" lon="77.3799830"/>
+  <node id="308729164" lat="28.5079929" lon="77.3895514"/>
+  <node id="308729166" lat="28.4993065" lon="77.4097180"/>
+  <node id="437381596" lat="28.4901556" lon="77.4262023"/>
+  <node id="437381601" lat="28.4857391" lon="77.4324744"/>
+  <node id="437381603" lat="28.4793208" lon="77.4407860"/>
+  <node id="437381605" lat="28.4733848" lon="77.4471808"/>
+  <node id="437381607" lat="28.4667395" lon="77.4569135"/>
+  <node id="437381610" lat="28.4617518" lon="77.4621848"/>
+  <node id="437381612" lat="28.4566328" lon="77.4678957"/>
+  <node id="437381613" lat="28.4523808" lon="77.4721796"/>
+  <node id="437381614" lat="28.4467518" lon="77.4765262"/>
+  <node id="437381615" lat="28.4447346" lon="77.4791993"/>
+  <node id="437381616" lat="28.4441620" lon="77.4819500"/>
+  <node id="437381617" lat="28.4455054" lon="77.4861460"/>
+  <node id="437381618" lat="28.4545617" lon="77.4975704"/>
+  <node id="437381619" lat="28.4648847" lon="77.5107054"/>
+  <node id="441879035" lat="28.5544903" lon="77.3273306"/>
+  <node id="712889147" lat="28.5110037" lon="77.3868697"/>
+  <node id="712889150" lat="28.5091012" lon="77.3884487"/>
+  <node id="712889158" lat="28.5069578" lon="77.3910189"/>
+  <node id="712889161" lat="28.5058261" lon="77.3935944"/>
+  <node id="784810065" lat="28.4459271" lon="77.4772625"/>
+  <node id="784810102" lat="28.4572099" lon="77.5010047"/>
+  <node id="784810132" lat="28.4446015" lon="77.4843734"/>
+  <node id="784810148" lat="28.4649842" lon="77.5108150"/>
+  <node id="784810151" lat="28.4649368" lon="77.5111928"/>
+  <node id="784810162" lat="28.4446931" lon="77.4852378"/>
+  <node id="784810175" lat="28.4648876" lon="77.5110205"/>
+  <node id="784810201" lat="28.4443954" lon="77.4845459"/>
+  <node id="784810202" lat="28.4599190" lon="77.5044353"/>
+  <node id="784810212" lat="28.4652184" lon="77.5109129"/>
+  <node id="784810231" lat="28.4570971" lon="77.5011349"/>
+  <node id="784810257" lat="28.4442183" lon="77.4827659"/>
+  <node id="784810310" lat="28.4449515" lon="77.4857326"/>
+  <node id="784810432" lat="28.4573406" lon="77.5014412"/>
+  <node id="784810441" lat="28.4597728" lon="77.5045225"/>
+  <node id="784810519" lat="28.4443620" lon="77.4835651"/>
+  <node id="784810592" lat="28.4453211" lon="77.4862645"/>
+  <node id="784810648" lat="28.4443139" lon="77.4805591"/>
+  <node id="784810655" lat="28.4452563" lon="77.4781616"/>
+  <node id="784810673" lat="28.4650515" lon="77.5108655"/>
+  <node id="784810716" lat="28.4574470" lon="77.5012980"/>
+  <node id="784810759" lat="28.4449229" lon="77.4851406"/>
+  <node id="784810781" lat="28.4648383" lon="77.5108831"/>
+  <node id="787020120" lat="28.4610140" lon="77.5058312"/>
+  <node id="787020219" lat="28.4608772" lon="77.5058687"/>
+  <node id="787020381" lat="28.4640485" lon="77.5099240"/>
+  <node id="787020542" lat="28.4607936" lon="77.5055502"/>
+  <node id="787020855" lat="28.4606627" lon="77.5056132"/>
+  <node id="787112281" lat="28.4486428" lon="77.4901748"/>
+  <node id="787112459" lat="28.4473516" lon="77.4886116"/>
+  <node id="787112474" lat="28.4472522" lon="77.4887340"/>
+  <node id="787112642" lat="28.4485525" lon="77.4903104"/>
+  <node id="799241668" lat="28.5262372" lon="77.3680035"/>
+  <node id="799241674" lat="28.5536900" lon="77.3284379"/>
+  <node id="799241680" lat="28.5175005" lon="77.3798449"/>
+  <node id="799241681" lat="28.5281504" lon="77.3642353"/>
+  <node id="799241701" lat="28.5303895" lon="77.3607490"/>
+  <node id="799241713" lat="28.5510698" lon="77.3312793"/>
+  <node id="799241718" lat="28.5201436" lon="77.3772753"/>
+  <node id="799241744" lat="28.5535720" lon="77.3282945"/>
+  <node id="799241747" lat="28.5389172" lon="77.3477055"/>
+  <node id="799241756" lat="28.5284705" lon="77.3636042"/>
+  <node id="799241776" lat="28.5460078" lon="77.3370680"/>
+  <node id="799241787" lat="28.5236076" lon="77.3710746"/>
+  <node id="799241794" lat="28.5412080" lon="77.3441024"/>
+  <node id="799241798" lat="28.5302399" lon="77.3606493"/>
+  <node id="799241802" lat="28.5266785" lon="77.3673794"/>
+  <node id="799241816" lat="28.5520343" lon="77.3304761"/>
+  <node id="799241826" lat="28.5200139" lon="77.3771400"/>
+  <node id="799241827" lat="28.5268726" lon="77.3667311"/>
+  <node id="799241829" lat="28.5310388" lon="77.3598059"/>
+  <node id="799241835" lat="28.5424555" lon="77.3421000"/>
+  <node id="799241846" lat="28.5215155" lon="77.3751155"/>
+  <node id="799241853" lat="28.5349327" lon="77.3539422"/>
+  <node id="799241864" lat="28.5511803" lon="77.3314164"/>
+  <node id="799241865" lat="28.5519406" lon="77.3303305"/>
+  <node id="799241877" lat="28.5445979" lon="77.3387240"/>
+  <node id="799241912" lat="28.5498889" lon="77.3325291"/>
+  <node id="799241927" lat="28.5295276" lon="77.3618078"/>
+  <node id="799241940" lat="28.5465510" lon="77.3361300"/>
+  <node id="799241947" lat="28.5216631" lon="77.3752180"/>
+  <node id="799241952" lat="28.5233858" lon="77.3714109"/>
+  <node id="799241954" lat="28.5526470" lon="77.3295220"/>
+  <node id="799241956" lat="28.5439398" lon="77.3396759"/>
+  <node id="799241959" lat="28.5308952" lon="77.3597027"/>
+  <node id="799241961" lat="28.5350726" lon="77.3540631"/>
+  <node id="799241963" lat="28.5452961" lon="77.3377215"/>
+  <node id="799241971" lat="28.5274422" lon="77.3656152"/>
+  <node id="799241973" lat="28.5333477" lon="77.3567007"/>
+  <node id="799241977" lat="28.5446872" lon="77.3388185"/>
+  <node id="799241979" lat="28.5440591" lon="77.3397971"/>
+  <node id="799241980" lat="28.5540336" lon="77.3276839">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="799241985" lat="28.5221493" lon="77.3737877"/>
+  <node id="799241987" lat="28.5257913" lon="77.3682888"/>
+  <node id="799241990" lat="28.5477321" lon="77.3347961"/>
+  <node id="799241991" lat="28.5425701" lon="77.3421943"/>
+  <node id="799241995" lat="28.5211266" lon="77.3760950"/>
+  <node id="799241999" lat="28.5269986" lon="77.3668258"/>
+  <node id="799242000" lat="28.5318882" lon="77.3583859"/>
+  <node id="799242003" lat="28.5466467" lon="77.3363029"/>
+  <node id="799242008" lat="28.5234587" lon="77.3716632"/>
+  <node id="799242018" lat="28.5361097" lon="77.3521951"/>
+  <node id="799242022" lat="28.5527441" lon="77.3296480"/>
+  <node id="799242026" lat="28.5228118" lon="77.3725049"/>
+  <node id="799242032" lat="28.5241580" lon="77.3703658"/>
+  <node id="799242044" lat="28.5458837" lon="77.3369608"/>
+  <node id="799242045" lat="28.5233100" lon="77.3715380"/>
+  <node id="799242050" lat="28.5296677" lon="77.3619231"/>
+  <node id="799242062" lat="28.5205685" lon="77.3765417"/>
+  <node id="799242065" lat="28.5488310" lon="77.3336642"/>
+  <node id="799242068" lat="28.5206945" lon="77.3766441"/>
+  <node id="799242073" lat="28.5258923" lon="77.3684244"/>
+  <node id="799242075" lat="28.5331962" lon="77.3565327"/>
+  <node id="799242082" lat="28.5320348" lon="77.3584824"/>
+  <node id="799242092" lat="28.5261971" lon="77.3677552"/>
+  <node id="799242094" lat="28.5382604" lon="77.3491473"/>
+  <node id="799242102" lat="28.5231683" lon="77.3718123"/>
+  <node id="799242109" lat="28.5282664" lon="77.3643185"/>
+  <node id="799242114" lat="28.5298285" lon="77.3613213"/>
+  <node id="799242117" lat="28.5381208" lon="77.3489965"/>
+  <node id="799242127" lat="28.5285966" lon="77.3636988"/>
+  <node id="799242134" lat="28.5499971" lon="77.3326771"/>
+  <node id="799242140" lat="28.5209826" lon="77.3759720"/>
+  <node id="799242142" lat="28.5390529" lon="77.3478684"/>
+  <node id="799249118" lat="28.5083878" lon="77.3888279"/>
+  <node id="799249121" lat="28.5031412" lon="77.4000870"/>
+  <node id="799249127" lat="28.5068221" lon="77.3912785"/>
+  <node id="799249140" lat="28.5068127" lon="77.3909257"/>
+  <node id="799249147" lat="28.5006105" lon="77.4065024"/>
+  <node id="799249149" lat="28.5130802" lon="77.3845610"/>
+  <node id="799249151" lat="28.5056930" lon="77.3935207"/>
+  <node id="799249154" lat="28.5042404" lon="77.3973132"/>
+  <node id="799249158" lat="28.5090023" lon="77.3882714"/>
+  <node id="799249161" lat="28.5004460" lon="77.4064485"/>
+  <node id="799249166" lat="28.5065577" lon="77.3917842"/>
+  <node id="799249168" lat="28.5071112" lon="77.3904234"/>
+  <node id="799249172" lat="28.5000139" lon="77.4075381"/>
+  <node id="799249174" lat="28.4991562" lon="77.4096658"/>
+  <node id="799249177" lat="28.5084756" lon="77.3890020"/>
+  <node id="799249179" lat="28.5061782" lon="77.3922700"/>
+  <node id="799249191" lat="28.5132023" lon="77.3846792"/>
+  <node id="799249193" lat="28.5001658" lon="77.4075996"/>
+  <node id="799249199" lat="28.5098149" lon="77.3876577"/>
+  <node id="799249208" lat="28.5075677" lon="77.3900780"/>
+  <node id="799249211" lat="28.5063099" lon="77.3923473"/>
+  <node id="799249221" lat="28.5074347" lon="77.3899724"/>
+  <node id="799249227" lat="28.5072642" lon="77.3905175"/>
+  <node id="799249237" lat="28.5007488" lon="77.4061693"/>
+  <node id="799249244" lat="28.5108933" lon="77.3867330"/>
+  <node id="799249247" lat="28.5005998" lon="77.4060453"/>
+  <node id="799249255" lat="28.5064441" lon="77.3916763"/>
+  <node id="799249261" lat="28.5029936" lon="77.4000073"/>
+  <node id="799249263" lat="28.5078686" lon="77.3894187"/>
+  <node id="799249265" lat="28.5017721" lon="77.4030926"/>
+  <node id="799249270" lat="28.5118940" lon="77.3858026">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="799249272" lat="28.5040846" lon="77.3972331"/>
+  <node id="799249281" lat="28.5019163" lon="77.4031446"/>
+  <node id="799249284" lat="28.5066723" lon="77.3911883"/>
+  <node id="802969376" lat="28.5587974" lon="77.3213542"/>
+  <node id="802969400" lat="28.5588925" lon="77.3213920"/>
+  <node id="802981283" lat="28.5567572" lon="77.3247148"/>
+  <node id="802981285" lat="28.5582763" lon="77.3226352"/>
+  <node id="802981294" lat="28.5546000" lon="77.3268784"/>
+  <node id="802981343" lat="28.5561152" lon="77.3251487"/>
+  <node id="802981392" lat="28.5541766" lon="77.3277390"/>
+  <node id="802981396" lat="28.5577363" lon="77.3234575"/>
+  <node id="802981398" lat="28.5578345" lon="77.3232882"/>
+  <node id="802981458" lat="28.5565052" lon="77.3249890"/>
+  <node id="802981464" lat="28.5558635" lon="77.3257393">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="802981475" lat="28.5552186" lon="77.3261211"/>
+  <node id="802981478" lat="28.5581228" lon="77.3225241"/>
+  <node id="802981515" lat="28.5564547" lon="77.3247631">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="802981527" lat="28.5584227" lon="77.3220879"/>
+  <node id="802981566" lat="28.5576047" lon="77.3231906"/>
+  <node id="1007395271" lat="28.4856044" lon="77.4323569"/>
+  <node id="1007395273" lat="28.4627518" lon="77.4610003"/>
+  <node id="1007395276" lat="28.4439955" lon="77.4819186"/>
+  <node id="1007395278" lat="28.4458455" lon="77.4771084"/>
+  <node id="1007395284" lat="28.4981832" lon="77.4121640"/>
+  <node id="1007395304" lat="28.4661226" lon="77.4577273"/>
+  <node id="1007395307" lat="28.4497506" lon="77.4740740"/>
+  <node id="1007395310" lat="28.4807658" lon="77.4389896"/>
+  <node id="1007395312" lat="28.4589576" lon="77.4650234"/>
+  <node id="1007395316" lat="28.4699242" lon="77.4516619"/>
+  <node id="1007395320" lat="28.4950881" lon="77.4196762"/>
+  <node id="1007395322" lat="28.4732751" lon="77.4470156"/>
+  <node id="1007395327" lat="28.4514864" lon="77.4727372"/>
+  <node id="1007395344" lat="28.4949451" lon="77.4195749"/>
+  <node id="1007395382" lat="28.4751018" lon="77.4455313"/>
+  <node id="1007395384" lat="28.4827536" lon="77.4359328"/>
+  <node id="1007395389" lat="28.4545510" lon="77.4702046"/>
+  <node id="1007395406" lat="28.4848269" lon="77.4333738"/>
+  <node id="1007395416" lat="28.4626482" lon="77.4608236"/>
+  <node id="1007395426" lat="28.4741284" lon="77.4462334"/>
+  <node id="1007395438" lat="28.4440431" lon="77.4812150"/>
+  <node id="1007395440" lat="28.4682731" lon="77.4545137"/>
+  <node id="1007395458" lat="28.4895599" lon="77.4266814"/>
+  <node id="1007395460" lat="28.4659867" lon="77.4576217"/>
+  <node id="1007395463" lat="28.4498434" lon="77.4742408"/>
+  <node id="1007395464" lat="28.4792232" lon="77.4406541"/>
+  <node id="1007395579" lat="28.4946066" lon="77.4205418"/>
+  <node id="1007395586" lat="28.4523026" lon="77.4720091"/>
+  <node id="1007395598" lat="28.4441620" lon="77.4836370"/>
+  <node id="1007395601" lat="28.4451674" lon="77.4779744"/>
+  <node id="1007395619" lat="28.4828629" lon="77.4360735"/>
+  <node id="1007395637" lat="28.4555453" lon="77.4691562"/>
+  <node id="1007395638" lat="28.4727366" lon="77.4478167"/>
+  <node id="1007395649" lat="28.4821805" lon="77.4370178"/>
+  <node id="1007395661" lat="28.4576816" lon="77.4663900"/>
+  <node id="1007395663" lat="28.4633149" lon="77.4601021"/>
+  <node id="1007395680" lat="28.4766383" lon="77.4438536"/>
+  <node id="1007395682" lat="28.4806564" lon="77.4388381"/>
+  <node id="1007395734" lat="28.4900506" lon="77.4260365"/>
+  <node id="1007395737" lat="28.4464370" lon="77.4765419"/>
+  <node id="1007395738" lat="28.4833670" lon="77.4351483"/>
+  <node id="1007395743" lat="28.4610753" lon="77.4627012"/>
+  <node id="1007395761" lat="28.4749734" lon="77.4453994"/>
+  <node id="1007395763" lat="28.4634259" lon="77.4602755"/>
+  <node id="1007395767" lat="28.4440371" lon="77.4827778"/>
+  <node id="1007395769" lat="28.4454886" lon="77.4775278"/>
+  <node id="1007395775" lat="28.4816979" lon="77.4376857"/>
+  <node id="1007395805" lat="28.4590446" lon="77.4651836"/>
+  <node id="1007395885" lat="28.4955398" lon="77.4186888"/>
+  <node id="1007395886" lat="28.4719136" lon="77.4486016"/>
+  <node id="1007395891" lat="28.4515940" lon="77.4729040"/>
+  <node id="1007395893" lat="28.4849292" lon="77.4335208"/>
+  <node id="1007395918" lat="28.4820486" lon="77.4369016"/>
+  <node id="1007395922" lat="28.5124519" lon="77.3852584"/>
+  <node id="1007395948" lat="28.4815647" lon="77.4375667"/>
+  <node id="1007395989" lat="28.4616837" lon="77.4619870"/>
+  <node id="1007396144" lat="28.4757562" lon="77.4445888"/>
+  <node id="1007396151" lat="28.4442096" lon="77.4812285"/>
+  <node id="1007396153" lat="28.4445784" lon="77.4791177"/>
+  <node id="1007396154" lat="28.4983381" lon="77.4122293"/>
+  <node id="1007396156" lat="28.4565500" lon="77.4677484"/>
+  <node id="1007396163" lat="28.4896691" lon="77.4268491"/>
+  <node id="1007396174" lat="28.5099397" lon="77.3877952"/>
+  <node id="1007396200" lat="28.4444952" lon="77.4798687"/>
+  <node id="1007396202" lat="28.4448521" lon="77.4785156"/>
+  <node id="1007396340" lat="28.4800525" lon="77.4399309"/>
+  <node id="1007396378" lat="28.4954046" lon="77.4185984"/>
+  <node id="1007396390" lat="28.4742651" lon="77.4463654"/>
+  <node id="1007396399" lat="28.4799431" lon="77.4397795"/>
+  <node id="1007396439" lat="28.4820332" lon="77.4372216"/>
+  <node id="1007396440" lat="28.4611400" lon="77.4629073"/>
+  <node id="1007396488" lat="28.4765225" lon="77.4437171"/>
+  <node id="1007396489" lat="28.4654762" lon="77.4584431"/>
+  <node id="1007396490" lat="28.4441561" lon="77.4804911"/>
+  <node id="1007396492" lat="28.4840884" lon="77.4345389"/>
+  <node id="1007396514" lat="28.4665866" lon="77.4568112"/>
+  <node id="1007396529" lat="28.4944612" lon="77.4204405"/>
+  <node id="1007396530" lat="28.4720560" lon="77.4487047"/>
+  <node id="1007396587" lat="28.4681531" lon="77.4543782"/>
+  <node id="1007396596" lat="28.4834526" lon="77.4353215"/>
+  <node id="1007396600" lat="28.4544681" lon="77.4700338"/>
+  <node id="1007396602" lat="28.4726123" lon="77.4477036"/>
+  <node id="1007396609" lat="28.4818964" lon="77.4371109"/>
+  <node id="1007396618" lat="28.4577810" lon="77.4665266"/>
+  <node id="1007396627" lat="28.4758308" lon="77.4447444"/>
+  <node id="1007396629" lat="28.4653985" lon="77.4582590"/>
+  <node id="1007396637" lat="28.4443286" lon="77.4797875"/>
+  <node id="1007396644" lat="28.4554314" lon="77.4690384"/>
+  <node id="1007396653" lat="28.4700609" lon="77.4517682"/>
+  <node id="1007396655" lat="28.4450079" lon="77.4786168"/>
+  <node id="1007396659" lat="28.4473656" lon="77.4758305"/>
+  <node id="1007396670" lat="28.4840137" lon="77.4343476"/>
+  <node id="1013675408" lat="28.4643154" lon="77.5099606"/>
+  <node id="1803900025" lat="28.4488818" lon="77.4907495"/>
+  <node id="1803900028" lat="28.4496998" lon="77.4914118">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="1803900164" lat="28.4543476" lon="77.4977069">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="1819560426" lat="28.4971575" lon="77.4147106"/>
+  <node id="1986747130" lat="28.4638443" lon="77.5096556"/>
+  <node id="1986747132" lat="28.4641236" lon="77.5096884"/>
+  <node id="1987285383" lat="28.5119044" lon="77.3860415"/>
+  <node id="1987285386" lat="28.5125797" lon="77.3853604"/>
+  <node id="1987285398" lat="28.5232247" lon="77.3721192"/>
+  <node id="1987285408" lat="28.5265172" lon="77.3673025"/>
+  <node id="1987285410" lat="28.5548818" lon="77.3267888"/>
+  <node id="1987285418" lat="28.5552885" lon="77.3263309">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="3809143656" lat="28.5160002" lon="77.3814456"/>
+  <node id="4247508269" lat="28.4459242" lon="77.4867053"/>
+  <node id="4247508275" lat="28.4461702" lon="77.4870339"/>
+  <node id="4685422933" lat="28.5176762" lon="77.3796558"/>
+  <node id="4685422934" lat="28.5205481" lon="77.3768119"/>
+  <node id="4685422939" lat="28.5240662" lon="77.3707572"/>
+  <node id="4685422940" lat="28.5243388" lon="77.3704090"/>
+  <node id="4685422950" lat="28.5250876" lon="77.3691837"/>
+  <node id="5488041033" lat="28.4555273" lon="77.4988516">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="5488041034" lat="28.4592790" lon="77.5035282"/>
+  <node id="5488041035" lat="28.4559273" lon="77.4997272"/>
+  <node id="6093051636" lat="28.5350113" lon="77.3541568"/>
+  <node id="6093051637" lat="28.5349320" lon="77.3542782"/>
+  <node id="6093051638" lat="28.5347992" lon="77.3541414"/>
+  <node id="6093051639" lat="28.5348731" lon="77.3540311"/>
+  <node id="6191974705" lat="28.5461479" lon="77.3366215"/>
+  <node id="6637049189" lat="28.4469334" lon="77.4883263"/>
+  <node id="6643477600" lat="28.5445018" lon="77.3388630"/>
+  <node id="6649875169" lat="28.4507444" lon="77.4733087"/>
+  <node id="6649875172" lat="28.4475470" lon="77.4756820"/>
+  <node id="6997929048" lat="28.4505914" lon="77.4736696"/>
+  <node id="6998029041" lat="28.5507775" lon="77.3315887"/>
+  <node id="7041691180" lat="28.4602907" lon="77.5051836"/>
+  <node id="8113491069" lat="28.5546713" lon="77.3267911"/>
+  <node id="8129660323" lat="28.4970375" lon="77.4154039"/>
+  <node id="8129660330" lat="28.4892890" lon="77.4273931"/>
+  <node id="8129660339" lat="28.4926708" lon="77.4230667">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="8129660342" lat="28.4946533" lon="77.4200969">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="8129660344" lat="28.4476550" lon="77.4758585"/>
+  <node id="8129660351" lat="28.5161394" lon="77.3815449">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="8129660359" lat="28.4938073" lon="77.4214000"/>
+  <node id="8129660365" lat="28.4938436" lon="77.4216046"/>
+  <node id="9827852685" lat="28.5584965" lon="77.3221910"/>
+  <node id="9969736010" lat="28.4559201" lon="77.4993004">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="10578560433" lat="28.5420289" lon="77.3430669"/>
+  <node id="10991410117" lat="28.5417433" lon="77.3435274"/>
+  <node id="11245413981" lat="28.5117841" lon="77.3842239">
+    <tag k="addr:city" v="Noida"/>
+    <tag k="addr:housenumber" v="C-3A"/>
+    <tag k="addr:postcode" v="201306"/>
+    <tag k="addr:street" v="Jaypee Greens Wish Town"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/sayastatusmallnoida"/>
+    <tag k="mobile" v="+91-6397-340574"/>
+    <tag k="name" v="SAYA Status Mall"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Saya Status: Buy Retail &amp; Commercial Space for Investment Brilliance with the Best Commercial Property to Buy the Tallest Mall in India at Noida"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+91-6397-340574"/>
+    <tag k="shop" v="mall"/>
+    <tag k="website" v="https://www.sayaproject.in/"/>
+  </node>
+  <way id="63223277">
+    <nd ref="1007396439"/>
+    <nd ref="1007395775"/>
+    <nd ref="1007395310"/>
+    <nd ref="1007396340"/>
+    <nd ref="437381603"/>
+    <nd ref="1007395680"/>
+    <nd ref="1007396627"/>
+    <nd ref="1007395382"/>
+    <nd ref="1007396390"/>
+    <nd ref="437381605"/>
+    <nd ref="1007395638"/>
+    <nd ref="1007396530"/>
+    <nd ref="1007396653"/>
+    <nd ref="1007395440"/>
+    <nd ref="437381607"/>
+    <nd ref="1007395304"/>
+    <nd ref="1007396489"/>
+    <nd ref="1007395763"/>
+    <nd ref="1007395273"/>
+    <nd ref="437381610"/>
+    <nd ref="1007396440"/>
+    <nd ref="1007395805"/>
+    <nd ref="1007396618"/>
+    <nd ref="437381612"/>
+    <nd ref="1007395637"/>
+    <nd ref="1007395389"/>
+    <nd ref="437381613"/>
+    <nd ref="1007395891"/>
+    <nd ref="6997929048"/>
+    <nd ref="1007395463"/>
+    <nd ref="8129660344"/>
+    <nd ref="437381614"/>
+    <nd ref="784810065"/>
+    <nd ref="784810655"/>
+    <nd ref="1007396655"/>
+    <nd ref="437381615"/>
+    <nd ref="1007396200"/>
+    <nd ref="784810648"/>
+    <nd ref="1007396151"/>
+    <nd ref="437381616"/>
+    <nd ref="784810257"/>
+    <nd ref="784810519"/>
+    <nd ref="784810132"/>
+    <nd ref="784810759"/>
+    <nd ref="437381617"/>
+    <nd ref="4247508269"/>
+    <nd ref="4247508275"/>
+    <nd ref="787112459"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63223319">
+    <nd ref="784810151"/>
+    <nd ref="784810175"/>
+    <nd ref="784810781"/>
+    <nd ref="787020381"/>
+    <nd ref="1986747130"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63575255">
+    <nd ref="784810716"/>
+    <nd ref="5488041034"/>
+    <nd ref="784810202"/>
+    <nd ref="787020542"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63575273">
+    <nd ref="787020542"/>
+    <nd ref="787020120"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63575277">
+    <nd ref="787020855"/>
+    <nd ref="7041691180"/>
+    <nd ref="784810441"/>
+    <nd ref="784810432"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63575292">
+    <nd ref="784810432"/>
+    <nd ref="784810231"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63575334">
+    <nd ref="787020120"/>
+    <nd ref="1986747132"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="concrete:lanes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63575343">
+    <nd ref="784810231"/>
+    <nd ref="5488041035"/>
+    <nd ref="1803900164"/>
+    <nd ref="1803900025"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="maxspeed:hgv" v="60"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63575381">
+    <nd ref="784810102"/>
+    <nd ref="784810716"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63575401">
+    <nd ref="787020219"/>
+    <nd ref="787020855"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63595367">
+    <nd ref="787112642"/>
+    <nd ref="787112474"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63595421">
+    <nd ref="1803900028"/>
+    <nd ref="437381618"/>
+    <nd ref="5488041033"/>
+    <nd ref="9969736010"/>
+    <nd ref="784810102"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="maxspeed:hgv" v="60"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="63595436">
+    <nd ref="787112459"/>
+    <nd ref="787112281"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="63595507">
+    <nd ref="787112474"/>
+    <nd ref="6637049189"/>
+    <nd ref="784810592"/>
+    <nd ref="784810310"/>
+    <nd ref="784810162"/>
+    <nd ref="784810201"/>
+    <nd ref="1007395598"/>
+    <nd ref="1007395767"/>
+    <nd ref="1007395276"/>
+    <nd ref="1007395438"/>
+    <nd ref="1007396490"/>
+    <nd ref="1007396637"/>
+    <nd ref="1007396153"/>
+    <nd ref="1007396202"/>
+    <nd ref="1007395601"/>
+    <nd ref="1007395769"/>
+    <nd ref="1007395278"/>
+    <nd ref="1007395737"/>
+    <nd ref="1007396659"/>
+    <nd ref="6649875172"/>
+    <nd ref="1007395307"/>
+    <nd ref="6649875169"/>
+    <nd ref="1007395327"/>
+    <nd ref="1007395586"/>
+    <nd ref="1007396600"/>
+    <nd ref="1007396644"/>
+    <nd ref="1007396156"/>
+    <nd ref="1007395661"/>
+    <nd ref="1007395312"/>
+    <nd ref="1007395743"/>
+    <nd ref="1007395989"/>
+    <nd ref="1007395416"/>
+    <nd ref="1007395663"/>
+    <nd ref="1007396629"/>
+    <nd ref="1007395460"/>
+    <nd ref="1007396514"/>
+    <nd ref="1007396587"/>
+    <nd ref="1007395316"/>
+    <nd ref="1007395886"/>
+    <nd ref="1007396602"/>
+    <nd ref="1007395322"/>
+    <nd ref="1007395426"/>
+    <nd ref="1007395761"/>
+    <nd ref="1007396144"/>
+    <nd ref="1007396488"/>
+    <nd ref="1007395464"/>
+    <nd ref="1007396399"/>
+    <nd ref="1007395682"/>
+    <nd ref="1007395948"/>
+    <nd ref="1007396609"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65473892">
+    <nd ref="802969400"/>
+    <nd ref="9827852685"/>
+    <nd ref="802981285"/>
+    <nd ref="802981398"/>
+    <nd ref="802981396"/>
+    <nd ref="802981283"/>
+    <nd ref="802981458"/>
+    <nd ref="802981464"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65473938">
+    <nd ref="1007395918"/>
+    <nd ref="1007395384"/>
+    <nd ref="1007395738"/>
+    <nd ref="1007396670"/>
+    <nd ref="1007395406"/>
+    <nd ref="1007395271"/>
+    <nd ref="1007395458"/>
+    <nd ref="1007395734"/>
+    <nd ref="8129660359"/>
+    <nd ref="1007396529"/>
+    <nd ref="8129660342"/>
+    <nd ref="1007395344"/>
+    <nd ref="1007396378"/>
+    <nd ref="1819560426"/>
+    <nd ref="1007395284"/>
+    <nd ref="799249174"/>
+    <nd ref="799249172"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477943">
+    <nd ref="799249147"/>
+    <nd ref="799249193"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477948">
+    <nd ref="799249127"/>
+    <nd ref="799249166"/>
+    <nd ref="799249211"/>
+    <nd ref="712889161"/>
+    <nd ref="799249154"/>
+    <nd ref="799249121"/>
+    <nd ref="799249281"/>
+    <nd ref="799249237"/>
+    <nd ref="799249147"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477950">
+    <nd ref="799249172"/>
+    <nd ref="799249161"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477952">
+    <nd ref="799249140"/>
+    <nd ref="799249168"/>
+    <nd ref="799249221"/>
+    <nd ref="799249263"/>
+    <nd ref="799249118"/>
+    <nd ref="799249158"/>
+    <nd ref="799249199"/>
+    <nd ref="799249244"/>
+    <nd ref="799249270"/>
+    <nd ref="1007395922"/>
+    <nd ref="799249149"/>
+    <nd ref="3809143656"/>
+    <nd ref="799241680"/>
+    <nd ref="4685422933"/>
+    <nd ref="799241826"/>
+    <nd ref="799242062"/>
+    <nd ref="799242140"/>
+    <nd ref="799241846"/>
+    <nd ref="799241985"/>
+    <nd ref="799242026"/>
+    <nd ref="799242102"/>
+    <nd ref="799242045"/>
+    <nd ref="799241952"/>
+    <nd ref="799241787"/>
+    <nd ref="799242032"/>
+    <nd ref="4685422950"/>
+    <nd ref="799241987"/>
+    <nd ref="799242092"/>
+    <nd ref="1987285408"/>
+    <nd ref="799241827"/>
+    <nd ref="799241971"/>
+    <nd ref="799241681"/>
+    <nd ref="799241756"/>
+    <nd ref="799241927"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477958">
+    <nd ref="799241927"/>
+    <nd ref="799242114"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477963">
+    <nd ref="799249193"/>
+    <nd ref="308729166"/>
+    <nd ref="1007396154"/>
+    <nd ref="8129660323"/>
+    <nd ref="1007395885"/>
+    <nd ref="1007395320"/>
+    <nd ref="1007395579"/>
+    <nd ref="8129660365"/>
+    <nd ref="8129660339"/>
+    <nd ref="437381596"/>
+    <nd ref="1007396163"/>
+    <nd ref="8129660330"/>
+    <nd ref="437381601"/>
+    <nd ref="1007395893"/>
+    <nd ref="1007396492"/>
+    <nd ref="1007396596"/>
+    <nd ref="1007395619"/>
+    <nd ref="1007395649"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477965">
+    <nd ref="308729159"/>
+    <nd ref="799242050"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477968">
+    <nd ref="799249161"/>
+    <nd ref="799249247"/>
+    <nd ref="799249265"/>
+    <nd ref="799249261"/>
+    <nd ref="799249272"/>
+    <nd ref="799249151"/>
+    <nd ref="799249179"/>
+    <nd ref="799249255"/>
+    <nd ref="799249284"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477973">
+    <nd ref="712889158"/>
+    <nd ref="799249127"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477974">
+    <nd ref="799249284"/>
+    <nd ref="799249140"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="65477979">
+    <nd ref="6093051639"/>
+    <nd ref="799241853"/>
+    <nd ref="799242018"/>
+    <nd ref="799242117"/>
+    <nd ref="799241747"/>
+    <nd ref="799241794"/>
+    <nd ref="799241835"/>
+    <nd ref="799241956"/>
+    <nd ref="6643477600"/>
+    <nd ref="799241877"/>
+    <nd ref="799241963"/>
+    <nd ref="799242044"/>
+    <nd ref="6191974705"/>
+    <nd ref="799241940"/>
+    <nd ref="799241990"/>
+    <nd ref="799242065"/>
+    <nd ref="799241912"/>
+    <nd ref="6998029041"/>
+    <nd ref="799241713"/>
+    <nd ref="799241865"/>
+    <nd ref="799241954"/>
+    <nd ref="799241744"/>
+    <nd ref="799241980"/>
+    <nd ref="802981294"/>
+    <nd ref="8113491069"/>
+    <nd ref="802981475"/>
+    <nd ref="802981343"/>
+    <nd ref="802981515"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="65477987">
+    <nd ref="799242050"/>
+    <nd ref="799242127"/>
+    <nd ref="799242109"/>
+    <nd ref="308729160"/>
+    <nd ref="799241999"/>
+    <nd ref="799241802"/>
+    <nd ref="799241668"/>
+    <nd ref="799242073"/>
+    <nd ref="4685422940"/>
+    <nd ref="4685422939"/>
+    <nd ref="799242008"/>
+    <nd ref="1987285398"/>
+    <nd ref="308729161"/>
+    <nd ref="799241947"/>
+    <nd ref="799241995"/>
+    <nd ref="799242068"/>
+    <nd ref="4685422934"/>
+    <nd ref="799241718"/>
+    <nd ref="308729162"/>
+    <nd ref="8129660351"/>
+    <nd ref="799249191"/>
+    <nd ref="1987285386"/>
+    <nd ref="1987285383"/>
+    <nd ref="712889147"/>
+    <nd ref="1007396174"/>
+    <nd ref="712889150"/>
+    <nd ref="799249177"/>
+    <nd ref="308729164"/>
+    <nd ref="799249208"/>
+    <nd ref="799249227"/>
+    <nd ref="712889158"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="86627017">
+    <nd ref="1007396609"/>
+    <nd ref="1007395918"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="86627060">
+    <nd ref="1007395649"/>
+    <nd ref="1007396439"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="188049689">
+    <nd ref="1986747130"/>
+    <nd ref="787020219"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="188049690">
+    <nd ref="1986747132"/>
+    <nd ref="1013675408"/>
+    <nd ref="437381619"/>
+    <nd ref="784810148"/>
+    <nd ref="784810673"/>
+    <nd ref="784810212"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="395885015">
+    <nd ref="787112281"/>
+    <nd ref="1803900028"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="395885016">
+    <nd ref="1803900025"/>
+    <nd ref="787112642"/>
+    <tag k="alt_name" v="Gautam Budh Expressway"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="649196339">
+    <nd ref="6093051638"/>
+    <nd ref="6093051639"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="649196340">
+    <nd ref="799242114"/>
+    <nd ref="799241798"/>
+    <nd ref="799241959"/>
+    <nd ref="799242000"/>
+    <nd ref="799242075"/>
+    <nd ref="6093051638"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="649196341">
+    <nd ref="6093051637"/>
+    <nd ref="799241973"/>
+    <nd ref="799242082"/>
+    <nd ref="799241829"/>
+    <nd ref="799241701"/>
+    <nd ref="308729159"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <way id="649196342">
+    <nd ref="6093051636"/>
+    <nd ref="6093051637"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="753900884">
+    <nd ref="802981515"/>
+    <nd ref="802981566"/>
+    <nd ref="802981478"/>
+    <nd ref="802981527"/>
+    <nd ref="802969376"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="name:hi" v="ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1183845914">
+    <nd ref="802981464"/>
+    <nd ref="1987285418"/>
+    <nd ref="1987285410"/>
+    <nd ref="441879035"/>
+    <nd ref="802981392"/>
+    <nd ref="799241674"/>
+    <nd ref="799242022"/>
+    <nd ref="799241816"/>
+    <nd ref="799241864"/>
+    <nd ref="799242134"/>
+    <nd ref="799242003"/>
+    <nd ref="799241776"/>
+    <nd ref="308729156"/>
+    <nd ref="799241977"/>
+    <nd ref="799241979"/>
+    <nd ref="799241991"/>
+    <nd ref="10578560433"/>
+    <nd ref="10991410117"/>
+    <nd ref="308729157"/>
+    <nd ref="799242142"/>
+    <nd ref="799242094"/>
+    <nd ref="308729158"/>
+    <nd ref="799241961"/>
+    <nd ref="6093051636"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="name" v="Noida-Greater Noida Expressway"/>
+    <tag k="name:hi" v="नोएडा-ग्रेटर नोएडा एक्सप्रेसवे"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </way>
+  <relation id="8428026">
+    <member type="way" ref="63223277" role=""/>
+    <member type="way" ref="63595436" role=""/>
+    <member type="way" ref="395885015" role=""/>
+    <member type="way" ref="86627060" role=""/>
+    <member type="way" ref="65477963" role=""/>
+    <member type="way" ref="65477943" role=""/>
+    <member type="way" ref="65477948" role=""/>
+    <member type="way" ref="65477973" role=""/>
+    <member type="way" ref="65477987" role=""/>
+    <member type="way" ref="65477965" role=""/>
+    <member type="way" ref="65473892" role=""/>
+    <member type="way" ref="1183845914" role=""/>
+    <member type="way" ref="649196342" role=""/>
+    <member type="way" ref="649196341" role=""/>
+    <member type="way" ref="63595421" role=""/>
+    <member type="way" ref="63575381" role=""/>
+    <member type="way" ref="63575255" role=""/>
+    <member type="way" ref="63575273" role=""/>
+    <member type="way" ref="63575334" role=""/>
+    <member type="way" ref="188049690" role=""/>
+    <member type="way" ref="649196340" role=""/>
+    <member type="way" ref="649196339" role=""/>
+    <member type="way" ref="65477979" role=""/>
+    <member type="way" ref="753900884" role=""/>
+    <member type="way" ref="65477958" role=""/>
+    <member type="way" ref="65477952" role=""/>
+    <member type="way" ref="65477974" role=""/>
+    <member type="way" ref="65477968" role=""/>
+    <member type="way" ref="65477950" role=""/>
+    <member type="way" ref="65473938" role=""/>
+    <member type="way" ref="86627017" role=""/>
+    <member type="way" ref="63595507" role=""/>
+    <member type="way" ref="63595367" role=""/>
+    <member type="way" ref="395885016" role=""/>
+    <member type="way" ref="63575343" role=""/>
+    <member type="way" ref="63575292" role=""/>
+    <member type="way" ref="63575277" role=""/>
+    <member type="way" ref="63575401" role=""/>
+    <member type="way" ref="188049689" role=""/>
+    <member type="way" ref="63223319" role=""/>
+    <member type="node" ref="11245413981" role=""/>
+    <tag k="name" v="Greater Noida Expressway"/>
+    <tag k="network" v="IN:NE"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikidata" v="Q7047609"/>
+    <tag k="wikipedia" v="en:Noida–Greater Noida Expressway"/>
+  </relation>
+
+</osm>

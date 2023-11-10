@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="452480343" lat="12.8480680" lon="77.6706994">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Electronics City 1"/>
+  </node>
+  <node id="452480805" lat="12.8476193" lon="77.6708062"/>
+  <node id="452480806" lat="12.8472549" lon="77.6706931"/>
+  <node id="452480807" lat="12.8471581" lon="77.6705935"/>
+  <node id="452480809" lat="12.8459533" lon="77.6683046"/>
+  <node id="452588118" lat="12.8586685" lon="77.6622258"/>
+  <node id="452588119" lat="12.8555459" lon="77.6646906"/>
+  <node id="452588538" lat="12.8745256" lon="77.6495046"/>
+  <node id="452588541" lat="12.8701257" lon="77.6531186"/>
+  <node id="452588544" lat="12.8672114" lon="77.6554214"/>
+  <node id="452588548" lat="12.8616011" lon="77.6598751"/>
+  <node id="452589191" lat="12.8869721" lon="77.6412187"/>
+  <node id="452589192" lat="12.8778983" lon="77.6467930"/>
+  <node id="452589193" lat="12.8765491" lon="77.6477185"/>
+  <node id="452589237" lat="12.8952859" lon="77.6361018"/>
+  <node id="618243158" lat="12.9095993" lon="77.6272970"/>
+  <node id="618248521" lat="12.9099470" lon="77.6272031"/>
+  <node id="1192534108" lat="12.8459237" lon="77.6682241"/>
+  <node id="1192534111" lat="12.8456731" lon="77.6675276">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="operator" v="BETL"/>
+  </node>
+  <node id="1192534162" lat="12.8455800" lon="77.6671834"/>
+  <node id="1192534170" lat="12.8542525" lon="77.6657180"/>
+  <node id="1192534187" lat="12.8470542" lon="77.6704618"/>
+  <node id="1192534208" lat="12.8484798" lon="77.6702864"/>
+  <node id="1192534231" lat="12.8454846" lon="77.6665980"/>
+  <node id="1192534273" lat="12.8480960" lon="77.6705806"/>
+  <node id="1417340829" lat="12.8638821" lon="77.6580760"/>
+  <node id="1417340831" lat="12.8735164" lon="77.6504208"/>
+  <node id="1472212755" lat="12.9098896" lon="77.6270751">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Bommanahalli"/>
+    <tag k="name:kn" v="ಬೊಮ್ಮನಹಳ್ಳಿ"/>
+  </node>
+  <node id="1597659987" lat="12.8602365" lon="77.6609625">
+    <tag k="emergency" v="phone"/>
+  </node>
+  <node id="1597659998" lat="12.8753178" lon="77.6487884">
+    <tag k="emergency" v="phone"/>
+  </node>
+  <node id="1597660004" lat="12.8916725" lon="77.6383252">
+    <tag k="emergency" v="phone"/>
+  </node>
+  <node id="1597660007" lat="12.9074453" lon="77.6286187">
+    <tag k="emergency" v="phone"/>
+  </node>
+  <node id="1723962250" lat="12.8474803" lon="77.6708023"/>
+  <node id="1723962277" lat="12.8537852" lon="77.6660868"/>
+  <node id="1723962286" lat="12.8477578" lon="77.6707748"/>
+  <node id="1723962288" lat="12.8473604" lon="77.6707651"/>
+  <node id="1723987402" lat="12.8770943" lon="77.6473108"/>
+  <node id="1723987403" lat="12.8727788" lon="77.6510374"/>
+  <node id="1725677579" lat="12.8530330" lon="77.6667764"/>
+  <node id="1725677581" lat="12.8841677" lon="77.6430444"/>
+  <node id="1725677583" lat="12.8907619" lon="77.6389674"/>
+  <node id="1725677585" lat="12.8506559" lon="77.6686647"/>
+  <node id="1725677587" lat="12.9030894" lon="77.6313982"/>
+  <node id="1725677589" lat="12.8764569" lon="77.6478589"/>
+  <node id="1725677598" lat="12.8517385" lon="77.6678037"/>
+  <node id="1725677601" lat="12.8689616" lon="77.6541289"/>
+  <node id="1725677604" lat="12.9059993" lon="77.6295985"/>
+  <node id="1725677607" lat="12.8795580" lon="77.6458607"/>
+  <node id="1725677612" lat="12.8600855" lon="77.6611787"/>
+  <node id="1725677614" lat="12.8750622" lon="77.6491092"/>
+  <node id="1725677617" lat="12.8930000" lon="77.6375915"/>
+  <node id="1725677620" lat="12.8733689" lon="77.6506270"/>
+  <node id="1725677623" lat="12.8725844" lon="77.6512600"/>
+  <node id="1725677625" lat="12.8740513" lon="77.6500181"/>
+  <node id="1725677626" lat="12.8861418" lon="77.6418213"/>
+  <node id="1725677632" lat="12.8927142" lon="77.6376842"/>
+  <node id="1725677644" lat="12.9076595" lon="77.6285739"/>
+  <node id="1725677648" lat="12.8816785" lon="77.6445706"/>
+  <node id="1725677650" lat="12.8495628" lon="77.6695284"/>
+  <node id="1725677652" lat="12.8976548" lon="77.6346378"/>
+  <node id="1725677654" lat="12.8558467" lon="77.6645475"/>
+  <node id="1725677656" lat="12.8781173" lon="77.6467431"/>
+  <node id="1725677658" lat="12.8713267" lon="77.6522605"/>
+  <node id="1725677664" lat="12.8774767" lon="77.6471401"/>
+  <node id="1725677667" lat="12.8579700" lon="77.6628711"/>
+  <node id="1725677670" lat="12.8827976" lon="77.6438785"/>
+  <node id="1725677672" lat="12.8769433" lon="77.6474888"/>
+  <node id="1725677674" lat="12.8969401" lon="77.6351667"/>
+  <node id="1725677676" lat="12.8546961" lon="77.6654514"/>
+  <node id="1725677687" lat="12.9014031" lon="77.6324336"/>
+  <node id="1725677695" lat="12.8660037" lon="77.6563844"/>
+  <node id="1725677699" lat="12.8885054" lon="77.6403568"/>
+  <node id="1725677701" lat="12.9096254" lon="77.6273640"/>
+  <node id="1725691261" lat="12.8477872" lon="77.6708427"/>
+  <node id="1725691265" lat="12.8471282" lon="77.6706790"/>
+  <node id="1725691273" lat="12.8472119" lon="77.6707595"/>
+  <node id="1725691274" lat="12.8669429" lon="77.6557328"/>
+  <node id="1725691275" lat="12.8612492" lon="77.6602479"/>
+  <node id="1725691277" lat="12.8680516" lon="77.6548504"/>
+  <node id="1725691281" lat="12.8473923" lon="77.6708534"/>
+  <node id="1725691282" lat="12.8454467" lon="77.6671493"/>
+  <node id="1725691283" lat="12.8475754" lon="77.6708802"/>
+  <node id="1725691284" lat="12.8476774" lon="77.6708722"/>
+  <node id="1725691286" lat="12.8455199" lon="77.6675328">
+    <tag k="barrier" v="toll_booth"/>
+  </node>
+  <node id="1725691289" lat="12.8473060" lon="77.6708158"/>
+  <node id="1725691290" lat="12.8470341" lon="77.6705637"/>
+  <node id="1725691291" lat="12.8469608" lon="77.6704484"/>
+  <node id="1725691292" lat="12.8458494" lon="77.6682892"/>
+  <node id="1725691293" lat="12.8458877" lon="77.6683668"/>
+  <node id="1725691294" lat="12.8475022" lon="77.6708722"/>
+  <node id="1725691295" lat="12.8621842" lon="77.6594959"/>
+  <node id="3523311257" lat="12.8553562" lon="77.6648472"/>
+  <node id="3523462961" lat="12.8455205" lon="77.6669187"/>
+  <node id="3643007689" lat="12.8454053" lon="77.6659573"/>
+  <node id="3643007691" lat="12.8454598" lon="77.6659495"/>
+  <node id="3643008793" lat="12.8523861" lon="77.6671980"/>
+  <node id="3643008794" lat="12.8454153" lon="77.6668326"/>
+  <node id="3643008802" lat="12.8454049" lon="77.6664600"/>
+  <node id="3689018729" lat="12.8453594" lon="77.6658257"/>
+  <node id="8456911000" lat="12.9002933" lon="77.6330387"/>
+  <node id="8456911001" lat="12.9013577" lon="77.6323896"/>
+  <node id="8456911002" lat="12.9023158" lon="77.6318032"/>
+  <node id="8456911003" lat="12.9026148" lon="77.6316213"/>
+  <node id="8457464030" lat="12.8749377" lon="77.6491310"/>
+  <node id="8457464031" lat="12.8747336" lon="77.6493194"/>
+  <node id="8457464032" lat="12.8741943" lon="77.6498086"/>
+  <node id="8457464033" lat="12.8738614" lon="77.6501061"/>
+  <node id="8457464034" lat="12.8736949" lon="77.6502581"/>
+  <node id="8457464035" lat="12.8731544" lon="77.6507299"/>
+  <node id="8457464036" lat="12.8729694" lon="77.6508845"/>
+  <node id="9837704926" lat="12.8479318" lon="77.6706781"/>
+  <node id="9837704927" lat="12.8469612" lon="77.6703131"/>
+  <node id="9837704928" lat="12.8472034" lon="77.6706440"/>
+  <node id="9837704929" lat="12.8471165" lon="77.6705444"/>
+  <node id="9837704930" lat="12.8473023" lon="77.6707274"/>
+  <node id="9837704931" lat="12.8474104" lon="77.6707881"/>
+  <node id="9837704932" lat="12.8475426" lon="77.6708099"/>
+  <node id="9837704933" lat="12.8476859" lon="77.6707976"/>
+  <node id="9837911658" lat="12.8477989" lon="77.6707535"/>
+  <node id="10581657562" lat="12.9010482" lon="77.6325784"/>
+  <node id="11252289931" lat="12.8455117" lon="77.6658316"/>
+  <way id="38321920">
+    <nd ref="11252289931"/>
+    <nd ref="3643007691"/>
+    <nd ref="1192534231"/>
+    <nd ref="3523462961"/>
+    <nd ref="1192534162"/>
+    <nd ref="1192534111"/>
+    <nd ref="1192534108"/>
+    <nd ref="452480809"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="103269863">
+    <nd ref="452480809"/>
+    <nd ref="9837704927"/>
+    <nd ref="1192534187"/>
+    <nd ref="9837704929"/>
+    <nd ref="452480807"/>
+    <nd ref="9837704928"/>
+    <nd ref="452480806"/>
+    <nd ref="9837704930"/>
+    <nd ref="1723962288"/>
+    <nd ref="9837704931"/>
+    <nd ref="1723962250"/>
+    <nd ref="9837704932"/>
+    <nd ref="452480805"/>
+    <nd ref="9837704933"/>
+    <nd ref="1723962286"/>
+    <nd ref="9837911658"/>
+    <nd ref="9837704926"/>
+    <nd ref="1192534273"/>
+    <nd ref="1192534208"/>
+    <nd ref="3643008793"/>
+    <nd ref="1723962277"/>
+    <nd ref="1192534170"/>
+    <nd ref="3523311257"/>
+    <nd ref="452588119"/>
+    <nd ref="452588118"/>
+    <nd ref="1597659987"/>
+    <nd ref="452588548"/>
+    <nd ref="1417340829"/>
+    <nd ref="1725677695"/>
+    <nd ref="452588544"/>
+    <nd ref="452588541"/>
+    <nd ref="1723987403"/>
+    <nd ref="8457464036"/>
+    <nd ref="8457464035"/>
+    <nd ref="1417340831"/>
+    <nd ref="8457464034"/>
+    <nd ref="8457464033"/>
+    <nd ref="8457464032"/>
+    <nd ref="452588538"/>
+    <nd ref="8457464031"/>
+    <nd ref="8457464030"/>
+    <nd ref="1597659998"/>
+    <nd ref="452589193"/>
+    <nd ref="1723987402"/>
+    <nd ref="452589192"/>
+    <nd ref="452589191"/>
+    <nd ref="1597660004"/>
+    <nd ref="1725677632"/>
+    <nd ref="452589237"/>
+    <nd ref="1725677652"/>
+    <nd ref="8456911000"/>
+    <nd ref="10581657562"/>
+    <nd ref="8456911001"/>
+    <nd ref="8456911002"/>
+    <nd ref="8456911003"/>
+    <nd ref="1597660007"/>
+    <nd ref="618243158"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="133759694">
+    <nd ref="618243158"/>
+    <nd ref="1472212755"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="160511376">
+    <nd ref="618248521"/>
+    <nd ref="1725677701"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="160511377">
+    <nd ref="1725677701"/>
+    <nd ref="1725677644"/>
+    <nd ref="1725677604"/>
+    <nd ref="1725677587"/>
+    <nd ref="1725677687"/>
+    <nd ref="1725677674"/>
+    <nd ref="1725677617"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="160512744">
+    <nd ref="1725691275"/>
+    <nd ref="1725677612"/>
+    <nd ref="1725677667"/>
+    <nd ref="1725677654"/>
+    <nd ref="1725677676"/>
+    <nd ref="1725677579"/>
+    <nd ref="1725677598"/>
+    <nd ref="1725677585"/>
+    <nd ref="1725677650"/>
+    <nd ref="452480343"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="160512745">
+    <nd ref="1725691293"/>
+    <nd ref="1725691292"/>
+    <nd ref="1725691286"/>
+    <nd ref="1725691282"/>
+    <nd ref="3643008794"/>
+    <nd ref="3643008802"/>
+    <nd ref="3643007689"/>
+    <nd ref="3689018729"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway_link"/>
+    <tag k="lanes" v="2"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+  </way>
+  <way id="160512746">
+    <nd ref="1725677617"/>
+    <nd ref="1725677583"/>
+    <nd ref="1725677699"/>
+    <nd ref="1725677626"/>
+    <nd ref="1725677581"/>
+    <nd ref="1725677670"/>
+    <nd ref="1725677648"/>
+    <nd ref="1725677607"/>
+    <nd ref="1725677656"/>
+    <nd ref="1725677664"/>
+    <nd ref="1725677672"/>
+    <nd ref="1725677589"/>
+    <nd ref="1725677614"/>
+    <nd ref="1725677625"/>
+    <nd ref="1725677620"/>
+    <nd ref="1725677623"/>
+    <nd ref="1725677658"/>
+    <nd ref="1725677601"/>
+    <nd ref="1725691277"/>
+    <nd ref="1725691274"/>
+    <nd ref="1725691295"/>
+    <nd ref="1725691275"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="viaduct"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1182428268">
+    <nd ref="452480343"/>
+    <nd ref="1725691261"/>
+    <nd ref="1725691284"/>
+    <nd ref="1725691283"/>
+    <nd ref="1725691294"/>
+    <nd ref="1725691281"/>
+    <nd ref="1725691289"/>
+    <nd ref="1725691273"/>
+    <nd ref="1725691265"/>
+    <nd ref="1725691290"/>
+    <nd ref="1725691291"/>
+    <nd ref="1725691293"/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="foot" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="BETL"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <relation id="8430044">
+    <member type="way" ref="103269863" role=""/>
+    <member type="way" ref="38321920" role=""/>
+    <member type="way" ref="160512745" role=""/>
+    <member type="way" ref="1182428268" role=""/>
+    <member type="way" ref="160512744" role=""/>
+    <member type="way" ref="133759694" role=""/>
+    <member type="way" ref="160512746" role=""/>
+    <member type="way" ref="160511377" role=""/>
+    <member type="way" ref="160511376" role=""/>
+    <tag k="alt_name" v="Electronic City Flyover"/>
+    <tag k="loc_name" v="Bengaluru City Expressway"/>
+    <tag k="name" v="Electronic City Elevated Expressway"/>
+    <tag k="name:kn" v="ಬಿ ಇ ಟಿ ಎಲ್"/>
+    <tag k="network" v="IN:NE"/>
+    <tag k="old_name" v="Bangalore Elevated Tollways Limited"/>
+    <tag k="reg_name" v="Hosur Road Expressway"/>
+    <tag k="route" v="road"/>
+    <tag k="short_name" v="BETL"/>
+    <tag k="type" v="route"/>
+    <tag k="wikipedia" v="en:Electronic City Elevated Expressway"/>
+  </relation>
+
+</osm>

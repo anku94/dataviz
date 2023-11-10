@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="292408377" lat="25.2539646" lon="83.0207102"/>
+  <node id="292408378" lat="25.2570038" lon="83.0332861"/>
+  <node id="292408474" lat="25.2571037" lon="83.0332564"/>
+  <node id="292408774" lat="25.2540631" lon="83.0206863"/>
+  <node id="292409010" lat="25.2577613" lon="83.0364914"/>
+  <node id="292409300" lat="25.2578494" lon="83.0364605"/>
+  <node id="292409309" lat="25.2579968" lon="83.0370785"/>
+  <node id="292409341" lat="25.2579165" lon="83.0371266"/>
+  <node id="292409445" lat="25.2582439" lon="83.0412812"/>
+  <node id="292409446" lat="25.2581585" lon="83.0418843"/>
+  <node id="292409447" lat="25.2580799" lon="83.0422644"/>
+  <node id="292409448" lat="25.2578160" lon="83.0433124"/>
+  <node id="292409558" lat="25.2573883" lon="83.0348691"/>
+  <node id="292409571" lat="25.2580772" lon="83.0378628"/>
+  <node id="292409572" lat="25.2581419" lon="83.0382469"/>
+  <node id="292409574" lat="25.2583040" lon="83.0399886"/>
+  <node id="292409767" lat="25.2581626" lon="83.0378198"/>
+  <node id="292409770" lat="25.2583562" lon="83.0390641"/>
+  <node id="292409772" lat="25.2583950" lon="83.0400807"/>
+  <node id="292409773" lat="25.2583817" lon="83.0406450"/>
+  <node id="292409776" lat="25.2581793" lon="83.0423410"/>
+  <node id="292409778" lat="25.2577747" lon="83.0438428"/>
+  <node id="292409779" lat="25.2569635" lon="83.0461242"/>
+  <node id="292434281" lat="25.2582471" lon="83.0382353"/>
+  <node id="292434282" lat="25.2583029" lon="83.0386269"/>
+  <node id="292434283" lat="25.2583853" lon="83.0395925"/>
+  <node id="292434284" lat="25.2583299" lon="83.0413132"/>
+  <node id="292434285" lat="25.2582542" lon="83.0418621"/>
+  <node id="292434286" lat="25.2579241" lon="83.0433680"/>
+  <node id="292434311" lat="25.2582939" lon="83.0406193"/>
+  <node id="292434312" lat="25.2582773" lon="83.0394411"/>
+  <node id="292435748" lat="25.2519676" lon="83.0656828"/>
+  <node id="292435749" lat="25.2518910" lon="83.0675905"/>
+  <node id="292435750" lat="25.2521071" lon="83.0733994"/>
+  <node id="292435751" lat="25.2523215" lon="83.0790423"/>
+  <node id="292435752" lat="25.2523156" lon="83.0843876"/>
+  <node id="292435765" lat="25.2523251" lon="83.0859003"/>
+  <node id="292435772" lat="25.2523211" lon="83.0864377"/>
+  <node id="292435783" lat="25.2523237" lon="83.0872531"/>
+  <node id="292435822" lat="25.2524414" lon="83.1018586"/>
+  <node id="292435824" lat="25.2526051" lon="83.1041342"/>
+  <node id="292435826" lat="25.2527850" lon="83.1052138"/>
+  <node id="292435829" lat="25.2563361" lon="83.1197412"/>
+  <node id="292435834" lat="25.2628727" lon="83.1414506"/>
+  <node id="292435838" lat="25.2674426" lon="83.1541500"/>
+  <node id="292435839" lat="25.2676276" lon="83.1547006">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="292435841" lat="25.2676474" lon="83.1574319"/>
+  <node id="292435861" lat="25.2552546" lon="83.0514094"/>
+  <node id="292435862" lat="25.2549335" lon="83.0526815"/>
+  <node id="292435866" lat="25.2522928" lon="83.0637013"/>
+  <node id="292435867" lat="25.2521013" lon="83.0646531"/>
+  <node id="292435870" lat="25.2522123" lon="83.0785925"/>
+  <node id="292435873" lat="25.2517949" lon="83.0666472"/>
+  <node id="292435874" lat="25.2518562" lon="83.0656416"/>
+  <node id="292435875" lat="25.2519933" lon="83.0646056"/>
+  <node id="292435878" lat="25.2548209" lon="83.0526315"/>
+  <node id="292435879" lat="25.2551379" lon="83.0513197"/>
+  <node id="292435882" lat="25.2524888" lon="83.1029671"/>
+  <node id="292435886" lat="25.2580818" lon="83.1259040"/>
+  <node id="292435888" lat="25.2618650" lon="83.1385860"/>
+  <node id="292435890" lat="25.2673432" lon="83.1538491"/>
+  <node id="292435897" lat="25.2522332" lon="83.0843467"/>
+  <node id="292435899" lat="25.2522429" lon="83.0858628"/>
+  <node id="292435901" lat="25.2522483" lon="83.0864201"/>
+  <node id="292435914" lat="25.2523460" lon="83.1018424"/>
+  <node id="292435915" lat="25.2523799" lon="83.1029865"/>
+  <node id="292435917" lat="25.2526682" lon="83.1051998"/>
+  <node id="292435919" lat="25.2542296" lon="83.1117129"/>
+  <node id="292435920" lat="25.2562179" lon="83.1197618"/>
+  <node id="292435948" lat="25.2522527" lon="83.0872411"/>
+  <node id="292435951" lat="25.2524951" lon="83.1041612"/>
+  <node id="292435954" lat="25.2617592" lon="83.1386344"/>
+  <node id="292435955" lat="25.2627725" lon="83.1414866"/>
+  <node id="292435956" lat="25.2643039" lon="83.1458597"/>
+  <node id="292435957" lat="25.2669201" lon="83.1534525"/>
+  <node id="292435959" lat="25.2673496" lon="83.1545701"/>
+  <node id="292435960" lat="25.2674907" lon="83.1550299"/>
+  <node id="292435963" lat="25.2523753" lon="83.0918627"/>
+  <node id="292435964" lat="25.2526735" lon="83.1046654"/>
+  <node id="292435965" lat="25.2543206" lon="83.1116855"/>
+  <node id="292436005" lat="25.2672040" lon="83.1541759"/>
+  <node id="292436007" lat="25.2522961" lon="83.0918607"/>
+  <node id="292436156" lat="25.2567063" lon="83.0464899"/>
+  <node id="292436157" lat="25.2522264" lon="83.0791513"/>
+  <node id="292436158" lat="25.2521598" lon="83.0778583"/>
+  <node id="292436159" lat="25.2518039" lon="83.0682991"/>
+  <node id="292436160" lat="25.2521791" lon="83.0636160"/>
+  <node id="292436224" lat="25.2572446" lon="83.0342955"/>
+  <node id="292436273" lat="25.2573487" lon="83.0343509"/>
+  <node id="292436289" lat="25.2576085" lon="83.0443025"/>
+  <node id="292436290" lat="25.2574694" lon="83.0446875"/>
+  <node id="292436291" lat="25.2581017" lon="83.0427163"/>
+  <node id="292607894" lat="25.2530903" lon="83.0598817"/>
+  <node id="292608248" lat="25.2529008" lon="83.0606021"/>
+  <node id="292608249" lat="25.2530763" lon="83.0604365"/>
+  <node id="292609409" lat="25.2519917" lon="83.0734259"/>
+  <node id="292612837" lat="25.2524493" lon="83.0629636"/>
+  <node id="292612838" lat="25.2523247" lon="83.0628996"/>
+  <node id="292612839" lat="25.2531951" lon="83.0599838"/>
+  <node id="292647186" lat="25.2514845" lon="83.0097834"/>
+  <node id="292647187" lat="25.2503304" lon="83.0047191"/>
+  <node id="292647188" lat="25.2499992" lon="83.0027980"/>
+  <node id="292647191" lat="25.2485629" lon="82.9947619"/>
+  <node id="292648433" lat="25.2474390" lon="82.9902637"/>
+  <node id="292648435" lat="25.2468662" lon="82.9865953"/>
+  <node id="292648436" lat="25.2467416" lon="82.9855077"/>
+  <node id="292648441" lat="25.2473161" lon="82.9751632"/>
+  <node id="292648444" lat="25.2479077" lon="82.9649927"/>
+  <node id="292648448" lat="25.2482562" lon="82.9565350"/>
+  <node id="292648457" lat="25.2494722" lon="82.9416860"/>
+  <node id="292648460" lat="25.2501013" lon="82.9360784"/>
+  <node id="292648462" lat="25.2504297" lon="82.9336883"/>
+  <node id="292648467" lat="25.2520475" lon="82.9251182"/>
+  <node id="292648468" lat="25.2523887" lon="82.9238203"/>
+  <node id="292648469" lat="25.2527801" lon="82.9228051"/>
+  <node id="292648470" lat="25.2532547" lon="82.9219186"/>
+  <node id="292648474" lat="25.2620796" lon="82.9076008"/>
+  <node id="292648479" lat="25.2654635" lon="82.9014936"/>
+  <node id="292648482" lat="25.2676752" lon="82.8960796"/>
+  <node id="292648483" lat="25.2686849" lon="82.8936670"/>
+  <node id="292648484" lat="25.2691286" lon="82.8925659"/>
+  <node id="292648488" lat="25.2705685" lon="82.8880677"/>
+  <node id="292648489" lat="25.2712304" lon="82.8857706"/>
+  <node id="292648491" lat="25.2724022" lon="82.8810367"/>
+  <node id="292648492" lat="25.2726141" lon="82.8802143"/>
+  <node id="292649998" lat="25.2470814" lon="82.9880989"/>
+  <node id="292649999" lat="25.2466703" lon="82.9842623"/>
+  <node id="292650001" lat="25.2467061" lon="82.9820855"/>
+  <node id="292650002" lat="25.2475198" lon="82.9724649"/>
+  <node id="292650005" lat="25.2480865" lon="82.9608253"/>
+  <node id="292650012" lat="25.2510996" lon="82.9296040"/>
+  <node id="292650015" lat="25.2565248" lon="82.9164979"/>
+  <node id="292650016" lat="25.2596763" lon="82.9113923"/>
+  <node id="292650017" lat="25.2628608" lon="82.9063699"/>
+  <node id="292650019" lat="25.2640276" lon="82.9043207"/>
+  <node id="292650023" lat="25.2695430" lon="82.8912394"/>
+  <node id="292650028" lat="25.2739941" lon="82.8748569"/>
+  <node id="292650112" lat="25.2725365" lon="82.8801888"/>
+  <node id="292650117" lat="25.2703636" lon="82.8884273"/>
+  <node id="292650120" lat="25.2689601" lon="82.8926569"/>
+  <node id="292650121" lat="25.2685584" lon="82.8936049"/>
+  <node id="292650123" lat="25.2665040" lon="82.8985837"/>
+  <node id="292650124" lat="25.2659141" lon="82.9000428"/>
+  <node id="292650126" lat="25.2648304" lon="82.9024297"/>
+  <node id="292650133" lat="25.2539290" lon="82.9205306"/>
+  <node id="292650134" lat="25.2530728" lon="82.9219347"/>
+  <node id="292650137" lat="25.2519250" lon="82.9250656"/>
+  <node id="292650138" lat="25.2513243" lon="82.9277412"/>
+  <node id="292650140" lat="25.2506045" lon="82.9317830"/>
+  <node id="292650141" lat="25.2503755" lon="82.9332604"/>
+  <node id="292650143" lat="25.2497901" lon="82.9375392"/>
+  <node id="292650145" lat="25.2490346" lon="82.9448722"/>
+  <node id="292650148" lat="25.2485478" lon="82.9502158"/>
+  <node id="292650149" lat="25.2481097" lon="82.9565036"/>
+  <node id="292650150" lat="25.2480654" lon="82.9576975"/>
+  <node id="292650151" lat="25.2479224" lon="82.9607215"/>
+  <node id="292650152" lat="25.2477574" lon="82.9649581"/>
+  <node id="292650154" lat="25.2473630" lon="82.9724754"/>
+  <node id="292650155" lat="25.2469764" lon="82.9778051"/>
+  <node id="292650159" lat="25.2465467" lon="82.9842733"/>
+  <node id="292650162" lat="25.2470938" lon="82.9888143"/>
+  <node id="292650398" lat="25.2488461" lon="82.9960122"/>
+  <node id="292650399" lat="25.2483405" lon="82.9939698">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="Daffi"/>
+  </node>
+  <node id="292650400" lat="25.2474733" lon="82.9904313"/>
+  <node id="292650403" lat="25.2477430" lon="82.9688734"/>
+  <node id="292650404" lat="25.2486693" lon="82.9502403"/>
+  <node id="292650408" lat="25.2491708" lon="82.9448785"/>
+  <node id="292650410" lat="25.2507309" lon="82.9316914"/>
+  <node id="292650413" lat="25.2544628" lon="82.9199123"/>
+  <node id="292650417" lat="25.2660743" lon="82.9001142"/>
+  <node id="292650419" lat="25.2700727" lon="82.8896547"/>
+  <node id="292650420" lat="25.2716614" lon="82.8840931"/>
+  <node id="292650421" lat="25.2720663" lon="82.8824337"/>
+  <node id="292650462" lat="25.2714743" lon="82.8845194"/>
+  <node id="292650465" lat="25.2711595" lon="82.8856893"/>
+  <node id="292650467" lat="25.2699757" lon="82.8896151"/>
+  <node id="292650469" lat="25.2694016" lon="82.8913520"/>
+  <node id="292650470" lat="25.2675364" lon="82.8960088"/>
+  <node id="292650473" lat="25.2632052" lon="82.9054673"/>
+  <node id="292650474" lat="25.2627627" lon="82.9062141"/>
+  <node id="292650475" lat="25.2619787" lon="82.9074844"/>
+  <node id="292650478" lat="25.2595482" lon="82.9112942"/>
+  <node id="292650480" lat="25.2557849" lon="82.9175010"/>
+  <node id="292650482" lat="25.2526555" lon="82.9227850"/>
+  <node id="292650487" lat="25.2499780" lon="82.9360543"/>
+  <node id="292650488" lat="25.2493519" lon="82.9416364"/>
+  <node id="292650489" lat="25.2487442" lon="82.9479337"/>
+  <node id="292650491" lat="25.2476538" lon="82.9685513"/>
+  <node id="292650492" lat="25.2468333" lon="82.9792562"/>
+  <node id="292650500" lat="25.2473792" lon="82.9904444"/>
+  <node id="292650506" lat="25.2487483" lon="82.9960723"/>
+  <node id="292650510" lat="25.2502509" lon="83.0047380"/>
+  <node id="292650606" lat="25.2508962" lon="83.0072486"/>
+  <node id="292650607" lat="25.2466703" lon="82.9832928"/>
+  <node id="292650609" lat="25.2489570" lon="82.9471901"/>
+  <node id="292650610" lat="25.2499270" lon="82.9375157"/>
+  <node id="292650611" lat="25.2513823" lon="82.9281256"/>
+  <node id="292650614" lat="25.2647886" lon="82.9028409"/>
+  <node id="292650616" lat="25.2666394" lon="82.8986905"/>
+  <node id="292650639" lat="25.2723107" lon="82.8810934">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="292650642" lat="25.2642119" lon="82.9036447"/>
+  <node id="292650643" lat="25.2522797" lon="82.9237628"/>
+  <node id="292650647" lat="25.2467338" lon="82.9866410"/>
+  <node id="292650652" lat="25.2514073" lon="83.0098620"/>
+  <node id="292650655" lat="25.2632247" lon="82.9057610"/>
+  <node id="292650667" lat="25.2719960" lon="82.8824050"/>
+  <node id="292650669" lat="25.2465459" lon="82.9831984"/>
+  <node id="292650670" lat="25.2465752" lon="82.9850192"/>
+  <node id="292650672" lat="25.2482120" lon="82.9940473">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="Daffi"/>
+  </node>
+  <node id="292650673" lat="25.2484669" lon="82.9948433"/>
+  <node id="292650712" lat="25.2653277" lon="82.9014131"/>
+  <node id="292650714" lat="25.2495745" lon="83.0011707"/>
+  <node id="292650727" lat="25.2739184" lon="82.8748413"/>
+  <node id="292650729" lat="25.2473457" lon="82.9902739"/>
+  <node id="292654659" lat="25.2712795" lon="82.8852405"/>
+  <node id="292654671" lat="25.2713296" lon="82.8854118"/>
+  <node id="292654679" lat="25.2715580" lon="82.8845348"/>
+  <node id="292656771" lat="25.2501456" lon="82.9357239"/>
+  <node id="292656812" lat="25.2500364" lon="82.9355939"/>
+  <node id="292656817" lat="25.2501059" lon="82.9351499"/>
+  <node id="292657119" lat="25.2483149" lon="82.9548777"/>
+  <node id="292657197" lat="25.2502130" lon="82.9352315"/>
+  <node id="292657743" lat="25.2487814" lon="82.9491244"/>
+  <node id="292657900" lat="25.2482367" lon="82.9574200"/>
+  <node id="295316326" lat="25.2700314" lon="82.8897813"/>
+  <node id="297587448" lat="25.2479882" lon="82.9930016"/>
+  <node id="318418620" lat="25.2536646" lon="83.1089746"/>
+  <node id="318418734" lat="25.2535499" lon="83.1089298"/>
+  <node id="318426525" lat="25.2579457" lon="83.1258675"/>
+  <node id="318429230" lat="25.2522679" lon="83.0927717"/>
+  <node id="534863696" lat="25.2675564" lon="83.1544949"/>
+  <node id="534863697" lat="25.2675783" lon="83.1558052"/>
+  <node id="534863698" lat="25.2676763" lon="83.1557466"/>
+  <node id="534863699" lat="25.2645015" lon="83.1458772"/>
+  <node id="534863700" lat="25.2617057" lon="83.1384730"/>
+  <node id="534863701" lat="25.2618151" lon="83.1384366"/>
+  <node id="534863702" lat="25.2671579" lon="83.1533639"/>
+  <node id="534863703" lat="25.2578975" lon="83.1256675"/>
+  <node id="534863704" lat="25.2580286" lon="83.1257107"/>
+  <node id="534863705" lat="25.2528755" lon="83.1062117"/>
+  <node id="534863706" lat="25.2529829" lon="83.1062040"/>
+  <node id="534863707" lat="25.2525744" lon="83.1046699"/>
+  <node id="534863708" lat="25.2523439" lon="83.1024203"/>
+  <node id="534863709" lat="25.2522079" lon="83.0762274"/>
+  <node id="534863710" lat="25.2522728" lon="83.0778442"/>
+  <node id="534863711" lat="25.2521123" lon="83.0762274"/>
+  <node id="534863714" lat="25.2519174" lon="83.0683136"/>
+  <node id="534863715" lat="25.2517789" lon="83.0675742"/>
+  <node id="534863716" lat="25.2519114" lon="83.0666879"/>
+  <node id="534863717" lat="25.2582324" lon="83.0388115"/>
+  <node id="534876763" lat="25.2673930" lon="83.1547271"/>
+  <node id="534876766" lat="25.2663480" lon="83.1510878"/>
+  <node id="534876767" lat="25.2662098" lon="83.1511311"/>
+  <node id="534876874" lat="25.2675759" lon="83.1574289"/>
+  <node id="534876875" lat="25.2676475" lon="83.1576309"/>
+  <node id="534876876" lat="25.2675758" lon="83.1576328"/>
+  <node id="1016166116" lat="25.2524580" lon="83.1024136"/>
+  <node id="1016166184" lat="25.2570678" lon="83.1227281"/>
+  <node id="1016166200" lat="25.2597673" lon="83.1321211"/>
+  <node id="1016166209" lat="25.2579948" lon="83.0427077"/>
+  <node id="1016166535" lat="25.2676560" lon="83.1553973"/>
+  <node id="1016166568" lat="25.2675593" lon="83.1554017"/>
+  <node id="1016166591" lat="25.2571743" lon="83.1227097"/>
+  <node id="1016166917" lat="25.2596872" lon="83.1313397"/>
+  <node id="1335982819" lat="25.2540181" lon="83.1108470"/>
+  <node id="3285430932" lat="25.2481840" lon="82.9932664"/>
+  <node id="3660362704" lat="25.2515543" lon="83.0105785"/>
+  <node id="3660362705" lat="25.2516512" lon="83.0105386"/>
+  <node id="3660362706" lat="25.2516411" lon="83.0109352"/>
+  <node id="3660362707" lat="25.2517237" lon="83.0108979"/>
+  <node id="4672017545" lat="25.2522912" lon="83.0920178"/>
+  <node id="6972725718" lat="25.2485305" lon="82.9518490"/>
+  <node id="6972725719" lat="25.2483770" lon="82.9533702"/>
+  <node id="6972725720" lat="25.2482721" lon="82.9532089"/>
+  <node id="6972725722" lat="25.2482463" lon="82.9569828"/>
+  <node id="6972725731" lat="25.2486364" lon="82.9491884"/>
+  <node id="6972725739" lat="25.2496598" lon="82.9399046"/>
+  <node id="6972725754" lat="25.2465877" lon="82.9820489"/>
+  <node id="7049414539" lat="25.2632020" lon="83.1427131">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="7049414546" lat="25.2609716" lon="83.1356889"/>
+  <node id="7049414547" lat="25.2614494" lon="83.1372796"/>
+  <node id="7049414548" lat="25.2614336" lon="83.1376658"/>
+  <node id="7049414552" lat="25.2608428" lon="83.1357354"/>
+  <node id="7049414580" lat="25.2523359" lon="83.0883445"/>
+  <node id="7049414581" lat="25.2522630" lon="83.0883330"/>
+  <node id="7049423910" lat="25.2551012" lon="83.0514368"/>
+  <node id="7049423921" lat="25.2538623" lon="83.0202514"/>
+  <node id="8061554687" lat="25.2512608" lon="83.0092488"/>
+  <node id="8091014107" lat="25.2556223" lon="83.0275697"/>
+  <node id="8119340199" lat="25.2509005" lon="82.9307270"/>
+  <node id="8119340203" lat="25.2494930" lon="82.9400097"/>
+  <node id="8119340206" lat="25.2507684" lon="82.9306990"/>
+  <node id="8119340213" lat="25.2522105" lon="82.9244475"/>
+  <node id="8119340214" lat="25.2521034" lon="82.9243858"/>
+  <node id="8119340215" lat="25.2518801" lon="82.9252490"/>
+  <node id="8119340216" lat="25.2520072" lon="82.9252977"/>
+  <node id="8119340217" lat="25.2510272" lon="82.9292147"/>
+  <node id="8119340229" lat="25.2697641" lon="82.8902553"/>
+  <node id="8119340231" lat="25.2481819" lon="82.9550394"/>
+  <node id="8119340235" lat="25.2483626" lon="82.9522266"/>
+  <node id="8119340240" lat="25.2470152" lon="82.9786018"/>
+  <node id="8119340241" lat="25.2466401" lon="82.9814620"/>
+  <node id="8119340242" lat="25.2467118" lon="82.9808675"/>
+  <node id="8791942126" lat="25.2511621" lon="83.0088026"/>
+  <node id="8791942127" lat="25.2513250" lon="83.0094901"/>
+  <node id="8811079867" lat="25.2486800" lon="82.9952435"/>
+  <node id="8811079879" lat="25.2493483" lon="82.9982313"/>
+  <node id="8811079880" lat="25.2496046" lon="82.9991374"/>
+  <node id="8811079884" lat="25.2496479" lon="82.9994256"/>
+  <node id="8814464708" lat="25.2496985" lon="83.0007020"/>
+  <node id="8814686162" lat="25.2567907" lon="83.0462403"/>
+  <node id="8814686163" lat="25.2570199" lon="83.0455836"/>
+  <node id="8814686172" lat="25.2521729" lon="83.0780411"/>
+  <node id="8814686173" lat="25.2569685" lon="83.0457307"/>
+  <node id="8814783629" lat="25.2571992" lon="83.0341053"/>
+  <node id="8819547768" lat="25.2634517" lon="82.9053562"/>
+  <node id="8819547769" lat="25.2635909" lon="82.9051065"/>
+  <node id="8819547770" lat="25.2634432" lon="82.9050518"/>
+  <node id="8819547771" lat="25.2633242" lon="82.9052596"/>
+  <node id="8831049482" lat="25.2467940" lon="82.9810161"/>
+  <node id="8837430444" lat="25.2529922" lon="83.0166022"/>
+  <node id="8837430445" lat="25.2530801" lon="83.0165733"/>
+  <node id="8874183091" lat="25.2490512" lon="82.9979402"/>
+  <node id="8874183097" lat="25.2485697" lon="82.9952407"/>
+  <node id="8874247538" lat="25.2466064" lon="82.9856306"/>
+  <node id="8874261750" lat="25.2465378" lon="82.9837565"/>
+  <node id="8874455637" lat="25.2468540" lon="82.9874788"/>
+  <node id="8874455652" lat="25.2469470" lon="82.9879842"/>
+  <node id="8874694879" lat="25.2481653" lon="82.9937927"/>
+  <node id="8903947625" lat="25.2525148" lon="82.9234529"/>
+  <node id="8903947626" lat="25.2524445" lon="82.9232946"/>
+  <node id="8903947627" lat="25.2526361" lon="82.9231498"/>
+  <node id="8903947628" lat="25.2530000" lon="82.9223746"/>
+  <node id="8903947629" lat="25.2528496" lon="82.9223585"/>
+  <node id="8903947630" lat="25.2533493" lon="82.9214734"/>
+  <node id="8903947631" lat="25.2578832" lon="82.9139900"/>
+  <node id="8903947632" lat="25.2573374" lon="82.9149073"/>
+  <node id="8903947633" lat="25.2572040" lon="82.9153553"/>
+  <node id="8903947634" lat="25.2581282" lon="82.9138291"/>
+  <node id="8903947635" lat="25.2608863" lon="82.9094866"/>
+  <node id="8903947636" lat="25.2638384" lon="82.9046720"/>
+  <node id="8903947637" lat="25.2644593" lon="82.9034623"/>
+  <node id="8903947638" lat="25.2638505" lon="82.9043153"/>
+  <node id="8903947639" lat="25.2651337" lon="82.9021829"/>
+  <node id="8903947640" lat="25.2682069" lon="82.8947854"/>
+  <node id="8903947641" lat="25.2692838" lon="82.8921072"/>
+  <node id="8903947642" lat="25.2707840" lon="82.8870553"/>
+  <node id="8903947643" lat="25.2709126" lon="82.8869158"/>
+  <node id="8903947644" lat="25.2731550" lon="82.8780940"/>
+  <node id="8903947645" lat="25.2731089" lon="82.8779452"/>
+  <node id="8903994195" lat="25.2471802" lon="82.9753053"/>
+  <node id="8903994196" lat="25.2476581" lon="82.9702547"/>
+  <node id="8903994197" lat="25.2488638" lon="82.9481775"/>
+  <node id="8903994198" lat="25.2488881" lon="82.9464072"/>
+  <node id="8903994200" lat="25.2516828" lon="82.9266956"/>
+  <node id="11199400625" lat="25.2671364" lon="83.1539995"/>
+  <node id="11199402976" lat="25.2642642" lon="83.1457464"/>
+  <node id="11240935186" lat="25.2523204" lon="83.0846246"/>
+  <node id="11274419801" lat="25.2465548" lon="82.9828938"/>
+  <way id="26659609">
+    <nd ref="292408378"/>
+    <nd ref="8091014107"/>
+    <nd ref="292408377"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway - Vishwa Sundari Bridge"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659625">
+    <nd ref="292408774"/>
+    <nd ref="292408474"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway - Vishwa Sundari Bridge"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659655">
+    <nd ref="292409010"/>
+    <nd ref="292409558"/>
+    <nd ref="292436224"/>
+    <nd ref="8814783629"/>
+    <nd ref="292408378"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659667">
+    <nd ref="292408474"/>
+    <nd ref="292436273"/>
+    <nd ref="292409300"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659670">
+    <nd ref="292409300"/>
+    <nd ref="292409309"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659672">
+    <nd ref="292409341"/>
+    <nd ref="292409010"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659677">
+    <nd ref="292435897"/>
+    <nd ref="292436157"/>
+    <nd ref="292435870"/>
+    <nd ref="8814686172"/>
+    <nd ref="292436158"/>
+    <nd ref="534863711"/>
+    <nd ref="292609409"/>
+    <nd ref="292436159"/>
+    <nd ref="534863715"/>
+    <nd ref="292435873"/>
+    <nd ref="292435874"/>
+    <nd ref="292435875"/>
+    <nd ref="292436160"/>
+    <nd ref="292612838"/>
+    <nd ref="292608248"/>
+    <nd ref="292607894"/>
+    <nd ref="292435878"/>
+    <nd ref="7049423910"/>
+    <nd ref="292435879"/>
+    <nd ref="292436156"/>
+    <nd ref="8814686162"/>
+    <nd ref="8814686173"/>
+    <nd ref="8814686163"/>
+    <nd ref="292409448"/>
+    <nd ref="1016166209"/>
+    <nd ref="292409447"/>
+    <nd ref="292409446"/>
+    <nd ref="292409445"/>
+    <nd ref="292434311"/>
+    <nd ref="292409574"/>
+    <nd ref="292434312"/>
+    <nd ref="534863717"/>
+    <nd ref="292409572"/>
+    <nd ref="292409571"/>
+    <nd ref="292409341"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26659704">
+    <nd ref="292409309"/>
+    <nd ref="292409767"/>
+    <nd ref="292434281"/>
+    <nd ref="292434282"/>
+    <nd ref="292409770"/>
+    <nd ref="292434283"/>
+    <nd ref="292409772"/>
+    <nd ref="292409773"/>
+    <nd ref="292434284"/>
+    <nd ref="292434285"/>
+    <nd ref="292409776"/>
+    <nd ref="292436291"/>
+    <nd ref="292434286"/>
+    <nd ref="292409778"/>
+    <nd ref="292436289"/>
+    <nd ref="292436290"/>
+    <nd ref="292409779"/>
+    <nd ref="292435861"/>
+    <nd ref="292435862"/>
+    <nd ref="292612839"/>
+    <nd ref="292608249"/>
+    <nd ref="292612837"/>
+    <nd ref="292435866"/>
+    <nd ref="292435867"/>
+    <nd ref="292435748"/>
+    <nd ref="534863716"/>
+    <nd ref="292435749"/>
+    <nd ref="534863714"/>
+    <nd ref="292435750"/>
+    <nd ref="534863709"/>
+    <nd ref="534863710"/>
+    <nd ref="292435751"/>
+    <nd ref="292435752"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662237">
+    <nd ref="292435752"/>
+    <nd ref="11240935186"/>
+    <nd ref="292435765"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662238">
+    <nd ref="292435765"/>
+    <nd ref="292435772"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662240">
+    <nd ref="292435772"/>
+    <nd ref="292435783"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662245">
+    <nd ref="292435783"/>
+    <nd ref="7049414580"/>
+    <nd ref="292435963"/>
+    <nd ref="292435822"/>
+    <nd ref="1016166116"/>
+    <nd ref="292435882"/>
+    <nd ref="292435824"/>
+    <nd ref="292435964"/>
+    <nd ref="292435826"/>
+    <nd ref="534863706"/>
+    <nd ref="318418620"/>
+    <nd ref="292435965"/>
+    <nd ref="292435829"/>
+    <nd ref="1016166591"/>
+    <nd ref="534863704"/>
+    <nd ref="292435886"/>
+    <nd ref="1016166917"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662249">
+    <nd ref="292435899"/>
+    <nd ref="292435897"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662250">
+    <nd ref="292435901"/>
+    <nd ref="292435899"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26662251">
+    <nd ref="292435948"/>
+    <nd ref="292435901"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26683971">
+    <nd ref="292650400"/>
+    <nd ref="3285430932"/>
+    <nd ref="292650399"/>
+    <nd ref="292647191"/>
+    <nd ref="8811079867"/>
+    <nd ref="292650398"/>
+    <nd ref="8811079879"/>
+    <nd ref="8811079880"/>
+    <nd ref="8811079884"/>
+    <nd ref="8814464708"/>
+    <nd ref="292647188"/>
+    <nd ref="292647187"/>
+    <nd ref="292650606"/>
+    <nd ref="292647186"/>
+    <nd ref="3660362705"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="3"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="26684493">
+    <nd ref="292650137"/>
+    <nd ref="8119340214"/>
+    <nd ref="292650643"/>
+    <nd ref="8903947626"/>
+    <nd ref="292650482"/>
+    <nd ref="8903947629"/>
+    <nd ref="292650134"/>
+    <nd ref="8903947630"/>
+    <nd ref="292650133"/>
+    <nd ref="292650480"/>
+    <nd ref="8903947632"/>
+    <nd ref="8903947631"/>
+    <nd ref="292650478"/>
+    <nd ref="292650475"/>
+    <nd ref="292650474"/>
+    <nd ref="292650473"/>
+    <nd ref="8819547771"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684614">
+    <nd ref="292650462"/>
+    <nd ref="292650667"/>
+    <nd ref="292650639"/>
+    <nd ref="292650112"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684625">
+    <nd ref="292650028"/>
+    <nd ref="8903947644"/>
+    <nd ref="292648492"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684725">
+    <nd ref="292648492"/>
+    <nd ref="292648491"/>
+    <nd ref="292650421"/>
+    <nd ref="292650420"/>
+    <nd ref="292654679"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684726">
+    <nd ref="292654679"/>
+    <nd ref="292654671"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684729">
+    <nd ref="292650148"/>
+    <nd ref="6972725731"/>
+    <nd ref="292650489"/>
+    <nd ref="8903994198"/>
+    <nd ref="292650145"/>
+    <nd ref="292650488"/>
+    <nd ref="8119340203"/>
+    <nd ref="292650143"/>
+    <nd ref="292650487"/>
+    <nd ref="292656812"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684735">
+    <nd ref="292654659"/>
+    <nd ref="292650462"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684914">
+    <nd ref="292657197"/>
+    <nd ref="292656771"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26684942">
+    <nd ref="292654671"/>
+    <nd ref="292648489"/>
+    <nd ref="8903947643"/>
+    <nd ref="292648488"/>
+    <nd ref="292650419"/>
+    <nd ref="295316326"/>
+    <nd ref="292650023"/>
+    <nd ref="8903947641"/>
+    <nd ref="292648484"/>
+    <nd ref="292648483"/>
+    <nd ref="8903947640"/>
+    <nd ref="292648482"/>
+    <nd ref="292650616"/>
+    <nd ref="292650417"/>
+    <nd ref="292648479"/>
+    <nd ref="8903947639"/>
+    <nd ref="292650614"/>
+    <nd ref="8903947637"/>
+    <nd ref="292650019"/>
+    <nd ref="8903947636"/>
+    <nd ref="8819547769"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26685077">
+    <nd ref="292650404"/>
+    <nd ref="6972725718"/>
+    <nd ref="6972725719"/>
+    <nd ref="292657119"/>
+    <nd ref="292648448"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="26685081">
+    <nd ref="292650149"/>
+    <nd ref="8119340231"/>
+    <nd ref="6972725720"/>
+    <nd ref="8119340235"/>
+    <nd ref="292650148"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="26687206">
+    <nd ref="292648433"/>
+    <nd ref="292650400"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26687207">
+    <nd ref="292408377"/>
+    <nd ref="7049423921"/>
+    <nd ref="8837430444"/>
+    <nd ref="3660362706"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26687210">
+    <nd ref="292650500"/>
+    <nd ref="292650729"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26762413">
+    <nd ref="292656812"/>
+    <nd ref="292656817"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="26839752">
+    <nd ref="292650729"/>
+    <nd ref="292650162"/>
+    <nd ref="8874455652"/>
+    <nd ref="8874455637"/>
+    <nd ref="292650647"/>
+    <nd ref="8874247538"/>
+    <nd ref="292650670"/>
+    <nd ref="292650159"/>
+    <nd ref="8874261750"/>
+    <nd ref="292650669"/>
+    <nd ref="11274419801"/>
+    <nd ref="6972725754"/>
+    <nd ref="8119340241"/>
+    <nd ref="8119340242"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="27123729">
+    <nd ref="8119340240"/>
+    <nd ref="8831049482"/>
+    <nd ref="292650001"/>
+    <nd ref="292650607"/>
+    <nd ref="292649999"/>
+    <nd ref="292648436"/>
+    <nd ref="292648435"/>
+    <nd ref="292649998"/>
+    <nd ref="292648433"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="42775284">
+    <nd ref="292656771"/>
+    <nd ref="292648460"/>
+    <nd ref="292650610"/>
+    <nd ref="6972725739"/>
+    <nd ref="292648457"/>
+    <nd ref="292650408"/>
+    <nd ref="292650609"/>
+    <nd ref="8903994197"/>
+    <nd ref="292657743"/>
+    <nd ref="292650404"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42776061">
+    <nd ref="292650112"/>
+    <nd ref="8903947645"/>
+    <nd ref="292650727"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777060">
+    <nd ref="292435959"/>
+    <nd ref="292436005"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777061">
+    <nd ref="292436005"/>
+    <nd ref="11199400625"/>
+    <nd ref="292435957"/>
+    <nd ref="534876767"/>
+    <nd ref="292435956"/>
+    <nd ref="11199402976"/>
+    <nd ref="7049414539"/>
+    <nd ref="292435955"/>
+    <nd ref="292435954"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777062">
+    <nd ref="292435890"/>
+    <nd ref="292435838"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777063">
+    <nd ref="292435838"/>
+    <nd ref="534863696"/>
+    <nd ref="292435839"/>
+    <nd ref="1016166535"/>
+    <nd ref="534863698"/>
+    <nd ref="292435841"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777064">
+    <nd ref="534863701"/>
+    <nd ref="292435888"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777065">
+    <nd ref="292435888"/>
+    <nd ref="292435834"/>
+    <nd ref="534863699"/>
+    <nd ref="534876766"/>
+    <nd ref="534863702"/>
+    <nd ref="292435890"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777066">
+    <nd ref="292435954"/>
+    <nd ref="534863700"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777067">
+    <nd ref="534863700"/>
+    <nd ref="7049414548"/>
+    <nd ref="7049414552"/>
+    <nd ref="1016166200"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777069">
+    <nd ref="1016166917"/>
+    <nd ref="7049414546"/>
+    <nd ref="7049414547"/>
+    <nd ref="534863701"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42777071">
+    <nd ref="1016166200"/>
+    <nd ref="318426525"/>
+    <nd ref="534863703"/>
+    <nd ref="1016166184"/>
+    <nd ref="292435920"/>
+    <nd ref="292435919"/>
+    <nd ref="1335982819"/>
+    <nd ref="318418734"/>
+    <nd ref="534863705"/>
+    <nd ref="292435917"/>
+    <nd ref="534863707"/>
+    <nd ref="292435951"/>
+    <nd ref="292435915"/>
+    <nd ref="534863708"/>
+    <nd ref="292435914"/>
+    <nd ref="318429230"/>
+    <nd ref="4672017545"/>
+    <nd ref="292436007"/>
+    <nd ref="7049414581"/>
+    <nd ref="292435948"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42778263">
+    <nd ref="534876876"/>
+    <nd ref="534876874"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42778264">
+    <nd ref="534876874"/>
+    <nd ref="534863697"/>
+    <nd ref="1016166568"/>
+    <nd ref="292435960"/>
+    <nd ref="534876763"/>
+    <nd ref="292435959"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="42778265">
+    <nd ref="292435841"/>
+    <nd ref="534876875"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="361582589">
+    <nd ref="3660362705"/>
+    <nd ref="3660362707"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="361582590">
+    <nd ref="3660362707"/>
+    <nd ref="8837430445"/>
+    <nd ref="292408774"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="361582591">
+    <nd ref="3660362706"/>
+    <nd ref="3660362704"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="361582592">
+    <nd ref="3660362704"/>
+    <nd ref="292650652"/>
+    <nd ref="8791942127"/>
+    <nd ref="8061554687"/>
+    <nd ref="8791942126"/>
+    <nd ref="292650510"/>
+    <nd ref="292650714"/>
+    <nd ref="8874183091"/>
+    <nd ref="292650506"/>
+    <nd ref="8874183097"/>
+    <nd ref="292650673"/>
+    <nd ref="292650672"/>
+    <nd ref="8874694879"/>
+    <nd ref="297587448"/>
+    <nd ref="292650500"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="3"/>
+    <tag k="motorroad" v="no"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="871709255">
+    <nd ref="8119340216"/>
+    <nd ref="8903994200"/>
+    <nd ref="292650611"/>
+    <nd ref="292650012"/>
+    <nd ref="8119340199"/>
+    <nd ref="292650410"/>
+    <nd ref="292648462"/>
+    <nd ref="292657197"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="871709256">
+    <nd ref="292648467"/>
+    <nd ref="8119340216"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="871709257">
+    <nd ref="292656817"/>
+    <nd ref="292650141"/>
+    <nd ref="292650140"/>
+    <nd ref="8119340206"/>
+    <nd ref="8119340217"/>
+    <nd ref="292650138"/>
+    <nd ref="8119340215"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="871709258">
+    <nd ref="8119340215"/>
+    <nd ref="292650137"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="871709262">
+    <nd ref="8119340242"/>
+    <nd ref="292650492"/>
+    <nd ref="292650155"/>
+    <nd ref="8903994195"/>
+    <nd ref="292650154"/>
+    <nd ref="292650491"/>
+    <nd ref="292650152"/>
+    <nd ref="292650151"/>
+    <nd ref="292650150"/>
+    <nd ref="292650149"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="871709263">
+    <nd ref="292648448"/>
+    <nd ref="6972725722"/>
+    <nd ref="292657900"/>
+    <nd ref="292650005"/>
+    <nd ref="292648444"/>
+    <nd ref="292650403"/>
+    <nd ref="8903994196"/>
+    <nd ref="292650002"/>
+    <nd ref="292648441"/>
+    <nd ref="8119340240"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="952857574">
+    <nd ref="8819547768"/>
+    <nd ref="292650655"/>
+    <nd ref="292650017"/>
+    <nd ref="292648474"/>
+    <nd ref="8903947635"/>
+    <nd ref="292650016"/>
+    <nd ref="8903947634"/>
+    <nd ref="8903947633"/>
+    <nd ref="292650015"/>
+    <nd ref="292650413"/>
+    <nd ref="292648470"/>
+    <nd ref="8903947628"/>
+    <nd ref="292648469"/>
+    <nd ref="8903947627"/>
+    <nd ref="8903947625"/>
+    <nd ref="292648468"/>
+    <nd ref="8119340213"/>
+    <nd ref="292648467"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="952857575">
+    <nd ref="8819547769"/>
+    <nd ref="8819547768"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="952857576">
+    <nd ref="8819547770"/>
+    <nd ref="8903947638"/>
+    <nd ref="292650642"/>
+    <nd ref="292650126"/>
+    <nd ref="292650712"/>
+    <nd ref="292650124"/>
+    <nd ref="292650123"/>
+    <nd ref="292650470"/>
+    <nd ref="292650121"/>
+    <nd ref="292650120"/>
+    <nd ref="292650469"/>
+    <nd ref="8119340229"/>
+    <nd ref="292650467"/>
+    <nd ref="292650117"/>
+    <nd ref="8903947642"/>
+    <nd ref="292650465"/>
+    <nd ref="292654659"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <way id="952857577">
+    <nd ref="8819547771"/>
+    <nd ref="8819547770"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH19"/>
+    <tag k="ref:old" v="NH2"/>
+  </way>
+  <relation id="1260550">
+    <member type="way" ref="42778263" role=""/>
+    <member type="way" ref="42778264" role=""/>
+    <member type="way" ref="42777060" role=""/>
+    <member type="way" ref="42777061" role=""/>
+    <member type="way" ref="42777066" role=""/>
+    <member type="way" ref="42777067" role=""/>
+    <member type="way" ref="42777071" role=""/>
+    <member type="way" ref="26662251" role=""/>
+    <member type="way" ref="26662250" role=""/>
+    <member type="way" ref="26662249" role=""/>
+    <member type="way" ref="26659677" role=""/>
+    <member type="way" ref="26659672" role=""/>
+    <member type="way" ref="26659655" role=""/>
+    <member type="way" ref="26659609" role=""/>
+    <member type="way" ref="26687207" role=""/>
+    <member type="way" ref="361582591" role=""/>
+    <member type="way" ref="361582592" role=""/>
+    <member type="way" ref="26687210" role=""/>
+    <member type="way" ref="26839752" role=""/>
+    <member type="way" ref="871709262" role=""/>
+    <member type="way" ref="26685081" role=""/>
+    <member type="way" ref="26684729" role=""/>
+    <member type="way" ref="26762413" role=""/>
+    <member type="way" ref="871709257" role=""/>
+    <member type="way" ref="871709258" role=""/>
+    <member type="way" ref="26684493" role=""/>
+    <member type="way" ref="952857577" role=""/>
+    <member type="way" ref="952857576" role=""/>
+    <member type="way" ref="26684735" role=""/>
+    <member type="way" ref="26684614" role=""/>
+    <member type="way" ref="42776061" role=""/>
+    <member type="way" ref="42778265" role=""/>
+    <member type="way" ref="42777063" role=""/>
+    <member type="way" ref="42777062" role=""/>
+    <member type="way" ref="42777065" role=""/>
+    <member type="way" ref="42777064" role=""/>
+    <member type="way" ref="42777069" role=""/>
+    <member type="way" ref="26662245" role=""/>
+    <member type="way" ref="26662240" role=""/>
+    <member type="way" ref="26662238" role=""/>
+    <member type="way" ref="26662237" role=""/>
+    <member type="way" ref="26659704" role=""/>
+    <member type="way" ref="26659670" role=""/>
+    <member type="way" ref="26659667" role=""/>
+    <member type="way" ref="26659625" role=""/>
+    <member type="way" ref="361582590" role=""/>
+    <member type="way" ref="361582589" role=""/>
+    <member type="way" ref="26683971" role=""/>
+    <member type="way" ref="26687206" role=""/>
+    <member type="way" ref="27123729" role=""/>
+    <member type="way" ref="871709263" role=""/>
+    <member type="way" ref="26685077" role=""/>
+    <member type="way" ref="42775284" role=""/>
+    <member type="way" ref="26684914" role=""/>
+    <member type="way" ref="871709255" role=""/>
+    <member type="way" ref="871709256" role=""/>
+    <member type="way" ref="952857574" role=""/>
+    <member type="way" ref="952857575" role=""/>
+    <member type="way" ref="26684942" role=""/>
+    <member type="way" ref="26684726" role=""/>
+    <member type="way" ref="26684725" role=""/>
+    <member type="way" ref="26684625" role=""/>
+    <tag k="name" v="Varanasi Bypass Expressway"/>
+    <tag k="network" v="IN:NE"/>
+    <tag k="ref" v="NH2"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+  </relation>
+
+</osm>

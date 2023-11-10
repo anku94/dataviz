@@ -1,0 +1,2080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="249077809" lat="28.4690552" lon="77.0576899">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="249077810" lat="28.4792124" lon="77.0703931">
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="266370978" lat="28.4661718" lon="77.0553995"/>
+  <node id="266371032" lat="28.4680449" lon="77.0566347"/>
+  <node id="266376018" lat="28.4482482" lon="77.0383288">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 12"/>
+    <tag k="ref" v="12"/>
+  </node>
+  <node id="266376019" lat="28.4468549" lon="77.0370010"/>
+  <node id="266376020" lat="28.4463507" lon="77.0363066"/>
+  <node id="266376021" lat="28.4459403" lon="77.0354129"/>
+  <node id="266376022" lat="28.4457392" lon="77.0345211"/>
+  <node id="266376023" lat="28.4456728" lon="77.0336043"/>
+  <node id="266376024" lat="28.4459707" lon="77.0319248"/>
+  <node id="266376025" lat="28.4464414" lon="77.0304350"/>
+  <node id="266689771" lat="28.4470991" lon="77.0194389"/>
+  <node id="266689772" lat="28.4481636" lon="77.0211405"/>
+  <node id="266689773" lat="28.4484105" lon="77.0231107"/>
+  <node id="266726154" lat="28.4772077" lon="77.0682936"/>
+  <node id="266726159" lat="28.4661247" lon="77.0555826"/>
+  <node id="266727648" lat="28.4689204" lon="77.0577889"/>
+  <node id="266729958" lat="28.4790506" lon="77.0705331"/>
+  <node id="266732310" lat="28.4676273" lon="77.0565463"/>
+  <node id="266773900" lat="28.4484593" lon="77.0387561">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 8"/>
+    <tag k="ref" v="8"/>
+  </node>
+  <node id="266773981" lat="28.4475247" lon="77.0379073">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 10"/>
+    <tag k="ref" v="10"/>
+  </node>
+  <node id="267300632" lat="28.4441572" lon="77.0169570"/>
+  <node id="268428566" lat="28.4440518" lon="77.0171246"/>
+  <node id="268428567" lat="28.4469824" lon="77.0196084"/>
+  <node id="268428579" lat="28.4479818" lon="77.0212039"/>
+  <node id="268428581" lat="28.4482341" lon="77.0231285"/>
+  <node id="268428582" lat="28.4462511" lon="77.0304052"/>
+  <node id="268428583" lat="28.4458158" lon="77.0318747"/>
+  <node id="268428584" lat="28.4455077" lon="77.0335974"/>
+  <node id="268428585" lat="28.4455612" lon="77.0345323"/>
+  <node id="268428586" lat="28.4457711" lon="77.0354817"/>
+  <node id="268428587" lat="28.4462084" lon="77.0363937"/>
+  <node id="268428588" lat="28.4466957" lon="77.0370653"/>
+  <node id="268432063" lat="28.4925302" lon="77.0834698"/>
+  <node id="268432069" lat="28.4932964" lon="77.0842347">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 4"/>
+    <tag k="ref" v="4"/>
+  </node>
+  <node id="268905715" lat="28.4556545" lon="77.0453846">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 13"/>
+    <tag k="ref" v="13"/>
+  </node>
+  <node id="268905716" lat="28.4547723" lon="77.0447524">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 9"/>
+    <tag k="ref" v="9"/>
+  </node>
+  <node id="268905717" lat="28.4570690" lon="77.0467425">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 15"/>
+    <tag k="ref" v="15"/>
+  </node>
+  <node id="268905721" lat="28.4565260" lon="77.0464538">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 7"/>
+    <tag k="ref" v="7"/>
+  </node>
+  <node id="268905722" lat="28.4654168" lon="77.0547013">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 16"/>
+    <tag k="ref" v="16"/>
+  </node>
+  <node id="268905725" lat="28.4623706" lon="77.0517929">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 14"/>
+    <tag k="ref" v="14"/>
+  </node>
+  <node id="268919702" lat="28.4616321" lon="77.0513663">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 8"/>
+    <tag k="ref" v="8"/>
+  </node>
+  <node id="269101499" lat="28.4489512" lon="77.0389655">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit"/>
+  </node>
+  <node id="270624144" lat="28.4322431" lon="77.0072250">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="270624146" lat="28.4161650" lon="76.9957876"/>
+  <node id="270624150" lat="28.4242405" lon="77.0002767"/>
+  <node id="270624151" lat="28.4103672" lon="76.9926526"/>
+  <node id="271335253" lat="28.4241155" lon="77.0003581"/>
+  <node id="271335256" lat="28.4161257" lon="76.9958919"/>
+  <node id="271373846" lat="28.5009646" lon="77.0914509"/>
+  <node id="271373847" lat="28.5037188" lon="77.0937246"/>
+  <node id="271373848" lat="28.5049192" lon="77.0946721"/>
+  <node id="271373849" lat="28.5055032" lon="77.0949328"/>
+  <node id="271373850" lat="28.5063164" lon="77.0951266"/>
+  <node id="271373851" lat="28.5071285" lon="77.0951501"/>
+  <node id="271373854" lat="28.5093291" lon="77.0943803"/>
+  <node id="271373855" lat="28.5114929" lon="77.0933576"/>
+  <node id="271373856" lat="28.5120805" lon="77.0931800"/>
+  <node id="271373859" lat="28.5128083" lon="77.0931331"/>
+  <node id="271373866" lat="28.5134639" lon="77.0932013"/>
+  <node id="271373887" lat="28.5317862" lon="77.1052360"/>
+  <node id="271373900" lat="28.5326775" lon="77.1062475"/>
+  <node id="271373902" lat="28.5339631" lon="77.1087381"/>
+  <node id="271373903" lat="28.5377480" lon="77.1157396"/>
+  <node id="271373906" lat="28.5384174" lon="77.1163211"/>
+  <node id="271373907" lat="28.5432203" lon="77.1186293">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="271373909" lat="28.5512118" lon="77.1298372"/>
+  <node id="271373910" lat="28.5525496" lon="77.1312522"/>
+  <node id="271373914" lat="28.5721284" lon="77.1369191"/>
+  <node id="273278114" lat="28.5487072" lon="77.1266743">
+    <tag k="exit_name" v="Exit 2"/>
+    <tag k="exit_nr" v="2"/>
+  </node>
+  <node id="273456783" lat="28.5014407" lon="77.0915686"/>
+  <node id="273456785" lat="28.5050507" lon="77.0944849"/>
+  <node id="273456786" lat="28.5057091" lon="77.0947891"/>
+  <node id="273456787" lat="28.5065492" lon="77.0949544"/>
+  <node id="273456791" lat="28.5117375" lon="77.0926756"/>
+  <node id="273456792" lat="28.5125688" lon="77.0925464"/>
+  <node id="273456793" lat="28.5134896" lon="77.0928583"/>
+  <node id="273456794" lat="28.5161107" lon="77.0944016"/>
+  <node id="273456795" lat="28.5318675" lon="77.1050801"/>
+  <node id="273456796" lat="28.5328238" lon="77.1061325">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="273456798" lat="28.5378529" lon="77.1156090"/>
+  <node id="273456800" lat="28.5412675" lon="77.1174383"/>
+  <node id="273456805" lat="28.5521740" lon="77.1307162"/>
+  <node id="273456807" lat="28.5528532" lon="77.1312580"/>
+  <node id="273456811" lat="28.5690980" lon="77.1341560"/>
+  <node id="273456818" lat="28.4711660" lon="77.0603605"/>
+  <node id="273456822" lat="28.4647531" lon="77.0543743">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Entry 6"/>
+    <tag k="ref" v="6"/>
+  </node>
+  <node id="274493115" lat="28.4029952" lon="76.9887801"/>
+  <node id="274498021" lat="28.3954313" lon="76.9820455">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="Expressway Toll"/>
+  </node>
+  <node id="277419818" lat="28.5853280" lon="77.1463923"/>
+  <node id="277419819" lat="28.5856180" lon="77.1464877">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="278163561" lat="28.5748295" lon="77.1419618"/>
+  <node id="278163564" lat="28.5736800" lon="77.1391905"/>
+  <node id="278163568" lat="28.5759310" lon="77.1434319"/>
+  <node id="278163572" lat="28.5752531" lon="77.1426765"/>
+  <node id="278163583" lat="28.5732042" lon="77.1383852">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="278163614" lat="28.5782361" lon="77.1444575"/>
+  <node id="278163620" lat="28.5764170" lon="77.1437453"/>
+  <node id="278163624" lat="28.5772547" lon="77.1440697"/>
+  <node id="278163628" lat="28.5722695" lon="77.1368231"/>
+  <node id="278163635" lat="28.5709222" lon="77.1349805"/>
+  <node id="278163637" lat="28.5714493" lon="77.1355899"/>
+  <node id="278163639" lat="28.5699231" lon="77.1343554"/>
+  <node id="278163646" lat="28.5704259" lon="77.1346099"/>
+  <node id="278163666" lat="28.5599077" lon="77.1335482"/>
+  <node id="278165407" lat="28.5257169" lon="77.1010943"/>
+  <node id="278166417" lat="28.3957384" lon="76.9816985">
+    <tag k="barrier" v="toll_booth"/>
+  </node>
+  <node id="278166424" lat="28.3980063" lon="76.9842093"/>
+  <node id="278166428" lat="28.4022155" lon="76.9881776"/>
+  <node id="278166434" lat="28.3966993" lon="76.9827235"/>
+  <node id="278166436" lat="28.3964489" lon="76.9829408"/>
+  <node id="278166490" lat="28.3969379" lon="76.9829768"/>
+  <node id="278166509" lat="28.4322890" lon="77.0070419"/>
+  <node id="278166531" lat="28.4400393" lon="77.0135455">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="278166579" lat="28.4475048" lon="77.0266108"/>
+  <node id="282003006" lat="28.4685262" lon="77.0573109"/>
+  <node id="282003018" lat="28.5177011" lon="77.0956637"/>
+  <node id="282003023" lat="28.5258021" lon="77.1009333"/>
+  <node id="282281939" lat="28.4474963" lon="77.0259341"/>
+  <node id="282281943" lat="28.5177706" lon="77.0954984"/>
+  <node id="316065941" lat="28.4657675" lon="77.0550663"/>
+  <node id="316065942" lat="28.4656727" lon="77.0552046"/>
+  <node id="316065943" lat="28.4685791" lon="77.0571170"/>
+  <node id="316065947" lat="28.4680685" lon="77.0568858"/>
+  <node id="316065978" lat="28.5038412" lon="77.0935909"/>
+  <node id="316065979" lat="28.5069730" lon="77.0949661"/>
+  <node id="316065980" lat="28.5146121" lon="77.0934430"/>
+  <node id="316065982" lat="28.5140924" lon="77.0931356"/>
+  <node id="316065983" lat="28.5140133" lon="77.0933672"/>
+  <node id="316065984" lat="28.5120708" lon="77.0926238"/>
+  <node id="316065985" lat="28.5109107" lon="77.0929719"/>
+  <node id="316065986" lat="28.5106374" lon="77.0937323"/>
+  <node id="316065987" lat="28.5166825" lon="77.0947733"/>
+  <node id="316065988" lat="28.5165529" lon="77.0949369"/>
+  <node id="316065994" lat="28.5289635" lon="77.1030949"/>
+  <node id="316065995" lat="28.5297156" lon="77.1037996"/>
+  <node id="316065996" lat="28.5304635" lon="77.1042824"/>
+  <node id="316065997" lat="28.5312705" lon="77.1046772"/>
+  <node id="316065998" lat="28.5311626" lon="77.1047894"/>
+  <node id="316066003" lat="28.5555975" lon="77.1322919"/>
+  <node id="316066007" lat="28.5555047" lon="77.1324774"/>
+  <node id="316066008" lat="28.5459126" lon="77.1230266"/>
+  <node id="316066012" lat="28.5385032" lon="77.1161287"/>
+  <node id="316066013" lat="28.5359376" lon="77.1125741"/>
+  <node id="316066018" lat="28.5341175" lon="77.1086995"/>
+  <node id="316066019" lat="28.5360431" lon="77.1125237"/>
+  <node id="316066020" lat="28.5597594" lon="77.1337496"/>
+  <node id="316066021" lat="28.5686738" lon="77.1342851"/>
+  <node id="316066022" lat="28.5713008" lon="77.1356399"/>
+  <node id="316066023" lat="28.5706014" lon="77.1349308"/>
+  <node id="316066024" lat="28.5701668" lon="77.1346583"/>
+  <node id="316066026" lat="28.5697747" lon="77.1344858"/>
+  <node id="316066029" lat="28.5730697" lon="77.1386057"/>
+  <node id="316066030" lat="28.5737627" lon="77.1400181"/>
+  <node id="316066031" lat="28.5745116" lon="77.1418623"/>
+  <node id="316066032" lat="28.5749946" lon="77.1428133"/>
+  <node id="316066033" lat="28.5757763" lon="77.1435694"/>
+  <node id="316066034" lat="28.5763115" lon="77.1439011"/>
+  <node id="316066035" lat="28.5771910" lon="77.1442360"/>
+  <node id="316066036" lat="28.5782075" lon="77.1446173"/>
+  <node id="316066037" lat="28.5848289" lon="77.1463985"/>
+  <node id="316066049" lat="28.5848616" lon="77.1462323"/>
+  <node id="316066066" lat="28.5849906" lon="77.1464998"/>
+  <node id="316066079" lat="28.5866695" lon="77.1483397"/>
+  <node id="320917694" lat="28.4215269" lon="76.9986878"/>
+  <node id="320917695" lat="28.4214371" lon="76.9987947"/>
+  <node id="320917698" lat="28.4190939" lon="76.9974354"/>
+  <node id="320917702" lat="28.4190264" lon="76.9975153"/>
+  <node id="320917706" lat="28.4153747" lon="76.9954734"/>
+  <node id="320917710" lat="28.4148735" lon="76.9951010"/>
+  <node id="320917713" lat="28.4148312" lon="76.9951820"/>
+  <node id="320917717" lat="28.4125159" lon="76.9937878"/>
+  <node id="320917721" lat="28.4124380" lon="76.9938931"/>
+  <node id="320917725" lat="28.4102943" lon="76.9927473"/>
+  <node id="320917729" lat="28.4066425" lon="76.9906131"/>
+  <node id="320917733" lat="28.4065953" lon="76.9907335"/>
+  <node id="320917739" lat="28.4046330" lon="76.9895198"/>
+  <node id="320917743" lat="28.4045375" lon="76.9896180"/>
+  <node id="320917747" lat="28.4021435" lon="76.9882762"/>
+  <node id="320917752" lat="28.4000436" lon="76.9863570"/>
+  <node id="320917755" lat="28.4015566" lon="76.9878082"/>
+  <node id="320917759" lat="28.4001599" lon="76.9862824"/>
+  <node id="320917763" lat="28.4016212" lon="76.9877253"/>
+  <node id="320917767" lat="28.3979149" lon="76.9843002"/>
+  <node id="345576017" lat="28.5671733" lon="77.1340317">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Palam"/>
+  </node>
+  <node id="345576050" lat="28.5674180" lon="77.1342252"/>
+  <node id="345576290" lat="28.5429079" lon="77.1184423"/>
+  <node id="345576456" lat="28.5453534" lon="77.1213839"/>
+  <node id="345576474" lat="28.5544163" lon="77.1318596"/>
+  <node id="345576475" lat="28.5571605" lon="77.1328046"/>
+  <node id="345576476" lat="28.5593591" lon="77.1334407"/>
+  <node id="349908859" lat="28.5774635" lon="77.1441445"/>
+  <node id="349908860" lat="28.5775208" lon="77.1443609"/>
+  <node id="413317738" lat="28.4830282" lon="77.0743277">
+    <tag k="maxspeed" v="80"/>
+    <tag k="traffic_sign" v="maxspeed"/>
+  </node>
+  <node id="482584449" lat="28.4773622" lon="77.0681913"/>
+  <node id="483082638" lat="28.5460771" lon="77.1228798"/>
+  <node id="483082641" lat="28.5488347" lon="77.1265009"/>
+  <node id="483082646" lat="28.5439226" lon="77.1189452"/>
+  <node id="483082664" lat="28.5421884" lon="77.1178807"/>
+  <node id="483082666" lat="28.5428476" lon="77.1181718"/>
+  <node id="483082671" lat="28.5422512" lon="77.1181292"/>
+  <node id="910664766" lat="28.5745287" lon="77.1411990"/>
+  <node id="910664781" lat="28.5668393" lon="77.1341977"/>
+  <node id="910664786" lat="28.5793337" lon="77.1448999"/>
+  <node id="910664848" lat="28.5750799" lon="77.1423984"/>
+  <node id="910664849" lat="28.5716363" lon="77.1362148"/>
+  <node id="910664958" lat="28.5755678" lon="77.1430738"/>
+  <node id="910665095" lat="28.5768376" lon="77.1439115"/>
+  <node id="910665235" lat="28.5793888" lon="77.1447611"/>
+  <node id="910665335" lat="28.5747181" lon="77.1423910"/>
+  <node id="949747376" lat="28.5392885" lon="77.1165776">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="Exit 21"/>
+    <tag k="ref" v="21"/>
+  </node>
+  <node id="949747451" lat="28.5442196" lon="77.1192703"/>
+  <node id="949747531" lat="28.5445860" lon="77.1203535"/>
+  <node id="949747742" lat="28.5466282" lon="77.1240226"/>
+  <node id="949747915" lat="28.5442283" lon="77.1196330"/>
+  <node id="949747975" lat="28.5467466" lon="77.1238019"/>
+  <node id="949748127" lat="28.5451553" lon="77.1215243"/>
+  <node id="949748207" lat="28.5447731" lon="77.1201972"/>
+  <node id="1191282064" lat="28.5593047" lon="77.1336255"/>
+  <node id="1191282066" lat="28.5519081" lon="77.1306954"/>
+  <node id="1359090798" lat="28.5088565" lon="77.0946281"/>
+  <node id="1478655813" lat="28.5649670" lon="77.1338836"/>
+  <node id="1567947165" lat="28.3972588" lon="76.9836720"/>
+  <node id="1569463445" lat="28.4456506" lon="77.0350447"/>
+  <node id="1569463447" lat="28.4456027" lon="77.0327758"/>
+  <node id="1569463448" lat="28.4458440" lon="77.0351108"/>
+  <node id="1569463462" lat="28.4457522" lon="77.0328070"/>
+  <node id="1569463491" lat="28.4473657" lon="77.0200223"/>
+  <node id="1569463493" lat="28.4474656" lon="77.0198472"/>
+  <node id="1569463495" lat="28.4476207" lon="77.0204030"/>
+  <node id="1569463496" lat="28.4477234" lon="77.0202188"/>
+  <node id="1569463497" lat="28.4478314" lon="77.0207851"/>
+  <node id="1569463499" lat="28.4477997" lon="77.0248811"/>
+  <node id="1569463501" lat="28.4479938" lon="77.0206965"/>
+  <node id="1569463520" lat="28.4479719" lon="77.0249138"/>
+  <node id="1569463522" lat="28.4481226" lon="77.0216664"/>
+  <node id="1569463525" lat="28.4482129" lon="77.0221624"/>
+  <node id="1569463526" lat="28.4482499" lon="77.0226569"/>
+  <node id="1569463527" lat="28.4482514" lon="77.0239605"/>
+  <node id="1569463528" lat="28.4483271" lon="77.0216392"/>
+  <node id="1569463529" lat="28.4483865" lon="77.0220877"/>
+  <node id="1569463545" lat="28.4484423" lon="77.0226295"/>
+  <node id="1804908353" lat="28.4491718" lon="77.0394378"/>
+  <node id="1804908354" lat="28.4492880" lon="77.0392969"/>
+  <node id="1804908363" lat="28.4543780" lon="77.0443936"/>
+  <node id="1804908367" lat="28.4544764" lon="77.0442462"/>
+  <node id="1804908379" lat="28.4574825" lon="77.0473740"/>
+  <node id="1804908382" lat="28.4575879" lon="77.0472474"/>
+  <node id="1804931584" lat="28.5101155" lon="77.0933304"/>
+  <node id="1804939926" lat="28.5434473" lon="77.1185266"/>
+  <node id="1804939928" lat="28.5436205" lon="77.1189410"/>
+  <node id="1804939937" lat="28.5439686" lon="77.1192925"/>
+  <node id="1804947483" lat="28.5323208" lon="77.1057406"/>
+  <node id="1804947485" lat="28.5324541" lon="77.1056184"/>
+  <node id="1804947504" lat="28.5351795" lon="77.1107480"/>
+  <node id="1804947508" lat="28.5371692" lon="77.1149891"/>
+  <node id="1804947510" lat="28.5373033" lon="77.1148505"/>
+  <node id="1804947514" lat="28.5374372" lon="77.1154151"/>
+  <node id="1804947516" lat="28.5375760" lon="77.1152882"/>
+  <node id="1804947520" lat="28.5380523" lon="77.1160438"/>
+  <node id="1804947523" lat="28.5381544" lon="77.1158978"/>
+  <node id="1804947525" lat="28.5401213" lon="77.1171536"/>
+  <node id="1986214303" lat="28.5522115" lon="77.1310012"/>
+  <node id="1986214322" lat="28.5530435" lon="77.1315306"/>
+  <node id="1986214361" lat="28.5543550" lon="77.1320346"/>
+  <node id="1986214518" lat="28.5609346" lon="77.1338348"/>
+  <node id="1986214520" lat="28.5609381" lon="77.1336471"/>
+  <node id="1987622571" lat="28.4979880" lon="77.0886796"/>
+  <node id="1997716130" lat="28.5160338" lon="77.0945801"/>
+  <node id="2006381827" lat="28.4349257" lon="77.0096096"/>
+  <node id="2006381829" lat="28.4344236" lon="77.0090060"/>
+  <node id="2006381847" lat="28.4354639" lon="77.0100771"/>
+  <node id="2006381852" lat="28.4362515" lon="77.0107134"/>
+  <node id="2006381876" lat="28.4373731" lon="77.0117016"/>
+  <node id="2006381908" lat="28.4384437" lon="77.0125630"/>
+  <node id="2006381925" lat="28.4391755" lon="77.0130131"/>
+  <node id="2006382572" lat="28.4466140" lon="77.0192514"/>
+  <node id="2006382579" lat="28.4466740" lon="77.0190611"/>
+  <node id="2006382839" lat="28.4480861" lon="77.0238833"/>
+  <node id="2006446849" lat="28.4455202" lon="77.0340396"/>
+  <node id="2006446851" lat="28.4455428" lon="77.0331634"/>
+  <node id="2006446858" lat="28.4456868" lon="77.0331792"/>
+  <node id="2006446860" lat="28.4456885" lon="77.0340791"/>
+  <node id="2006667660" lat="28.4483631" lon="77.0235301"/>
+  <node id="2008570035" lat="28.5151935" lon="77.0940437"/>
+  <node id="2008570063" lat="28.5170002" lon="77.0952382"/>
+  <node id="2008570071" lat="28.5174817" lon="77.0953059"/>
+  <node id="2008570098" lat="28.5206079" lon="77.0976599"/>
+  <node id="2008570101" lat="28.5207004" lon="77.0974926"/>
+  <node id="2008570142" lat="28.5227666" lon="77.0990927"/>
+  <node id="2008570144" lat="28.5228533" lon="77.0989282"/>
+  <node id="2008570191" lat="28.5262830" lon="77.1014815">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="2008570228" lat="28.5272940" lon="77.1021391"/>
+  <node id="2008570234" lat="28.5273665" lon="77.1019741"/>
+  <node id="2008570246" lat="28.5276372" lon="77.1021747"/>
+  <node id="2157493660" lat="28.5516923" lon="77.1301394"/>
+  <node id="2157493662" lat="28.5682532" lon="77.1340991"/>
+  <node id="2157493664" lat="28.5510040" lon="77.1295748"/>
+  <node id="2212293924" lat="28.4839539" lon="77.0752143"/>
+  <node id="2749399539" lat="28.4688262" lon="77.0574144"/>
+  <node id="2774809989" lat="28.4807958" lon="77.0722199"/>
+  <node id="2774809992" lat="28.4808993" lon="77.0720808">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="2852623904" lat="28.5021032" lon="77.0924383"/>
+  <node id="2852623921" lat="28.5052838" lon="77.0948560"/>
+  <node id="2852623922" lat="28.5053585" lon="77.0946557"/>
+  <node id="2852623924" lat="28.5058938" lon="77.0950487"/>
+  <node id="2852623925" lat="28.5060725" lon="77.0948826"/>
+  <node id="2852623926" lat="28.5067039" lon="77.0951565"/>
+  <node id="2852623929" lat="28.5074167" lon="77.0949169"/>
+  <node id="2852623931" lat="28.5075999" lon="77.0950809"/>
+  <node id="2852623932" lat="28.5075295" lon="77.0948766"/>
+  <node id="2852623933" lat="28.5080481" lon="77.0949394"/>
+  <node id="3739919093" lat="28.5826506" lon="77.1457601"/>
+  <node id="3739919117" lat="28.5835746" lon="77.1459992"/>
+  <node id="3739919728" lat="28.5837279" lon="77.1460368"/>
+  <node id="3742399914" lat="28.5301629" lon="77.1039467"/>
+  <node id="3874503011" lat="28.4633055" lon="77.0529332"/>
+  <node id="4218606318" lat="28.5320911" lon="77.1052853"/>
+  <node id="4667726886" lat="28.5742100" lon="77.1403453"/>
+  <node id="5226716002" lat="28.5030021" lon="77.0931540"/>
+  <node id="5226716003" lat="28.5030847" lon="77.0929536"/>
+  <node id="5226716004" lat="28.5030700" lon="77.0932081"/>
+  <node id="5228465986" lat="28.4981025" lon="77.0887873"/>
+  <node id="5241116300" lat="28.5480279" lon="77.1254401"/>
+  <node id="5241116307" lat="28.5478073" lon="77.1251639"/>
+  <node id="5241116308" lat="28.5478874" lon="77.1252645"/>
+  <node id="5245779839" lat="28.4457009" lon="77.0330992"/>
+  <node id="5260804344" lat="28.4317478" lon="77.0067319">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="5260804346" lat="28.4327947" lon="77.0076061"/>
+  <node id="5260804347" lat="28.4331610" lon="77.0081473"/>
+  <node id="5260804350" lat="28.4343327" lon="77.0091437"/>
+  <node id="5260804352" lat="28.4374431" lon="77.0115604"/>
+  <node id="5736563565" lat="28.4465662" lon="77.0366436"/>
+  <node id="5736563566" lat="28.4475757" lon="77.0376913"/>
+  <node id="5736563567" lat="28.4471170" lon="77.0372669"/>
+  <node id="5736563568" lat="28.4464495" lon="77.0364853"/>
+  <node id="5736563569" lat="28.4461276" lon="77.0358658"/>
+  <node id="5736563570" lat="28.4460304" lon="77.0356638"/>
+  <node id="5736563571" lat="28.4457737" lon="77.0347671"/>
+  <node id="5736563572" lat="28.4459290" lon="77.0358828"/>
+  <node id="5736563573" lat="28.4464431" lon="77.0367417"/>
+  <node id="5736563574" lat="28.4470977" lon="77.0374924"/>
+  <node id="5740988573" lat="28.5446086" lon="77.1198902"/>
+  <node id="5740988574" lat="28.5444390" lon="77.1195737"/>
+  <node id="5740988575" lat="28.5462886" lon="77.1235648"/>
+  <node id="5740988576" lat="28.5454616" lon="77.1221781"/>
+  <node id="5830038204" lat="28.4926410" lon="77.0832714">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="5985299776" lat="28.5857430" lon="77.1471964"/>
+  <node id="5985299777" lat="28.5853885" lon="77.1468396"/>
+  <node id="6072850782" lat="28.5086188" lon="77.0947411"/>
+  <node id="6082251692" lat="28.4485442" lon="77.0385969">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="6137058988" lat="28.4146148" lon="76.9950654"/>
+  <node id="6322579355" lat="28.4737738" lon="77.0636238"/>
+  <node id="6322579360" lat="28.4745718" lon="77.0646449"/>
+  <node id="6322579364" lat="28.4736458" lon="77.0637565"/>
+  <node id="6322586062" lat="28.4733172" lon="77.0630360"/>
+  <node id="6342646625" lat="28.4719270" lon="77.0613070"/>
+  <node id="6342646627" lat="28.4723492" lon="77.0618321"/>
+  <node id="6445814678" lat="28.4795466" lon="77.0707737"/>
+  <node id="6445814679" lat="28.4781090" lon="77.0694300"/>
+  <node id="6458196873" lat="28.4947398" lon="77.0852787"/>
+  <node id="6458224773" lat="28.5089489" lon="77.0941378"/>
+  <node id="6458224774" lat="28.5082392" lon="77.0945508"/>
+  <node id="6458301151" lat="28.4752587" lon="77.0655178"/>
+  <node id="6467808184" lat="28.4710430" lon="77.0604835"/>
+  <node id="6467828986" lat="28.4732209" lon="77.0632339">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="6467828988" lat="28.4829118" lon="77.0742053"/>
+  <node id="6467828989" lat="28.4814990" lon="77.0728751"/>
+  <node id="6467828992" lat="28.4832263" lon="77.0742677">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="6467829004" lat="28.4823215" lon="77.0736370"/>
+  <node id="6467829006" lat="28.4849126" lon="77.0761371">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="6467829016" lat="28.4846144" lon="77.0756180"/>
+  <node id="6660668365" lat="28.5343519" lon="77.1091174">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="6737608229" lat="28.3966201" lon="76.9826390"/>
+  <node id="6737608246" lat="28.3965607" lon="76.9830417"/>
+  <node id="6737608248" lat="28.3964808" lon="76.9829696"/>
+  <node id="6745278576" lat="28.5352808" lon="77.1109563"/>
+  <node id="6816486042" lat="28.5656314" lon="77.1339282"/>
+  <node id="6816494851" lat="28.5523835" lon="77.1308961"/>
+  <node id="6822400108" lat="28.5656004" lon="77.1339250"/>
+  <node id="6994352199" lat="28.4980813" lon="77.0885163"/>
+  <node id="6997689003" lat="28.5845005" lon="77.1462697"/>
+  <node id="6997689022" lat="28.5865602" lon="77.1481740"/>
+  <node id="7041199911" lat="28.4836919" lon="77.0747129"/>
+  <node id="7041199916" lat="28.4457293" lon="77.0353299"/>
+  <node id="7041199917" lat="28.4458912" lon="77.0352588"/>
+  <node id="7041199919" lat="28.4613921" lon="77.0508629"/>
+  <node id="7041199920" lat="28.4612735" lon="77.0510213"/>
+  <node id="7041199921" lat="28.4661044" lon="77.0555656"/>
+  <node id="7041199922" lat="28.4661945" lon="77.0554144"/>
+  <node id="7041199924" lat="28.4713623" lon="77.0608860">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="7142083599" lat="28.4812429" lon="77.0726365"/>
+  <node id="7142088001" lat="28.4755502" lon="77.0658883"/>
+  <node id="7142088006" lat="28.4735542" lon="77.0633411"/>
+  <node id="7208184293" lat="28.5099978" lon="77.0940390"/>
+  <node id="7249102380" lat="28.5797630" lon="77.1450112"/>
+  <node id="7256524719" lat="28.4831405" lon="77.0741856">
+    <tag k="maxspeed" v="80"/>
+    <tag k="traffic_sign" v="maxspeed"/>
+  </node>
+  <node id="7256524720" lat="28.4827411" lon="77.0738218"/>
+  <node id="7610591405" lat="28.4050424" lon="76.9898916"/>
+  <node id="7610591418" lat="28.4050957" lon="76.9897712"/>
+  <node id="9591463205" lat="28.5281071" lon="77.1026865"/>
+  <node id="9714358888" lat="28.5333920" lon="77.1072600"/>
+  <node id="9714358891" lat="28.5081056" lon="77.0946121"/>
+  <node id="9768669954" lat="28.4071811" lon="76.9910524"/>
+  <node id="9791574385" lat="28.4393315" lon="77.0131446"/>
+  <node id="9792383644" lat="28.5797641" lon="77.1448620"/>
+  <node id="9794096407" lat="28.5866156" lon="77.1482579"/>
+  <node id="9825310478" lat="28.5529656" lon="77.1313244"/>
+  <node id="9825310479" lat="28.5529109" lon="77.1312969"/>
+  <node id="9869970739" lat="28.5863413" lon="77.1478571"/>
+  <node id="9903651820" lat="28.4648737" lon="77.0541828"/>
+  <node id="10151248846" lat="28.5519583" lon="77.1304955"/>
+  <node id="10183071887" lat="28.4039182" lon="76.9892862"/>
+  <node id="10990227822" lat="28.5682421" lon="77.1342558"/>
+  <node id="10990227823" lat="28.5689265" lon="77.1343080"/>
+  <node id="10990227824" lat="28.5691853" lon="77.1343354"/>
+  <node id="10990227825" lat="28.5694168" lon="77.1343782"/>
+  <node id="10990227826" lat="28.5695867" lon="77.1344212"/>
+  <node id="10990227827" lat="28.5699683" lon="77.1345608"/>
+  <node id="10990227828" lat="28.5704091" lon="77.1347994"/>
+  <node id="10990227829" lat="28.5707932" lon="77.1350903"/>
+  <node id="10990227830" lat="28.5709556" lon="77.1352418"/>
+  <node id="10990227831" lat="28.5711393" lon="77.1354392"/>
+  <node id="10990227832" lat="28.5702675" lon="77.1345181"/>
+  <node id="10990227833" lat="28.5700971" lon="77.1344295"/>
+  <node id="10990227834" lat="28.5697417" lon="77.1342907"/>
+  <node id="10990227835" lat="28.5695314" lon="77.1342320"/>
+  <node id="10990227836" lat="28.5692982" lon="77.1341827"/>
+  <node id="10990227837" lat="28.5688402" lon="77.1341297"/>
+  <node id="10990227885" lat="28.5714029" lon="77.1357959"/>
+  <node id="10990227886" lat="28.5713267" lon="77.1354133"/>
+  <node id="10990227887" lat="28.5712045" lon="77.1352680"/>
+  <node id="10990227888" lat="28.5710697" lon="77.1351249"/>
+  <node id="10990227889" lat="28.5707534" lon="77.1348326"/>
+  <node id="10990227890" lat="28.5705883" lon="77.1347183"/>
+  <node id="11138736256" lat="28.5402780" lon="77.1170080"/>
+  <node id="11156172598" lat="28.5334704" lon="77.1077837"/>
+  <node id="11156172599" lat="28.5271818" lon="77.1020661"/>
+  <node id="11285054827" lat="28.4028721" lon="76.9885649"/>
+  <node id="11285054828" lat="28.4025537" lon="76.9883918"/>
+  <node id="11285054829" lat="28.4024666" lon="76.9884861"/>
+  <way id="24973559">
+    <nd ref="316066079"/>
+    <nd ref="9794096407"/>
+    <nd ref="6997689022"/>
+    <nd ref="9869970739"/>
+    <nd ref="5985299776"/>
+    <nd ref="5985299777"/>
+    <nd ref="316066066"/>
+    <nd ref="316066037"/>
+    <nd ref="6997689003"/>
+    <nd ref="3739919728"/>
+    <nd ref="3739919117"/>
+    <nd ref="3739919093"/>
+    <nd ref="7249102380"/>
+    <nd ref="910664786"/>
+    <nd ref="316066036"/>
+    <nd ref="349908860"/>
+    <nd ref="316066035"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878292">
+    <nd ref="278166579"/>
+    <nd ref="266376025"/>
+    <nd ref="266376024"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="25878293">
+    <nd ref="266376018"/>
+    <nd ref="6082251692"/>
+    <nd ref="269101499"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="25878294">
+    <nd ref="7041199916"/>
+    <nd ref="1569463445"/>
+    <nd ref="268428585"/>
+    <nd ref="2006446849"/>
+    <nd ref="268428584"/>
+    <nd ref="2006446851"/>
+    <nd ref="1569463447"/>
+    <nd ref="268428583"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="25878299">
+    <nd ref="5260804350"/>
+    <nd ref="5260804347"/>
+    <nd ref="270624144"/>
+    <nd ref="5260804344"/>
+    <nd ref="271335253"/>
+    <nd ref="320917695"/>
+    <nd ref="320917702"/>
+    <nd ref="271335256"/>
+    <nd ref="320917706"/>
+    <nd ref="320917713"/>
+    <nd ref="6137058988"/>
+    <nd ref="320917721"/>
+    <nd ref="320917725"/>
+    <nd ref="9768669954"/>
+    <nd ref="320917733"/>
+    <nd ref="7610591405"/>
+    <nd ref="320917743"/>
+    <nd ref="10183071887"/>
+    <nd ref="274493115"/>
+    <nd ref="11285054829"/>
+    <nd ref="320917747"/>
+    <nd ref="320917755"/>
+    <nd ref="320917752"/>
+    <nd ref="320917767"/>
+    <nd ref="1567947165"/>
+    <nd ref="6737608246"/>
+    <nd ref="6737608248"/>
+    <nd ref="278166436"/>
+    <nd ref="274498021"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="25878300">
+    <nd ref="269101499"/>
+    <nd ref="1804908354"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="no"/>
+  </way>
+  <way id="25878301">
+    <nd ref="266773900"/>
+    <nd ref="266773981"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="25878303">
+    <nd ref="268905715"/>
+    <nd ref="268905717"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878304">
+    <nd ref="268905716"/>
+    <nd ref="1804908363"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878305">
+    <nd ref="268905717"/>
+    <nd ref="1804908382"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878306">
+    <nd ref="268905721"/>
+    <nd ref="268905716"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878307">
+    <nd ref="7041199920"/>
+    <nd ref="1804908379"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878308">
+    <nd ref="268905725"/>
+    <nd ref="9903651820"/>
+    <nd ref="268905722"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878311">
+    <nd ref="7041199922"/>
+    <nd ref="266371032"/>
+    <nd ref="316065943"/>
+    <nd ref="2749399539"/>
+    <nd ref="249077809"/>
+    <nd ref="273456818"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878313">
+    <nd ref="273456822"/>
+    <nd ref="3874503011"/>
+    <nd ref="268919702"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878314">
+    <nd ref="6467808184"/>
+    <nd ref="266727648"/>
+    <nd ref="282003006"/>
+    <nd ref="316065947"/>
+    <nd ref="266732310"/>
+    <nd ref="266726159"/>
+    <nd ref="7041199921"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878315">
+    <nd ref="273456818"/>
+    <nd ref="6342646625"/>
+    <nd ref="6342646627"/>
+    <nd ref="6322586062"/>
+    <nd ref="7142088006"/>
+    <nd ref="6322579355"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878316">
+    <nd ref="6322579355"/>
+    <nd ref="6322579360"/>
+    <nd ref="6458301151"/>
+    <nd ref="7142088001"/>
+    <nd ref="482584449"/>
+    <nd ref="249077810"/>
+    <nd ref="6445814678"/>
+    <nd ref="2774809992"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878318">
+    <nd ref="6467828986"/>
+    <nd ref="7041199924"/>
+    <nd ref="6467808184"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878319">
+    <nd ref="6467828992"/>
+    <nd ref="7041199911"/>
+    <nd ref="6467829016"/>
+    <nd ref="5830038204"/>
+    <nd ref="6458196873"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878320">
+    <nd ref="6467828988"/>
+    <nd ref="6467829004"/>
+    <nd ref="6467828989"/>
+    <nd ref="7142083599"/>
+    <nd ref="2774809989"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878323">
+    <nd ref="6458196873"/>
+    <nd ref="6994352199"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878325">
+    <nd ref="268432069"/>
+    <nd ref="268432063"/>
+    <nd ref="6467829006"/>
+    <nd ref="2212293924"/>
+    <nd ref="413317738"/>
+    <nd ref="6467828988"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878328">
+    <nd ref="6072850782"/>
+    <nd ref="2852623933"/>
+    <nd ref="2852623931"/>
+    <nd ref="271373851"/>
+    <nd ref="2852623926"/>
+    <nd ref="271373850"/>
+    <nd ref="2852623924"/>
+    <nd ref="271373849"/>
+    <nd ref="2852623921"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="25878331">
+    <nd ref="282281943"/>
+    <nd ref="2008570101"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="27422278">
+    <nd ref="278166417"/>
+    <nd ref="6737608229"/>
+    <nd ref="278166434"/>
+    <nd ref="278166490"/>
+    <nd ref="278166424"/>
+    <nd ref="320917759"/>
+    <nd ref="320917763"/>
+    <nd ref="278166428"/>
+    <nd ref="11285054828"/>
+    <nd ref="11285054827"/>
+    <nd ref="320917739"/>
+    <nd ref="7610591418"/>
+    <nd ref="320917729"/>
+    <nd ref="270624151"/>
+    <nd ref="320917717"/>
+    <nd ref="320917710"/>
+    <nd ref="270624146"/>
+    <nd ref="320917698"/>
+    <nd ref="320917694"/>
+    <nd ref="270624150"/>
+    <nd ref="278166509"/>
+    <nd ref="5260804346"/>
+    <nd ref="2006381829"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="28616600">
+    <nd ref="345576050"/>
+    <nd ref="910664781"/>
+    <nd ref="1986214518"/>
+    <nd ref="316066020"/>
+    <nd ref="1191282064"/>
+    <nd ref="316066007"/>
+    <nd ref="1986214361"/>
+    <nd ref="1986214322"/>
+    <nd ref="271373910"/>
+    <nd ref="1986214303"/>
+    <nd ref="1191282066"/>
+    <nd ref="271373909"/>
+    <nd ref="2157493664"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="28616601">
+    <nd ref="2157493660"/>
+    <nd ref="10151248846"/>
+    <nd ref="273456805"/>
+    <nd ref="6816494851"/>
+    <nd ref="273456807"/>
+    <nd ref="9825310479"/>
+    <nd ref="9825310478"/>
+    <nd ref="345576474"/>
+    <nd ref="316066003"/>
+    <nd ref="345576475"/>
+    <nd ref="345576476"/>
+    <nd ref="278163666"/>
+    <nd ref="1986214520"/>
+    <nd ref="1478655813"/>
+    <nd ref="6822400108"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="28616604">
+    <nd ref="11156172598"/>
+    <nd ref="271373900"/>
+    <nd ref="1804947483"/>
+    <nd ref="271373887"/>
+    <nd ref="316065998"/>
+    <nd ref="316065996"/>
+    <nd ref="316065995"/>
+    <nd ref="9591463205"/>
+    <nd ref="2008570228"/>
+    <nd ref="11156172599"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed:motorcar" v="70"/>
+    <tag k="maxspeed:trailer" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="28616605">
+    <nd ref="2008570246"/>
+    <nd ref="316065994"/>
+    <nd ref="3742399914"/>
+    <nd ref="316065997"/>
+    <nd ref="273456795"/>
+    <nd ref="4218606318"/>
+    <nd ref="1804947485"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed:motorcar" v="70"/>
+    <tag k="maxspeed:trailer" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="28616606">
+    <nd ref="282003018"/>
+    <nd ref="2008570063"/>
+    <nd ref="316065988"/>
+    <nd ref="1997716130"/>
+    <nd ref="2008570035"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31097489">
+    <nd ref="316066035"/>
+    <nd ref="316066034"/>
+    <nd ref="316066033"/>
+    <nd ref="316066032"/>
+    <nd ref="910665335"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="31097490">
+    <nd ref="278163624"/>
+    <nd ref="349908859"/>
+    <nd ref="278163614"/>
+    <nd ref="910665235"/>
+    <nd ref="9792383644"/>
+    <nd ref="316066049"/>
+    <nd ref="277419818"/>
+    <nd ref="277419819"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="40138011">
+    <nd ref="273456800"/>
+    <nd ref="483082664"/>
+    <nd ref="483082666"/>
+    <nd ref="1804939926"/>
+    <nd ref="483082646"/>
+    <nd ref="949747451"/>
+    <nd ref="5740988574"/>
+    <nd ref="5740988573"/>
+    <nd ref="949748207"/>
+    <nd ref="345576456"/>
+    <nd ref="483082638"/>
+    <nd ref="949747975"/>
+    <nd ref="5241116307"/>
+    <nd ref="5241116308"/>
+    <nd ref="5241116300"/>
+    <nd ref="483082641"/>
+    <nd ref="2157493660"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169321070">
+    <nd ref="1804908353"/>
+    <nd ref="266773900"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="169321071">
+    <nd ref="1804908354"/>
+    <nd ref="1804908367"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169321074">
+    <nd ref="1804908382"/>
+    <nd ref="7041199919"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169321075">
+    <nd ref="1804908379"/>
+    <nd ref="268905721"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169321076">
+    <nd ref="1804908363"/>
+    <nd ref="1804908353"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169321077">
+    <nd ref="1804908367"/>
+    <nd ref="268905715"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="169324593">
+    <nd ref="1804947525"/>
+    <nd ref="271373906"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="188137530">
+    <nd ref="1987622571"/>
+    <nd ref="268432069"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="188137531">
+    <nd ref="6994352199"/>
+    <nd ref="273456783"/>
+    <nd ref="5226716003"/>
+    <nd ref="316065978"/>
+    <nd ref="273456785"/>
+    <nd ref="2852623922"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="190041491">
+    <nd ref="268428583"/>
+    <nd ref="268428582"/>
+    <nd ref="282281939"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="190041492">
+    <nd ref="266376024"/>
+    <nd ref="1569463462"/>
+    <nd ref="5245779839"/>
+    <nd ref="2006446858"/>
+    <nd ref="266376023"/>
+    <nd ref="2006446860"/>
+    <nd ref="266376022"/>
+    <nd ref="5736563571"/>
+    <nd ref="1569463448"/>
+    <nd ref="7041199917"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="190261045">
+    <nd ref="316065983"/>
+    <nd ref="271373866"/>
+    <nd ref="271373859"/>
+    <nd ref="271373856"/>
+    <nd ref="271373855"/>
+    <nd ref="316065986"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="18"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="190261048">
+    <nd ref="2008570101"/>
+    <nd ref="2008570144"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="190261052">
+    <nd ref="2008570142"/>
+    <nd ref="2008570098"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="190261055">
+    <nd ref="2008570098"/>
+    <nd ref="282003018"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="190261057">
+    <nd ref="316065982"/>
+    <nd ref="316065980"/>
+    <nd ref="273456794"/>
+    <nd ref="316065987"/>
+    <nd ref="2008570071"/>
+    <nd ref="282281943"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="205771483">
+    <nd ref="2157493662"/>
+    <nd ref="10990227837"/>
+    <nd ref="273456811"/>
+    <nd ref="10990227836"/>
+    <nd ref="10990227835"/>
+    <nd ref="10990227834"/>
+    <nd ref="278163639"/>
+    <nd ref="10990227833"/>
+    <nd ref="10990227832"/>
+    <nd ref="278163646"/>
+    <nd ref="10990227890"/>
+    <nd ref="10990227889"/>
+    <nd ref="278163635"/>
+    <nd ref="10990227888"/>
+    <nd ref="10990227887"/>
+    <nd ref="10990227886"/>
+    <nd ref="278163637"/>
+    <nd ref="278163628"/>
+    <nd ref="278163583"/>
+    <nd ref="278163564"/>
+    <nd ref="4667726886"/>
+    <nd ref="910664766"/>
+    <nd ref="278163561"/>
+    <nd ref="910664848"/>
+    <nd ref="278163572"/>
+    <nd ref="910664958"/>
+    <nd ref="278163568"/>
+    <nd ref="278163620"/>
+    <nd ref="910665095"/>
+    <nd ref="278163624"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="205771485">
+    <nd ref="2157493664"/>
+    <nd ref="273278114"/>
+    <nd ref="949747742"/>
+    <nd ref="5740988575"/>
+    <nd ref="316066008"/>
+    <nd ref="5740988576"/>
+    <nd ref="949748127"/>
+    <nd ref="949747531"/>
+    <nd ref="949747915"/>
+    <nd ref="1804939937"/>
+    <nd ref="1804939928"/>
+    <nd ref="271373907"/>
+    <nd ref="345576290"/>
+    <nd ref="483082671"/>
+    <nd ref="1804947525"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="225718656">
+    <nd ref="273456792"/>
+    <nd ref="273456793"/>
+    <nd ref="316065982"/>
+    <tag k="area" v="no"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="532737436">
+    <nd ref="910664849"/>
+    <nd ref="10990227885"/>
+    <nd ref="316066022"/>
+    <nd ref="10990227831"/>
+    <nd ref="10990227830"/>
+    <nd ref="10990227829"/>
+    <nd ref="316066023"/>
+    <nd ref="10990227828"/>
+    <nd ref="316066024"/>
+    <nd ref="10990227827"/>
+    <nd ref="316066026"/>
+    <nd ref="10990227826"/>
+    <nd ref="10990227825"/>
+    <nd ref="10990227824"/>
+    <nd ref="10990227823"/>
+    <nd ref="316066021"/>
+    <nd ref="10990227822"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="532740517">
+    <nd ref="910665335"/>
+    <nd ref="316066031"/>
+    <nd ref="316066030"/>
+    <nd ref="316066029"/>
+    <nd ref="271373914"/>
+    <nd ref="910664849"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="5"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="544221623">
+    <nd ref="282281939"/>
+    <nd ref="1569463499"/>
+    <nd ref="2006382839"/>
+    <nd ref="268428581"/>
+    <nd ref="1569463526"/>
+    <nd ref="1569463525"/>
+    <nd ref="1569463522"/>
+    <nd ref="268428579"/>
+    <nd ref="1569463497"/>
+    <nd ref="1569463495"/>
+    <nd ref="1569463491"/>
+    <nd ref="268428567"/>
+    <nd ref="2006382572"/>
+    <nd ref="268428566"/>
+    <nd ref="9791574385"/>
+    <nd ref="2006381925"/>
+    <nd ref="2006381908"/>
+    <nd ref="2006381876"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="544221624">
+    <nd ref="5260804352"/>
+    <nd ref="278166531"/>
+    <nd ref="267300632"/>
+    <nd ref="2006382579"/>
+    <nd ref="266689771"/>
+    <nd ref="1569463493"/>
+    <nd ref="1569463496"/>
+    <nd ref="1569463501"/>
+    <nd ref="266689772"/>
+    <nd ref="1569463528"/>
+    <nd ref="1569463529"/>
+    <nd ref="1569463545"/>
+    <nd ref="266689773"/>
+    <nd ref="2006667660"/>
+    <nd ref="1569463527"/>
+    <nd ref="1569463520"/>
+    <nd ref="278166579"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="544221625">
+    <nd ref="2006381829"/>
+    <nd ref="5260804352"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="544221626">
+    <nd ref="2006381876"/>
+    <nd ref="2006381852"/>
+    <nd ref="2006381847"/>
+    <nd ref="2006381827"/>
+    <nd ref="5260804350"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="586684183">
+    <nd ref="9714358888"/>
+    <nd ref="316066018"/>
+    <nd ref="6660668365"/>
+    <nd ref="1804947504"/>
+    <nd ref="6745278576"/>
+    <nd ref="316066019"/>
+    <nd ref="1804947510"/>
+    <nd ref="1804947516"/>
+    <nd ref="273456798"/>
+    <nd ref="1804947523"/>
+    <nd ref="316066012"/>
+    <nd ref="949747376"/>
+    <nd ref="11138736256"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed:motorcar" v="70"/>
+    <tag k="maxspeed:trailer" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="646301466">
+    <nd ref="316065986"/>
+    <nd ref="7208184293"/>
+    <nd ref="271373854"/>
+    <nd ref="1359090798"/>
+    <nd ref="6072850782"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="10"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="646301469">
+    <nd ref="2852623922"/>
+    <nd ref="273456786"/>
+    <nd ref="2852623925"/>
+    <nd ref="273456787"/>
+    <nd ref="316065979"/>
+    <nd ref="2852623929"/>
+    <nd ref="2852623932"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="646301470">
+    <nd ref="2852623921"/>
+    <nd ref="271373848"/>
+    <nd ref="271373847"/>
+    <nd ref="5226716004"/>
+    <nd ref="5226716002"/>
+    <nd ref="2852623904"/>
+    <nd ref="271373846"/>
+    <nd ref="5228465986"/>
+    <nd ref="1987622571"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="646301473">
+    <nd ref="9714358891"/>
+    <nd ref="6458224774"/>
+    <nd ref="6458224773"/>
+    <nd ref="1804931584"/>
+    <nd ref="316065985"/>
+    <nd ref="273456791"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="675122092">
+    <nd ref="6322579364"/>
+    <nd ref="6467828986"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="689449086">
+    <nd ref="2774809989"/>
+    <nd ref="266729958"/>
+    <nd ref="6445814679"/>
+    <nd ref="266726154"/>
+    <nd ref="6322579364"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="689449095">
+    <nd ref="2774809992"/>
+    <nd ref="7256524720"/>
+    <nd ref="7256524719"/>
+    <nd ref="6467828992"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="753609123">
+    <nd ref="266773981"/>
+    <nd ref="5736563574"/>
+    <nd ref="268428588"/>
+    <nd ref="5736563573"/>
+    <nd ref="268428587"/>
+    <nd ref="5736563572"/>
+    <nd ref="268428586"/>
+    <nd ref="7041199916"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="753609124">
+    <nd ref="7041199917"/>
+    <nd ref="266376021"/>
+    <nd ref="5736563570"/>
+    <nd ref="5736563569"/>
+    <nd ref="266376020"/>
+    <nd ref="5736563568"/>
+    <nd ref="5736563565"/>
+    <nd ref="266376019"/>
+    <nd ref="5736563567"/>
+    <nd ref="5736563566"/>
+    <nd ref="266376018"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="753609125">
+    <nd ref="7041199919"/>
+    <nd ref="268905725"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="753609126">
+    <nd ref="268919702"/>
+    <nd ref="7041199920"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="753609127">
+    <nd ref="7041199921"/>
+    <nd ref="316065942"/>
+    <nd ref="273456822"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="753609128">
+    <nd ref="268905722"/>
+    <nd ref="316065941"/>
+    <nd ref="266370978"/>
+    <nd ref="7041199922"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="842717609">
+    <nd ref="2008570035"/>
+    <nd ref="316065983"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="18"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1057236580">
+    <nd ref="6822400108"/>
+    <nd ref="6816486042"/>
+    <nd ref="345576017"/>
+    <nd ref="2157493662"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1057236587">
+    <nd ref="273456791"/>
+    <nd ref="316065984"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="1057236588">
+    <nd ref="316065984"/>
+    <nd ref="273456792"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="1057236589">
+    <nd ref="2852623932"/>
+    <nd ref="9714358891"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+    <tag k="toll" v="yes"/>
+  </way>
+  <way id="1183491326">
+    <nd ref="10990227822"/>
+    <nd ref="345576050"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1201412916">
+    <nd ref="11138736256"/>
+    <nd ref="273456800"/>
+    <tag k="embankment" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1203516200">
+    <nd ref="271373906"/>
+    <nd ref="1804947520"/>
+    <nd ref="271373903"/>
+    <nd ref="1804947514"/>
+    <nd ref="1804947508"/>
+    <nd ref="316066013"/>
+    <nd ref="271373902"/>
+    <nd ref="11156172598"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1203516201">
+    <nd ref="11156172599"/>
+    <nd ref="2008570191"/>
+    <nd ref="278165407"/>
+    <nd ref="2008570142"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1203516202">
+    <nd ref="2008570144"/>
+    <nd ref="282003023"/>
+    <nd ref="2008570234"/>
+    <nd ref="2008570246"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <way id="1203516203">
+    <nd ref="1804947485"/>
+    <nd ref="273456796"/>
+    <nd ref="9714358888"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="Delhi-Gurugram Expressway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="NH48"/>
+    <tag k="ref:old" v="NH8"/>
+    <tag k="start_date" v="January 23, 2008"/>
+  </way>
+  <relation id="5694117">
+    <member type="node" ref="2006446849" role=""/>
+    <member type="way" ref="27422278" role=""/>
+    <member type="way" ref="544221625" role=""/>
+    <member type="way" ref="544221624" role=""/>
+    <member type="way" ref="25878292" role=""/>
+    <member type="way" ref="190041492" role=""/>
+    <member type="way" ref="753609124" role=""/>
+    <member type="way" ref="25878293" role=""/>
+    <member type="way" ref="25878300" role=""/>
+    <member type="way" ref="169321071" role=""/>
+    <member type="way" ref="169321077" role=""/>
+    <member type="way" ref="25878303" role=""/>
+    <member type="way" ref="25878305" role=""/>
+    <member type="way" ref="169321074" role=""/>
+    <member type="way" ref="753609125" role=""/>
+    <member type="way" ref="25878308" role=""/>
+    <member type="way" ref="753609128" role=""/>
+    <member type="way" ref="25878311" role=""/>
+    <member type="way" ref="25878315" role=""/>
+    <member type="way" ref="25878316" role=""/>
+    <member type="way" ref="689449095" role=""/>
+    <member type="way" ref="25878319" role=""/>
+    <member type="way" ref="25878323" role=""/>
+    <member type="way" ref="188137531" role=""/>
+    <member type="way" ref="646301469" role=""/>
+    <member type="way" ref="1057236589" role=""/>
+    <member type="way" ref="646301473" role=""/>
+    <member type="way" ref="1057236587" role=""/>
+    <member type="way" ref="1057236588" role=""/>
+    <member type="way" ref="225718656" role=""/>
+    <member type="way" ref="190261057" role=""/>
+    <member type="way" ref="25878331" role=""/>
+    <member type="way" ref="190261048" role=""/>
+    <member type="way" ref="1203516202" role=""/>
+    <member type="way" ref="28616605" role=""/>
+    <member type="way" ref="1203516203" role=""/>
+    <member type="way" ref="586684183" role=""/>
+    <member type="way" ref="646301466" role=""/>
+    <member type="way" ref="190261045" role=""/>
+    <member type="way" ref="842717609" role=""/>
+    <member type="way" ref="28616606" role=""/>
+    <member type="way" ref="190261055" role=""/>
+    <member type="way" ref="190261052" role=""/>
+    <member type="way" ref="1203516201" role=""/>
+    <member type="way" ref="28616604" role=""/>
+    <member type="way" ref="1203516200" role=""/>
+    <member type="way" ref="169324593" role=""/>
+    <member type="way" ref="205771485" role=""/>
+    <member type="way" ref="28616600" role=""/>
+    <member type="way" ref="1183491326" role=""/>
+    <member type="way" ref="532737436" role=""/>
+    <member type="way" ref="532740517" role=""/>
+    <member type="way" ref="31097489" role=""/>
+    <member type="way" ref="25878299" role=""/>
+    <member type="way" ref="544221626" role=""/>
+    <member type="way" ref="544221623" role=""/>
+    <member type="way" ref="190041491" role=""/>
+    <member type="way" ref="25878294" role=""/>
+    <member type="way" ref="753609123" role=""/>
+    <member type="way" ref="25878301" role=""/>
+    <member type="way" ref="169321070" role=""/>
+    <member type="way" ref="169321076" role=""/>
+    <member type="way" ref="25878304" role=""/>
+    <member type="way" ref="25878306" role=""/>
+    <member type="way" ref="169321075" role=""/>
+    <member type="way" ref="25878307" role=""/>
+    <member type="way" ref="753609126" role=""/>
+    <member type="way" ref="25878313" role=""/>
+    <member type="way" ref="753609127" role=""/>
+    <member type="way" ref="25878314" role=""/>
+    <member type="way" ref="25878318" role=""/>
+    <member type="way" ref="675122092" role=""/>
+    <member type="way" ref="689449086" role=""/>
+    <member type="way" ref="25878320" role=""/>
+    <member type="way" ref="25878325" role=""/>
+    <member type="way" ref="188137530" role=""/>
+    <member type="way" ref="646301470" role=""/>
+    <member type="way" ref="25878328" role=""/>
+    <member type="way" ref="1201412916" role=""/>
+    <member type="way" ref="40138011" role=""/>
+    <member type="way" ref="28616601" role=""/>
+    <member type="way" ref="1057236580" role=""/>
+    <member type="way" ref="205771483" role=""/>
+    <member type="way" ref="31097490" role=""/>
+    <member type="way" ref="24973559" role=""/>
+    <tag k="name" v="Delhi-Gurgaon Expressway"/>
+    <tag k="network" v="IN:NE"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikidata" v="Q5253763"/>
+    <tag k="wikipedia" v="en:Delhi Gurgaon Expressway"/>
+  </relation>
+
+</osm>

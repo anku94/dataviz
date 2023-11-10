@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-24T22:00:56Z"/>
+
+  <node id="277419837" lat="28.5725585" lon="77.3068908"/>
+  <node id="277419839" lat="28.5724286" lon="77.3073221"/>
+  <node id="277419842" lat="28.5723342" lon="77.3077781"/>
+  <node id="277419845" lat="28.5722947" lon="77.3081303"/>
+  <node id="277419847" lat="28.5722728" lon="77.3084433"/>
+  <node id="277419850" lat="28.5722794" lon="77.3088056"/>
+  <node id="277419852" lat="28.5724138" lon="77.3096684"/>
+  <node id="277419855" lat="28.5734645" lon="77.3129641"/>
+  <node id="277419858" lat="28.5777560" lon="77.3021976"/>
+  <node id="277419866" lat="28.5756896" lon="77.3033244"/>
+  <node id="277419868" lat="28.5753287" lon="77.3037142"/>
+  <node id="277419871" lat="28.5741490" lon="77.3046581"/>
+  <node id="277419874" lat="28.5737104" lon="77.3051125"/>
+  <node id="277419877" lat="28.5731305" lon="77.3058125"/>
+  <node id="277419879" lat="28.5730285" lon="77.3059603"/>
+  <node id="277419880" lat="28.5727437" lon="77.3064305"/>
+  <node id="277419881" lat="28.5801644" lon="77.2961922"/>
+  <node id="277419882" lat="28.5801998" lon="77.2968280"/>
+  <node id="277419883" lat="28.5761047" lon="77.2860512"/>
+  <node id="277419887" lat="28.5799402" lon="77.2951617"/>
+  <node id="277419888" lat="28.5757191" lon="77.2844812"/>
+  <node id="277419890" lat="28.5759121" lon="77.2854451"/>
+  <node id="277419891" lat="28.5756569" lon="77.2829662"/>
+  <node id="277419892" lat="28.5756637" lon="77.2837375"/>
+  <node id="277419893" lat="28.5787074" lon="77.3013171"/>
+  <node id="277419894" lat="28.5783150" lon="77.3017441"/>
+  <node id="277419901" lat="28.5794651" lon="77.3002086"/>
+  <node id="277419902" lat="28.5790587" lon="77.3008557"/>
+  <node id="277419903" lat="28.5799333" lon="77.2990518"/>
+  <node id="277419905" lat="28.5797122" lon="77.2996455"/>
+  <node id="277419908" lat="28.5801812" lon="77.2977022"/>
+  <node id="277419912" lat="28.5800918" lon="77.2984114"/>
+  <node id="277419916" lat="28.5809736" lon="77.2737805"/>
+  <node id="277419921" lat="28.5811756" lon="77.2731470"/>
+  <node id="277419925" lat="28.5812580" lon="77.2724515"/>
+  <node id="277419929" lat="28.5812491" lon="77.2717834"/>
+  <node id="277419930" lat="28.5811467" lon="77.2710804"/>
+  <node id="277419931" lat="28.5808538" lon="77.2702073"/>
+  <node id="277419932" lat="28.5805598" lon="77.2696470">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="277419934" lat="28.5757465" lon="77.2821399"/>
+  <node id="277419935" lat="28.5759395" lon="77.2811760"/>
+  <node id="277419936" lat="28.5762039" lon="77.2803624"/>
+  <node id="277419937" lat="28.5764323" lon="77.2798204"/>
+  <node id="277419938" lat="28.5770068" lon="77.2787998"/>
+  <node id="277419939" lat="28.5775644" lon="77.2781184"/>
+  <node id="277419940" lat="28.5781675" lon="77.2773644"/>
+  <node id="277419941" lat="28.5805668" lon="77.2745793"/>
+  <node id="308897855" lat="28.5733643" lon="77.3054576"/>
+  <node id="308897978" lat="28.5735617" lon="77.3129184"/>
+  <node id="315999032" lat="28.5758266" lon="77.2816947"/>
+  <node id="315999033" lat="28.5803122" lon="77.2977257"/>
+  <node id="315999034" lat="28.5763489" lon="77.2860900"/>
+  <node id="315999036" lat="28.5803563" lon="77.2969816"/>
+  <node id="315999050" lat="28.5782418" lon="77.2774742"/>
+  <node id="315999066" lat="28.5803133" lon="77.2962667"/>
+  <node id="315999080" lat="28.5724472" lon="77.3087755"/>
+  <node id="315999091" lat="28.5807218" lon="77.2745896"/>
+  <node id="315999092" lat="28.5772934" lon="77.2786938"/>
+  <node id="315999093" lat="28.5801025" lon="77.2952514"/>
+  <node id="315999094" lat="28.5724580" lon="77.3089831"/>
+  <node id="315999095" lat="28.5798432" lon="77.2996741"/>
+  <node id="315999096" lat="28.5724976" lon="77.3092863"/>
+  <node id="315999097" lat="28.5777123" lon="77.2781637"/>
+  <node id="315999098" lat="28.5766035" lon="77.2799183"/>
+  <node id="315999099" lat="28.5763421" lon="77.2804897"/>
+  <node id="315999100" lat="28.5811221" lon="77.2737565"/>
+  <node id="315999101" lat="28.5738447" lon="77.3052563"/>
+  <node id="315999103" lat="28.5740065" lon="77.3051160"/>
+  <node id="315999104" lat="28.5734647" lon="77.3056734"/>
+  <node id="315999105" lat="28.5802317" lon="77.2984145"/>
+  <node id="315999106" lat="28.5732369" lon="77.3059450">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="315999107" lat="28.5775321" lon="77.2658562"/>
+  <node id="315999109" lat="28.5736566" lon="77.3054113"/>
+  <node id="315999110" lat="28.5762293" lon="77.3038877">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="DND Toll booth"/>
+  </node>
+  <node id="315999111" lat="28.5759859" lon="77.2817764"/>
+  <node id="315999112" lat="28.5813911" lon="77.2725762"/>
+  <node id="315999114" lat="28.5812922" lon="77.2731594"/>
+  <node id="315999115" lat="28.5758598" lon="77.3040485"/>
+  <node id="315999117" lat="28.5792255" lon="77.3008792"/>
+  <node id="315999118" lat="28.5743966" lon="77.3047967"/>
+  <node id="315999119" lat="28.5781358" lon="77.2665564"/>
+  <node id="315999120" lat="28.5800464" lon="77.2990957"/>
+  <node id="315999121" lat="28.5795961" lon="77.3002321"/>
+  <node id="315999122" lat="28.5780167" lon="77.3022364"/>
+  <node id="315999123" lat="28.5806552" lon="77.2695160"/>
+  <node id="315999124" lat="28.5758287" lon="77.2831987"/>
+  <node id="315999125" lat="28.5761563" lon="77.2854839"/>
+  <node id="315999126" lat="28.5785757" lon="77.3017829"/>
+  <node id="315999127" lat="28.5759200" lon="77.2822136"/>
+  <node id="315999128" lat="28.5760942" lon="77.2812765"/>
+  <node id="315999129" lat="28.5759633" lon="77.2845200"/>
+  <node id="315999130" lat="28.5789681" lon="77.3013559"/>
+  <node id="315999131" lat="28.5809478" lon="77.2700365"/>
+  <node id="315999132" lat="28.5758655" lon="77.2837334"/>
+  <node id="315999133" lat="28.5813907" lon="77.2717737"/>
+  <node id="315999134" lat="28.5725485" lon="77.3095342">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="315999135" lat="28.5812814" lon="77.2710733"/>
+  <node id="441879031" lat="28.5800950" lon="77.2690526"/>
+  <node id="563155242" lat="28.5783796" lon="77.2670849"/>
+  <node id="568318604" lat="28.5758908" lon="77.3032363">
+    <tag k="barrier" v="toll_booth"/>
+    <tag k="name" v="DND Toll booth"/>
+  </node>
+  <node id="802969049" lat="28.5723119" lon="77.3092060"/>
+  <node id="802969063" lat="28.5724947" lon="77.3076965"/>
+  <node id="802969082" lat="28.5727646" lon="77.3067780"/>
+  <node id="802969088" lat="28.5726009" lon="77.3102551"/>
+  <node id="802969120" lat="28.5727088" lon="77.3101836"/>
+  <node id="802969138" lat="28.5723426" lon="77.3093687"/>
+  <node id="802969143" lat="28.5724313" lon="77.3084269"/>
+  <node id="802969207" lat="28.5728826" lon="77.3061803"/>
+  <node id="802969224" lat="28.5725596" lon="77.3073204"/>
+  <node id="802969279" lat="28.5728678" lon="77.3065429"/>
+  <node id="802969377" lat="28.5724475" lon="77.3080575"/>
+  <node id="802969410" lat="28.5723591" lon="77.3094562"/>
+  <node id="802969434" lat="28.5730448" lon="77.3062155"/>
+  <node id="802969435" lat="28.5726213" lon="77.3099030"/>
+  <node id="802969450" lat="28.5726510" lon="77.3070416"/>
+  <node id="849943455" lat="28.5800008" lon="77.2992256"/>
+  <node id="849943505" lat="28.5796569" lon="77.2943999"/>
+  <node id="849943541" lat="28.5797956" lon="77.2943693"/>
+  <node id="849943551" lat="28.5797836" lon="77.2994538"/>
+  <node id="849943582" lat="28.5799068" lon="77.2994932"/>
+  <node id="849943595" lat="28.5798862" lon="77.2991782"/>
+  <node id="905282566" lat="28.5764519" lon="77.2868673"/>
+  <node id="905282943" lat="28.5789172" lon="77.2922491"/>
+  <node id="905283743" lat="28.5787805" lon="77.2923401"/>
+  <node id="905284980" lat="28.5766265" lon="77.2867599"/>
+  <node id="944889293" lat="28.5793538" lon="77.2933030">
+    <tag k="highway" v="motorway_junction"/>
+  </node>
+  <node id="944889359" lat="28.5791916" lon="77.2933063"/>
+  <node id="1987490177" lat="28.5733436" lon="77.3125422"/>
+  <node id="2733828771" lat="28.5800661" lon="77.2956888"/>
+  <node id="2733828773" lat="28.5802245" lon="77.2957703"/>
+  <node id="4556851710" lat="28.5798520" lon="77.2945281"/>
+  <node id="6261310485" lat="28.5801053" lon="77.2958893"/>
+  <node id="7137906221" lat="28.5776661" lon="77.2782221"/>
+  <node id="7137906222" lat="28.5767372" lon="77.2792134"/>
+  <node id="7137906223" lat="28.5768903" lon="77.2792912"/>
+  <node id="7137906225" lat="28.5758846" lon="77.2824723"/>
+  <node id="7137906227" lat="28.5758396" lon="77.2830917"/>
+  <node id="7151333465" lat="28.5769253" lon="77.3030761"/>
+  <node id="7151333466" lat="28.5767685" lon="77.3027948"/>
+  <node id="7151371232" lat="28.5811569" lon="77.2705963"/>
+  <node id="7151371233" lat="28.5812120" lon="77.2714177"/>
+  <node id="7151371234" lat="28.5813503" lon="77.2714206"/>
+  <node id="7151371235" lat="28.5810239" lon="77.2706475"/>
+  <node id="7843008372" lat="28.5788004" lon="77.2675676">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="9824205942" lat="28.5806871" lon="77.2746434"/>
+  <node id="10209450955" lat="28.5756143" lon="77.3041740"/>
+  <way id="25457951">
+    <nd ref="277419855"/>
+    <nd ref="1987490177"/>
+    <nd ref="802969088"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="28746776">
+    <nd ref="315999114"/>
+    <nd ref="315999100"/>
+    <nd ref="315999091"/>
+    <nd ref="9824205942"/>
+    <nd ref="315999050"/>
+    <nd ref="315999097"/>
+    <nd ref="7137906221"/>
+    <nd ref="315999092"/>
+    <nd ref="7137906223"/>
+    <nd ref="315999098"/>
+    <nd ref="315999099"/>
+    <nd ref="315999128"/>
+    <nd ref="315999111"/>
+    <nd ref="315999127"/>
+    <nd ref="7137906225"/>
+    <nd ref="7137906227"/>
+    <nd ref="315999124"/>
+    <nd ref="315999132"/>
+    <nd ref="315999129"/>
+    <nd ref="315999125"/>
+    <nd ref="315999034"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q5205783"/>
+    <tag k="wikipedia" v="en:DND Flyway"/>
+  </way>
+  <way id="66205243">
+    <nd ref="802969120"/>
+    <nd ref="308897978"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="66205246">
+    <nd ref="315999134"/>
+    <nd ref="802969435"/>
+    <nd ref="802969120"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Noida Flyover"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="66205269">
+    <nd ref="277419852"/>
+    <nd ref="802969410"/>
+    <nd ref="802969138"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Noida Flyover"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="66205284">
+    <nd ref="802969138"/>
+    <nd ref="802969049"/>
+    <nd ref="277419850"/>
+    <nd ref="277419847"/>
+    <nd ref="277419845"/>
+    <nd ref="277419842"/>
+    <nd ref="277419839"/>
+    <nd ref="277419837"/>
+    <nd ref="277419880"/>
+    <nd ref="802969207"/>
+    <nd ref="277419879"/>
+    <nd ref="277419877"/>
+    <nd ref="308897855"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71435173">
+    <nd ref="849943551"/>
+    <nd ref="849943595"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71435182">
+    <nd ref="849943455"/>
+    <nd ref="849943582"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71435185">
+    <nd ref="849943595"/>
+    <nd ref="277419903"/>
+    <nd ref="277419912"/>
+    <nd ref="277419908"/>
+    <nd ref="277419882"/>
+    <nd ref="277419881"/>
+    <nd ref="6261310485"/>
+    <nd ref="2733828771"/>
+    <nd ref="277419887"/>
+    <nd ref="849943505"/>
+    <nd ref="944889359"/>
+    <nd ref="905283743"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="71435200">
+    <nd ref="849943582"/>
+    <nd ref="315999095"/>
+    <nd ref="315999121"/>
+    <nd ref="315999117"/>
+    <nd ref="315999130"/>
+    <nd ref="315999126"/>
+    <nd ref="315999122"/>
+    <nd ref="7151333465"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="maxspeed:hgv" v="40"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="76849167">
+    <nd ref="277419883"/>
+    <nd ref="277419890"/>
+    <nd ref="277419888"/>
+    <nd ref="277419892"/>
+    <nd ref="277419891"/>
+    <nd ref="277419934"/>
+    <nd ref="315999032"/>
+    <nd ref="277419935"/>
+    <nd ref="277419936"/>
+    <nd ref="277419937"/>
+    <nd ref="7137906222"/>
+    <nd ref="277419938"/>
+    <nd ref="277419939"/>
+    <nd ref="277419940"/>
+    <nd ref="277419941"/>
+    <nd ref="277419916"/>
+    <nd ref="277419921"/>
+    <nd ref="277419925"/>
+    <nd ref="277419929"/>
+    <nd ref="7151371233"/>
+    <nd ref="277419930"/>
+    <nd ref="7151371235"/>
+    <nd ref="277419931"/>
+    <nd ref="277419932"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q5205783"/>
+    <tag k="wikipedia" v="en:DND Flyway"/>
+  </way>
+  <way id="76849195">
+    <nd ref="905284980"/>
+    <nd ref="905282943"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DND"/>
+  </way>
+  <way id="76849306">
+    <nd ref="905283743"/>
+    <nd ref="905282566"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DND"/>
+  </way>
+  <way id="76849415">
+    <nd ref="4556851710"/>
+    <nd ref="315999093"/>
+    <nd ref="2733828773"/>
+    <nd ref="315999066"/>
+    <nd ref="315999036"/>
+    <nd ref="315999033"/>
+    <nd ref="315999105"/>
+    <nd ref="315999120"/>
+    <nd ref="849943455"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="176496271">
+    <nd ref="315999110"/>
+    <nd ref="315999115"/>
+    <nd ref="10209450955"/>
+    <nd ref="315999118"/>
+    <nd ref="315999103"/>
+    <nd ref="315999101"/>
+    <nd ref="315999109"/>
+    <nd ref="315999104"/>
+    <nd ref="315999106"/>
+    <nd ref="802969434"/>
+    <nd ref="802969279"/>
+    <nd ref="802969082"/>
+    <nd ref="802969450"/>
+    <nd ref="802969224"/>
+    <nd ref="802969063"/>
+    <nd ref="802969377"/>
+    <nd ref="802969143"/>
+    <nd ref="315999080"/>
+    <nd ref="315999094"/>
+    <nd ref="315999096"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="176496272">
+    <nd ref="568318604"/>
+    <nd ref="7151333466"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="395885008">
+    <nd ref="277419932"/>
+    <nd ref="441879031"/>
+    <nd ref="7843008372"/>
+    <nd ref="563155242"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="Delhi-Noida Direct Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DND"/>
+  </way>
+  <way id="395885009">
+    <nd ref="308897855"/>
+    <nd ref="277419874"/>
+    <nd ref="277419871"/>
+    <nd ref="277419868"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="395885010">
+    <nd ref="315999107"/>
+    <nd ref="315999119"/>
+    <nd ref="315999123"/>
+    <nd ref="315999131"/>
+    <nd ref="7151371232"/>
+    <nd ref="315999135"/>
+    <nd ref="7151371234"/>
+    <nd ref="315999133"/>
+    <nd ref="315999112"/>
+    <nd ref="315999114"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="Delhi-Noida Direct Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DND"/>
+  </way>
+  <way id="395885011">
+    <nd ref="315999096"/>
+    <nd ref="315999134"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Noida Flyover"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="454518475">
+    <nd ref="802969088"/>
+    <nd ref="277419852"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Noida Flyover"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="459988200">
+    <nd ref="905282943"/>
+    <nd ref="944889293"/>
+    <nd ref="849943541"/>
+    <nd ref="4556851710"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="Delhi-Noida Direct Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="980796467">
+    <nd ref="315999034"/>
+    <nd ref="905284980"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q5205783"/>
+    <tag k="wikipedia" v="en:DND Flyway"/>
+  </way>
+  <way id="980796468">
+    <nd ref="905282566"/>
+    <nd ref="277419883"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorcar" v="designated"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="wikidata" v="Q5205783"/>
+    <tag k="wikipedia" v="en:DND Flyway"/>
+  </way>
+  <way id="1183845907">
+    <nd ref="7151333465"/>
+    <nd ref="315999110"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="70"/>
+    <tag k="maxspeed:hgv" v="40"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1183845908">
+    <nd ref="7151333466"/>
+    <nd ref="277419858"/>
+    <nd ref="277419894"/>
+    <nd ref="277419893"/>
+    <nd ref="277419902"/>
+    <nd ref="277419901"/>
+    <nd ref="277419905"/>
+    <nd ref="849943551"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="motorroad" v="yes"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="1183845909">
+    <nd ref="277419868"/>
+    <nd ref="277419866"/>
+    <nd ref="568318604"/>
+    <tag k="highway" v="motorway"/>
+    <tag k="int_ref" v="AH1"/>
+    <tag k="lanes" v="4"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="80"/>
+    <tag k="name" v="DND Flyway"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <relation id="6796612">
+    <member type="way" ref="66205243" role=""/>
+    <member type="way" ref="66205246" role=""/>
+    <member type="way" ref="395885011" role=""/>
+    <member type="way" ref="176496271" role=""/>
+    <member type="way" ref="1183845907" role=""/>
+    <member type="way" ref="71435200" role=""/>
+    <member type="way" ref="71435182" role=""/>
+    <member type="way" ref="76849415" role=""/>
+    <member type="way" ref="459988200" role=""/>
+    <member type="way" ref="76849195" role=""/>
+    <member type="way" ref="980796467" role=""/>
+    <member type="way" ref="28746776" role=""/>
+    <member type="way" ref="395885010" role=""/>
+    <member type="way" ref="25457951" role=""/>
+    <member type="way" ref="454518475" role=""/>
+    <member type="way" ref="66205269" role=""/>
+    <member type="way" ref="66205284" role=""/>
+    <member type="way" ref="395885009" role=""/>
+    <member type="way" ref="1183845909" role=""/>
+    <member type="way" ref="176496272" role=""/>
+    <member type="way" ref="1183845908" role=""/>
+    <member type="way" ref="71435173" role=""/>
+    <member type="way" ref="71435185" role=""/>
+    <member type="way" ref="76849306" role=""/>
+    <member type="way" ref="76849167" role=""/>
+    <member type="way" ref="980796468" role=""/>
+    <member type="way" ref="395885008" role=""/>
+    <tag k="name" v="Delhi-Noida Direct Flyway"/>
+    <tag k="network" v="IN:NE"/>
+    <tag k="ref" v="DND"/>
+    <tag k="route" v="road"/>
+    <tag k="type" v="route"/>
+    <tag k="wikidata" v="Q5205783"/>
+    <tag k="wikipedia" v="en:DND Flyway"/>
+  </relation>
+
+</osm>

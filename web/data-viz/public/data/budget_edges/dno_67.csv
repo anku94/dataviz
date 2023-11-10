@@ -1,9 +1,0 @@
-source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-ROOT,"Ministry of Law and Justice
-Demand No. 67
-Supreme Court of India",r,r_molajdn6scoi,437.15,4371500000.0,51429411.76470588
-"Ministry of Law and Justice
-Demand No. 67
-Supreme Court of India",CENTRE'S EXPENDITURE,r_molajdn6scoi,r_molajdn6scoi_cse,437.15,4371500000.0,51429411.76470588
-CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_molajdn6scoi_cse,r_molajdn6scoi_cse_eeotc,437.15,4371500000.0,51429411.76470588
-Establishment Expenditure of the Centre,Supreme Court of India,r_molajdn6scoi_cse_eeotc,r_molajdn6scoi_cse_eeotc_scoi,437.15,4371500000.0,51429411.76470588

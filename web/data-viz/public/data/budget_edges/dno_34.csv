@@ -1,9 +1,0 @@
-source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-ROOT,"Ministry of Finance
-Demand No. 34
-Department of Investment and Public Asset Management (DIPAM)",r,r_mofdn3doiapamd,94.92,949200000.0,11167058.823529411
-"Ministry of Finance
-Demand No. 34
-Department of Investment and Public Asset Management (DIPAM)",CENTRE'S EXPENDITURE,r_mofdn3doiapamd,r_mofdn3doiapamd_cse,94.92,949200000.0,11167058.823529411
-CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_mofdn3doiapamd_cse,r_mofdn3doiapamd_cse_eeotc,94.92,949200000.0,11167058.823529411
-Establishment Expenditure of the Centre,Secretariat - Economic Services,r_mofdn3doiapamd_cse_eeotc,r_mofdn3doiapamd_cse_eeotc_ses,94.92,949200000.0,11167058.823529411

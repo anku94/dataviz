@@ -1,9 +1,0 @@
-source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-ROOT,"Ministry of Personnel, Public Grievances and Pensions
-Demand No. 75
-Central Vigilance Commission",r,r_moppgapdn7cvc,44.46,444600000.0,5230588.235294118
-"Ministry of Personnel, Public Grievances and Pensions
-Demand No. 75
-Central Vigilance Commission",CENTRE'S EXPENDITURE,r_moppgapdn7cvc,r_moppgapdn7cvc_cse,44.46,444600000.0,5230588.235294118
-CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_moppgapdn7cvc_cse,r_moppgapdn7cvc_cse_eeotc,44.46,444600000.0,5230588.235294118
-Establishment Expenditure of the Centre,Central Vigilance Commission,r_moppgapdn7cvc_cse_eeotc,r_moppgapdn7cvc_cse_eeotc_cvc,44.46,444600000.0,5230588.235294118

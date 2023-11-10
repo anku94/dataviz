@@ -17,25 +17,15 @@ import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
 import Typography from "@mui/material/Typography";
 
+import { AppContext } from "../app_context";
+
 import { ExpandLess, ExpandMore, Home } from "@mui/icons-material";
 import BudgetDemandTable from "../components/BudgetDataGrid";
 import BudgetDataTree from "../components/BudgetDataTree";
 import HomeIcon from "@mui/icons-material/Home";
 
-
 export default function Page() {
-  const [open, setOpen] = React.useState(false);
-  const [csvName, setCsvName] = React.useState("goi");
-  const [title, setTitle] = React.useState("GOI 23-24");
-
-  const handleClick = () => {
-    setOpen(!open);
-  };
-
-  const resetCsv = () => {
-    setCsvName("goi");
-    setTitle("GOI 23-24");
-  };
+  const { state, dispatch } = useContext(AppContext);
 
   return (
     <div>
@@ -48,12 +38,16 @@ export default function Page() {
             color="inherit"
             aria-label="go-home"
             sx={{ mr: 2 }}
-            onClick={resetCsv}
+            onClick={() => {
+              dispatch({
+                type: "RESET",
+              });
+            }}
           >
             <HomeIcon />
           </IconButton>
           <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
-            DataTree: {title}
+            {state.title}
           </Typography>
         </Toolbar>
       </AppBar>
@@ -69,16 +63,12 @@ export default function Page() {
                 height: 720,
               }}
             >
-              <BudgetDataTree
-                csvName={csvName}
-                setCsvName={setCsvName}
-                setCsvTitle={setTitle}
-              />
+              <BudgetDataTree />
             </Paper>
           </Grid>
           <Grid item xs={12}>
             <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}>
-              <BudgetDemandTable csvName={csvName} setCsvName={setCsvName} />
+              <BudgetDemandTable />
             </Paper>
           </Grid>
         </Grid>

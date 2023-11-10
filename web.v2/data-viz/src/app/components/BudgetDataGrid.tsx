@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useContext } from "react";
 import CsvReader, { BudgetCSVRow, DirRecord } from "../CsvReader";
 import {
   DataGrid,
@@ -16,19 +16,7 @@ import {
   GridRowParams,
   GridValueFormatterParams,
 } from "@mui/x-data-grid";
-
-const fetchData = async (): Promise<GridRowsProp> => {
-  const csv_reader = new CsvReader("/data/budget_edges");
-  const data = csv_reader.read_dir();
-
-  return (await data).map((record) => {
-    const rec2 = record as GridValidRowModel;
-    rec2.id = record.demand_id;
-    return rec2;
-  });
-
-  return data;
-};
+import { AppContext } from "../app_context";
 
 const rows: GridRowsProp = [{ id: 1, col1: "Hello", col2: "World" }];
 
@@ -76,21 +64,14 @@ function CustomGridToolbar() {
   );
 }
 
-type IBudgetDemandTableProps = {
-  csvName: string;
-  setCsvName: (csvName: string) => void;
-};
-
-const BudgetDemandTable: React.FC<IBudgetDemandTableProps> = ({
-  csvName,
-  setCsvName,
-}) => {
+const BudgetDemandTable: React.FC = () => {
   const [data, setData] = React.useState<GridRowsProp>([]);
+  const { state, dispatch } = useContext(AppContext);
 
   React.useEffect(() => {
     // fetchData().then((fetchedData) => setData(fetchedData));
-    const csv_reader = new CsvReader("/data/budget_edges");
-    csv_reader.read("/data/goi2324.v2/goi.csv").then((data) => {
+    const csv_reader = new CsvReader();
+    csv_reader.read(state.selected_csv).then((data) => {
       const data_wid: GridValidRowModel[] = data.map((record, index) => {
         const rec_wid = record as GridValidRowModel;
         rec_wid.id = index;
@@ -102,10 +83,16 @@ const BudgetDemandTable: React.FC<IBudgetDemandTableProps> = ({
   }, []);
 
   const handleRowClick = (params: GridRowParams) => {
-    const min_name = (params.row as BudgetCSVRow).dest_abbrev;
-    console.log("min_name", min_name);
-    const csv_name = min_name.replace("g2_", "");
-    setCsvName(csv_name);
+    const min_abbrev = (params.row as BudgetCSVRow).dest_abbrev;
+    const min_name = (params.row as BudgetCSVRow).dest_name;
+    const csv_name = min_abbrev.replace("g2_", "");
+    // setCsvName(csv_name);
+    console.log("Changing to: ", csv_name);
+    dispatch({
+      type: "SET_TITLE_AND_CSV",
+      title: min_name,
+      csv: csv_name,
+    });
   };
 
   if (data.length == 0) {

@@ -59,13 +59,7 @@ function acronym(input: string): string {
 }
 
 class CsvReader {
-  url_base: string;
-  url_dir: string;
-
-  constructor(url_base: string) {
-    this.url_base = url_base;
-    this.url_dir = url_base + "/demands_dir.csv";
-  }
+  constructor() {}
 
   async read(url: string): Promise<Record[]> {
     const response = await fetch(url);
@@ -88,10 +82,9 @@ class CsvReader {
     return records;
   }
 
-  async get_dno_edges(csv_name: string): Promise<BudgetEdges> {
-    const url = this.url_base + "/" + csv_name + ".csv";
-    console.log("Loading URL: ", url);
-    const records = await this.read(url);
+  async get_dno_edges(csv_url: string): Promise<BudgetEdges> {
+    console.log("Loading URL: ", csv_url);
+    const records = await this.read(csv_url);
 
     let aggregatedData: { [key: string]: number } = {};
 
@@ -132,20 +125,20 @@ class CsvReader {
   }
 
   async read_dir(): Promise<DirRecord[]> {
-    const response = await fetch(this.url_dir);
-    const csvData = await response.text();
-    const parsedData = Papa.parse(csvData, { header: true });
+    // const response = await fetch(this.url_dir);
+    // const csvData = await response.text();
+    // const parsedData = Papa.parse(csvData, { header: true });
 
     const records: DirRecord[] = [];
 
-    for (const row of parsedData.data as any) {
-      records.push({
-        demand_id: row.demand_id,
-        ministry: row.ministry,
-        department: row.department,
-        csv_name: row.csv_name,
-      });
-    }
+    // for (const row of parsedData.data as any) {
+    //   records.push({
+    //     demand_id: row.demand_id,
+    //     ministry: row.ministry,
+    //     department: row.department,
+    //     csv_name: row.csv_name,
+    //   });
+    // }
     return records;
   }
 }

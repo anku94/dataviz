@@ -1,23 +1,12 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useContext } from "react";
 import Plot from "react-plotly.js";
 import CsvReader, { BudgetEdges } from "../CsvReader";
+import { AppContext } from "../app_context";
 
-const labels = ["A1", "A2", "A3", "A4", "A5", "B1", "B2"];
-const parents = ["", "A1", "A2", "A3", "A4", "A1", "B1"];
-
-type BudgetDataTreeProps = {
-  csvName: string;
-  setCsvName: (csvName: string) => void;
-  setCsvTitle: (csvName: string) => void;
-};
-
-const BudgetDataTree: React.FC<BudgetDataTreeProps> = ({
-  csvName,
-  setCsvName,
-  setCsvTitle,
-}) => {
+const BudgetDataTree: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<BudgetEdges | null>(null);
+  const { state, dispatch } = useContext(AppContext);
 
   function handleClick(e: Plotly.PlotMouseEvent) {
     console.log(e);
@@ -29,20 +18,20 @@ const BudgetDataTree: React.FC<BudgetDataTreeProps> = ({
     e.event.stopImmediatePropagation();
     const data = e.points[0].data as BudgetEdges;
     const csv_str = data.ids[point_num].replace("g2_", "");
+    const csv_title = data.labels[point_num];
     console.log("Changing to: ", csv_str);
-    setCsvName(csv_str);
-    setCsvTitle(data.labels[point_num]);
+    dispatch({ type: "SET_TITLE_AND_CSV", title: csv_title, csv: csv_str });
   }
 
   useEffect(() => {
-    console.log("Reading CSV: ", csvName);
-    const csv_reader = new CsvReader("/data/goi2324.v2");
-    csv_reader.get_dno_edges(csvName).then((data) => {
+    console.log("Reading CSV: ", state.selected_csv);
+    const csv_reader = new CsvReader();
+    csv_reader.get_dno_edges(state.selected_csv).then((data) => {
       console.log(data);
       setData(data);
       setLoading(false);
     });
-  }, [csvName]);
+  }, [state.selected_csv]);
 
   if (loading) {
     return <div>Loading...</div>;

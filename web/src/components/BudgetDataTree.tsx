@@ -36,7 +36,7 @@ const BudgetDataTree: React.FC<BudgetDataTreeProps> = ({
 
   useEffect(() => {
     console.log("Reading CSV: ", csvName);
-    const csv_reader = new CsvReader("/data/goi2324.v2");
+    const csv_reader = new CsvReader("/data/goi2324.v3");
     csv_reader.get_dno_edges(csvName).then((data) => {
       console.log(data);
       setData(data);

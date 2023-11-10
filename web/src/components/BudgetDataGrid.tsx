@@ -1,5 +1,5 @@
 import React from "react";
-import CsvReader, { BudgetCSVRow, DirRecord } from "../CsvReader";
+import CsvReader, { Record  } from "../CsvReader";
 import {
   DataGrid,
   GridRowsProp,
@@ -16,19 +16,6 @@ import {
   GridRowParams,
   GridValueFormatterParams,
 } from "@mui/x-data-grid";
-
-const fetchData = async (): Promise<GridRowsProp> => {
-  const csv_reader = new CsvReader("/data/budget_edges");
-  const data = csv_reader.read_dir();
-
-  return (await data).map((record) => {
-    const rec2 = record as GridValidRowModel;
-    rec2.id = record.demand_id;
-    return rec2;
-  });
-
-  return data;
-};
 
 const rows: GridRowsProp = [{ id: 1, col1: "Hello", col2: "World" }];
 
@@ -102,7 +89,7 @@ const BudgetDemandTable: React.FC<IBudgetDemandTableProps> = ({
   }, []);
 
   const handleRowClick = (params: GridRowParams) => {
-    const min_name = (params.row as BudgetCSVRow).dest_abbrev;
+    const min_name = (params.row as Record).dest_abbrev;
     console.log("min_name", min_name);
     const csv_name = min_name.replace("g2_", "");
     setCsvName(csv_name);

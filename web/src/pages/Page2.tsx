@@ -18,9 +18,10 @@ import Typography from "@mui/material/Typography";
 import { ExpandLess, ExpandMore, Home } from "@mui/icons-material";
 import BudgetDemandTable from "../components/BudgetDataGrid";
 import BudgetDataTree from "../components/BudgetDataTree";
+import BudgetDataSankey from "../components/BudgetDataSankey";
 import HomeIcon from "@mui/icons-material/Home";
 
-export default function Page() {
+export default function Page2() {
   const [open, setOpen] = React.useState(false);
   const [csvName, setCsvName] = React.useState("goi");
   const [title, setTitle] = React.useState("GOI 23-24");
@@ -66,11 +67,7 @@ export default function Page() {
                 height: 720,
               }}
             >
-              <BudgetDataTree
-                csvName={csvName}
-                setCsvName={setCsvName}
-                setCsvTitle={setTitle}
-              />
+              <BudgetDataSankey />
             </Paper>
           </Grid>
           <Grid item xs={12}>

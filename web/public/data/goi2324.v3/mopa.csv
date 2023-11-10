@@ -1,7 +1,0 @@
-id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-0,,Ministry of Parliamentary Affairs,,mopa,63,630000000,7411764.705882353
-1,Ministry of Parliamentary Affairs,Ministry of Parliamentary Affairs,mopa,mopa_mopa,63,630000000,7411764.705882353
-2,Ministry of Parliamentary Affairs,CENTRE'S EXPENDITURE,mopa_mopa,mopa_mopa_cse,63,630000000,7411764.705882353
-3,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mopa_mopa_cse,mopa_mopa_cse_eeotc,63,630000000,7411764.705882353
-4,Establishment Expenditure of the Centre,National eVidhan Application,mopa_mopa_cse_eeotc,mopa_mopa_cse_eeotc_nea,38,380000000,4470588.235294118
-5,Establishment Expenditure of the Centre,Secretariat,mopa_mopa_cse_eeotc,mopa_mopa_cse_eeotc_s,25,250000000,2941176.470588235

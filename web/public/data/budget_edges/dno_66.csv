@@ -1,9 +1,0 @@
-source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
-ROOT,"Ministry of Law and Justice
-Demand No. 66
-Election Commission",r,r_molajdn6ec,340,3400000000,40000000.0
-"Ministry of Law and Justice
-Demand No. 66
-Election Commission",CENTRE'S EXPENDITURE,r_molajdn6ec,r_molajdn6ec_cse,340,3400000000,40000000.0
-CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,r_molajdn6ec_cse,r_molajdn6ec_cse_eeotc,340,3400000000,40000000.0
-Establishment Expenditure of the Centre,Election Commission of India,r_molajdn6ec_cse_eeotc,r_molajdn6ec_cse_eeotc_ecoi,340,3400000000,40000000.0

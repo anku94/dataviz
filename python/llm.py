@@ -58,8 +58,6 @@ def get_tables():
 def make_request(input_data: str) -> str:
     query = open("budget_doc/query3.txt").read()
 
-    #  openai.api_key = "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"
-
     messages = [
         {"role": "system", "content": query},
         {"role": "user", "content": input_data},

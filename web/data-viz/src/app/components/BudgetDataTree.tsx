@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useContext } from "react";
 import Plot from "react-plotly.js";
 import CsvReader, { BudgetEdges } from "../CsvReader";
-import { AppContext } from "../app_context";
+import { AppContext } from "../AppContext";
 
 const BudgetDataTree: React.FC = () => {
   const [loading, setLoading] = useState(true);

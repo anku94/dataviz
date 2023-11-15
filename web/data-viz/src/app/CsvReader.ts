@@ -68,6 +68,7 @@ class CsvReader {
     const records: Record[] = [];
 
     for (const row of parsedData.data as any) {
+      console.log(row);
       records.push({
         source_name: row.source_name,
         dest_name: row.dest_name,

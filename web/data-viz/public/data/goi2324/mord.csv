@@ -25,7 +25,6 @@ id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
 23,Centrally Sponsored Schemes,Pradhan Mantri Awas Yojna (PMAY),mord_dord_ttsu_css,mord_dord_ttsu_css_pmayp,54487.0,544870000000.0,6410235294.117647
 24,Centrally Sponsored Schemes,Pradhan Mantri Gram Sadak Yojna,mord_dord_ttsu_css,mord_dord_ttsu_css_pmgsy,19000.0,190000000000.0,2235294117.647059
 25,Mahatma Gandhi National Rural Employment Guarantee Program,MGNREGA-Programme Component,mord_dord_ttsu_css_mgnregp,mord_dord_ttsu_css_mgnregp_mpc,60000.0,600000000000.0,7058823529.411765
-26,Mahatma Gandhi National Rural Employment Guarantee Program,Transfer to National Employment Guarantee Fund,mord_dord_ttsu_css_mgnregp,mord_dord_ttsu_css_mgnregp_ttnegf,60000.0,600000000000.0,7058823529.411765
 27,National Livelihood Mission - Ajeevika,National Rural Livelihood Mission,mord_dord_ttsu_css_nlma,mord_dord_ttsu_css_nlma_nrlm,14129.17,141291700000.0,1662255294.1176472
 28,National Rural Livelihood Mission,NRLM-EAP Component,mord_dord_ttsu_css_nlma_nrlm,mord_dord_ttsu_css_nlma_nrlm_nec,3272.0,32720000000.0,384941176.4705882
 29,National Rural Livelihood Mission,North-east Region,mord_dord_ttsu_css_nlma_nrlm,mord_dord_ttsu_css_nlma_nrlm_ner,1362.52,13625200000.0,160296470.5882353

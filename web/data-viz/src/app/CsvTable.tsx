@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import CsvReader, { DirRecord } from "./CsvReader";
 
 const fetchData = async () => {
-  const csv_table = new CsvReader("/data/budget_edges");
+  const csv_table = new CsvReader();
   return await csv_table.read_dir();
 };
 

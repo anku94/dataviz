@@ -3,16 +3,19 @@
 import React, { Dispatch, ReactNode, createContext, useReducer } from "react";
 
 type AppState = {
+  key: number;
   title: string;
   selected_csv: string;
 };
 
 const InitialAppState: AppState = {
+  key: 0,
   title: "GOI Budget 2023-24",
-  selected_csv: "/data/goi2324.v2/goi.csv",
+  selected_csv: "/dash/data/goi2324/goi.csv",
 };
 
 type AppAction =
+  | { type: "REFRESH" }
   | { type: "RESET" }
   | { type: "SET_TITLE"; title: string }
   | { type: "SET_CSV"; csv: string }
@@ -20,6 +23,8 @@ type AppAction =
 
 function AppStateReducer(state: AppState, action: AppAction) {
   switch (action.type) {
+    case "REFRESH":
+      return { ...state, key: state.key + 1 };
     case "RESET":
       return InitialAppState;
     case "SET_TITLE":
@@ -27,7 +32,7 @@ function AppStateReducer(state: AppState, action: AppAction) {
     case "SET_CSV":
       return { ...state, selected_csv: action.csv };
     case "SET_TITLE_AND_CSV":
-      const selected_csv = `/data/goi2324.v2/${action.csv}.csv`;
+      const selected_csv = `/dash/data/goi2324/${action.csv}.csv`;
       return { ...state, title: action.title, selected_csv: selected_csv };
     default:
       return state;

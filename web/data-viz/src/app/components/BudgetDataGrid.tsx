@@ -16,7 +16,7 @@ import {
   GridRowParams,
   GridValueFormatterParams,
 } from "@mui/x-data-grid";
-import { AppContext } from "../app_context";
+import { AppContext } from "../AppContext";
 
 const rows: GridRowsProp = [{ id: 1, col1: "Hello", col2: "World" }];
 
@@ -80,7 +80,7 @@ const BudgetDemandTable: React.FC = () => {
 
       setData(data_wid);
     });
-  }, []);
+  }, [state.selected_csv]);
 
   const handleRowClick = (params: GridRowParams) => {
     const min_abbrev = (params.row as BudgetCSVRow).dest_abbrev;

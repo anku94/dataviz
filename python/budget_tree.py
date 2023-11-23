@@ -250,6 +250,16 @@ class BudgetTreeUtils:
 
     @staticmethod
     def get_key_abbrev(key: str) -> str:
+        special_abbrevs = {
+            "ministry of coal": "mocoal",
+            "ministry of communications": "mocomm",
+            "ministry of cooperation": "mocoop",
+        }
+
+        key = key.lower()
+        if key in special_abbrevs:
+            return special_abbrevs[key]
+
         ret = re.findall(r"\b\w", key)
         ret = "".join(ret).lower()
         return ret

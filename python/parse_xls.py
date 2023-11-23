@@ -96,36 +96,36 @@ def parse_demands(xls_file: pd.ExcelFile):
     return
 
 
-def setup_second_sheet():
-    xls_path = r"budget_doc/allsbe.xlsx"
-    xls_file = pd.ExcelFile(xls_path, engine="openpyxl")
+# def setup_second_sheet():
+#     xls_path = r"budget_doc/allsbe.xlsx"
+#     xls_file = pd.ExcelFile(xls_path, engine="openpyxl")
 
-    sheet_idxes_to_parse = list(range(41, 49))
-    sheet_idxes_to_parse = [46]
-    for sidx in sheet_idxes_to_parse:
-        sheet = xls_file.parse(sidx, convert_float=False)
-        sheet_struct: BudgetSheet = get_meta_structure(sheet)
-        sheet_struct["sheet_name"] = xls_file.sheet_names[sidx]
+#     sheet_idxes_to_parse = list(range(41, 49))
+#     sheet_idxes_to_parse = [46]
+#     for sidx in sheet_idxes_to_parse:
+#         sheet = xls_file.parse(sidx, convert_float=False)
+#         sheet_struct: BudgetSheet = get_meta_structure(sheet)
+#         sheet_struct["sheet_name"] = xls_file.sheet_names[sidx]
 
-        hsec = sheet_struct["header_sec"]
-        header_slice = sheet.loc[hsec["start"] : hsec["end"]]
-        header = parse_header(header_slice, sheet_struct["amount_cols"])
-        sheet_struct["amount_header"] = header
+#         hsec = sheet_struct["header_sec"]
+#         header_slice = sheet.loc[hsec["start"] : hsec["end"]]
+#         header = parse_header(header_slice, sheet_struct["amount_cols"])
+#         sheet_struct["amount_header"] = header
 
-        print(sheet_struct)
+#         print(sheet_struct)
 
-        logging.info(f"Sheet structure: {json.dumps(sheet_struct, indent=4)}")
+#         logging.info(f"Sheet structure: {json.dumps(sheet_struct, indent=4)}")
 
-        sheet = sheet.dropna(axis=1, how="all")
+#         sheet = sheet.dropna(axis=1, how="all")
 
-        all_sections = sheet_struct["sections"]
-        for section in all_sections:
-            parse_section(sheet, section, sheet_struct)
-        # break
-        # logging.info(f"Sheet structure: {json.dumps(sheet_struct, indent=4)}")
+#         all_sections = sheet_struct["sections"]
+#         for section in all_sections:
+#             parse_section(sheet, section, sheet_struct)
+#         # break
+#         # logging.info(f"Sheet structure: {json.dumps(sheet_struct, indent=4)}")
 
-    # save_parsed_sheet(parsed_sheet, "budget_parsed")
-    return
+#     # save_parsed_sheet(parsed_sheet, "budget_parsed")
+#     return
 
 
 def construct_tree(main_sheet) -> BudgetNode:
@@ -147,27 +147,27 @@ def construct_tree(main_sheet) -> BudgetNode:
     return tree_root
 
 
-def test_tree():
-    name = "Ministry of Defence"
-    total = 593537.64
-    b = BudgetNode(name, total)
-    print(b)
-    pass
+# def test_tree():
+#     name = "Ministry of Defence"
+#     total = 593537.64
+#     b = BudgetNode(name, total)
+#     print(b)
+#     pass
 
 
-def add_heads():
-    tree_root: BudgetNode = None
-    heads: list[dict] = None
-    pass
+# def add_heads():
+#     tree_root: BudgetNode = None
+#     heads: list[dict] = None
+#     pass
 
 
-def visualize_node(node: BudgetNode):
-    df = node.serialize_rows()
-    name_cols = [c for c in df.columns if "name" in c]
-    import plotly.express as px
+# def visualize_node(node: BudgetNode):
+#     df = node.serialize_rows()
+#     name_cols = [c for c in df.columns if "name" in c]
+#     import plotly.express as px
 
-    fig = px.treemap(df, path=name_cols, values="amounts_usdb")
-    fig.show()
+#     fig = px.treemap(df, path=name_cols, values="amounts_usdb")
+#     fig.show()
 
 
 def clean_str(s: str) -> str:
@@ -372,31 +372,28 @@ def gen_min_edge_dfs(json_dir: str, out_dir: str):
     return
 
 
-def run_construct():
-    xls_path = r"budget_doc/allsbe.xlsx"
-    xls_file = pd.ExcelFile(xls_path, engine="openpyxl")
-    main_sheet = xls_file.parse(0, convert_float=False)
-    tree_root = construct_tree(main_sheet)
-    print(tree_root)
-    visualize_node(tree_root)
+# def run_construct():
+#     xls_path = r"../data/budget_doc/allsbe.xlsx"
+#     xls_file = pd.ExcelFile(xls_path, engine="openpyxl")
+#     main_sheet = xls_file.parse(0, convert_float=False)
+#     tree_root = construct_tree(main_sheet)
+#     print(tree_root)
+#     visualize_node(tree_root)
 
-    dno_ids = list(range(1, 3))
-    for did in dno_ids:
-        dname = f"budget_parsed/dno_{did}_*.json"
-        demand_fname = glob.glob(dname)[0]
-        add_json_to_tree_root(tree_root, demand_fname)
+#     dno_ids = list(range(1, 3))
+#     for did in dno_ids:
+#         dname = f"budget_parsed/dno_{did}_*.json"
+#         demand_fname = glob.glob(dname)[0]
+#         add_json_to_tree_root(tree_root, demand_fname)
 
-    # dno1 = glob.glob("budget_parsed/dno_1_*.json")[0]
-    # dno1_root = add_json_to_tree_root(tree_root, dno1)
-    # visualize_node(dno1_root)
-    visualize_node(tree_root)
+#     # dno1 = glob.glob("budget_parsed/dno_1_*.json")[0]
+#     # dno1_root = add_json_to_tree_root(tree_root, dno1)
+#     # visualize_node(dno1_root)
+#     visualize_node(tree_root)
 
 
 def run():
     logging.basicConfig(level=logging.INFO, stream=sys.stdout)
-    # test_tree()
-    # run_construct()
-    # setup_second_sheet()
     # parse_secondary_sheets()
     #  gen_serialized_dfs("budget_parsed", "budget_treemap")
     #  gen_edge_dfs("budget_parsed", "budget_edges")

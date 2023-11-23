@@ -18,23 +18,23 @@ class TestNormalize(unittest.TestCase):
 
 
 class TestBudgetTree(unittest.TestCase):
-    #  def test_get_key_abbrev(self):
-    #  key1 = "Ministry of Defence"
-    #  abbrev = BudgetTreeUtils.get_key_abbrev(key1)
-    #  self.assertEqual(abbrev, "mod")
+    def test_get_key_abbrev(self):
+        key1 = "Ministry of Defence"
+        abbrev = BudgetTreeUtils.get_key_abbrev(key1)
+        self.assertEqual(abbrev, "mod")
 
-    #  key2 = "Ministry of Defence (dept Of TomFoolery)"
-    #  abbrev = BudgetTreeUtils.get_key_abbrev(key2)
-    #  self.assertEqual(abbrev, "moddot")
+        key2 = "Ministry of Defence (dept Of TomFoolery)"
+        abbrev = BudgetTreeUtils.get_key_abbrev(key2)
+        self.assertEqual(abbrev, "moddot")
 
-    #  def test_struct(self):
-    #  tree = BudgetNode(name="Root Node", total_init=9000)
-    #  tree.add_child("Ministry of Defence", 1)
-    #  tree.add_child("Ministry of Finance", 2000)
-    #  mod_child = tree.get_child("Ministry of Defence")
-    #  mod_child.add_child("Dept of Tomfoolery", 500)
+    def test_struct(self):
+        tree = BudgetNode(name="Root Node", total_init=9000)
+        tree.add_child("Ministry of Defence", 1)
+        tree.add_child("Ministry of Finance", 2000)
+        mod_child = tree.get_child("Ministry of Defence")
+        mod_child.add_child("Dept of Tomfoolery", 500)
 
-    #  print(tree)
+        print(tree)
 
     def test_ls(self):
         #  tree = BudgetNode(name="Root Node", total_init=9000)

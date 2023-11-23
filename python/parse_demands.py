@@ -55,7 +55,7 @@ def parse_sheet_inner(sheet_name: str, sheet):
 
 
 def parse_secondary_sheets():
-    xls_path = r"budget_doc/allsbe.xlsx"
+    xls_path = r"../data/budget_doc/allsbe.xlsx"
     xls_file = pd.ExcelFile(xls_path, engine="openpyxl")
 
     for sidx, sheet_name in enumerate(xls_file.sheet_names):

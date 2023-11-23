@@ -1,0 +1,486 @@
+{
+  "sheet_name": "sbe98",
+  "amount_header": {
+    "Gross": 4389.34,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 4389.34
+  },
+  "header": [
+    "Ministry of Textiles",
+    "Demand No. 98",
+    "Ministry of Textiles"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 108
+    },
+    {
+      "name": "B",
+      "start": 108,
+      "end": 120
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 376.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 51.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Textile Commissioner"
+      ],
+      "amount": 63.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Jute Commissioner"
+      ],
+      "amount": 12.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Development Commissioner (Handloom)"
+      ],
+      "amount": 124.96
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Development Commissioner (Handicraft)"
+      ],
+      "amount": 119.61
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Export Promotion Studies & Activities"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "COP and COP Jute"
+      ],
+      "amount": 0.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 3603.78
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Handloom Development Programme"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Handloom Development Programme",
+        "National Handloom Development Programme"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Handicraft Development Programme"
+      ],
+      "amount": 278.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Handicraft Development Programme",
+        "National Handicrafts Development Programme (NHDP)"
+      ],
+      "amount": 238.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Handicraft Development Programme",
+        "Handicraft Cluster Development Program - Handicraft Mega Cluster"
+      ],
+      "amount": 40
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Woollen Textiles",
+        "Integrated Wool Development Programme"
+      ],
+      "amount": 27.11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Silk Textiles",
+        "Central Silk Board"
+      ],
+      "amount": 917.77
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Jute Industries"
+      ],
+      "amount": 142
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Jute Industries",
+        "Scheme for Development of Jute Sector"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Jute Industries",
+        "Subsidy to Jute Corporation of India towards market operation"
+      ],
+      "amount": 42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Textile Infrastructure"
+      ],
+      "amount": 60
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Textile Infrastructure",
+        "Integrated Processing Development Scheme"
+      ],
+      "amount": 60
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Capacity Building"
+      ],
+      "amount": 711.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Capacity Building",
+        "Production Linked Incentive (PLI) Scheme for Textiles"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Capacity Building",
+        "Integrated Scheme for Skill Development"
+      ],
+      "amount": 115
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Capacity Building",
+        "National Technical Textiles Mission."
+      ],
+      "amount": 450
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Capacity Building",
+        "Textile Cluster Development Scheme"
+      ],
+      "amount": 141.54
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "PM - MITRA",
+        "Scheme for Protection of the Handlooms and Implementation of the Handlooms (Reservation of Articles for Production) Act, 1985"
+      ],
+      "amount": 7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "PM - MITRA",
+        "Raw Material Supply Scheme"
+      ],
+      "amount": 160
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 408.61
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies"
+      ],
+      "amount": 160.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "National Institute of Fashion Technology"
+      ],
+      "amount": 104
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Assistant to Textiles Committee"
+      ],
+      "amount": 56.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 23.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Textiles Research Association & IJIRA"
+      ],
+      "amount": 17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Carpet Technology (IICT)"
+      ],
+      "amount": 6.19
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Assistance to Sardar Vallbhabhai Patel Institute of Textiles Management"
+      ],
+      "amount": 0.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings"
+      ],
+      "amount": 222.87
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "Support to PSU's"
+      ],
+      "amount": 222.84
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 1.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Contributions to International Institute of Cotton and Cotton Advisory Committee"
+      ],
+      "amount": 1.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 4267.83
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Village and Small Industries"
+      ],
+      "amount": 1696.96
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Industries"
+      ],
+      "amount": 2494.56
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 49.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Village and Small Industries"
+      ],
+      "amount": 24.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 2.28
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 121.51
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 121.51
+    }
+  ]
+}

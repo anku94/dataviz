@@ -1,0 +1,200 @@
+{
+  "sheet_name": "sbe40",
+  "amount_header": {
+    "Gross": 8948452.71,
+    "Recoveries": -78104.0,
+    "Receipts": -8870348.71,
+    "Net": 0.0
+  },
+  "header": [
+    "Ministry of Finance",
+    "Demand No. 40",
+    "Repayment of Debt"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 42
+    },
+    {
+      "name": "B",
+      "start": 42,
+      "end": 47
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Market Loans"
+      ],
+      "amount": 440192.78
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Buyback / Switching"
+      ],
+      "amount": 100000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "14 days Treasury Bills"
+      ],
+      "amount": 5834338.47
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "91 days Treasury Bills"
+      ],
+      "amount": 711661.48
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "182 days Treasury Bills"
+      ],
+      "amount": 562557.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "364 days Treasury Bills"
+      ],
+      "amount": 443989.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Cash Management Bills"
+      ],
+      "amount": 100000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Ways and Means Advances"
+      ],
+      "amount": 500000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Redemption of securities issued to International Financial Institutions"
+      ],
+      "amount": 7855.09
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Compensation and Other Bonds"
+      ],
+      "amount": 23563.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Redemption of Securities issued to NSSF"
+      ],
+      "amount": 176950.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Gold Monetization Scheme"
+      ],
+      "amount": 187
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Sovereign Gold Bond Scheme"
+      ],
+      "amount": 1500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Internal Debt of Central Government",
+        "Less Receipts"
+      ],
+      "amount": -8824692.71
+    }
+  ]
+}

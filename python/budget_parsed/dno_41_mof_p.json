@@ -1,0 +1,151 @@
+{
+  "sheet_name": "sbe41",
+  "amount_header": {
+    "Gross": 72701.0,
+    "Recoveries": 0.0,
+    "Receipts": -1000.0,
+    "Net": 71701.0
+  },
+  "header": [
+    "Ministry of Finance",
+    "Demand No. 41",
+    "Pensions"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 38
+    },
+    {
+      "name": "B",
+      "start": 38,
+      "end": 45
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 71701
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Pensions and other Retirement Benefits"
+      ],
+      "amount": 68356.25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Pensionary charges of Government of National Capital Territory (NCT) of Delhi"
+      ],
+      "amount": 3301.35
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Social Security and Welfare"
+      ],
+      "amount": 43.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Social Security and Welfare",
+        "Deposit Linked Insurance Scheme"
+      ],
+      "amount": 40.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Social Security and Welfare",
+        "Central Government Employees Insurance Scheme"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Social Security and Welfare",
+        "Others"
+      ],
+      "amount": 0.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Social Security and Welfare",
+        "Deposit Linked Insurance Scheme Payable to employees of Government of NCT Delhi"
+      ],
+      "amount": 1.7
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 71657.6
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Pensions and other Retirement Benefits"
+      ],
+      "amount": 71657.6
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 43.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 43.4
+    }
+  ]
+}

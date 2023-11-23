@@ -1,0 +1,492 @@
+{
+  "sheet_name": "sbe19",
+  "amount_header": {
+    "Gross": 45919.5,
+    "Recoveries": -75.0,
+    "Receipts": -23232.0,
+    "Net": 22612.5
+  },
+  "header": [
+    "Ministry of Defence",
+    "Demand No. 19",
+    "Ministry of Defence (Civil)"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 55
+    },
+    {
+      "name": "B",
+      "start": 55,
+      "end": 84
+    },
+    {
+      "name": "C",
+      "start": 84,
+      "end": 94
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 16687.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat General Services"
+      ],
+      "amount": 2852.87
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Border Roads Development Board Secretariat"
+      ],
+      "amount": 4174.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Coast Guard Organisation"
+      ],
+      "amount": 7197.47
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Defence Estates Organisation"
+      ],
+      "amount": 615.76
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Jammu  and Kashmir Light Infantry"
+      ],
+      "amount": 1797.71
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Armed Forces Tribunal"
+      ],
+      "amount": 49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 6005
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board"
+      ],
+      "amount": 6005
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board",
+        "Works under Border Roads Development Board"
+      ],
+      "amount": 5000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board",
+        "Grants to States for Strategic Roads"
+      ],
+      "amount": 55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board",
+        "Grants to States for Strategic Roads",
+        "Gross Budgetary Support"
+      ],
+      "amount": 55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board",
+        "Other works"
+      ],
+      "amount": 950
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Works executed by Border Roads Development Board",
+        "Other works",
+        "Gross Budgetary Support"
+      ],
+      "amount": 950
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": -80.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": -80.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Housing"
+      ],
+      "amount": 91.99
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Housing",
+        "Maintenance and Repairs to Defence Accounts Department/Defence  Estates Organisation/Canteen Stores Deparment Staff Quarters"
+      ],
+      "amount": 67.44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Housing",
+        "Residential Housing facilities to Defence Accounts Department/Defence Estate Orgnaisation/Canteen Stores Department -Staff Quaters"
+      ],
+      "amount": 24.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Public Works",
+        "Capital Outlay for construction of Defence Accounts Department/Defence Estates Organisation/Armed Forces Tribunal- Other Buildings"
+      ],
+      "amount": 55.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Public Works",
+        "Miscellaneous Loans"
+      ],
+      "amount": 1.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Public Works",
+        "Canteen Stores Department"
+      ],
+      "amount": -229.05
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 16551.45
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Administration of Justice"
+      ],
+      "amount": 44.8
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Customs"
+      ],
+      "amount": 3661.47
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 7512.29
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Police"
+      ],
+      "amount": 1797.71
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Public Works"
+      ],
+      "amount": 37.44
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Miscellaneous General Services"
+      ],
+      "amount": -251.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Fiscal Services"
+      ],
+      "amount": 3536.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Public Works"
+      ],
+      "amount": 55.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 131.09
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 26.15
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 54.55
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Housing"
+      ],
+      "amount": 30.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Housing"
+      ],
+      "amount": 24.55
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 5450.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Roads and Bridges"
+      ],
+      "amount": 950.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Roads and Bridges"
+      ],
+      "amount": 4500.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 556.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 5.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 49.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 500.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Miscellaneous Loans"
+      ],
+      "amount": 1.5
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Hindustan Shipyard Limited"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Bharat Electronics Limited"
+      ],
+      "amount": 550
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Bharat Dynamics Limited"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Mazagon Dock Shipbuilders Limited"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Mishra Dhatu Nigam Limited"
+      ],
+      "amount": 80
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Goa Shipyard Limited"
+      ],
+      "amount": 25
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Garden Reach Shipbuilders and Engineers Ltd"
+      ],
+      "amount": 40
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Hindustan Aeronautics Limited"
+      ],
+      "amount": 2000
+    }
+  ]
+}

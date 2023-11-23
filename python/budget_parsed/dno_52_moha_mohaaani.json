@@ -1,0 +1,137 @@
+{
+  "sheet_name": "sbe52",
+  "amount_header": {
+    "Gross": 6047.14,
+    "Recoveries": -60.0,
+    "Receipts": 0.0,
+    "Net": 5987.14
+  },
+  "header": [
+    "Ministry of Home Affairs",
+    "Demand No. 52",
+    "Ministry of Home Affairs (Andaman and Nicobar Islands",
+    ")"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 85
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 10",
+    "Unnamed: 11",
+    "Unnamed: 12",
+    "Unnamed: 13",
+    "Unnamed: 14",
+    "Unnamed: 15",
+    "Unnamed: 18",
+    "Unnamed: 19",
+    "Unnamed: 20",
+    "Unnamed: 21",
+    "Unnamed: 24",
+    "Unnamed: 25"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 2646.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 74.26
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Other Establishment"
+      ],
+      "amount": 2572.24
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 3340.64
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 3340.64
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT"
+      ],
+      "amount": 0.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "UT's Supplement to Centrally Sponsored Schemes"
+      ],
+      "amount": 30.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Tribal Area Component"
+      ],
+      "amount": 226.76
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Grantee / Other Bodies"
+      ],
+      "amount": 9.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Grantee / Other Bodies",
+        "SOVTECH",
+        "Other Grantee Bodies"
+      ],
+      "amount": 3.9
+    }
+  ]
+}

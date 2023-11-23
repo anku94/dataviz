@@ -1,0 +1,262 @@
+{
+  "sheet_name": "sbe95",
+  "amount_header": {
+    "Gross": 12543.91,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 12543.91
+  },
+  "header": [
+    "Deparment of Space",
+    "Demand No. 95",
+    "Department of Space"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 42
+    },
+    {
+      "name": "B",
+      "start": 42,
+      "end": 50
+    },
+    {
+      "name": "C",
+      "start": 50,
+      "end": 54
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 450.91
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 154
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Indian Space Research Organisation (ISRO) Head Quarters"
+      ],
+      "amount": 201.91
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Indian National Space Promotion and Authorization Centre (IN-SPACe)"
+      ],
+      "amount": 95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 11669.41
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Space Technology"
+      ],
+      "amount": 9440.66
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Space Applications"
+      ],
+      "amount": 1558.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Space Sciences"
+      ],
+      "amount": 138.8
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "INSAT Satellite Systems"
+      ],
+      "amount": 531
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 423.59
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 408.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Space Science and Technology (IIST)"
+      ],
+      "amount": 122
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "North Eastern Space Applications Centre (NE-SAC)"
+      ],
+      "amount": 44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Atmospheric Research Laboratory (NARL)"
+      ],
+      "amount": 44.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Physical Research Laboratory (PRL)"
+      ],
+      "amount": 198
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings",
+        "NewSpace India Limited (NSIL)"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 13.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "International Co-operation"
+      ],
+      "amount": 13.9
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 12543.91
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Space Research"
+      ],
+      "amount": 6033.1
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 154.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Space Research"
+      ],
+      "amount": 6356.81
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "NewSpace India Limited"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "NewSpace India Limited",
+        "NewSpace India LImited"
+      ],
+      "amount": 1
+    }
+  ]
+}

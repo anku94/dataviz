@@ -1,0 +1,352 @@
+{
+  "sheet_name": "sbe74",
+  "amount_header": {
+    "Gross": 2207.74,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 2207.74
+  },
+  "header": [
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Demand No. 74",
+    "Ministry of Personnel, Public Grievances and Pensions"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 46
+    },
+    {
+      "name": "B",
+      "start": 46,
+      "end": 62
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 1909.39
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 184.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices"
+      ],
+      "amount": 1722.99
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Central Bureau of Investigation"
+      ],
+      "amount": 946.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Staff Selection Commission"
+      ],
+      "amount": 399.73
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Central Administrative Tribunal"
+      ],
+      "amount": 163.42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Training Division, Institute of Secretariat Training & Management(ISTM) and Lal Bahadur Shastri National Academy of Administration(LBSNAA)"
+      ],
+      "amount": 88.87
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Central Information Commission(CIC) and Public Enterprises Selection Board(PESB)"
+      ],
+      "amount": 32.46
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Attached and Subordinate Offices",
+        "Lokpal"
+      ],
+      "amount": 92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Loans to All India Service(AIS) Officers"
+      ],
+      "amount": 2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 226.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Training Schemes"
+      ],
+      "amount": 75.81
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Programme for Civil Services Capacity Building"
+      ],
+      "amount": 105.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Scheme for Administrative Reforms"
+      ],
+      "amount": 21.75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Pensioner's Portal"
+      ],
+      "amount": 3.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Integrated Building for Institute of Secretariat Training and Management (ISTM) and other Institute of Department of Personnel and Training (DoPT)"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 71.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 68.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Public Administration (IIPA) and National Centre for Good Governance(NCGG)"
+      ],
+      "amount": 54.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Autonomous Bodies of DoPT"
+      ],
+      "amount": 14.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Right to Information( RTI)"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 2205.74
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Administration of Justice"
+      ],
+      "amount": 141.78
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Public Service Commission"
+      ],
+      "amount": 398.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 184.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Police"
+      ],
+      "amount": 859.94
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Vigilance"
+      ],
+      "amount": 20.83
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Administrative Services"
+      ],
+      "amount": 326.49
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Police"
+      ],
+      "amount": 70.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Public Works"
+      ],
+      "amount": 159.33
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 39.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 5.04
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 2.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Loans and Advances to State Governments"
+      ],
+      "amount": 2.0
+    }
+  ]
+}

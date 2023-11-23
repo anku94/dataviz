@@ -1,0 +1,456 @@
+{
+  "sheet_name": "sbe27",
+  "amount_header": {
+    "Gross": 16549.04,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 16549.04
+  },
+  "header": [
+    "Ministry of Electronics and Information Technology",
+    "Demand No. 27",
+    "Ministry of Electronics and Information Technology"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 69
+    },
+    {
+      "name": "B",
+      "start": 69,
+      "end": 80
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 2040.76
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 140
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "National Informatics Centre"
+      ],
+      "amount": 1527.26
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Authorities"
+      ],
+      "amount": 373.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Authorities",
+        "Standardization Testing and Quality Certification (STQC)"
+      ],
+      "amount": 135.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Authorities",
+        "Cyber Security (CERT-In)"
+      ],
+      "amount": 225
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Authorities",
+        "Controller of Certifying Authorities (CCA)"
+      ],
+      "amount": 13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 12440.28
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program"
+      ],
+      "amount": 4795.24
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Electronic Governance"
+      ],
+      "amount": 555.74
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Electronic Governance",
+        "Program Component"
+      ],
+      "amount": 530.74
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Electronic Governance",
+        "EAP Component"
+      ],
+      "amount": 25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "National Knowledge Network"
+      ],
+      "amount": 352
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Promotion of Electronics and IT HW Manufacturing  (MSIPS, EDF and Manufacturing Clusters)"
+      ],
+      "amount": 700
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Promotion of IT/ITeS Industries"
+      ],
+      "amount": 150
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Cyber Security Projects"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "R and D in IT/Electronics/CCBT"
+      ],
+      "amount": 600
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Promotion of Digital payment"
+      ],
+      "amount": 1500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DIGITAL INDIA Program",
+        "Capacity Building and Skill Development Scheme"
+      ],
+      "amount": 537.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India"
+      ],
+      "amount": 3000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India",
+        "Modified Scheme for setting up of Compound Semiconducors/Silicon Photonics/Sensors Fab/Discrete Semiconductors Fab and Semiconductor Assembly, Testing, Marking and Packaging (ATMP)/Outsourced Semiconductor Assembly and Test (OSAT) facilities in India"
+      ],
+      "amount": 1799.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India",
+        "Modified Scheme for Setting up of Semiconductor Fabs in India"
+      ],
+      "amount": 1000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Modified Programme for Development of Semiconductors and Display Manufacturing Ecosystem in India",
+        "Design Linked Incentive Scheme"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Production Linked Incentive Scheme (PLI)"
+      ],
+      "amount": 4645.04
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Production Linked Incentive Scheme (PLI)",
+        "Production linked Incentive for Large Scale Electronics Manufacturing"
+      ],
+      "amount": 4499.04
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Production Linked Incentive Scheme (PLI)",
+        "Production Linked Incentive for IT Hardware"
+      ],
+      "amount": 146
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 2068
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 2057
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Centre for Development of Advanced Computing (C-DAC)"
+      ],
+      "amount": 270
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Centre for Materials for Electronics and Information Technology (C-MET)"
+      ],
+      "amount": 110
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Society for Applied Microwave Electronics Engineering and Research (SAMEER)"
+      ],
+      "amount": 160
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Unique Identification Authority of India (UIDAI)"
+      ],
+      "amount": 940
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Bhaskaracharya National Institute for Space Applications and Geo-Information"
+      ],
+      "amount": 44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Semi Conductor Laboratory (SCL)"
+      ],
+      "amount": 533
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Digital India Corporation erstwhile Media Lab Asia"
+      ],
+      "amount": 11
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 15305.01
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Industries"
+      ],
+      "amount": 12544.8
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 1451.53
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Census Surveys and Statistics"
+      ],
+      "amount": 940.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Telecommunication and Electronic Industries"
+      ],
+      "amount": 152.95
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 215.73
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 1244.03
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 1244.03
+    }
+  ]
+}

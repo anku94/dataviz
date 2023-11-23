@@ -1,0 +1,78 @@
+{
+  "sheet_name": "sbe34",
+  "amount_header": {
+    "Gross": 94.92,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 94.92
+  },
+  "header": [
+    "Ministry of Finance",
+    "Demand No. 34",
+    "Department of Investment and Public Asset Management (DIPAM)"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "name": "B",
+      "start": 17,
+      "end": 22
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 14",
+    "Unnamed: 16",
+    "Unnamed: 18",
+    "Unnamed: 20",
+    "Unnamed: 22",
+    "Unnamed: 24",
+    "Unnamed: 28",
+    "Unnamed: 30",
+    "Unnamed: 32",
+    "Unnamed: 34",
+    "Unnamed: 38",
+    "Unnamed: 40"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat - Economic Services"
+      ],
+      "amount": 94.92
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 94.92
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 93.46
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 1.46
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "sheet_name": "sbe68",
+  "amount_header": {
+    "Gross": 22137.95,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 22137.95
+  },
+  "header": [
+    "Ministry of Micro, Small and Medium Enterprises",
+    "Demand No. 68",
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 89
+    },
+    {
+      "name": "B",
+      "start": 89,
+      "end": 101
+    },
+    {
+      "name": "C",
+      "start": 101,
+      "end": 103
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 265.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 32.85
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Development Commissioner (MSME)"
+      ],
+      "amount": 232.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 21852.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries"
+      ],
+      "amount": 1289
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Scheme for Fund for Regeneration of Traditional Industries (SFURTI)"
+      ],
+      "amount": 280
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Coir Vikas Yojana"
+      ],
+      "amount": 92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Khadi Gramodyog Vikas Yojana"
+      ],
+      "amount": 917
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Khadi Gramodyog Vikas Yojana",
+        "Khadi Grant (KG)"
+      ],
+      "amount": 375.98
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Khadi Gramodyog Vikas Yojana",
+        "Khadi Vikas Yojana"
+      ],
+      "amount": 498.42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Development of Khadi, Village and Coir Industries",
+        "Khadi Gramodyog Vikas Yojana",
+        "Gramodyog Vikas Yojana"
+      ],
+      "amount": 42.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Technology Upgradation and Quality Certification"
+      ],
+      "amount": 74.95
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Technology Upgradation and Quality Certification",
+        "ASPIRE (Promotion of Innovation, Rural Industry and Entrepreneurship)"
+      ],
+      "amount": 22.23
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Technology Upgradation and Quality Certification",
+        "MSME Champions Scheme"
+      ],
+      "amount": 52.72
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes"
+      ],
+      "amount": 17300.12
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes",
+        "Prime Minister Employment Generation Programme (PMEGP)"
+      ],
+      "amount": 2700
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes",
+        "Credit Support Programme"
+      ],
+      "amount": 500.08
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Prime Minister Employment Generation Programme (PMEGP) and Other Credit Support Schemes",
+        "Guarantee Emergency Credit Line (GECL) facility to eligible MSME borrowers"
+      ],
+      "amount": 14100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Credit Linked Capital Subsidy (CLCS)"
+      ],
+      "amount": 1.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Market Promotion Scheme"
+      ],
+      "amount": 96.35
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Market Promotion Scheme",
+        "Procurement and Marketing Support Scheme"
+      ],
+      "amount": 96.35
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Studies, Publicity & International Cooperation (SPIC)"
+      ],
+      "amount": 36.07
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Enterpreneurship and Skill Development"
+      ],
+      "amount": 685
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Enterpreneurship and Skill Development",
+        "Assistance to Training Institutions"
+      ],
+      "amount": 30
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Enterpreneurship and Skill Development",
+        "Fund of Funds"
+      ],
+      "amount": 575
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Enterpreneurship and Skill Development",
+        "Entrepreneurship cum Skill Development Programme (ESDP)"
+      ],
+      "amount": 80
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme"
+      ],
+      "amount": 2270
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Establishment of New Technology Centres"
+      ],
+      "amount": 450
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Technology Centre Systems Programme (TCSP) EAP"
+      ],
+      "amount": 350
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Raising and Accelerating MSME Performance - RAMP"
+      ],
+      "amount": 1170
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Micro and Small Enterprise-Cluster Development Programme (MSE-CDP)"
+      ],
+      "amount": 150
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Tool Rooms & Technical Institutions (TR/TIs)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Programme",
+        "Promotion of MSMEs in NER and Sikkim"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Evaluation Studies"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Evaluation Studies",
+        "National Schedule Caste/Schedule Tribe Hub Centre"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Mahatma Gandhi Institute for Rural Industrialisation."
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 19848.68
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Village and Small Industries"
+      ],
+      "amount": 19279.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 32.85
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Village and Small Industries"
+      ],
+      "amount": 536.62
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 2289.27
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 2231.37
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 57.9
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "National Small Industries Corporation"
+      ],
+      "amount": 520
+    }
+  ]
+}

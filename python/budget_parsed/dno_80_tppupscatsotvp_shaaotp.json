@@ -1,0 +1,104 @@
+{
+  "sheet_name": "sbe80",
+  "amount_header": {
+    "Gross": 90.14,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 90.14
+  },
+  "header": [
+    "The President, Parliament, Union Public Service Commission and the Secretariat \u00a0of the Vice President",
+    "Demand No. 80",
+    "Staff, Household and Allowances of the President"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 22
+    },
+    {
+      "name": "B",
+      "start": 22,
+      "end": 27
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 90.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "President"
+      ],
+      "amount": 0.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 53.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Other  Expenditure"
+      ],
+      "amount": 36.22
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 90.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "President, Vice President/Governor, Administrator of Union Territories"
+      ],
+      "amount": 87.73
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 2.41
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "sheet_name": "sbe20",
+  "amount_header": {
+    "Gross": 277033.61,
+    "Recoveries": -73.36,
+    "Receipts": -6840.11,
+    "Net": 270120.14
+  },
+  "header": [
+    "Ministry of Defence",
+    "Demand No. 20",
+    "Defence Services (Revenue)"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 81
+    },
+    {
+      "name": "B",
+      "start": 81,
+      "end": 89
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 270120.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Army"
+      ],
+      "amount": 182649.97
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Navy"
+      ],
+      "amount": 32284.2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Air Force"
+      ],
+      "amount": 44345.58
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Defence  Ordnance Factories"
+      ],
+      "amount": 426.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Research and Development"
+      ],
+      "amount": 10413.89
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 270120.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Defence Services - Army"
+      ],
+      "amount": 182649.97
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Defence Services - Navy"
+      ],
+      "amount": 32284.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Defence Services - Air Force"
+      ],
+      "amount": 44345.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Defence Services - Ordnance Factories"
+      ],
+      "amount": 426.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Defence Services - Research and Development"
+      ],
+      "amount": 10413.89
+    }
+  ]
+}

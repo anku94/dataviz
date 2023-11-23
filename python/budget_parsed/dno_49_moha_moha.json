@@ -1,0 +1,396 @@
+{
+  "sheet_name": "sbe49",
+  "amount_header": {
+    "Gross": 5901.31,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 5901.31
+  },
+  "header": [
+    "Ministry of Home Affairs",
+    "Demand No. 49",
+    "Ministry of Home Affairs"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 56
+    },
+    {
+      "name": "B",
+      "start": 56,
+      "end": 82
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "National Disaster Response Force (NDRF)"
+      ],
+      "amount": 1601.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 1504.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Freedom Fighters (pension and other benefits)"
+      ],
+      "amount": 653.08
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Helicopter Services"
+      ],
+      "amount": 126
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Helicopter Services",
+        "North Eastern Region"
+      ],
+      "amount": 110
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Helicopter Services",
+        "Ladakh"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Helicopter Services",
+        "Jammu and Kashmir and Himachal Pradesh"
+      ],
+      "amount": 11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Disaster Management"
+      ],
+      "amount": 393.65
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Disaster Management",
+        "Infrastructure for Disaster Management"
+      ],
+      "amount": 141.73
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Disaster Management",
+        "Other Disaster Management Schemes"
+      ],
+      "amount": 251.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Civic Action Programme and Media Plan"
+      ],
+      "amount": 30
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 1728.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Human Right Commission (NHRC)"
+      ],
+      "amount": 70
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 1658.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Census, Survey and Statistics/Registrar General of India(RGI)"
+      ],
+      "amount": 1564.65
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Other Central Miscellaneous Expenditure"
+      ],
+      "amount": 93.48
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Cyclone Risk Mitigation Project"
+      ],
+      "amount": 110
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers"
+      ],
+      "amount": 67.31
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Home Guards"
+      ],
+      "amount": 18.31
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Civil Defence"
+      ],
+      "amount": 8
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Payment to State Governments for Administration of Central Acts"
+      ],
+      "amount": 40
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Grants to Autonomous Council for North Eastern States"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 992.66
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Council of Ministers"
+      ],
+      "amount": 1.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 588.46
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Jails"
+      ],
+      "amount": 1.51
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Administrative Services"
+      ],
+      "amount": 270.23
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 131.42
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 2801.33
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 691.19
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Relief on account of Natural Calamities"
+      ],
+      "amount": 1832.07
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Other Social Services"
+      ],
+      "amount": 0.12
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 277.95
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 1638.64
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Civil Aviation"
+      ],
+      "amount": 115.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Census Surveys and Statistics"
+      ],
+      "amount": 1504.14
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 19.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 468.68
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 17.51
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 440.81
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 10.36
+    }
+  ]
+}

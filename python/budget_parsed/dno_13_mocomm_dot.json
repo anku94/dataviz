@@ -1,0 +1,448 @@
+{
+  "sheet_name": "sbe13",
+  "amount_header": {
+    "Gross": 108153.25,
+    "Recoveries": -10400.0,
+    "Receipts": -174.2,
+    "Net": 97579.05
+  },
+  "header": [
+    "Ministry of Communications",
+    "Demand No. 13",
+    "Department of Telecommunications"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 80
+    },
+    {
+      "name": "B",
+      "start": 80,
+      "end": 99
+    },
+    {
+      "name": "C",
+      "start": 99,
+      "end": 106
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 22042.91
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat -Economic Services"
+      ],
+      "amount": 1091.38
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Pensions"
+      ],
+      "amount": 20650
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Labour Employment and Skill Development"
+      ],
+      "amount": 0.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Bodies"
+      ],
+      "amount": 238.53
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Bodies",
+        "Telecom Regulatory Authority of India General Fund"
+      ],
+      "amount": 214.35
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Regulatory Bodies",
+        "Telecom Disputes Settlement and Appellate Tribunal (TDSAT)"
+      ],
+      "amount": 24.18
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Human Resource Management(NICF)"
+      ],
+      "amount": 58.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Special Assistance for Swachhta Action Plan"
+      ],
+      "amount": 2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Artificial Intelligence and Face Recognition Powered Solution for Telecom SIM Subscriber Verification (ASTR)"
+      ],
+      "amount": 0.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Mandatory Testing and Certification of Telecom Equipment (MTCTE)"
+      ],
+      "amount": 1.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 14843.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Universal Service Obligation Fund"
+      ],
+      "amount": 10400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Defence Spectrum"
+      ],
+      "amount": 2158
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects"
+      ],
+      "amount": 2285.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Domestic Industry Incentivisation Scheme"
+      ],
+      "amount": 915
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Wireless Planning and Coordination"
+      ],
+      "amount": 756.42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Wireless Planning and Coordination",
+        "Wireless Planning and Coordination"
+      ],
+      "amount": 220
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Wireless Planning and Coordination",
+        "Wireless Monitoring  Services"
+      ],
+      "amount": 536.42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Telecom Engineering Centre"
+      ],
+      "amount": 12
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Telecom Testing and Security Certification Centre"
+      ],
+      "amount": 24
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Telecom Computer Emergency Response Team(T-Cert)"
+      ],
+      "amount": 351.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Funding to BSNL for providing Telecom Connectivity for Amarnath Yatra"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "5G Connectivity Test Bed"
+      ],
+      "amount": 5.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "DoT Projects",
+        "Digital Intelligence Unit Project"
+      ],
+      "amount": 220
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 60692.82
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Centre for Development of Telematics (C-DoT)"
+      ],
+      "amount": 550
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Public Sector Undertakings"
+      ],
+      "amount": 60109.82
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "International Cooperation"
+      ],
+      "amount": 33
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 20650.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Pensions and other Retirement Benefits"
+      ],
+      "amount": 20650.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 0.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Labour, Employment and Skill Development"
+      ],
+      "amount": 0.4
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 75657.85
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Communication Services"
+      ],
+      "amount": 13599.97
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 1081.86
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Telecommunication and Electronic Industries"
+      ],
+      "amount": 160.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other Communication Services"
+      ],
+      "amount": 60816.02
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 1270.8
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 555.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Capital Outlay on North Eastern Areas"
+      ],
+      "amount": 715.8
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Mahanagar Telephone Nigam Limited"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "C DOT",
+        "Bharat Broadband Network Limited"
+      ],
+      "amount": 6000
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "C DOT",
+        "Telecommunications Consultant India Limited"
+      ],
+      "amount": 262.94
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "C DOT",
+        "Bharat Sanchar Nigam Limited"
+      ],
+      "amount": 52937
+    }
+  ]
+}

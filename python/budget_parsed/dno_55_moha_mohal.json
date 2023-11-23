@@ -1,0 +1,366 @@
+{
+  "sheet_name": "sbe55",
+  "amount_header": {
+    "Gross": 5968.25,
+    "Recoveries": -10.25,
+    "Receipts": 0.0,
+    "Net": 5958.0
+  },
+  "header": [
+    "Ministry of Home Affairs",
+    "Demand No. 55",
+    "Ministry of Home Affairs (Ladakh)"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 63
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 10",
+    "Unnamed: 11",
+    "Unnamed: 12",
+    "Unnamed: 13",
+    "Unnamed: 14",
+    "Unnamed: 15",
+    "Unnamed: 18",
+    "Unnamed: 19",
+    "Unnamed: 20",
+    "Unnamed: 21",
+    "Unnamed: 24",
+    "Unnamed: 25"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 1784.69
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Secretariat"
+      ],
+      "amount": 82.07
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Other Establishment"
+      ],
+      "amount": 1702.62
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 4173.31
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 4173.31
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT"
+      ],
+      "amount": 561
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Welfare of Tribal and Other Backward Classes"
+      ],
+      "amount": 0.76
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Disaster Management"
+      ],
+      "amount": 24.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Agriculture and Allied Schemes"
+      ],
+      "amount": 13.88
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Water Supply and Sanitation"
+      ],
+      "amount": 6.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Rural Development"
+      ],
+      "amount": 50.02
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Power"
+      ],
+      "amount": 141.3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Forestry and Wildlife"
+      ],
+      "amount": 3.11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Civil Supplies"
+      ],
+      "amount": 57.2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Medical and Public Health"
+      ],
+      "amount": 0.85
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Education, Sports, Arts and Culture"
+      ],
+      "amount": 12.53
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Social Welfare"
+      ],
+      "amount": 22.88
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Village and Small Industries"
+      ],
+      "amount": 3.16
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Information and Publicity"
+      ],
+      "amount": 1.07
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Roads and Bridges"
+      ],
+      "amount": 67.2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Civil Aviation"
+      ],
+      "amount": 37.05
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Tourism"
+      ],
+      "amount": 31.29
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Public Works"
+      ],
+      "amount": 40.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Housing"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Urban Development"
+      ],
+      "amount": 28.81
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Police and Fire Control"
+      ],
+      "amount": 15.13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Communication"
+      ],
+      "amount": 0.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Schemes of UT",
+        "Transport"
+      ],
+      "amount": 0.25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "UT's Supplement to Centrally Sponsored Schemes"
+      ],
+      "amount": 0.64
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Tribal Area Component"
+      ],
+      "amount": 3487.56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Grantee / Other Bodies"
+      ],
+      "amount": 124.11
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "sheet_name": "sbe70",
+  "amount_header": {
+    "Gross": 3097.6,
+    "Recoveries": 0.0,
+    "Receipts": 0.0,
+    "Net": 3097.6
+  },
+  "header": [
+    "Ministry of Minority Affairs",
+    "Demand No. 70",
+    "Ministry of Minority Affairs"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 66
+    },
+    {
+      "name": "B",
+      "start": 66,
+      "end": 81
+    },
+    {
+      "name": "C",
+      "start": 81,
+      "end": 83
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 2336.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Quami Waqf Board Taraqqiati Scheme and Sahari Waqf Sampati Vikas Yojna"
+      ],
+      "amount": 17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment"
+      ],
+      "amount": 1689
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Pre-Matric Scholarship for Minorities"
+      ],
+      "amount": 433
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Post-Matric Scholarship for Minorities"
+      ],
+      "amount": 1065
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Merit-cum-Means Scholarship for professional and technical courses (under graduate and post-graduate)"
+      ],
+      "amount": 44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Maulana Azad National Fellowship for Minority Students"
+      ],
+      "amount": 96
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Free Coaching and allied schemes for Minorities"
+      ],
+      "amount": 30
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Education  Empowerment",
+        "Interest Subsidy on Educational loans for Overseas Studies"
+      ],
+      "amount": 21
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Skill  Development and Livelihoods"
+      ],
+      "amount": 64.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Skill  Development and Livelihoods",
+        "Grants in aid to State Channelizing Agencies (SCAs) for implementation of NMDFC Programmes"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Skill  Development and Livelihoods",
+        "Equity contribution to National Minorities Development and Finance Corporation (NMDFC)"
+      ],
+      "amount": 61
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special  Programmes of Minorities"
+      ],
+      "amount": 26.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special  Programmes of Minorities",
+        "Research/Studies, Publicity, Monitoring and Evaluation of development Schemes for Minorities"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Special  Programmes of Minorities",
+        "Scheme for containing population decline of small minority community"
+      ],
+      "amount": 6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "PM-Viraasat Ka Samvardhan (PM VIKAS)",
+        "PM-VIKAS Committed Liabilities"
+      ],
+      "amount": 540
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 19.1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies"
+      ],
+      "amount": 19
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "National Commission for Minorities"
+      ],
+      "amount": 15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Special Officer for Linguistic Minorities"
+      ],
+      "amount": 4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 610
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Umbrella Programme for Development of Minorities"
+      ],
+      "amount": 610
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Umbrella Programme for Development of Minorities",
+        "Pradhan Mantri Jan Vikas Karyakaram"
+      ],
+      "amount": 600
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Umbrella Programme for Development of Minorities",
+        "Education Scheme for Madrasas and Minorities"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 2540.36
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Welfare of Scheduled Castes, Scheduled Tribes, Other Backward Classes and Minorities"
+      ],
+      "amount": 1797.98
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 646.38
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 31.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Welfare of Scheduled Castes, Scheduled Tribes , Other Backward Classes and Minorities"
+      ],
+      "amount": 61.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 4.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 557.24
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 309.7
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 247.21
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 0.33
+    },
+    {
+      "head": [
+        "C. Investment in Public Enterprises",
+        "Equity contribution to National Minorities Development and Finance Corporation"
+      ],
+      "amount": 947
+    }
+  ]
+}

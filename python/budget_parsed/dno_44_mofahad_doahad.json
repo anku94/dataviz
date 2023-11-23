@@ -1,0 +1,312 @@
+{
+  "sheet_name": "sbe44",
+  "amount_header": {
+    "Gross": 4687.85,
+    "Recoveries": 0.0,
+    "Receipts": -360.0,
+    "Net": 4327.85
+  },
+  "header": [
+    "Ministry of Fisheries, Animal Husbandry and Dairying",
+    "Demand No. 44",
+    "Department of Animal Husbandry and Dairying"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 55
+    },
+    {
+      "name": "B",
+      "start": 55,
+      "end": 70
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Total - Secretariat"
+      ],
+      "amount": 56.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Animal Health Institute"
+      ],
+      "amount": 27
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Small Livestock Institute"
+      ],
+      "amount": 45
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Breed Improvement Institute"
+      ],
+      "amount": 60
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 2689.71
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Livestock Health and Disease Control Programme"
+      ],
+      "amount": 2349.71
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Infrastructure Development Fund"
+      ],
+      "amount": 340
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 43.81
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies"
+      ],
+      "amount": 13.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Animal Welfare Board"
+      ],
+      "amount": 12
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "Committee for the purpose of Control and Supervision of experiments on Animal (CPCSEA)"
+      ],
+      "amount": 1.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Veterinary Council of India"
+      ],
+      "amount": 30.3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 1405.93
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes"
+      ],
+      "amount": 1405.93
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes",
+        "Dairy Development"
+      ],
+      "amount": 326.93
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes",
+        "Rashtriya Gokul Mission"
+      ],
+      "amount": 600
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes",
+        "Livestock Census and Integrated Sample Survey"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes",
+        "National Livestock Mission"
+      ],
+      "amount": 410
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries and receipts are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Development Programmes",
+        "Dairying Through Cooperatives (EAP)"
+      ],
+      "amount": 19
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 3233.09
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Animal Husbandry"
+      ],
+      "amount": 2650.19
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Dairy Development"
+      ],
+      "amount": 489.02
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 55.12
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Animal Husbandry"
+      ],
+      "amount": 16.58
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Dairy Development"
+      ],
+      "amount": 10.9
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 1.28
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Loans for Dairy Development"
+      ],
+      "amount": 10.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 1094.76
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 372.51
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 694.75
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 27.5
+    }
+  ]
+}

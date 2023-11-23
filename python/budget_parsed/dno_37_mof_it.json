@@ -1,0 +1,359 @@
+{
+  "sheet_name": "sbe37",
+  "amount_header": {
+    "Gross": 38510.58,
+    "Recoveries": -0.5,
+    "Receipts": 0.0,
+    "Net": 38510.08
+  },
+  "header": [
+    "Ministry of Finance",
+    "Demand No. 37",
+    "Indirect Taxes"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 64
+    },
+    {
+      "name": "B",
+      "start": 64,
+      "end": 75
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre"
+      ],
+      "amount": 10955.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Customs"
+      ],
+      "amount": 2943.11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Customs",
+        "Collection of Customs"
+      ],
+      "amount": 2713.11
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Customs",
+        "Establishment Expenditure of Customs"
+      ],
+      "amount": 230
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax"
+      ],
+      "amount": 8012.88
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Collection of Union Excise Duties / Central Goods & Service Tax"
+      ],
+      "amount": 5318.33
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Establishment Expenditure of Excise /Central Goods & Service Tax"
+      ],
+      "amount": 700.55
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Housing - Maintenance and Repairs"
+      ],
+      "amount": 19
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Purchase of ready built Accomodation - Office Building"
+      ],
+      "amount": 950
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Purchase of Ready Built Accomodation - Residential Buildings"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Establishment Expenditure of the Centre",
+        "Union Excise Duties /Central Goods & Service Tax",
+        "Establishment Expenditure of CGST"
+      ],
+      "amount": 625
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 27554.59
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears."
+      ],
+      "amount": 4080.59
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Merchandise Export from India Scheme (MEIS)."
+      ],
+      "amount": 999.15
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Service Exports from India Scheme (SEIS)."
+      ],
+      "amount": 1390.45
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Rebate on State and Central Taxes and Levies (RoSCTL)."
+      ],
+      "amount": 91.08
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Target Plus Scheme."
+      ],
+      "amount": 826.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Focus Product Scheme and Market Linked Product Scheme."
+      ],
+      "amount": 301.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Status Holders Incentive Scheme (SHIS)."
+      ],
+      "amount": 132.68
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Rebate on State Levies Scheme (RoSL)."
+      ],
+      "amount": 52.8
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Focus Market Scheme."
+      ],
+      "amount": 89.89
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Vishesh Krishi and Gram Udyog Yojna."
+      ],
+      "amount": 72.51
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "2 percent Additional Adhoc Bonus Incentive for Mobile Phones."
+      ],
+      "amount": 4.27
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Onetime payment of Arrears.",
+        "Incremental Export Incentivisation Scheme (Annual and Quarterly)."
+      ],
+      "amount": 119.92
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Remission of Duties and Taxes on Exported Products (RoDTEP)"
+      ],
+      "amount": 15069.34
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Rebate on State and Central Taxes and Levies (RoSCTL)"
+      ],
+      "amount": 8404.66
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 38091.08
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Customs"
+      ],
+      "amount": 30267.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Collection Charges under Central Goods and Services Tax and Integrated Goods and Services Tax"
+      ],
+      "amount": 6018.88
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Fiscal Services"
+      ],
+      "amount": 855.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Public Works"
+      ],
+      "amount": 950.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 419.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Housing"
+      ],
+      "amount": 19.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Housing"
+      ],
+      "amount": 400.0
+    }
+  ]
+}

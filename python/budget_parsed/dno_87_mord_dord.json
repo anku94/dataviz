@@ -1,0 +1,357 @@
+{
+  "sheet_name": "sbe87",
+  "amount_header": {
+    "Gross": 236545.0,
+    "Recoveries": -79000.0,
+    "Receipts": 0.0,
+    "Net": 157545.0
+  },
+  "header": [
+    "Ministry of Rural Development",
+    "Demand No. 87",
+    "Department of Rural Development"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 81
+    },
+    {
+      "name": "B",
+      "start": 81,
+      "end": 99
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 113.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Management Support to Rural Development Programs and Strengthening of District Planning Process"
+      ],
+      "amount": 113.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 115
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Institute of Rural Development and Panchayati Raj, Hyderabad"
+      ],
+      "amount": 115
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 157252.49
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme"
+      ],
+      "amount": 9636.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)"
+      ],
+      "amount": 6634.32
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "National Family Benefit Scheme"
+      ],
+      "amount": 659
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "Indira Gandhi National Widow Pension Scheme(IGNWPS)"
+      ],
+      "amount": 2026.99
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "Indira Gandhi National Disability Pension Scheme(IGNDPS)"
+      ],
+      "amount": 290
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "Annapurna Scheme"
+      ],
+      "amount": 10.01
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Social Assistance Progamme",
+        "Administrative Expenditure"
+      ],
+      "amount": 16
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mahatma Gandhi National Rural Employment Guarantee Program"
+      ],
+      "amount": 60000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mahatma Gandhi National Rural Employment Guarantee Program",
+        "Transfer to National Employment Guarantee Fund"
+      ],
+      "amount": 60000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mahatma Gandhi National Rural Employment Guarantee Program",
+        "MGNREGA-Programme Component"
+      ],
+      "amount": 60000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Gram Sadak Yojna"
+      ],
+      "amount": 19000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Livelihood Mission - Ajeevika",
+        "National Rural Livelihood Mission"
+      ],
+      "amount": 14129.17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Livelihood Mission - Ajeevika",
+        "National Rural Livelihood Mission",
+        "NRLM-Programme Component"
+      ],
+      "amount": 9494.65
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Livelihood Mission - Ajeevika",
+        "National Rural Livelihood Mission",
+        "NRLM-EAP Component"
+      ],
+      "amount": 3272
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Livelihood Mission - Ajeevika",
+        "National Rural Livelihood Mission",
+        "North-east Region"
+      ],
+      "amount": 1362.52
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Pradhan Mantri Awas Yojna (PMAY)"
+      ],
+      "amount": 54487
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 4090.72
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Housing"
+      ],
+      "amount": 4069.49
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 21.23
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services"
+      ],
+      "amount": 64373.15
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Special Programmes for  Rural Development"
+      ],
+      "amount": 3910.64
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Rural Employment"
+      ],
+      "amount": 60000.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Other Rural Development Programmes"
+      ],
+      "amount": 140.47
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Roads and Bridges"
+      ],
+      "amount": 258.02
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Secretariat-Economic Services"
+      ],
+      "amount": 60.5
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Economic Services",
+        "Capital Outlay on Other General Economic Services"
+      ],
+      "amount": 3.52
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 89081.13
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 9257.08
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 77029.71
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 2794.34
+    }
+  ]
+}

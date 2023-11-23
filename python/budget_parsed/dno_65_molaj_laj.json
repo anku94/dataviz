@@ -1,0 +1,353 @@
+{
+  "sheet_name": "sbe65",
+  "amount_header": {
+    "Gross": 4175.43,
+    "Recoveries": -200.0,
+    "Receipts": 0.0,
+    "Net": 3975.43
+  },
+  "header": [
+    "Ministry of Law and Justice",
+    "Demand No. 65",
+    "Law and Justice"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 58
+    },
+    {
+      "name": "B",
+      "start": 58,
+      "end": 76
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Tax Tribunals"
+      ],
+      "amount": 196
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 40.01
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Mission for Justice Delivery and Legal Reforms"
+      ],
+      "amount": 40.01
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Mission for Justice Delivery and Legal Reforms",
+        "Designing Innovative Solutions for Holistic Access to Justice in India(DISHA)"
+      ],
+      "amount": 40
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 228.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 228.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Judicial Academy"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Legal Services Authority"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Law Institute (ILI)"
+      ],
+      "amount": 3.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "New Delhi International Arbitration Centre"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Aribitration Council of India (ACI)"
+      ],
+      "amount": 2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 1061
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Infrastructure Facilities for Judiciary",
+        "Infrastructure Facilities for Judiciary"
+      ],
+      "amount": 1061
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Infrastructure Facilities for Judiciary",
+        "Infrastructure Facilities for Judiciary",
+        "Infrastructure Facilities for Judiciary"
+      ],
+      "amount": 1051
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Infrastructure Facilities for Judiciary",
+        "Infrastructure Facilities for Judiciary",
+        "Gram Nyayalayas"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers"
+      ],
+      "amount": 2183.78
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Organs of Elections"
+      ],
+      "amount": 292
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Organs of Elections",
+        "Lok Sabha Elections"
+      ],
+      "amount": 180
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Organs of Elections",
+        "Identity Cards to Voters"
+      ],
+      "amount": 18
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "Organs of Elections",
+        "Other Election Expenses"
+      ],
+      "amount": 94
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Other Grants/Loans/Transfers",
+        "EVMs for Election Commission"
+      ],
+      "amount": 1891.78
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services"
+      ],
+      "amount": 2916.23
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Administration of Justice"
+      ],
+      "amount": 330.61
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Elections"
+      ],
+      "amount": 317.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Collection of Taxes on Income and Expenditure"
+      ],
+      "amount": 122.6
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Secretariat-General Services"
+      ],
+      "amount": 181.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Other Administrative Services"
+      ],
+      "amount": 20.24
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Other Administrative Services"
+      ],
+      "amount": 1936.78
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "General Services",
+        "Capital Outlay on Miscellaneous General Services"
+      ],
+      "amount": 8.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 0.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 0.2
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 1059.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 111.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 888.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 60.0
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "sheet_name": "sbe26",
+  "amount_header": {
+    "Gross": 50094.62,
+    "Recoveries": -6000.0,
+    "Receipts": 0.0,
+    "Net": 44094.62
+  },
+  "header": [
+    "Ministry of Education",
+    "Demand No. 26",
+    "Department of Higher Education"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 155
+    },
+    {
+      "name": "B",
+      "start": 155,
+      "end": 170
+    },
+    {
+      "name": "C",
+      "start": 170,
+      "end": 172
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 17",
+    "Unnamed: 20",
+    "Unnamed: 23",
+    "Unnamed: 26",
+    "Unnamed: 29",
+    "Unnamed: 32",
+    "Unnamed: 37",
+    "Unnamed: 40",
+    "Unnamed: 43",
+    "Unnamed: 46",
+    "Unnamed: 51",
+    "Unnamed: 54"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Commission for Scientific and Technical Terminology"
+      ],
+      "amount": 13
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Institute of Indian Languages (CIIL), Mysore and Regional Language Centers"
+      ],
+      "amount": 61.37
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Educational Institutions Abroad"
+      ],
+      "amount": 12.48
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects"
+      ],
+      "amount": 4968.03
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education"
+      ],
+      "amount": 1540.27
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education",
+        "National Research Professors"
+      ],
+      "amount": 0.27
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education",
+        "World Class Institutions"
+      ],
+      "amount": 1500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education",
+        "Prime Minister's Girls' Hostel"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education",
+        "Indian Knowledge Systems"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Higher Education",
+        "Glue Grant for Higher Education Institutes"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Student Financial Aid"
+      ],
+      "amount": 1954
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Student Financial Aid",
+        "PM Uchchatar Shiksha Protsahan (PM-USP) Yojna"
+      ],
+      "amount": 1554
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Student Financial Aid",
+        "PM Research Fellowship"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Digital India-e-learning"
+      ],
+      "amount": 420
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Digital India-e-learning",
+        "National Mission in Education Through ICT"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Digital India-e-learning",
+        "Higher Education Statistics and Public Information  System (HESPIS)"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Digital India-e-learning",
+        "Academic Bank of Credits (ABC)"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation"
+      ],
+      "amount": 210.61
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "National Inititative for Design Innovation"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Startup India Initiative in Higher Educational Institutions"
+      ],
+      "amount": 11.21
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Unnat Bharat Abhiyan"
+      ],
+      "amount": 9.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Implementation of the IMPRINT Research Initiative (Impacting Research Innovation and Technology)"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Scheme for Promotion of Academic and Research Collaboration (SPARC)"
+      ],
+      "amount": 50
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Scheme for Transformational and Advanced Research in Sciences (STARS)"
+      ],
+      "amount": 25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Research and Innovation",
+        "Multidisciplinary Education and Research Improvement in Technical Education-EAP (MERITE)"
+      ],
+      "amount": 100
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Pandit Madan Mohan Malviya National Mission on Teachers and Teaching"
+      ],
+      "amount": 45
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Institutional Ranking Framework"
+      ],
+      "amount": 4.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Global Initiative for Academic Network (GIAN)"
+      ],
+      "amount": 10
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "National Apprenticeship Training Scheme (NATS)"
+      ],
+      "amount": 440
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Study in India"
+      ],
+      "amount": 25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Planning Administration and Global Engagement"
+      ],
+      "amount": 115.65
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "ASEAN Fellowship"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Central Sector Schemes/Projects",
+        "Champion Services Sector Scheme",
+        "Education Services-Internationalization of Higher Education"
+      ],
+      "amount": 200
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 37335.74
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies"
+      ],
+      "amount": 5780
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "University Grants Commission (UGC)"
+      ],
+      "amount": 5360
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Statutory and Regulatory Bodies",
+        "All India Council for Technical Education (AICTE)"
+      ],
+      "amount": 420
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 31555.74
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Repayment of Principal of HEFA Loan"
+      ],
+      "amount": 212.14
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Central University, Andhra Pradesh"
+      ],
+      "amount": 47.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Andhra Pradesh and Telangana Tribal Universities"
+      ],
+      "amount": 37.67
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Deemed  Universities promoted by Central Government"
+      ],
+      "amount": 500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology"
+      ],
+      "amount": 9661.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology",
+        "Support to Indian Institutes of Technology"
+      ],
+      "amount": 9361.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology",
+        "Support to Indian Institutes of Technology",
+        "Grants to Indian Institutes of Technology"
+      ],
+      "amount": 8791.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology",
+        "Support to Indian Institutes of Technology",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 270
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology",
+        "Support to Indian Institutes of Technology",
+        "Repayment of Principal of HEFA Loan"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Technology",
+        "IIT, Hyderabad (EAP)"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to Indian Institutes of Management (IIMs)"
+      ],
+      "amount": 300
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to Indian Institutes of Management (IIMs)",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 15.17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to Indian Institutes of Management (IIMs)",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 29.79
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to Indian Institutes of Management (IIMs)",
+        "Repayment of Principal of HEFA Loan"
+      ],
+      "amount": 255.04
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to National Institutes of Technology (NITs) and IIEST"
+      ],
+      "amount": 4820.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to National Institutes of Technology (NITs) and IIEST",
+        "Grants to National Institutes of Technology (NITs) and IIEST"
+      ],
+      "amount": 4620
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to National Institutes of Technology (NITs) and IIEST",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 80.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Management",
+        "Support to National Institutes of Technology (NITs) and IIEST",
+        "Repayment of Principal of HEFA Loan"
+      ],
+      "amount": 120
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute(s) of Science, Education and Research (IISER)"
+      ],
+      "amount": 1462
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute(s) of Science, Education and Research (IISER)",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 1448
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute(s) of Science, Education and Research (IISER)",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute(s) of Science, Education and Research (IISER)",
+        "Repayment of Principal of HEFA Loan"
+      ],
+      "amount": 9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute of Science (IISc)"
+      ],
+      "amount": 815.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute of Science (IISc)",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 810.9
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institute of Science, Education and Research (IISERs)",
+        "Support to Indian Institute of Science (IISc)",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 4.5
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Information Technology(IIITs)"
+      ],
+      "amount": 560
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Information Technology(IIITs)",
+        "Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)"
+      ],
+      "amount": 290
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Information Technology(IIITs)",
+        "Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 289
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Information Technology(IIITs)",
+        "Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 1
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indian Institutes of Information Technology(IIITs)",
+        "Setting up Indian Institutes of Information Technology in PPP mode"
+      ],
+      "amount": 270
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Grants to Councils/Institutes for Excellence in Humanities and Social Sciences"
+      ],
+      "amount": 400
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Grants to Institutes for Promotion of Indian Languages"
+      ],
+      "amount": 300.7
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Institute of Industrial Engineering, Mumbai"
+      ],
+      "amount": 75
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Board of Apprenticeship Training, Bombay, Calcutta, Madras and Kanpur"
+      ],
+      "amount": 34.63
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Schools of Planning and Architecture (SPAs)"
+      ],
+      "amount": 175
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Indira Gandhi National Open University (IGNOU)"
+      ],
+      "amount": 105
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Institutes of Technical Teachers Training and Research (NITTTRs)"
+      ],
+      "amount": 150
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Assistance to Other Institutions"
+      ],
+      "amount": 581.84
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Assistance to Other Institutions",
+        "Support from Gross Budgetary Support (GBS)"
+      ],
+      "amount": 578.84
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Assistance to Other Institutions",
+        "Interest under HEFA Loan"
+      ],
+      "amount": 3
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Transfer to  Madhyamik and Uchhatar Shiksha Kosh"
+      ],
+      "amount": 6000
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 1500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "National Education Mission",
+        "Rashtriya Uchhatar Shiksha Abhiyan (RUSA)"
+      ],
+      "amount": 1500
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 39076.71
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "General Education"
+      ],
+      "amount": 20573.27
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Technical Education"
+      ],
+      "amount": 18330.74
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 160.18
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Education, Sports, Art and Culture"
+      ],
+      "amount": 8.47
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 4.05
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 5017.91
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 3727.91
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 1190.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 100.0
+    }
+  ]
+}

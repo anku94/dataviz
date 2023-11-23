@@ -1,0 +1,304 @@
+{
+  "sheet_name": "sbe101",
+  "amount_header": {
+    "Gross": 25948.75,
+    "Recoveries": -500.0,
+    "Receipts": 0.0,
+    "Net": 25448.75
+  },
+  "header": [
+    "Ministry of Women and Child Development",
+    "Demand No. 101",
+    "Ministry of Women and Child Development"
+  ],
+  "header_sec": {
+    "start": 8,
+    "end": 11
+  },
+  "sections": [
+    {
+      "name": "A",
+      "start": 12,
+      "end": 51
+    },
+    {
+      "name": "B",
+      "start": 51,
+      "end": 64
+    }
+  ],
+  "amount_cols": [
+    "Unnamed: 15",
+    "Unnamed: 17",
+    "Unnamed: 19",
+    "Unnamed: 21",
+    "Unnamed: 23",
+    "Unnamed: 25",
+    "Unnamed: 29",
+    "Unnamed: 31",
+    "Unnamed: 33",
+    "Unnamed: 35",
+    "Unnamed: 39",
+    "Unnamed: 41"
+  ],
+  "amount_heads": [
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure"
+      ],
+      "amount": 175.91
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies"
+      ],
+      "amount": 168.71
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Institute of Public Cooperation and Child Development (NIPCCD)"
+      ],
+      "amount": 56
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Central Adoption Resource Agency (CARA)"
+      ],
+      "amount": 9.4
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Commission for Protection of Child Rights (NCPCR)"
+      ],
+      "amount": 21.25
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "National Commission for Women"
+      ],
+      "amount": 42
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Autonomous Bodies",
+        "Central Social Welfare Board"
+      ],
+      "amount": 40.06
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others"
+      ],
+      "amount": 7.2
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "National Awards"
+      ],
+      "amount": 1.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "CENTRE'S EXPENDITURE",
+        "Other Central Sector Expenditure",
+        "Others",
+        "Contribution to UNICEF"
+      ],
+      "amount": 5.6
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes"
+      ],
+      "amount": 25190.44
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission for Protection and Empowerment  for Women"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission for Protection and Empowerment  for Women",
+        "Other Schemes Funded from Nirbhaya Fund"
+      ],
+      "amount": 20
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission for Protection and Empowerment  for Women",
+        "Transfer to Nirbhaya Fund"
+      ],
+      "amount": 500
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Saksham Anganwadi and POSHAN 2.0 (Umbrella ICDS - Anganwadi Services, Poshan Abhiyan, Scheme for Adolescent Girls)"
+      ],
+      "amount": 20554.31
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission VATSALYA (Child Protection Services and Child Welfare Services)"
+      ],
+      "amount": 1472.17
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission Shakti (Mission for Protection and Empowerment for Women)"
+      ],
+      "amount": 3143.96
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission Shakti (Mission for Protection and Empowerment for Women)",
+        "SAMBAL (Beti Bacaho Beti Padhao, One Stop Centre, Nari Adalat, Mahila Police Volunteer, Women's Helpline etc.)"
+      ],
+      "amount": 562
+    },
+    {
+      "head": [
+        "A. The Budget allocations, net of recoveries are given below:",
+        "TRANSFERS TO STATES/UTs",
+        "Centrally Sponsored Schemes",
+        "Mission Shakti (Mission for Protection and Empowerment for Women)",
+        "SAMARTHYA(Shakti Sadan (Swadhar, Ujjawala, Widow Home), Shakhi Niwas (Working Women Hostel), Palna (National Creche Scheme), Pradhan Mantri Matru Vandana Yojana/ National Hub for Women Empowerment/Gender Budgeting/Research/ Skilling/ Trg/ Media etc.)"
+      ],
+      "amount": 2581.96
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services"
+      ],
+      "amount": 1514.32
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Social Security and Welfare"
+      ],
+      "amount": 1429.92
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Nutrition"
+      ],
+      "amount": 18.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Secretariat-Social Services"
+      ],
+      "amount": 61.32
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on Social Security and Welfare"
+      ],
+      "amount": 2.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Social Services",
+        "Capital Outlay on other Social Services"
+      ],
+      "amount": 3.08
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others"
+      ],
+      "amount": 23934.43
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "North Eastern Areas"
+      ],
+      "amount": 2519.0
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to State Governments"
+      ],
+      "amount": 20506.56
+    },
+    {
+      "head": [
+        "B. Developmental Head",
+        "Others",
+        "Grants-in-aid to Union Territory Governments"
+      ],
+      "amount": 908.87
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+1,GOI2023-24,Department of Atomic Energy,g2,g2_doae,25951.92,259519199999.99997,3053167058.8235292
+4,GOI2023-24,Ministry of Agriculture and Farmers Welfare,g2,g2_moaafw,124796.0,1247960000000.0,14681882352.941177
+5,GOI2023-24,Ministry of Communications,g2,g2_moc,123393.05000000002,1233930500000.0002,14516829411.76471
+11,GOI2023-24,Ministry of Chemicals and Fertilisers,g2,g2_mocaf,178419.38,1784193800000.0,20990515294.117645
+12,GOI2023-24,"Ministry of Consumer Affairs, Food and Public Distribution",g2,g2_mocafapd,205651.33000000002,2056513300000.0002,24194274117.64706
+14,GOI2023-24,Ministry of Defence,g2,g2_mod,593766.6900000001,5937666900000.001,69854904705.88237
+16,GOI2023-24,Ministry of Education,g2,g2_moe,154656.46000000002,1546564600000.0002,18194877647.058826
+17,GOI2023-24,Ministry of External Affairs,g2,g2_moea,18050.0,180500000000.0,2123529411.764706
+21,GOI2023-24,Ministry of Finance,g2,g2_mof,1706957.9400000002,17069579400000.002,200818581176.4706
+24,GOI2023-24,Ministry of Home Affairs,g2,g2_moha,137315.13,1373151300000.0,16154721176.470589
+25,GOI2023-24,Ministry of Health and Family Welfare,g2,g2_mohafw,88807.39,888073900000.0,10447928235.294117
+29,GOI2023-24,Ministry of Jal Shakti,g2,g2_mojs,98687.0,986870000000.0,11610235294.117647
+43,GOI2023-24,Ministry of Railways,g2,g2_mor,689507.5800000001,6895075800000.001,81118538823.52942
+44,GOI2023-24,Ministry of Rural Development,g2,g2_mord,219876.73,2198767300000.0,25867850588.235294
+45,GOI2023-24,Ministry of Road Transport and Highways,g2,g2_mortah,270434.71,2704347100000.0,31815848235.294117
+46,GOI2023-24,Other Ministries,g2,g2_other,270434.71,2704347100000.0,50000000000
+57,Ministry of Finance,Interest Payments,g2_mof,mof_ip,1079971.0,10799710000000.0,127055411764.70589
+58,Ministry of Finance,Pensions,g2_mof,mof_p,71701.0,717010000000.0,8435411764.705882
+1,Ministry of Defence,Capital Outlay on Defence Services,g2_mod,mod_coods_cse_cssp,162600.0,1626000000000.0,19129411764.705883
+2,Ministry of Defence,Defence Pensions,g2_mod,mod_dp,138205.0,1382050000000.0,16259411764.705883
+3,Ministry of Defence,Defence Services (Revenue),g2_mod,mod_dsr,270120.14,2701201400000.0,31778840000.0
+4,Ministry of Defence,Ministry of Defence (Civil),g2_mod,mod_modc,22841.550000000003,228415500000.00003,2687241176.4705887
+58,Pensions,All Pensions,mof_p,all_pensions,71701.0,717010000000.0,8435411764.705882
+2,Defence Pensions,All Pensions,mod_dp,all_pensions,138205.0,1382050000000.0,16259411764.705883
+19,Ministry of Chemicals and Fertilisers,Urea Subsidy,g2_mocaf,mocaf_dof_cse_cssp_us,131100.12,1311001200000.0,15423543529.411764
+20,Ministry of Chemicals and Fertilisers,Indigenous P and K Fertilizers,g2_mocaf,mocaf_indpk,25500.0,255000000000.0,3000000000.0
+21,Ministry of Chemicals and Fertilisers,Imported P and K Fertilizers,g2_mocaf,mocaf_imppk,18500.0,185000000000.0,2176470588.2352943
+19,Urea Subsidy,All Subsidies,mocaf_dof_cse_cssp_us,all_subsidies,131100.12,1311001200000.0,15423543529.411764
+20,Indigenous P and K Fertilizers,All Subsidies,mocaf_indpk,all_subsidies,25500.0,255000000000.0,3000000000.0
+21,Imported P and K Fertilizers,All Subsidies,mocaf_imppk,all_subsidies,18500.0,185000000000.0,2176470588.2352943

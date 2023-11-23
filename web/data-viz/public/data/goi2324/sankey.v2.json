@@ -1,0 +1,231 @@
+{
+  "data": [
+    {
+      "active": true,
+      "desc": "ROOT",
+      "linkcolor": 0,
+      "nodes": {
+        "g2": "GOI2023-24",
+        "goi": "GOI2023-24",
+        "doae": "Department of Atomic Energy",
+        "moaafw": "Ministry of Agriculture and Farmers Welfare",
+        "moc": "Ministry of Communications",
+        "mocol": "Ministry of Coal",
+        "mocaf": "Ministry of Chemicals and Fertilisers",
+        "mocafpd": "Ministry of Consumer Affairs, Food and Public Distribution",
+        "mod": "Ministry of Defence",
+        "moe": "Ministry of Education",
+        "moea": "Ministry of External Affairs",
+        "mof": "Ministry of Finance",
+        "moha": "Ministry of Home Affairs",
+        "mohafw": "Ministry of Health and Family Welfare",
+        "mojs": "Ministry of Jal Shakti",
+        "mor": "Ministry of Railways",
+        "mord": "Ministry of Rural Development",
+        "mortah": "Ministry of Road Transport and Highways",
+        "other": "Other Ministries"
+      },
+      "edges": [
+        ["g2", "doae", 25952],
+        ["g2", "moaafw", 124796],
+        ["g2", "moc", 123393],
+        ["g2", "mocaf", 178419],
+        ["g2", "mocafpd", 205514],
+        ["g2", "mod", 593767],
+        ["g2", "moe", 154656],
+        ["g2", "moea", 18050],
+        ["g2", "mof", 1706958],
+        ["g2", "moha", 137315],
+        ["g2", "mohafw", 88807],
+        ["g2", "mojs", 98687],
+        ["g2", "mor", 689508],
+        ["g2", "mord", 157545],
+        ["g2", "mortah", 270435],
+        ["g2", "other", 270435]
+      ],
+      "pos": { "x": 0.3, "y": 0.05 }
+    },
+    {
+      "desc": "mod",
+      "active": true,
+      "nodes": {
+        "mod_cap": "Capital Outlay on Defence Services",
+        "mod_dp": "Defence Pensions",
+        "mod_maint": "Defence Services (Maintenance)",
+        "mod_dsr": "Defence Services (Revenue)",
+        "mod_modc": "Ministry of Defence (Civil)"
+      },
+      "edges": [
+        ["mod", "mod_cap", 171375],
+        ["mod", "mod_maint", 74175]
+      ],
+      "pos": { "x": 0.65, "y": 0.02 }
+    },
+    {
+      "desc": "mof",
+      "active": true,
+      "linkcolor": 6,
+      "nodes": {
+        "mof_ip": "Interest Payments",
+        "mof_p": "Pensions",
+        "all_pensions": "All Pensions"
+      },
+      "edges": [["mof", "mof_ip", 1079971]],
+      "pos": { "x": 0.9, "y": 0.01 }
+    },
+    {
+      "desc": "pensions",
+      "active": true,
+      "linkcolor": 5,
+      "group": {
+        "id": "all_pensions",
+        "name": "All Pensions",
+        "display": true,
+        "pos": { "x": 0.9, "y": 0.8 }
+      },
+      "nodes": {
+        "mod_dp": "Defence Pensions",
+        "mof_p": "Pensions",
+        "all_pensions": "All Pensions"
+      },
+      "edges": [
+        ["mof", "mof_p", 71701],
+        ["mod", "mod_dp", 138205]
+      ],
+      "pos": { "x": 0.65, "y": 0.8 }
+    },
+    {
+      "desc": "subsidies",
+      "active": true,
+      "linkcolor": 4,
+      "group": {
+        "id": "subsidies",
+        "name": "All Subsidies",
+        "display": true,
+        "pos": { "x": 0.9, "y": 0.6 }
+      },
+      "nodes": {
+        "mocaf_us": "Urea Subsidy",
+        "mocaf_indpk": "Indigenous P and K Fertilizers",
+        "mocaf_imppk": "Imported P and K Fertilizers",
+        "mocafpd_fci": "Subsidy to FCI",
+        "mocafpd_states": "Subsidy to States (Decentralised Procurement)"
+      },
+      "edges": [
+        ["mocaf", "mocaf_us", 131100],
+        ["mocaf", "mocaf_indpk", 25500],
+        ["mocaf", "mocaf_imppk", 18500],
+        ["mocafpd", "mocafpd_fci", 137207],
+        ["mocafpd", "mocafpd_states", 59793]
+      ],
+      "pos": { "x": 0.65, "y": 0.6 }
+    },
+    {
+      "desc": "mapped_schemes",
+      "active": true,
+      "linkcolor": 1,
+      "group": {
+        "id": "all_schemes",
+        "name": "All Schemes",
+        "display": true,
+        "pos": { "x": 0.9, "y": 0.85 }
+      },
+      "nodes": {
+        "mocaf_us": "Urea Subsidy",
+        "mocaf_indpk": "Indigenous P and K Fertilizers",
+        "mocaf_imppk": "Imported P and K Fertilizers",
+        "mord_nrega": "NREGA",
+        "mord_nsap": "National Social Assistance Programme",
+        "mord_pmay": "Pradhan Mantri Awas Yojna",
+        "moaafw_pmkisan": "PM Kisan",
+        "moaafw_pmfby": "PM Fasal Bima Yojna",
+        "moaafw_miss": "Modified Interest Subvention Scheme",
+        "moaafw_rkvy": "Rashtriya Krishi Vikas Yojna",
+        "moaafw_ky": "Krishionnati Yojana",
+        "moaafw_cis": "Crop Insurance Scheme",
+        "mohafw_pmjay": "Pradhan Mantri Jan Arogya Yojana",
+        "mojs_jjm": "Jal Jeevan Mission",
+        "moe_poshan": "POSHAN Abhiyaan",
+        "mohafw_nhm": "National Health Mission"
+      },
+      "edges": [
+        ["mord", "mord_nrega", 60000],
+        ["mord", "mord_nsap", 9636],
+        ["mord", "mord_pmay", 55000],
+        ["moaafw", "moaafw_cis", 13625],
+        ["moaafw", "moaafw_pmkisan", 60000],
+        ["moaafw", "moaafw_miss", 23000],
+        ["moaafw", "moaafw_ky", 7066],
+        ["moaafw", "moaafw_rkvy", 7150],
+        ["mojs", "mojs_jjm", 64720]
+      ],
+      "pos": { "x": 0.65, "y": 0.85 }
+    },
+    {
+      "desc": "capital_infra",
+      "active": true,
+      "linkcolor": 3,
+      "group": {
+        "name": "Capital Infra",
+        "id": "capital_infra",
+        "display": true,
+        "pos": { "x": 0.9, "y": 0.8 }
+      },
+      "nodes": {
+        "mortah_nhai": "National Highways Authority of India",
+        "mortah_rab": "Roads and Bridges"
+      },
+      "edges": [
+        ["mortah", "mortah_nhai", 162207],
+        ["mortah", "mortah_rab", 107713]
+      ],
+      "pos": { "x": 0.65, "y": 0.8 }
+    },
+    {
+      "desc": "salaries",
+      "linkcolor": 2,
+      "active": true,
+      "group": {
+        "name": "All Salaries",
+        "id": "all_salaries",
+        "display": true,
+        "pos": { "x": 0.9, "y": 0.5 }
+      },
+      "nodes": {
+        "moc_dop_sal": "Department of Posts (Salaries)",
+        "mod_civil_sal": "Ministry of Defence (Salaries, Civil)",
+        "mod_sal": "Defence Forces (Salaries)",
+        "mof_sal": "Ministry of Finance (Salaries)",
+        "moha_police_sal": "MHA Police (Salaries)",
+        "moha_sal": "MHA (Salaries, Other)",
+        "mor_sal": "Ministry of Railways (Salaries)"
+      },
+      "edges": [
+        ["moc", "moc_dop_sal", 23500],
+        ["mod", "mod_civil_sal", 9400],
+        ["mod", "mod_sal", 168334],
+        ["mof", "mof_sal", 19545],
+        ["moha", "moha_police_sal", 93000],
+        ["moha", "moha_sal", 10000],
+        ["mor", "mor_sal", 112000]
+      ],
+      "pos": { "x": 0.65, "y": 0.25 }
+    },
+    {
+      "desc": "unmapped_schemes",
+      "nodes": {},
+      "edges": [
+        ["mohafw_pmjay", "all_schemes", 7200],
+        ["nem", "all_schemes", 38953],
+        ["mohafw_nhm", "all_schemes", 36785],
+        ["mord_pmay", "all_schemes", 79590],
+        ["pmgsy", "all_schemes", 19000],
+        ["pmksy", "all_schemes", 10787],
+        ["sbm", "all_schemes", 5000],
+        ["sbmg", "all_schemes", 7192],
+        ["amrut", "all_schemes", 16000],
+        ["moe_poshan", "all_schemes", 11600]
+      ]
+    }
+  ]
+}

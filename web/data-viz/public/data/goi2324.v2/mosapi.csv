@@ -1,0 +1,18 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Statistics and Programme Implementation,,mosapi,5443.4,54434000000.0,640400000.0
+1,Ministry of Statistics and Programme Implementation,Ministry of Statistics and Programme Implementation,mosapi,mosapi_mosapi,5443.4,54434000000.0,640400000.0
+2,Ministry of Statistics and Programme Implementation,CENTRE'S EXPENDITURE,mosapi_mosapi,mosapi_mosapi_cse,5443.4,54434000000.0,640400000.0
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mosapi_mosapi_cse,mosapi_mosapi_cse_cssp,4558.5,45585000000.0,536294117.64705884
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mosapi_mosapi_cse,mosapi_mosapi_cse_eeotc,562.61,5626100000.0,66189411.76470588
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mosapi_mosapi_cse,mosapi_mosapi_cse_ocse,322.29,3222900000.0,37916470.5882353
+6,Central Sector Schemes/Projects,Capacity Development (CD),mosapi_mosapi_cse_cssp,mosapi_mosapi_cse_cssp_cdc,600.0,6000000000.0,70588235.29411764
+7,Central Sector Schemes/Projects,Member of Parliament Local Area Development Scheme (MPLAD),mosapi_mosapi_cse_cssp,mosapi_mosapi_cse_cssp_mopladsm,3958.5,39585000000.0,465705882.35294116
+8,Capacity Development (CD),Capacity Development CSO and NSSO,mosapi_mosapi_cse_cssp_cdc,mosapi_mosapi_cse_cssp_cdc_cdcan,527.38,5273800000.0,62044705.88235294
+9,Capacity Development (CD),Economic Census,mosapi_mosapi_cse_cssp_cdc,mosapi_mosapi_cse_cssp_cdc_ec,62.31,623100000.0,7330588.235294118
+10,Capacity Development (CD),Support for Statistical Strengthening,mosapi_mosapi_cse_cssp_cdc,mosapi_mosapi_cse_cssp_cdc_sfss,10.31,103100000.0,1212941.1764705882
+11,Establishment Expenditure of the Centre,Attached Offices,mosapi_mosapi_cse_eeotc,mosapi_mosapi_cse_eeotc_ao,524.76,5247600000.0,61736470.5882353
+12,Establishment Expenditure of the Centre,Secretariat,mosapi_mosapi_cse_eeotc,mosapi_mosapi_cse_eeotc_s,37.85,378500000.0,4452941.176470588
+13,Attached Offices,Central Statisical Organisation,mosapi_mosapi_cse_eeotc_ao,mosapi_mosapi_cse_eeotc_ao_cso,70.39,703900000.0,8281176.470588235
+14,Attached Offices,National Sample Survey Office,mosapi_mosapi_cse_eeotc_ao,mosapi_mosapi_cse_eeotc_ao_nsso,454.37,4543700000.0,53455294.11764706
+15,Other Central Sector Expenditure,Autonomous Bodies,mosapi_mosapi_cse_ocse,mosapi_mosapi_cse_ocse_ab,322.29,3222900000.0,37916470.5882353
+16,Autonomous Bodies,Indian Statistical Institute (ISI),mosapi_mosapi_cse_ocse_ab,mosapi_mosapi_cse_ocse_ab_isii,322.29,3222900000.0,37916470.5882353

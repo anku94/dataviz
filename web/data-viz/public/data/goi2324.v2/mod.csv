@@ -1,0 +1,81 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Defence,,mod,593766.6900000001,5937666900000.001,69854904705.88237
+1,Ministry of Defence,Capital Outlay on Defence Services,mod,mod_coods,162600.0,1626000000000.0,19129411764.705883
+2,Ministry of Defence,Defence Pensions,mod,mod_dp,138205.0,1382050000000.0,16259411764.705883
+3,Ministry of Defence,Defence Services (Revenue),mod,mod_dsr,270120.14,2701201400000.0,31778840000.0
+4,Ministry of Defence,Ministry of Defence (Civil),mod,mod_modc,22841.550000000003,228415500000.00003,2687241176.4705887
+5,Capital Outlay on Defence Services,CENTRE'S EXPENDITURE,mod_coods,mod_coods_cse,162600.0,1626000000000.0,19129411764.705883
+6,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mod_coods_cse,mod_coods_cse_cssp,162600.0,1626000000000.0,19129411764.705883
+7,Central Sector Schemes/Projects,Army,mod_coods_cse_cssp,mod_coods_cse_cssp_a,37241.54,372415400000.0,4381357647.058824
+8,Central Sector Schemes/Projects,Air Force,mod_coods_cse_cssp,mod_coods_cse_cssp_af,57137.09,571370900000.0,6722010588.235294
+9,Central Sector Schemes/Projects,Defence Ordnance Factories,mod_coods_cse_cssp,mod_coods_cse_cssp_dof,5.0,50000000.0,588235.2941176471
+10,Central Sector Schemes/Projects,Inspection - Director General Quality Audit (DGQA),mod_coods_cse_cssp,mod_coods_cse_cssp_idgqad,20.0,200000000.0,2352941.1764705884
+11,Central Sector Schemes/Projects,Investment in Public Enterprises,mod_coods_cse_cssp,mod_coods_cse_cssp_iipe,1310.0,13100000000.0,154117647.05882353
+12,Central Sector Schemes/Projects,Navy,mod_coods_cse_cssp,mod_coods_cse_cssp_n,52804.75,528047500000.0,6212323529.411765
+13,Central Sector Schemes/Projects,Research  and Development,mod_coods_cse_cssp,mod_coods_cse_cssp_rad,12850.0,128500000000.0,1511764705.8823528
+14,Central Sector Schemes/Projects,Techonology Development - Assistance for prototype development under make procedure,mod_coods_cse_cssp,mod_coods_cse_cssp_tdafpdump,1231.62,12316199999.999998,144896470.58823526
+15,Army,Aircrafts and Aeroengines-Army,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_aaaa,5500.0,55000000000.0,647058823.5294118
+16,Army,Construction Works-Army,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_cwa,6788.54,67885400000.0,798651764.7058823
+17,Army,Ex-Servicemen Contributory Health Scheme,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_eschs,86.0,860000000.0,10117647.05882353
+18,Army,Heavy and Medium Vehicles,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_hamv,3000.0,30000000000.0,352941176.4705882
+19,Army,Land-Army,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_la,291.0,2910000000.0,34235294.11764706
+20,Army,National Cadet Corps,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_ncc,13.0,130000000.0,1529411.7647058824
+21,Army,Other equipment-Army,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_oea,21300.0,213000000000.0,2505882352.9411764
+22,Army,Rashtriya Rifles,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_rr,100.0,1000000000.0,11764705.88235294
+23,Army,Rolling Stock,mod_coods_cse_cssp_a,mod_coods_cse_cssp_a_rs,163.0,1630000000.0,19176470.588235293
+24,Air Force,Aircrafts and Aeroengines-Air Force,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_aaaaf,15721.65,157216500000.0,1849605882.3529413
+25,Air Force,Construction Works-Air Force,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_cwaf,2342.31,23423100000.0,275565882.35294116
+26,Air Force,Heavy and Medium Vehicles-Air Force,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_hamvaf,947.94,9479400000.0,111522352.94117647
+27,Air Force,Land-Air Force,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_laf,340.27,3402700000.0,40031764.705882356
+28,Air Force,Other equipment-Air Force,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_oeaf,36223.13,362231300000.0,4261544705.882353
+29,Air Force,Special Projects,mod_coods_cse_cssp_af,mod_coods_cse_cssp_af_sp,1561.79,15617900000.0,183740000.0
+30,Investment in Public Enterprises,Investment in Public Enterprises,mod_coods_cse_cssp_iipe,mod_coods_cse_cssp_iipe_iipe,1310.0,13100000000.0,154117647.05882353
+31,Navy,Aircrafts and Aeroengines,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_aaa,7000.0,70000000000.0,823529411.7647059
+32,Navy,Construction Works-Navy,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_cwn,1900.1,19001000000.0,223541176.47058824
+33,Navy,Heavy and Medium Vehicles,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_hamv,90.0,900000000.0,10588235.294117646
+34,Navy,Joint Staff,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_js,1838.75,18387500000.0,216323529.4117647
+35,Navy,Land-Navy,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_ln,1550.9,15509000000.0,182458823.52941176
+36,Navy,Naval Dockyard/projects,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_ndp,6725.0,67250000000.0,791176470.5882353
+37,Navy,Naval Fleet,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_nf,24200.0,242000000000.0,2847058823.529412
+38,Navy,Other equipment-Navy,mod_coods_cse_cssp_n,mod_coods_cse_cssp_n_oen,9500.0,95000000000.0,1117647058.8235295
+39,Techonology Development - Assistance for prototype development under make procedure,Projects of the Army,mod_coods_cse_cssp_tdafpdump,mod_coods_cse_cssp_tdafpdump_pota,100.0,1000000000.0,11764705.88235294
+40,Techonology Development - Assistance for prototype development under make procedure,Projects of the Air Force,mod_coods_cse_cssp_tdafpdump,mod_coods_cse_cssp_tdafpdump_potaf,1131.62,11316199999.999998,133131764.70588233
+41,Defence Pensions,CENTRE'S EXPENDITURE,mod_dp,mod_dp_cse,138205.0,1382050000000.0,16259411764.705883
+42,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mod_dp_cse,mod_dp_cse_eeotc,138205.0,1382050000000.0,16259411764.705883
+43,Establishment Expenditure of the Centre,Pensions and other Retirement Benefits,mod_dp_cse_eeotc,mod_dp_cse_eeotc_paorb,138185.0,1381850000000.0,16257058823.529411
+44,Establishment Expenditure of the Centre,"Rewards-Army, Navy and Air Force",mod_dp_cse_eeotc,mod_dp_cse_eeotc_ranaaf,19.0,190000000.0,2235294.117647059
+45,Establishment Expenditure of the Centre,Service Charges to Banks,mod_dp_cse_eeotc,mod_dp_cse_eeotc_sctb,1.0,10000000.0,117647.05882352941
+46,Pensions and other Retirement Benefits,Army,mod_dp_cse_eeotc_paorb,mod_dp_cse_eeotc_paorb_a,119300.45,1193004500000.0,14035347058.82353
+47,Pensions and other Retirement Benefits,Air Force,mod_dp_cse_eeotc_paorb,mod_dp_cse_eeotc_paorb_af,12108.55,121085500000.0,1424535294.1176472
+48,Pensions and other Retirement Benefits,Navy,mod_dp_cse_eeotc_paorb,mod_dp_cse_eeotc_paorb_n,6776.0,67760000000.0,797176470.5882353
+49,Defence Services (Revenue),CENTRE'S EXPENDITURE,mod_dsr,mod_dsr_cse,270120.14,2701201400000.0,31778840000.0
+50,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mod_dsr_cse,mod_dsr_cse_eeotc,270120.14,2701201400000.0,31778840000.0
+51,Establishment Expenditure of the Centre,Army,mod_dsr_cse_eeotc,mod_dsr_cse_eeotc_a,182649.97,1826499700000.0,21488231764.705883
+52,Establishment Expenditure of the Centre,Air Force,mod_dsr_cse_eeotc,mod_dsr_cse_eeotc_af,44345.58,443455800000.0,5217127058.823529
+53,Establishment Expenditure of the Centre,Defence  Ordnance Factories,mod_dsr_cse_eeotc,mod_dsr_cse_eeotc_dof,426.5,4265000000.0,50176470.5882353
+54,Establishment Expenditure of the Centre,Navy,mod_dsr_cse_eeotc,mod_dsr_cse_eeotc_n,32284.2,322842000000.0,3798141176.470588
+55,Establishment Expenditure of the Centre,Research and Development,mod_dsr_cse_eeotc,mod_dsr_cse_eeotc_rad,10413.89,104138900000.0,1225163529.4117646
+56,Ministry of Defence (Civil),CENTRE'S EXPENDITURE,mod_modc,mod_modc_cse,22841.550000000003,228415500000.00003,2687241176.4705887
+57,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mod_modc_cse,mod_modc_cse_cssp,6005.0,60050000000.0,706470588.2352941
+58,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mod_modc_cse,mod_modc_cse_eeotc,16687.56,166875600000.0,1963242352.9411764
+59,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mod_modc_cse,mod_modc_cse_ocse,148.99,1489900000.0,17528235.29411765
+60,Central Sector Schemes/Projects,Works executed by Border Roads Development Board,mod_modc_cse_cssp,mod_modc_cse_cssp_webbrdb,6005.0,60050000000.0,706470588.2352941
+61,Works executed by Border Roads Development Board,Grants to States for Strategic Roads,mod_modc_cse_cssp_webbrdb,mod_modc_cse_cssp_webbrdb_gtsfsr,55.0,550000000.0,6470588.235294118
+62,Works executed by Border Roads Development Board,Other works,mod_modc_cse_cssp_webbrdb,mod_modc_cse_cssp_webbrdb_ow,950.0,9500000000.0,111764705.88235295
+63,Works executed by Border Roads Development Board,Works under Border Roads Development Board,mod_modc_cse_cssp_webbrdb,mod_modc_cse_cssp_webbrdb_wubrdb,5000.0,50000000000.0,588235294.117647
+64,Grants to States for Strategic Roads,Gross Budgetary Support,mod_modc_cse_cssp_webbrdb_gtsfsr,mod_modc_cse_cssp_webbrdb_gtsfsr_gbs,55.0,550000000.0,6470588.235294118
+65,Other works,Gross Budgetary Support,mod_modc_cse_cssp_webbrdb_ow,mod_modc_cse_cssp_webbrdb_ow_gbs,950.0,9500000000.0,111764705.88235295
+66,Establishment Expenditure of the Centre,Armed Forces Tribunal,mod_modc_cse_eeotc,mod_modc_cse_eeotc_aft,49.0,490000000.0,5764705.882352941
+67,Establishment Expenditure of the Centre,Border Roads Development Board Secretariat,mod_modc_cse_eeotc,mod_modc_cse_eeotc_brdbs,4174.75,41747500000.0,491147058.8235294
+68,Establishment Expenditure of the Centre,Coast Guard Organisation,mod_modc_cse_eeotc,mod_modc_cse_eeotc_cgo,7197.47,71974700000.0,846761176.4705882
+69,Establishment Expenditure of the Centre,Defence Estates Organisation,mod_modc_cse_eeotc,mod_modc_cse_eeotc_deo,615.76,6157600000.0,72442352.94117647
+70,Establishment Expenditure of the Centre,Jammu  and Kashmir Light Infantry,mod_modc_cse_eeotc,mod_modc_cse_eeotc_jakli,1797.71,17977100000.0,211495294.11764705
+71,Establishment Expenditure of the Centre,Secretariat General Services,mod_modc_cse_eeotc,mod_modc_cse_eeotc_sgs,2852.87,28528700000.0,335631764.7058824
+72,Other Central Sector Expenditure,Others,mod_modc_cse_ocse,mod_modc_cse_ocse_o,148.99,1489900000.0,17528235.29411765
+73,Others,Housing,mod_modc_cse_ocse_o,mod_modc_cse_ocse_o_h,91.99,919900000.0,10822352.94117647
+74,Others,Public Works,mod_modc_cse_ocse_o,mod_modc_cse_ocse_o_pw,57.0,570000000.0,6705882.352941177
+75,Housing,Maintenance and Repairs to Defence Accounts Department/Defence  Estates Organisation/Canteen Stores Deparment Staff Quarters,mod_modc_cse_ocse_o_h,mod_modc_cse_ocse_o_h_martdaddeocsdsq,67.44,674400000.0,7934117.647058823
+76,Housing,Residential Housing facilities to Defence Accounts Department/Defence Estate Orgnaisation/Canteen Stores Department -Staff Quaters,mod_modc_cse_ocse_o_h,mod_modc_cse_ocse_o_h_rhftdaddeocsdsq,24.55,245500000.0,2888235.294117647
+77,Public Works,Capital Outlay for construction of Defence Accounts Department/Defence Estates Organisation/Armed Forces Tribunal- Other Buildings,mod_modc_cse_ocse_o_pw,mod_modc_cse_ocse_o_pw_cofcodaddeoaftob,55.5,555000000.0,6529411.764705882
+78,Public Works,Canteen Stores Department,mod_modc_cse_ocse_o_pw,mod_modc_cse_ocse_o_pw_csd,0.0,0.0,0.0
+79,Public Works,Miscellaneous Loans,mod_modc_cse_ocse_o_pw,mod_modc_cse_ocse_o_pw_ml,1.5,15000000.0,176470.58823529413

@@ -1,0 +1,25 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Culture,,moc,3399.6499999999996,33996499999.999996,399958823.52941173
+1,Ministry of Culture,Ministry of Culture,moc,moc_moc,3399.6499999999996,33996499999.999996,399958823.52941173
+2,Ministry of Culture,CENTRE'S EXPENDITURE,moc_moc,moc_moc_cse,3399.6499999999996,33996499999.999996,399958823.52941173
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moc_moc_cse,moc_moc_cse_cssp,650.74,6507400000.0,76557647.05882353
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,moc_moc_cse,moc_moc_cse_eeotc,1702.69,17026900000.0,200316470.5882353
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moc_moc_cse,moc_moc_cse_ocse,1046.22,10462200000.0,123084705.88235295
+6,Central Sector Schemes/Projects,"Centenaries and Anniversaries,  Celebrations and Schemes",moc_moc_cse_cssp,moc_moc_cse_cssp_caacas,185.0,1850000000.0,21764705.88235294
+7,Central Sector Schemes/Projects,Development of Libraries and Archives,moc_moc_cse_cssp,moc_moc_cse_cssp_dolaa,26.02,260200000.0,3061176.470588235
+8,Central Sector Schemes/Projects,Development of Museums,moc_moc_cse_cssp,moc_moc_cse_cssp_dom,183.86,1838600000.0000002,21630588.235294122
+9,Central Sector Schemes/Projects,Global Engagement and International Cooperation,moc_moc_cse_cssp,moc_moc_cse_cssp_geaic,25.55,255500000.0,3005882.3529411764
+10,Central Sector Schemes/Projects,Kala Sanskriti Vikas Yojana,moc_moc_cse_cssp,moc_moc_cse_cssp_ksvy,210.49,2104900000.0,24763529.411764707
+11,Central Sector Schemes/Projects,National mission on cultural mapping and roadmap,moc_moc_cse_cssp,moc_moc_cse_cssp_nmocmar,19.82,198200000.0,2331764.705882353
+12,Establishment Expenditure of the Centre,Archaeological Survey of India (A.S.I),moc_moc_cse_eeotc,moc_moc_cse_eeotc_asoiasi,1102.83,11028300000.0,129744705.88235295
+13,Establishment Expenditure of the Centre,Anthropological Survey of India ( An. S.I.),moc_moc_cse_eeotc,moc_moc_cse_eeotc_asoiasi,54.33,543300000.0,6391764.705882353
+14,Establishment Expenditure of the Centre,Libraries and Archives,moc_moc_cse_eeotc,moc_moc_cse_eeotc_laa,338.75,3387500000.0,39852941.176470585
+15,Establishment Expenditure of the Centre,Museums,moc_moc_cse_eeotc,moc_moc_cse_eeotc_m,136.8,1368000000.0,16094117.647058824
+16,Establishment Expenditure of the Centre,Secretariat including Central Secretariat Library,moc_moc_cse_eeotc,moc_moc_cse_eeotc_sicsl,69.98,699800000.0,8232941.176470588
+17,Other Central Sector Expenditure,Autonomous Bodies,moc_moc_cse_ocse,moc_moc_cse_ocse_ab,996.03,9960300000.0,117180000.0
+18,Other Central Sector Expenditure,Others,moc_moc_cse_ocse,moc_moc_cse_ocse_o,50.19,501900000.0,5904705.882352941
+19,Autonomous Bodies,Buddhist Tibetan Institutions and Memorials,moc_moc_cse_ocse_ab,moc_moc_cse_ocse_ab_btiam,130.91,1309100000.0,15401176.470588235
+20,Autonomous Bodies,Support to Akademies,moc_moc_cse_ocse_ab,moc_moc_cse_ocse_ab_sta,401.27,4012700000.0,47208235.294117644
+21,Autonomous Bodies,Support to Libraries,moc_moc_cse_ocse_ab,moc_moc_cse_ocse_ab_stl,106.46,1064599999.9999999,12524705.882352939
+22,Autonomous Bodies,Support to Museums,moc_moc_cse_ocse_ab,moc_moc_cse_ocse_ab_stm,357.39,3573900000.0,42045882.35294118
+23,Others,Grantee Bodies,moc_moc_cse_ocse_o,moc_moc_cse_ocse_o_gb,50.19,501900000.0,5904705.882352941

@@ -1,0 +1,115 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Education,,moe,154656.46000000002,1546564600000.0002,18194877647.058826
+1,Ministry of Education,Department of Higher Education,moe,moe_dohe,49890.62000000001,498906200000.0001,5869484705.882355
+2,Ministry of Education,Department of School Education and Literacy,moe,moe_doseal,104765.84,1047658400000.0,12325392941.17647
+3,Department of Higher Education,CENTRE'S EXPENDITURE,moe_dohe,moe_dohe_cse,48390.62000000001,483906200000.0001,5693014117.64706
+4,Department of Higher Education,TRANSFERS TO STATES/UTs,moe_dohe,moe_dohe_ttsu,1500.0,15000000000.0,176470588.2352941
+5,CENTRE'S EXPENDITURE,Commission for Scientific and Technical Terminology,moe_dohe_cse,moe_dohe_cse_cfsatt,13.0,130000000.0,1529411.7647058824
+6,CENTRE'S EXPENDITURE,"Central Institute of Indian Languages (CIIL), Mysore and Regional Language Centers",moe_dohe_cse,moe_dohe_cse_cioilcmarlc,61.37,613700000.0,7220000.0
+7,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moe_dohe_cse,moe_dohe_cse_cssp,4968.03,49680300000.0,584474117.6470588
+8,CENTRE'S EXPENDITURE,Educational Institutions Abroad,moe_dohe_cse,moe_dohe_cse_eia,12.48,124800000.0,1468235.294117647
+9,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moe_dohe_cse,moe_dohe_cse_ocse,43335.740000000005,433357400000.00006,5098322352.941177
+10,Central Sector Schemes/Projects,ASEAN Fellowship,moe_dohe_cse_cssp,moe_dohe_cse_cssp_af,3.0,30000000.0,352941.17647058825
+11,Central Sector Schemes/Projects,Champion Services Sector Scheme,moe_dohe_cse_cssp,moe_dohe_cse_cssp_csss,200.0,2000000000.0,23529411.76470588
+12,Central Sector Schemes/Projects,Digital India-e-learning,moe_dohe_cse_cssp,moe_dohe_cse_cssp_diel,420.0,4200000000.0,49411764.705882356
+13,Central Sector Schemes/Projects,Global Initiative for Academic Network (GIAN),moe_dohe_cse_cssp,moe_dohe_cse_cssp_gifang,10.0,100000000.0,1176470.5882352942
+14,Central Sector Schemes/Projects,Higher Education,moe_dohe_cse_cssp,moe_dohe_cse_cssp_he,1540.27,15402700000.0,181208235.29411766
+15,Central Sector Schemes/Projects,National Apprenticeship Training Scheme (NATS),moe_dohe_cse_cssp,moe_dohe_cse_cssp_natsn,440.0,4400000000.0,51764705.88235294
+16,Central Sector Schemes/Projects,National Institutional Ranking Framework,moe_dohe_cse_cssp,moe_dohe_cse_cssp_nirf,4.5,45000000.0,529411.7647058824
+17,Central Sector Schemes/Projects,Planning Administration and Global Engagement,moe_dohe_cse_cssp,moe_dohe_cse_cssp_paage,115.65,1156500000.0,13605882.352941176
+18,Central Sector Schemes/Projects,Pandit Madan Mohan Malviya National Mission on Teachers and Teaching,moe_dohe_cse_cssp,moe_dohe_cse_cssp_pmmmnmotat,45.0,450000000.0,5294117.647058823
+19,Central Sector Schemes/Projects,Research and Innovation,moe_dohe_cse_cssp,moe_dohe_cse_cssp_rai,210.61,2106100000.0000002,24777647.058823533
+20,Central Sector Schemes/Projects,Student Financial Aid,moe_dohe_cse_cssp,moe_dohe_cse_cssp_sfa,1954.0,19540000000.0,229882352.94117647
+21,Central Sector Schemes/Projects,Study in India,moe_dohe_cse_cssp,moe_dohe_cse_cssp_sii,25.0,250000000.0,2941176.470588235
+22,Champion Services Sector Scheme,Education Services-Internationalization of Higher Education,moe_dohe_cse_cssp_csss,moe_dohe_cse_cssp_csss_esiohe,200.0,2000000000.0,23529411.76470588
+23,Digital India-e-learning,Academic Bank of Credits (ABC),moe_dohe_cse_cssp_diel,moe_dohe_cse_cssp_diel_aboca,10.0,100000000.0,1176470.5882352942
+24,Digital India-e-learning,Higher Education Statistics and Public Information  System (HESPIS),moe_dohe_cse_cssp_diel,moe_dohe_cse_cssp_diel_hesapish,10.0,100000000.0,1176470.5882352942
+25,Digital India-e-learning,National Mission in Education Through ICT,moe_dohe_cse_cssp_diel,moe_dohe_cse_cssp_diel_nmieti,400.0,4000000000.0,47058823.52941176
+26,Higher Education,Glue Grant for Higher Education Institutes,moe_dohe_cse_cssp_he,moe_dohe_cse_cssp_he_ggfhei,10.0,100000000.0,1176470.5882352942
+27,Higher Education,Indian Knowledge Systems,moe_dohe_cse_cssp_he,moe_dohe_cse_cssp_he_iks,20.0,200000000.0,2352941.1764705884
+28,Higher Education,National Research Professors,moe_dohe_cse_cssp_he,moe_dohe_cse_cssp_he_nrp,0.27,2700000.0,31764.70588235294
+29,Higher Education,Prime Minister's Girls' Hostel,moe_dohe_cse_cssp_he,moe_dohe_cse_cssp_he_pmsgh,10.0,100000000.0,1176470.5882352942
+30,Higher Education,World Class Institutions,moe_dohe_cse_cssp_he,moe_dohe_cse_cssp_he_wci,1500.0,15000000000.0,176470588.2352941
+31,Research and Innovation,Implementation of the IMPRINT Research Initiative (Impacting Research Innovation and Technology),moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_iotiriiriat,5.0,50000000.0,588235.2941176471
+32,Research and Innovation,Multidisciplinary Education and Research Improvement in Technical Education-EAP (MERITE),moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_meariiteem,100.0,1000000000.0,11764705.88235294
+33,Research and Innovation,National Inititative for Design Innovation,moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_nifdi,10.0,100000000.0,1176470.5882352942
+34,Research and Innovation,Scheme for Promotion of Academic and Research Collaboration (SPARC),moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_sfpoaarcs,50.0,500000000.0,5882352.94117647
+35,Research and Innovation,Scheme for Transformational and Advanced Research in Sciences (STARS),moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_sftaariss,25.0,250000000.0,2941176.470588235
+36,Research and Innovation,Startup India Initiative in Higher Educational Institutions,moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_siiihei,11.21,112100000.00000001,1318823.5294117648
+37,Research and Innovation,Unnat Bharat Abhiyan,moe_dohe_cse_cssp_rai,moe_dohe_cse_cssp_rai_uba,9.4,94000000.0,1105882.3529411764
+38,Student Financial Aid,PM Research Fellowship,moe_dohe_cse_cssp_sfa,moe_dohe_cse_cssp_sfa_prf,400.0,4000000000.0,47058823.52941176
+39,Student Financial Aid,PM Uchchatar Shiksha Protsahan (PM-USP) Yojna,moe_dohe_cse_cssp_sfa,moe_dohe_cse_cssp_sfa_pusppuy,1554.0,15540000000.0,182823529.4117647
+40,Other Central Sector Expenditure,Autonomous Bodies,moe_dohe_cse_ocse,moe_dohe_cse_ocse_ab,31555.74,315557400000.0,3712440000.0
+41,Other Central Sector Expenditure,Others,moe_dohe_cse_ocse,moe_dohe_cse_ocse_o,6000.0,60000000000.0,705882352.9411764
+42,Other Central Sector Expenditure,Statutory and Regulatory Bodies,moe_dohe_cse_ocse,moe_dohe_cse_ocse_sarb,5780.0,57800000000.0,680000000.0
+43,Autonomous Bodies,Andhra Pradesh and Telangana Tribal Universities,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_apattu,37.67,376700000.0,4431764.705882353
+44,Autonomous Bodies,Assistance to Other Institutions,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_atoi,581.84,5818400000.0,68451764.70588236
+45,Autonomous Bodies,"Board of Apprenticeship Training, Bombay, Calcutta, Madras and Kanpur",moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_boatbcmak,34.63,346300000.0,4074117.6470588236
+46,Autonomous Bodies,"Central University, Andhra Pradesh",moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_cuap,47.4,474000000.0,5576470.588235294
+47,Autonomous Bodies,Deemed  Universities promoted by Central Government,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_dupbcg,500.0,5000000000.0,58823529.4117647
+48,Autonomous Bodies,Grants to Councils/Institutes for Excellence in Humanities and Social Sciences,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_gtcifeihass,400.0,4000000000.0,47058823.52941176
+49,Autonomous Bodies,Grants to Institutes for Promotion of Indian Languages,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_gtifpoil,300.7,3007000000.0,35376470.5882353
+50,Autonomous Bodies,Indira Gandhi National Open University (IGNOU),moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_ignoui,105.0,1050000000.0,12352941.176470589
+51,Autonomous Bodies,Indian Institutes of Information Technology(IIITs),moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_iioiti,560.0,5600000000.0,65882352.941176474
+52,Autonomous Bodies,Indian Institutes of Management,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_iiom,5120.6,51206000000.0,602423529.4117647
+53,Autonomous Bodies,"Indian Institute of Science, Education and Research (IISERs)",moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_iioseari,2277.4,22774000000.0,267929411.7647059
+54,Autonomous Bodies,Indian Institutes of Technology,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_iiot,9661.5,96615000000.0,1136647058.8235295
+55,Autonomous Bodies,"National Institute of Industrial Engineering, Mumbai",moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_nioiem,75.0,750000000.0,8823529.411764706
+56,Autonomous Bodies,National Institutes of Technical Teachers Training and Research (NITTTRs),moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_niotttarn,150.0,1500000000.0,17647058.82352941
+57,Autonomous Bodies,Repayment of Principal of HEFA Loan,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_ropohl,212.14,2121399999.9999998,24957647.058823526
+58,Autonomous Bodies,Schools of Planning and Architecture (SPAs),moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_sopaas,175.0,1750000000.0,20588235.29411765
+59,Autonomous Bodies,Unallocated,moe_dohe_cse_ocse_ab,moe_dohe_cse_ocse_ab_u,11316.86,113168600000.0,1331395294.1176472
+60,Assistance to Other Institutions,Interest under HEFA Loan,moe_dohe_cse_ocse_ab_atoi,moe_dohe_cse_ocse_ab_atoi_iuhl,3.0,30000000.0,352941.17647058825
+61,Assistance to Other Institutions,Support from Gross Budgetary Support (GBS),moe_dohe_cse_ocse_ab_atoi,moe_dohe_cse_ocse_ab_atoi_sfgbsg,578.84,5788400000.0,68098823.52941176
+62,Indian Institutes of Information Technology(IIITs),"Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)",moe_dohe_cse_ocse_ab_iioiti,moe_dohe_cse_ocse_ab_iioiti_stiisoitagjak,290.0,2900000000.0,34117647.058823526
+63,Indian Institutes of Information Technology(IIITs),Setting up Indian Institutes of Information Technology in PPP mode,moe_dohe_cse_ocse_ab_iioiti,moe_dohe_cse_ocse_ab_iioiti_suiioitipm,270.0,2700000000.0,31764705.88235294
+64,"Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)",Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iioiti_stiisoitagjak,moe_dohe_cse_ocse_ab_iioiti_stiisoitagjak_iuhl,1.0,10000000.0,117647.05882352941
+65,"Support to Indian Institute(s) of Information Technology (Allahabad, Gwalior, Jabalpur and Kanchipuram)",Support from Gross Budgetary Support (GBS),moe_dohe_cse_ocse_ab_iioiti_stiisoitagjak,moe_dohe_cse_ocse_ab_iioiti_stiisoitagjak_sfgbsg,289.0,2890000000.0,34000000.0
+66,Indian Institutes of Management,Support to Indian Institutes of Management (IIMs),moe_dohe_cse_ocse_ab_iiom,moe_dohe_cse_ocse_ab_iiom_stiiomi,300.0,3000000000.0,35294117.64705882
+67,Indian Institutes of Management,Support to National Institutes of Technology (NITs) and IIEST,moe_dohe_cse_ocse_ab_iiom,moe_dohe_cse_ocse_ab_iiom_stniotnai,4820.6,48206000000.0,567129411.7647059
+68,Support to Indian Institutes of Management (IIMs),Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iiom_stiiomi,moe_dohe_cse_ocse_ab_iiom_stiiomi_iuhl,29.79,297900000.0,3504705.882352941
+69,Support to Indian Institutes of Management (IIMs),Repayment of Principal of HEFA Loan,moe_dohe_cse_ocse_ab_iiom_stiiomi,moe_dohe_cse_ocse_ab_iiom_stiiomi_ropohl,255.04,2550400000.0,30004705.88235294
+70,Support to Indian Institutes of Management (IIMs),Support from Gross Budgetary Support (GBS),moe_dohe_cse_ocse_ab_iiom_stiiomi,moe_dohe_cse_ocse_ab_iiom_stiiomi_sfgbsg,15.17,151700000.0,1784705.8823529412
+71,Support to National Institutes of Technology (NITs) and IIEST,Grants to National Institutes of Technology (NITs) and IIEST,moe_dohe_cse_ocse_ab_iiom_stniotnai,moe_dohe_cse_ocse_ab_iiom_stniotnai_gtniotnai,4620.0,46200000000.0,543529411.7647059
+72,Support to National Institutes of Technology (NITs) and IIEST,Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iiom_stniotnai,moe_dohe_cse_ocse_ab_iiom_stniotnai_iuhl,80.6,806000000.0,9482352.94117647
+73,Support to National Institutes of Technology (NITs) and IIEST,Repayment of Principal of HEFA Loan,moe_dohe_cse_ocse_ab_iiom_stniotnai,moe_dohe_cse_ocse_ab_iiom_stniotnai_ropohl,120.0,1200000000.0,14117647.05882353
+74,"Indian Institute of Science, Education and Research (IISERs)",Support to Indian Institute of Science (IISc),moe_dohe_cse_ocse_ab_iioseari,moe_dohe_cse_ocse_ab_iioseari_stiiosi,815.4,8154000000.0,95929411.76470588
+75,"Indian Institute of Science, Education and Research (IISERs)","Support to Indian Institute(s) of Science, Education and Research (IISER)",moe_dohe_cse_ocse_ab_iioseari,moe_dohe_cse_ocse_ab_iioseari_stiisoseari,1462.0,14620000000.0,172000000.0
+76,Support to Indian Institute of Science (IISc),Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iioseari_stiiosi,moe_dohe_cse_ocse_ab_iioseari_stiiosi_iuhl,4.5,45000000.0,529411.7647058824
+77,Support to Indian Institute of Science (IISc),Support from Gross Budgetary Support (GBS),moe_dohe_cse_ocse_ab_iioseari_stiiosi,moe_dohe_cse_ocse_ab_iioseari_stiiosi_sfgbsg,810.9,8109000000.0,95400000.0
+78,"Support to Indian Institute(s) of Science, Education and Research (IISER)",Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iioseari_stiisoseari,moe_dohe_cse_ocse_ab_iioseari_stiisoseari_iuhl,5.0,50000000.0,588235.2941176471
+79,"Support to Indian Institute(s) of Science, Education and Research (IISER)",Repayment of Principal of HEFA Loan,moe_dohe_cse_ocse_ab_iioseari_stiisoseari,moe_dohe_cse_ocse_ab_iioseari_stiisoseari_ropohl,9.0,90000000.0,1058823.5294117648
+80,"Support to Indian Institute(s) of Science, Education and Research (IISER)",Support from Gross Budgetary Support (GBS),moe_dohe_cse_ocse_ab_iioseari_stiisoseari,moe_dohe_cse_ocse_ab_iioseari_stiisoseari_sfgbsg,1448.0,14480000000.0,170352941.17647058
+81,Indian Institutes of Technology,"IIT, Hyderabad (EAP)",moe_dohe_cse_ocse_ab_iiot,moe_dohe_cse_ocse_ab_iiot_ihe,300.0,3000000000.0,35294117.64705882
+82,Indian Institutes of Technology,Support to Indian Institutes of Technology,moe_dohe_cse_ocse_ab_iiot,moe_dohe_cse_ocse_ab_iiot_stiiot,9361.5,93615000000.0,1101352941.1764705
+83,Support to Indian Institutes of Technology,Grants to Indian Institutes of Technology,moe_dohe_cse_ocse_ab_iiot_stiiot,moe_dohe_cse_ocse_ab_iiot_stiiot_gtiiot,8791.5,87915000000.0,1034294117.6470588
+84,Support to Indian Institutes of Technology,Interest under HEFA Loan,moe_dohe_cse_ocse_ab_iiot_stiiot,moe_dohe_cse_ocse_ab_iiot_stiiot_iuhl,270.0,2700000000.0,31764705.88235294
+85,Support to Indian Institutes of Technology,Repayment of Principal of HEFA Loan,moe_dohe_cse_ocse_ab_iiot_stiiot,moe_dohe_cse_ocse_ab_iiot_stiiot_ropohl,300.0,3000000000.0,35294117.64705882
+86,Others,Transfer to  Madhyamik and Uchhatar Shiksha Kosh,moe_dohe_cse_ocse_o,moe_dohe_cse_ocse_o_ttmausk,6000.0,60000000000.0,705882352.9411764
+87,Statutory and Regulatory Bodies,All India Council for Technical Education (AICTE),moe_dohe_cse_ocse_sarb,moe_dohe_cse_ocse_sarb_aicftea,420.0,4200000000.0,49411764.705882356
+88,Statutory and Regulatory Bodies,University Grants Commission (UGC),moe_dohe_cse_ocse_sarb,moe_dohe_cse_ocse_sarb_ugcu,5360.0,53600000000.0,630588235.2941177
+89,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,moe_dohe_ttsu,moe_dohe_ttsu_css,1500.0,15000000000.0,176470588.2352941
+90,Centrally Sponsored Schemes,National Education Mission,moe_dohe_ttsu_css,moe_dohe_ttsu_css_nem,1500.0,15000000000.0,176470588.2352941
+91,National Education Mission,Rashtriya Uchhatar Shiksha Abhiyan (RUSA),moe_dohe_ttsu_css_nem,moe_dohe_ttsu_css_nem_rusar,1500.0,15000000000.0,176470588.2352941
+92,Department of School Education and Literacy,CENTRE'S EXPENDITURE,moe_doseal,moe_doseal_cse,20755.37,207553700000.0,2441808235.2941175
+93,Department of School Education and Literacy,TRANSFERS TO STATES/UTs,moe_doseal,moe_doseal_ttsu,84010.47,840104700000.0,9883584705.882353
+94,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moe_doseal_cse,moe_doseal_cse_cssp,364.01,3640100000.0,42824705.88235294
+95,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moe_doseal_cse,moe_doseal_cse_ocse,20391.36,203913600000.0,2398983529.4117646
+96,Central Sector Schemes/Projects,National Means cum Merit Scholarship Scheme,moe_doseal_cse_cssp,moe_doseal_cse_cssp_nmcmss,364.0,3640000000.0,42823529.4117647
+97,Other Central Sector Expenditure,Autonomous Bodies,moe_doseal_cse_ocse,moe_doseal_cse_ocse_ab,14391.36,143913600000.0,1693101176.4705882
+98,Other Central Sector Expenditure,Others,moe_doseal_cse_ocse,moe_doseal_cse_ocse_o,6000.0,60000000000.0,705882352.9411764
+99,Autonomous Bodies,Kendriya Vidyalaya Sangathan (KVS),moe_doseal_cse_ocse_ab,moe_doseal_cse_ocse_ab_kvsk,8363.98,83639800000.0,983997647.0588236
+100,Autonomous Bodies,National Bal Bhawan,moe_doseal_cse_ocse_ab,moe_doseal_cse_ocse_ab_nbb,22.38,223800000.0,2632941.1764705884
+101,Autonomous Bodies,National Council of Educational Research and Training (NCERT),moe_doseal_cse_ocse_ab,moe_doseal_cse_ocse_ab_ncoeratn,518.5,5185000000.0,61000000.0
+102,Autonomous Bodies,Navodaya Vidyalaya Samiti (NVS),moe_doseal_cse_ocse_ab,moe_doseal_cse_ocse_ab_nvsn,5486.5,54865000000.0,645470588.2352941
+103,Others,Transfer to  Madhyamik and Uchhatar Shiksha Kosh,moe_doseal_cse_ocse_o,moe_doseal_cse_ocse_o_ttmausk,6000.0,60000000000.0,705882352.9411764
+104,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,moe_doseal_ttsu,moe_doseal_ttsu_css,84010.47,840104700000.0,9883584705.882353
+105,Centrally Sponsored Schemes,National Education Mission,moe_doseal_ttsu_css,moe_doseal_ttsu_css_nem,37453.47,374534700000.0,4406290588.235294
+106,Centrally Sponsored Schemes,National Programme of Mid Day Meal in Schools,moe_doseal_ttsu_css,moe_doseal_ttsu_css_npomdmis,46557.0,465570000000.0,5477294117.6470585
+107,National Education Mission,Samagra Shiksha,moe_doseal_ttsu_css_nem,moe_doseal_ttsu_css_nem_ss,37453.47,374534700000.0,4406290588.235294
+108,Samagra Shiksha,Support for Samagra Shiksha,moe_doseal_ttsu_css_nem_ss,moe_doseal_ttsu_css_nem_ss_sfss,37453.46,374534600000.0,4406289411.764706
+109,National Programme of Mid Day Meal in Schools,New India Literacy Programme (NILP),moe_doseal_ttsu_css_npomdmis,moe_doseal_ttsu_css_npomdmis_nilpn,157.0,1570000000.0,18470588.23529412
+110,National Programme of Mid Day Meal in Schools,Pradhan Mantri Poshan Shakti Nirman (PM POSHAN),moe_doseal_ttsu_css_npomdmis,moe_doseal_ttsu_css_npomdmis_pmpsnpp,11600.0,116000000000.0,1364705882.3529413
+111,National Programme of Mid Day Meal in Schools,PM Schools for Rising India (PM SHRI),moe_doseal_ttsu_css_npomdmis,moe_doseal_ttsu_css_npomdmis_psfrips,4000.0,40000000000.0,470588235.2941176
+112,National Programme of Mid Day Meal in Schools,Strengthening Teaching-Learning and Results for States (STARS),moe_doseal_ttsu_css_npomdmis,moe_doseal_ttsu_css_npomdmis_stlarfss,800.0,8000000000.0,94117647.05882353
+113,National Programme of Mid Day Meal in Schools,Transfer to Prarambhik Shiksha Kosh (PSK),moe_doseal_ttsu_css_npomdmis,moe_doseal_ttsu_css_npomdmis_ttpskp,30000.0,300000000000.0,3529411764.7058825

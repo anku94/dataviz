@@ -1,0 +1,22 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Earth Sciences,,moes,3319.88,33198800000.0,390574117.64705884
+1,Ministry of Earth Sciences,Ministry of Earth Sciences,moes,moes_moes,3319.88,33198800000.0,390574117.64705884
+2,Ministry of Earth Sciences,CENTRE'S EXPENDITURE,moes_moes,moes_moes_cse,3319.88,33198800000.0,390574117.64705884
+3,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moes_moes_cse,moes_moes_cse_cssp,2071.0,20710000000.0,243647058.82352942
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,moes_moes_cse,moes_moes_cse_eeotc,1043.98,10439800000.0,122821176.47058824
+5,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moes_moes_cse,moes_moes_cse_ocse,204.9,2049000000.0,24105882.352941178
+6,Central Sector Schemes/Projects,Atmosphere and Climate Research - Modelling Observing Systems and Services (ACROSS),moes_moes_cse_cssp,moes_moes_cse_cssp_aacrmosasa,680.0,6800000000.0,80000000.0
+7,Central Sector Schemes/Projects,Deep Ocean Mission (DOM),moes_moes_cse_cssp,moes_moes_cse_cssp_domd,600.0,6000000000.0,70588235.29411764
+8,Central Sector Schemes/Projects,"Ocean services, Modelling, Application, Resources and Technology (O-SMART)",moes_moes_cse_cssp,moes_moes_cse_cssp_osmaratos,460.0,4600000000.0,54117647.058823526
+9,Central Sector Schemes/Projects,Polar Science and Cryosphere (PACER),moes_moes_cse_cssp,moes_moes_cse_cssp_psacp,146.0,1460000000.0,17176470.588235293
+10,Central Sector Schemes/Projects,"Research, Education and Training Outreach (REACHOUT)",moes_moes_cse_cssp,moes_moes_cse_cssp_reator,65.0,650000000.0,7647058.823529412
+11,Central Sector Schemes/Projects,Seismological and Geoscience (SAGE),moes_moes_cse_cssp,moes_moes_cse_cssp_sags,120.0,1200000000.0,14117647.05882353
+12,Establishment Expenditure of the Centre,Meteorology,moes_moes_cse_eeotc,moes_moes_cse_eeotc_m,500.7,5007000000.0,58905882.35294118
+13,Establishment Expenditure of the Centre,National Centre for Medium Range Weather Forecasting (NCMRWF),moes_moes_cse_eeotc,moes_moes_cse_eeotc_ncfmrwfn,13.77,137700000.0,1620000.0
+14,Establishment Expenditure of the Centre,Secretariat,moes_moes_cse_eeotc,moes_moes_cse_eeotc_s,529.51,5295100000.0,62295294.11764706
+15,Other Central Sector Expenditure,Autonomous Bodies,moes_moes_cse_ocse,moes_moes_cse_ocse_ab,204.9,2049000000.0,24105882.352941178
+16,Autonomous Bodies,Indian Institute of Tropical Meteorology (IITM),moes_moes_cse_ocse_ab,moes_moes_cse_ocse_ab_iiotmi,86.5,865000000.0,10176470.588235294
+17,Autonomous Bodies,Indian National Centre for Ocean Information Services (INCOIS),moes_moes_cse_ocse_ab,moes_moes_cse_ocse_ab_incfoisi,27.0,270000000.0,3176470.588235294
+18,Autonomous Bodies,National Centre for Earth Science Studies (NCESS),moes_moes_cse_ocse_ab,moes_moes_cse_ocse_ab_ncfessn,16.0,160000000.0,1882352.9411764706
+19,Autonomous Bodies,"National Centre for Polar and Ocean Research, Goa (NCPOR)",moes_moes_cse_ocse_ab,moes_moes_cse_ocse_ab_ncfpaorgn,26.0,260000000.0,3058823.529411765
+20,Autonomous Bodies,National Institute of Ocean Technology (NIOT),moes_moes_cse_ocse_ab,moes_moes_cse_ocse_ab_niootn,49.4,494000000.0,5811764.705882353

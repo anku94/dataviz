@@ -1,0 +1,79 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Commerce and Industry,,mocai,13455.210000000001,134552100000.00002,1582965882.3529413
+1,Ministry of Commerce and Industry,Department for Promotion of Industry and Internal Trade,mocai,mocai_dfpoiait,8200.630000000001,82006300000.00002,964780000.0000002
+2,Ministry of Commerce and Industry,Department of Commerce,mocai,mocai_doc,5254.58,52545800000.0,618185882.3529412
+3,Department for Promotion of Industry and Internal Trade,CENTRE'S EXPENDITURE,mocai_dfpoiait,mocai_dfpoiait_cse,8200.630000000001,82006300000.00002,964780000.0000002
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mocai_dfpoiait_cse,mocai_dfpoiait_cse_cssp,7372.030000000001,73720300000.0,867297647.0588236
+5,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mocai_dfpoiait_cse,mocai_dfpoiait_cse_eeotc,648.35,6483500000.0,76276470.58823529
+6,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mocai_dfpoiait_cse,mocai_dfpoiait_cse_ocse,180.25,1802500000.0,21205882.352941178
+7,Central Sector Schemes/Projects,"Footwear, Leather and Accessories Development Programme (FLADP)",mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_flaadpf,250.0,2500000000.0,29411764.70588235
+8,Central Sector Schemes/Projects,Industrial Development of Backward and Remote Areas,mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_idobara,1108.0,11080000000.0,130352941.1764706
+9,Central Sector Schemes/Projects,"Industrial Development of Ladakh, 2022",mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_idol2,97.3,973000000.0,11447058.823529411
+10,Central Sector Schemes/Projects,Industrial Infrastructure Upgradation Scheme (IIUS),mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_iiusi,5.0,50000000.0,588235.2941176471
+11,Central Sector Schemes/Projects,Make in India,mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_mii,2180.0,21800000000.0,256470588.2352941
+12,Central Sector Schemes/Projects,National Industrial Corridors,mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_nic,2000.0,20000000000.0,235294117.6470588
+13,Central Sector Schemes/Projects,Price and Production Statistics,mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_paps,17.85,178500000.0,2100000.0
+14,Central Sector Schemes/Projects,Refund of Central and Integrated GST to Industrial Units in North Eastern Region and Himalayan States,mocai_dfpoiait_cse_cssp,mocai_dfpoiait_cse_cssp_rocaigtiuinerahs,1713.88,17138800000.000002,201632941.1764706
+15,Industrial Development of Backward and Remote Areas,Industrial Development of UT of Jammu and Kashmir,mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_idouojak,150.0,1500000000.0,17647058.82352941
+16,Industrial Development of Backward and Remote Areas,"Industrial Development Scheme, 2017 for Union Territory of Jammu & Kashmir and Union Territory of Ladakh",mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_ids2futojkautol,50.0,500000000.0,5882352.94117647
+17,Industrial Development of Backward and Remote Areas,"Industrial Development Scheme for Himachal Pradesh & Uttarakhand, 2017",mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_idsfhpu2,250.0,2500000000.0,29411764.70588235
+18,Industrial Development of Backward and Remote Areas,North Eastern Industrial and Investment Promotion Policy (NEIPP),mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_neiaippn,200.0,2000000000.0,23529411.76470588
+19,Industrial Development of Backward and Remote Areas,North East Industrial Development Scheme (NEIDS) 2017,mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_neidsn2,400.0,4000000000.0,47058823.52941176
+20,Industrial Development of Backward and Remote Areas,"Package for Special Catagory States for Jammu and Kashmir,  Himachal Pradesh and Uttarakhand",mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_pfscsfjakhpau,8.0,80000000.0,941176.4705882353
+21,Industrial Development of Backward and Remote Areas,Transport/Freight Subsidy Scheme,mocai_dfpoiait_cse_cssp_idobara,mocai_dfpoiait_cse_cssp_idobara_tfss,50.0,500000000.0,5882352.94117647
+22,Make in India,Credit Guarantee Fund,mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_cgf,250.0,2500000000.0,29411764.70588235
+23,Make in India,Ease of Doing Business,mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_eodb,10.0,100000000.0,1176470.5882352942
+24,Make in India,Fund of Funds,mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_fof,1470.0,14700000000.0,172941176.47058824
+25,Make in India,Production Linked Incentive Scheme (PLI) for White Goods (ACs and LED Lights),mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_plispfwgaall,65.0,650000000.0,7647058.823529412
+26,Make in India,Scheme for Investment Promotion,mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_sfip,195.0,1950000000.0,22941176.470588237
+27,Make in India,Startup India,mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_si,30.0,300000000.0,3529411.7647058824
+28,Make in India,Startup India Seed Fund Scheme (SISFS),mocai_dfpoiait_cse_cssp_mii,mocai_dfpoiait_cse_cssp_mii_sisfss,160.0,1600000000.0,18823529.411764707
+29,National Industrial Corridors,National Industrial Corridor Development and Implementation Trust (NICDIT),mocai_dfpoiait_cse_cssp_nic,mocai_dfpoiait_cse_cssp_nic_nicdaitn,2000.0,20000000000.0,235294117.6470588
+30,Establishment Expenditure of the Centre,Attached and Subordinate Offices,mocai_dfpoiait_cse_eeotc,mocai_dfpoiait_cse_eeotc_aaso,117.34,1173400000.0,13804705.88235294
+31,Establishment Expenditure of the Centre,Intellectual Property,mocai_dfpoiait_cse_eeotc,mocai_dfpoiait_cse_eeotc_ip,328.91,3289100000.0000005,38695294.11764707
+32,Establishment Expenditure of the Centre,Secretariat,mocai_dfpoiait_cse_eeotc,mocai_dfpoiait_cse_eeotc_s,202.1,2021000000.0,23776470.588235293
+33,Attached and Subordinate Offices,Petroleum and Explosives Safety Organisation (PESO),mocai_dfpoiait_cse_eeotc_aaso,mocai_dfpoiait_cse_eeotc_aaso_paesop,65.0,650000000.0,7647058.823529412
+34,Attached and Subordinate Offices,Salt Commissioner,mocai_dfpoiait_cse_eeotc_aaso,mocai_dfpoiait_cse_eeotc_aaso_sc,52.09,520900000.00000006,6128235.294117648
+35,Attached and Subordinate Offices,Survey of Boiler,mocai_dfpoiait_cse_eeotc_aaso,mocai_dfpoiait_cse_eeotc_aaso_sob,0.25,2500000.0,29411.764705882353
+36,Intellectual Property,Controller General of Patent Designs and Trademarks,mocai_dfpoiait_cse_eeotc_ip,mocai_dfpoiait_cse_eeotc_ip_cgopdat,281.6,2816000000.0,33129411.76470588
+37,Intellectual Property,Infrastructure Development in Controller General of Patents Designs and Trade Marks (IDCGPDTM),mocai_dfpoiait_cse_eeotc_ip,mocai_dfpoiait_cse_eeotc_ip_idicgopdatmi,11.0,110000000.0,1294117.6470588236
+38,Intellectual Property,Intellectual Policy Rights (IPR) Policy Management,mocai_dfpoiait_cse_eeotc_ip,mocai_dfpoiait_cse_eeotc_ip_ipripm,36.31,363100000.0,4271764.705882353
+39,Other Central Sector Expenditure,Autonomous Bodies,mocai_dfpoiait_cse_ocse,mocai_dfpoiait_cse_ocse_ab,180.24,1802400000.0,21204705.88235294
+40,Autonomous Bodies,Autonomous Organisations,mocai_dfpoiait_cse_ocse_ab,mocai_dfpoiait_cse_ocse_ab_ao,180.24,1802400000.0,21204705.88235294
+41,Autonomous Organisations,Asian Productivity Organization/United Nations Industrial Development Organization,mocai_dfpoiait_cse_ocse_ab_ao,mocai_dfpoiait_cse_ocse_ab_ao_apounido,22.0,220000000.0,2588235.294117647
+42,Autonomous Organisations,Assistance to Autonomous Bodies,mocai_dfpoiait_cse_ocse_ab_ao,mocai_dfpoiait_cse_ocse_ab_ao_atab,40.75,407500000.0,4794117.647058823
+43,Autonomous Organisations,Support to Autonomous Institutions,mocai_dfpoiait_cse_ocse_ab_ao,mocai_dfpoiait_cse_ocse_ab_ao_stai,116.66,1166600000.0,13724705.88235294
+44,Autonomous Organisations,World Intellectual Property Organisation (WIPO),mocai_dfpoiait_cse_ocse_ab_ao,mocai_dfpoiait_cse_ocse_ab_ao_wipow,0.83,8300000.0,97647.05882352941
+45,Department of Commerce,CENTRE'S EXPENDITURE,mocai_doc,mocai_doc_cse,5254.58,52545800000.0,618185882.3529412
+46,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mocai_doc_cse,mocai_doc_cse_cssp,4351.47,43514700000.0,511937647.0588235
+47,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,mocai_doc_cse,mocai_doc_cse_eeotc,839.61,8396100000.0,98777647.05882353
+48,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mocai_doc_cse,mocai_doc_cse_ocse,63.5,635000000.0,7470588.235294118
+49,Central Sector Schemes/Projects,Coffee Board,mocai_doc_cse_cssp,mocai_doc_cse_cssp_cb,226.2,2262000000.0,26611764.70588235
+50,Central Sector Schemes/Projects,Centre For Research on International Trade-CRIT (Centre for WTO Studies),mocai_doc_cse_cssp,mocai_doc_cse_cssp_cfroitccfws,41.0,410000000.0,4823529.411764706
+51,Central Sector Schemes/Projects,Duty Drawback Scheme,mocai_doc_cse_cssp,mocai_doc_cse_cssp_dds,180.0,1800000000.0,21176470.588235293
+52,Central Sector Schemes/Projects,Export Promotion Schemes,mocai_doc_cse_cssp,mocai_doc_cse_cssp_eps,3132.01,31320100000.000004,368471764.7058824
+53,Central Sector Schemes/Projects,Marine Product Export Development Authority (MPEDA),mocai_doc_cse_cssp,mocai_doc_cse_cssp_mpedam,100.0,1000000000.0,11764705.88235294
+54,Central Sector Schemes/Projects,Project Development Fund,mocai_doc_cse_cssp,mocai_doc_cse_cssp_pdf,1.99,19900000.0,234117.64705882352
+55,Central Sector Schemes/Projects,Rubber Board,mocai_doc_cse_cssp,mocai_doc_cse_cssp_rb,268.76,2687600000.0,31618823.529411763
+56,Central Sector Schemes/Projects,Spices Board,mocai_doc_cse_cssp,mocai_doc_cse_cssp_sb,115.5,1155000000.0,13588235.294117646
+57,Central Sector Schemes/Projects,Tea Board,mocai_doc_cse_cssp,mocai_doc_cse_cssp_tb,135.0,1350000000.0,15882352.94117647
+58,Central Sector Schemes/Projects,Trade Infrastructure for Export Schemes (TIES),mocai_doc_cse_cssp,mocai_doc_cse_cssp_tifest,71.0,710000000.0,8352941.176470588
+59,Export Promotion Schemes,Interest Equalisation Scheme,mocai_doc_cse_cssp_eps,mocai_doc_cse_cssp_eps_ies,2932.0,29320000000.0,344941176.4705882
+60,Export Promotion Schemes,Market Access Initiative,mocai_doc_cse_cssp_eps,mocai_doc_cse_cssp_eps_mai,200.0,2000000000.0,23529411.76470588
+61,Establishment Expenditure of the Centre,Assistance to Special Economic Zones,mocai_doc_cse_eeotc,mocai_doc_cse_eeotc_atsez,113.9,1139000000.0,13400000.0
+62,Establishment Expenditure of the Centre,Directorate General of Commercial Intelligence and Statistics,mocai_doc_cse_eeotc,mocai_doc_cse_eeotc_dgocias,43.0,430000000.0,5058823.529411765
+63,Establishment Expenditure of the Centre,Foreign Trade and Export Promotion,mocai_doc_cse_eeotc,mocai_doc_cse_eeotc_ftaep,272.1,2721000000.0,32011764.70588235
+64,Establishment Expenditure of the Centre,Secretariat,mocai_doc_cse_eeotc,mocai_doc_cse_eeotc_s,170.61,1706100000.0000002,20071764.705882356
+65,Establishment Expenditure of the Centre,Trade Commissioners,mocai_doc_cse_eeotc,mocai_doc_cse_eeotc_tc,240.0,2400000000.0,28235294.11764706
+66,Foreign Trade and Export Promotion,Director General of Foreign Trade,mocai_doc_cse_eeotc_ftaep,mocai_doc_cse_eeotc_ftaep_dgoft,174.0,1740000000.0,20470588.23529412
+67,Foreign Trade and Export Promotion,International Cooperation,mocai_doc_cse_eeotc_ftaep,mocai_doc_cse_eeotc_ftaep_ic,41.0,410000000.0,4823529.411764706
+68,Foreign Trade and Export Promotion,International Conferences,mocai_doc_cse_eeotc_ftaep,mocai_doc_cse_eeotc_ftaep_ic,30.0,300000000.0,3529411.7647058824
+69,Foreign Trade and Export Promotion,Trade Remedies and Trade Defence,mocai_doc_cse_eeotc_ftaep,mocai_doc_cse_eeotc_ftaep_tratd,27.1,271000000.0,3188235.294117647
+70,Other Central Sector Expenditure,Autonomous Bodies,mocai_doc_cse_ocse,mocai_doc_cse_ocse_ab,60.0,600000000.0,7058823.529411765
+71,Other Central Sector Expenditure,Others,mocai_doc_cse_ocse,mocai_doc_cse_ocse_o,3.5,35000000.0,411764.70588235295
+72,Autonomous Bodies,Autonomous Institutions,mocai_doc_cse_ocse_ab,mocai_doc_cse_ocse_ab_ai,60.0,600000000.0,7058823.529411765
+73,Autonomous Institutions,Indian Institute of Foreign Trade,mocai_doc_cse_ocse_ab_ai,mocai_doc_cse_ocse_ab_ai_iioft,50.0,500000000.0,5882352.94117647
+74,Autonomous Institutions,Indian Institute of Packaging,mocai_doc_cse_ocse_ab_ai,mocai_doc_cse_ocse_ab_ai_iiop,10.0,100000000.0,1176470.5882352942
+75,Others,Delegation from abroad,mocai_doc_cse_ocse_o,mocai_doc_cse_ocse_o_dfa,2.0,20000000.0,235294.11764705883
+76,Others,Delegation going abroad,mocai_doc_cse_ocse_o,mocai_doc_cse_ocse_o_dga,0.5,5000000.0,58823.529411764706
+77,Others,Unallocated,mocai_doc_cse_ocse_o,mocai_doc_cse_ocse_o_u,1.0,10000000.0,117647.05882352941

@@ -1,0 +1,15 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,Ministry of Cooperation,,mocoop,1089.79,10897900000.0,128210588.23529412
+1,Ministry of Cooperation,Ministry of Cooperation,mocoop,mocoop_mocoop,1089.79,10897900000.0,128210588.23529412
+2,Ministry of Cooperation,CENTRE'S EXPENDITURE,mocoop_mocoop,mocoop_mocoop_cse,121.53999999999999,1215400000.0,14298823.529411765
+3,Ministry of Cooperation,TRANSFERS TO STATES/UTs,mocoop_mocoop,mocoop_mocoop_ttsu,968.25,9682500000.0,113911764.70588236
+4,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,mocoop_mocoop_cse,mocoop_mocoop_cse_cssp,55.01,550100000.0,6471764.705882353
+5,CENTRE'S EXPENDITURE,Other Attached and Subordinate Offices,mocoop_mocoop_cse,mocoop_mocoop_cse_oaaso,15.41,154100000.0,1812941.1764705882
+6,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,mocoop_mocoop_cse,mocoop_mocoop_cse_ocse,51.12,511200000.0,6014117.647058823
+7,Central Sector Schemes/Projects,Co-operative Education,mocoop_mocoop_cse_cssp,mocoop_mocoop_cse_cssp_coe,30.0,300000000.0,3529411.7647058824
+8,Central Sector Schemes/Projects,Cooperative Training,mocoop_mocoop_cse_cssp,mocoop_mocoop_cse_cssp_ct,25.0,250000000.0,2941176.470588235
+9,Other Central Sector Expenditure,Autonomous Bodies,mocoop_mocoop_cse_ocse,mocoop_mocoop_cse_ocse_ab,51.12,511200000.0,6014117.647058823
+10,Autonomous Bodies,National Council for Cooperative Training (NCCT),mocoop_mocoop_cse_ocse_ab,mocoop_mocoop_cse_ocse_ab_ncfctn,40.0,400000000.0,4705882.352941177
+11,Autonomous Bodies,Vaikunthlal Mehta National Institute of Cooperative Management (VAMNICOM),mocoop_mocoop_cse_ocse_ab,mocoop_mocoop_cse_ocse_ab_vmniocmv,11.12,111199999.99999999,1308235.294117647
+12,TRANSFERS TO STATES/UTs,Centrally Sponsored Schemes,mocoop_mocoop_ttsu,mocoop_mocoop_ttsu_css,968.25,9682500000.0,113911764.70588236
+13,Centrally Sponsored Schemes,Computerization of Primary Agricultural Credit Societies,mocoop_mocoop_ttsu_css,mocoop_mocoop_ttsu_css_copacs,968.24,9682400000.0,113910588.23529412

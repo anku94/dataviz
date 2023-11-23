@@ -3,6 +3,14 @@ import Plot from "react-plotly.js";
 import CsvReader, { BudgetEdges } from "../CsvReader";
 import { AppContext } from "../AppContext";
 
+const USD_INR = 83;
+const ONE_LAKH = 100000;
+const ONE_CRORE = 100 * ONE_LAKH;
+const ONE_BILLION = 1e9;
+const ONE_LC = ONE_LAKH * ONE_CRORE;
+const BILL_USD_TO_LC_INR = (ONE_BILLION * USD_INR) / ONE_LC;
+const INR_SYMBOL = "₹";
+
 const BudgetDataTree: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState<BudgetEdges | null>(null);
@@ -31,7 +39,7 @@ const BudgetDataTree: React.FC = () => {
       setData(data);
       setLoading(false);
     });
-  }, [state.selected_csv]);
+  }, [state.selected_csv, state.key]);
 
   if (loading) {
     return <div>Loading...</div>;
@@ -46,8 +54,19 @@ const BudgetDataTree: React.FC = () => {
           parents: data?.parents,
           labels: data?.labels,
           values: data?.values,
-          texttemplate: "%{label}<br />%{value:$.2f}B",
-          hovertemplate: "%{label}<br />%{value:$.2f}B",
+          marker: {
+            colors: data?.marker.color,
+          },
+          customdata: data?.values.map((v) => v * BILL_USD_TO_LC_INR),
+          texttemplate:
+            "%{label}<br />%{value:$.1f}B<br />" +
+            INR_SYMBOL +
+            "%{customdata:,.1f} Lakh Crores",
+          hovertemplate:
+            "%{label}<br />%{value:$.2f}B<br />" +
+            INR_SYMBOL +
+            "%{customdata:,.0f} Lakh Crores" +
+            "<extra>Union Budget 2023-24</extra>",
           branchvalues: "total",
         },
       ]}

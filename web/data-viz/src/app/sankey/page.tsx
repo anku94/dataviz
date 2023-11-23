@@ -26,21 +26,6 @@ export default function Page() {
     <div>
       <CssBaseline />
       <Container maxWidth="xl" sx={{ mt: 1, mb: 0 }}>
-        <Grid container spacing={3} columnSpacing={0} sx={{ p: 0 }}>
-          {/* Chart */}
-          <Grid item xs={12} md={8} lg={12}>
-            <Paper
-              sx={{
-                p: 0,
-                display: "flex",
-                flexDirection: "column",
-                height: 720,
-              }}
-            >
-              <DynamicBudgetDataSankey />
-            </Paper>
-          </Grid>
-        </Grid>
         <Grid>
           <Grid item xs={12}>
             <Button
@@ -50,6 +35,21 @@ export default function Page() {
             >
               Refresh
             </Button>
+          </Grid>
+        </Grid>
+        <Grid container spacing={3} columnSpacing={0} sx={{ p: 0 }}>
+          {/* Chart */}
+          <Grid item xs={12} md={8} lg={12}>
+            <Paper
+              sx={{
+                p: 0,
+                display: "flex",
+                flexDirection: "column",
+                height: 1024,
+              }}
+            >
+              <DynamicBudgetDataSankey />
+            </Paper>
           </Grid>
         </Grid>
       </Container>

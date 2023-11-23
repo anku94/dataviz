@@ -11,7 +11,7 @@ type AppState = {
 const InitialAppState: AppState = {
   key: 0,
   title: "GOI Budget 2023-24",
-  selected_csv: "/dash/data/goi2324/goi.csv",
+  selected_csv: "/dash/data/goi2324.v2/goi.csv",
 };
 
 type AppAction =
@@ -32,7 +32,7 @@ function AppStateReducer(state: AppState, action: AppAction) {
     case "SET_CSV":
       return { ...state, selected_csv: action.csv };
     case "SET_TITLE_AND_CSV":
-      const selected_csv = `/dash/data/goi2324/${action.csv}.csv`;
+      const selected_csv = `/dash/data/goi2324.v2/${action.csv}.csv`;
       return { ...state, title: action.title, selected_csv: selected_csv };
     default:
       return state;

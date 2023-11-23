@@ -1,0 +1,30 @@
+id,source_name,dest_name,source_abbrev,dest_abbrev,amount,amount_inr,amount_usd
+0,,"Ministry of Personnel, Public Grievances and Pensions",,moppgap,2252.2000000000003,22522000000.000004,264964705.88235298
+1,"Ministry of Personnel, Public Grievances and Pensions",Central Vigilance Commission,moppgap,moppgap_cvc,44.46,444600000.0,5230588.235294118
+2,"Ministry of Personnel, Public Grievances and Pensions","Ministry of Personnel, Public Grievances and Pensions",moppgap,moppgap_moppgap,2207.7400000000002,22077400000.000004,259734117.64705887
+3,Central Vigilance Commission,CENTRE'S EXPENDITURE,moppgap_cvc,moppgap_cvc_cse,44.46,444600000.0,5230588.235294118
+4,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,moppgap_cvc_cse,moppgap_cvc_cse_eeotc,44.46,444600000.0,5230588.235294118
+5,Establishment Expenditure of the Centre,Central Vigilance Commission,moppgap_cvc_cse_eeotc,moppgap_cvc_cse_eeotc_cvc,44.46,444600000.0,5230588.235294118
+6,"Ministry of Personnel, Public Grievances and Pensions",CENTRE'S EXPENDITURE,moppgap_moppgap,moppgap_moppgap_cse,2207.7400000000002,22077400000.000004,259734117.64705887
+7,CENTRE'S EXPENDITURE,Central Sector Schemes/Projects,moppgap_moppgap_cse,moppgap_moppgap_cse_cssp,226.75,2267500000.0,26676470.588235293
+8,CENTRE'S EXPENDITURE,Establishment Expenditure of the Centre,moppgap_moppgap_cse,moppgap_moppgap_cse_eeotc,1909.3900000000003,19093900000.000004,224634117.64705887
+9,CENTRE'S EXPENDITURE,Other Central Sector Expenditure,moppgap_moppgap_cse,moppgap_moppgap_cse_ocse,71.6,716000000.0,8423529.411764706
+10,Central Sector Schemes/Projects,Integrated Building for Institute of Secretariat Training and Management (ISTM) and other Institute of Department of Personnel and Training (DoPT),moppgap_moppgap_cse_cssp,moppgap_moppgap_cse_cssp_ibfiostamiaoiodopatd,20.0,200000000.0,2352941.1764705884
+11,Central Sector Schemes/Projects,National Programme for Civil Services Capacity Building,moppgap_moppgap_cse_cssp,moppgap_moppgap_cse_cssp_npfcscb,105.69,1056900000.0,12434117.647058824
+12,Central Sector Schemes/Projects,Pensioner's Portal,moppgap_moppgap_cse_cssp,moppgap_moppgap_cse_cssp_psp,3.5,35000000.0,411764.70588235295
+13,Central Sector Schemes/Projects,Scheme for Administrative Reforms,moppgap_moppgap_cse_cssp,moppgap_moppgap_cse_cssp_sfar,21.75,217500000.0,2558823.529411765
+14,Central Sector Schemes/Projects,Training Schemes,moppgap_moppgap_cse_cssp,moppgap_moppgap_cse_cssp_ts,75.81,758100000.0,8918823.529411765
+15,Establishment Expenditure of the Centre,Attached and Subordinate Offices,moppgap_moppgap_cse_eeotc,moppgap_moppgap_cse_eeotc_aaso,1722.9900000000002,17229900000.000004,202704705.88235298
+16,Establishment Expenditure of the Centre,Loans to All India Service(AIS) Officers,moppgap_moppgap_cse_eeotc,moppgap_moppgap_cse_eeotc_ltaisao,2.0,20000000.0,235294.11764705883
+17,Establishment Expenditure of the Centre,Secretariat,moppgap_moppgap_cse_eeotc,moppgap_moppgap_cse_eeotc_s,184.4,1844000000.0,21694117.647058822
+18,Attached and Subordinate Offices,Central Administrative Tribunal,moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_cat,163.42,1634199999.9999998,19225882.352941174
+19,Attached and Subordinate Offices,Central Bureau of Investigation,moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_cboi,946.51,9465100000.0,111354117.64705883
+20,Attached and Subordinate Offices,Central Information Commission(CIC) and Public Enterprises Selection Board(PESB),moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_ciccapesbp,32.46,324600000.0,3818823.529411765
+21,Attached and Subordinate Offices,Lokpal,moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_l,92.0,920000000.0,10823529.411764706
+22,Attached and Subordinate Offices,Staff Selection Commission,moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_ssc,399.73,3997300000.0,47027058.823529415
+23,Attached and Subordinate Offices,"Training Division, Institute of Secretariat Training & Management(ISTM) and Lal Bahadur Shastri National Academy of Administration(LBSNAA)",moppgap_moppgap_cse_eeotc_aaso,moppgap_moppgap_cse_eeotc_aaso_tdiostmialbsnaoal,88.87,888700000.0,10455294.11764706
+24,Other Central Sector Expenditure,Autonomous Bodies,moppgap_moppgap_cse_ocse,moppgap_moppgap_cse_ocse_ab,68.6,686000000.0,8070588.235294118
+25,Other Central Sector Expenditure,Others,moppgap_moppgap_cse_ocse,moppgap_moppgap_cse_ocse_o,3.0,30000000.0,352941.17647058825
+26,Autonomous Bodies,Autonomous Bodies of DoPT,moppgap_moppgap_cse_ocse_ab,moppgap_moppgap_cse_ocse_ab_abod,14.1,141000000.0,1658823.5294117648
+27,Autonomous Bodies,Indian Institute of Public Administration (IIPA) and National Centre for Good Governance(NCGG),moppgap_moppgap_cse_ocse_ab,moppgap_moppgap_cse_ocse_ab_iiopaiancfggn,54.5,545000000.0,6411764.705882353
+28,Others,Right to Information( RTI),moppgap_moppgap_cse_ocse_o,moppgap_moppgap_cse_ocse_o_rtir,3.0,30000000.0,352941.17647058825

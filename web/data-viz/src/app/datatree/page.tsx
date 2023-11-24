@@ -41,6 +41,7 @@ export default function Page() {
             >
               Refresh
             </Button>
+            (Click on a box!)
           </Grid>
         </Grid>
         <Grid container spacing={3} columnSpacing={0} sx={{ p: 0 }}>

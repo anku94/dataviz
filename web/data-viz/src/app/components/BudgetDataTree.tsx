@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useContext } from "react";
 import Plot from "react-plotly.js";
-import CsvReader, { BudgetEdges } from "../CsvReader";
+import CsvReader from "../models/CsvReader";
+import { BudgetEdges } from "../models/BudgetTypes";
 import { AppContext } from "../AppContext";
 
 const USD_INR = 83;
@@ -61,11 +62,11 @@ const BudgetDataTree: React.FC = () => {
           texttemplate:
             "%{label}<br />%{value:$.1f}B<br />" +
             INR_SYMBOL +
-            "%{customdata:,.1f} Lakh Crores",
+            "%{customdata:,.2f} Lakh Crores",
           hovertemplate:
             "%{label}<br />%{value:$.2f}B<br />" +
             INR_SYMBOL +
-            "%{customdata:,.0f} Lakh Crores" +
+            "%{customdata:,.2f} Lakh Crores" +
             "<extra>Union Budget 2023-24</extra>",
           branchvalues: "total",
         },

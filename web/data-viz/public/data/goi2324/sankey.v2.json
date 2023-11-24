@@ -1,4 +1,9 @@
 {
+  "metadata": {
+    "root": "g2",
+    "position": { "x": 0.1, "y": 0.15 },
+    "levels": [ 0.1, 0.22, 0.45, 0.7, 0.9 ]
+  },
   "data": [
     {
       "active": true,
@@ -12,7 +17,7 @@
         "moc": "Ministry of Communications",
         "mocol": "Ministry of Coal",
         "mocaf": "Ministry of Chemicals and Fertilisers",
-        "mocafpd": "Ministry of Consumer Affairs, Food and Public Distribution",
+        "mocafpd": "Ministry of Consumer Affairs,<br />Food and Public Distribution",
         "mod": "Ministry of Defence",
         "moe": "Ministry of Education",
         "moea": "Ministry of External Affairs",
@@ -43,11 +48,12 @@
         ["g2", "mortah", 270435],
         ["g2", "other", 270435]
       ],
-      "pos": { "x": 0.3, "y": 0.05 }
+      "pos": { "x": 0.3, "y": 0.05 },
+      "level": 1
     },
     {
       "desc": "mod",
-      "active": true,
+      "active": false,
       "nodes": {
         "mod_cap": "Capital Outlay on Defence Services",
         "mod_dp": "Defence Pensions",
@@ -59,7 +65,8 @@
         ["mod", "mod_cap", 171375],
         ["mod", "mod_maint", 74175]
       ],
-      "pos": { "x": 0.65, "y": 0.02 }
+      "pos": { "x": 0.65, "y": 0.02 },
+      "level": 2
     },
     {
       "desc": "mof",
@@ -71,7 +78,8 @@
         "all_pensions": "All Pensions"
       },
       "edges": [["mof", "mof_ip", 1079971]],
-      "pos": { "x": 0.9, "y": 0.01 }
+      "pos": { "x": 0.9, "y": 0.01 },
+      "level": 3
     },
     {
       "desc": "pensions",
@@ -92,7 +100,8 @@
         ["mof", "mof_p", 71701],
         ["mod", "mod_dp", 138205]
       ],
-      "pos": { "x": 0.65, "y": 0.8 }
+      "pos": { "x": 0.65, "y": 0.8 },
+      "level": 2
     },
     {
       "desc": "subsidies",
@@ -102,7 +111,7 @@
         "id": "subsidies",
         "name": "All Subsidies",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.6 }
+        "pos": { "x": 0.9, "y": 0.3 }
       },
       "nodes": {
         "mocaf_us": "Urea Subsidy",
@@ -118,7 +127,8 @@
         ["mocafpd", "mocafpd_fci", 137207],
         ["mocafpd", "mocafpd_states", 59793]
       ],
-      "pos": { "x": 0.65, "y": 0.6 }
+      "pos": { "x": 0.65, "y": 0.3 },
+      "level": 2
     },
     {
       "desc": "mapped_schemes",
@@ -157,9 +167,11 @@
         ["moaafw", "moaafw_miss", 23000],
         ["moaafw", "moaafw_ky", 7066],
         ["moaafw", "moaafw_rkvy", 7150],
-        ["mojs", "mojs_jjm", 64720]
+        ["mojs", "mojs_jjm", 64720],
+        ["moe", "moe_poshan", 11600]
       ],
-      "pos": { "x": 0.65, "y": 0.85 }
+      "pos": { "x": 0.65, "y": 0.85 },
+      "level": 2
     },
     {
       "desc": "capital_infra",
@@ -169,7 +181,7 @@
         "name": "Capital Infra",
         "id": "capital_infra",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.8 }
+        "pos": { "x": 0.9, "y": 0.5 }
       },
       "nodes": {
         "mortah_nhai": "National Highways Authority of India",
@@ -179,7 +191,8 @@
         ["mortah", "mortah_nhai", 162207],
         ["mortah", "mortah_rab", 107713]
       ],
-      "pos": { "x": 0.65, "y": 0.8 }
+      "pos": { "x": 0.65, "y": 0.55 },
+      "level": 2
     },
     {
       "desc": "salaries",
@@ -189,7 +202,7 @@
         "name": "All Salaries",
         "id": "all_salaries",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.5 }
+        "pos": { "x": 0.9, "y": 0.8 }
       },
       "nodes": {
         "moc_dop_sal": "Department of Posts (Salaries)",
@@ -209,7 +222,8 @@
         ["moha", "moha_sal", 10000],
         ["mor", "mor_sal", 112000]
       ],
-      "pos": { "x": 0.65, "y": 0.25 }
+      "pos": { "x": 0.65, "y": 0.75 },
+      "level": 2
     },
     {
       "desc": "unmapped_schemes",
@@ -223,9 +237,25 @@
         ["pmksy", "all_schemes", 10787],
         ["sbm", "all_schemes", 5000],
         ["sbmg", "all_schemes", 7192],
-        ["amrut", "all_schemes", 16000],
-        ["moe_poshan", "all_schemes", 11600]
+        ["amrut", "all_schemes", 16000]
       ]
+    },
+    {
+      "desc": "final_sum",
+      "active": true,
+      "nodes": {
+        "final_sum": "Accounted Spending"
+      },
+      "edges": [
+        ["mof_ip", "final_sum", -1],
+        ["all_pensions", "final_sum", -1],
+        ["all_salaries", "final_sum", -1],
+        ["all_schemes", "final_sum", -1],
+        ["capital_infra", "final_sum", -1],
+        ["subsidies", "final_sum", -1]
+      ],
+      "pos": { "x": 0.9, "y": 0.1 },
+      "level": 4
     }
   ]
 }

@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
-import CsvReader, { BudgetCSVRow, DirRecord } from "../CsvReader";
+import CsvReader from "../models/CsvReader";
+import { BudgetCSVRow } from "../models/BudgetTypes";
 import {
   DataGrid,
   GridRowsProp,

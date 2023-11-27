@@ -24,22 +24,33 @@ type SankeyJsonGroup = {
 };
 
 type SankeyJsonSection = {
-  active: boolean;
+  id: string;
   desc: string;
   linkcolor?: number;
   group?: SankeyJsonGroup;
-  pos: NodePosition;
+  pos: {
+    x: string;
+    y: string;
+  };
   nodes: NodeMap;
   edges: Edge[];
-  level: number;
+};
+
+type SankeyJsonMetadata = {
+  root: string;
+  position: NodePosition;
+  levels: number[];
+  xpos: {
+    [key: string]: number;
+  };
+  ypos: {
+    [key: string]: number;
+  };
+  active: string[];
 };
 
 type SankeyJson = {
-  metadata: {
-    root: string;
-    position: NodePosition;
-    levels: number[];
-  };
+  metadata: SankeyJsonMetadata;
   data: SankeyJsonSection[];
 };
 
@@ -47,6 +58,7 @@ type SankeyData = {
   nodes: NodeMap;
   edges: NodeEdge[];
   positions: NodePositionMap;
+  colors?: NodeMap;
 };
 
 type SankeyPlotData = {
@@ -60,6 +72,7 @@ type SankeyPlotData = {
   node?: {
     x: number[];
     y: number[];
+    color: string[];
   };
 };
 
@@ -70,6 +83,8 @@ export type {
   NodePosition,
   NodePositionMap,
   SankeyJson,
+  SankeyJsonGroup,
+  SankeyJsonMetadata,
   SankeyJsonSection,
   SankeyData,
   SankeyPlotData,

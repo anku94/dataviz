@@ -39,8 +39,14 @@ function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
     () => undefined
   );
 
+  const colorArray: (string | undefined)[] = Array.from(
+    { length: numNodes },
+    () => undefined
+  );
+
   abbrevIndexMap.forEach((value, key) => {
     posArray[value] = mergedSankeyData.positions[key];
+    colorArray[value] = mergedSankeyData.colors?.[key];
   });
 
   const edges = mergedSankeyData.edges;
@@ -57,6 +63,7 @@ function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
     node: {
       x: posArray.map((e) => e?.x || 0),
       y: posArray.map((e) => e?.y || 0),
+      color: colorArray.map((e) => e || Defaults.SANKEY_NODE_COLOR),
     },
   };
 

@@ -3,6 +3,13 @@ import React, { useContext, useEffect, useState } from "react";
 import Plot from "react-plotly.js";
 import fetchSankeyData from "./SankeyPlotData";
 
+const NODE_HOVER_TEMPLATE =
+  "%{label}<br>" + "<b>Amount: %{value}</b>" + "<extra></extra>";
+const LINK_HOVER_TEMPLATE =
+  "%{source.label} → %{target.label}<br>" +
+  "<b>Amount: %{value}</b>" +
+  "<extra></extra>";
+
 const SankeyDiagram: React.FC = () => {
   const { state, dispatch } = useContext(AppContext);
 
@@ -39,8 +46,22 @@ const SankeyDiagram: React.FC = () => {
             label: data.label,
             x: data.node?.x,
             y: data.node?.y,
+            color: data.node?.color,
+            hoverinfo: "all",
+            // @ts-ignore
+            hovertemplate: NODE_HOVER_TEMPLATE,
+            hoverlabel: {
+              align: "left",
+            },
           },
-          link: data.link,
+          link: {
+            ...data.link,
+            hovertemplate: LINK_HOVER_TEMPLATE,
+            hoverinfo: "all",
+            hoverlabel: {
+              align: "left",
+            },
+          },
         },
       ]);
     });

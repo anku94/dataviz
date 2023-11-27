@@ -8,25 +8,78 @@ import {
   NodePositionMap,
   SankeyData,
   SankeyJson,
+  SankeyJsonGroup,
+  SankeyJsonMetadata,
   SankeyJsonSection,
   SankeyPlotData,
 } from "../models/SankeyTypes";
 
-type Context = {
-  levels: number[];
-};
+import iwanthue from "iwanthue";
 
 class SankeyUtils {
+  static colorSankeyNodes(data: SankeyData, root: string): Map<string, string> {
+    const sankey_graph = new Map<string, string[]>();
+    data.edges.forEach((e) => {
+      if (!sankey_graph.has(e.src)) {
+        sankey_graph.set(e.src, []);
+      }
+      sankey_graph.get(e.src)!.push(e.dest);
+    });
+
+    const sankey_levels = new Map<number, string[]>();
+    const dfs = (node: string, level: number) => {
+      if (!sankey_levels.has(level)) {
+        sankey_levels.set(level, []);
+      }
+      sankey_levels.get(level)!.push(node);
+
+      if (sankey_graph.has(node)) {
+        sankey_graph.get(node)!.forEach((child) => {
+          dfs(child, level + 1);
+        });
+      }
+    };
+
+    const color_map = new Map<string, string>();
+
+    dfs(root, 0);
+    const palette = iwanthue(40);
+    let color_idx = 1;
+    color_map.set(root, palette[0]);
+
+    for (let [level, nodes] of sankey_levels) {
+      if (level == 0 || level == 2) {
+        continue;
+      }
+
+      const node_set = new Set(nodes);
+      node_set.forEach((node) => {
+        color_map.set(node, palette[color_idx]);
+        const node_children = sankey_graph.get(node);
+        node_children?.forEach((child) => {
+          color_map.set(child, palette[color_idx]);
+        });
+        color_idx++;
+      });
+    }
+
+    console.log("Sankey levels: ", sankey_levels);
+    console.log("Color map: ", color_map);
+
+    return color_map;
+  }
   static processSankeySectionExtent(
     section: SankeyJsonSection,
-    context: Context
+    context: SankeyJsonMetadata
   ): NodePositionMap {
     if (!section.pos) {
       return {};
     }
 
-    let { x, y } = section.pos;
-    x = context.levels[section.level];
+    // let { x, y } = section.pos;
+    const x = context.xpos[section.pos.x];
+    const y = context.ypos[section.pos.y];
+    // x = context.levels[section.level];
     // if (section.level) {
     //   x = context.levels[section.level];
     // }
@@ -101,11 +154,42 @@ class SankeyUtils {
     };
   }
 
+  static getGroupPosition(
+    section: SankeyJsonSection,
+    context: SankeyJsonMetadata
+  ): NodePosition {
+    const group = section.group;
+    if (!group) {
+      return { x: 0, y: 0 };
+    }
+
+    let x = -1;
+    const y = context.ypos[group.pos.y];
+
+    const xpos_key = section.pos.x;
+    // xpos_key is in the format "l0" - get the number from the string
+    const xpos_num = parseInt(xpos_key.substring(1));
+    const xpos_num_next = xpos_num + 1;
+    const xpos_key_next = "l" + xpos_num_next.toString();
+    if (context.xpos[xpos_key_next]) {
+      x = context.xpos[xpos_key_next];
+    } else if (context.xpos[group.pos.x]) {
+      x = context.xpos[group.pos.x];
+    }
+
+    return { x: x, y: y };
+  }
+
   static processSankeySection(
     section: SankeyJsonSection,
-    context: Context
+    context: SankeyJsonMetadata
   ): SankeyData {
-    if (!section.active) return { nodes: {}, edges: [], positions: {} };
+    const active_sections = context.active;
+    // check if section.id is in active_sections
+    if (!(section.id && active_sections.includes(section.id))) {
+      return { nodes: {}, edges: [], positions: {} };
+    }
+    // if (!section.active) return { nodes: {}, edges: [], positions: {} };
 
     let sankey_data: SankeyData = {
       nodes: section.nodes,
@@ -131,7 +215,11 @@ class SankeyUtils {
 
     sankey_data.nodes[group.id] = group.name;
     sankey_data.positions[group.id] = group.pos;
-    sankey_data.positions[group.id].x = context.levels[section.level + 1];
+    // sankey_data.positions[group.id].x = context.levels[section.level + 1];
+    sankey_data.positions[group.id] = SankeyUtils.getGroupPosition(
+      section,
+      context
+    );
 
     let group_edges: NodeEdge[] = [];
 
@@ -154,9 +242,7 @@ class SankeyUtils {
   static mergeGraphData(inputData: SankeyJson): SankeyData {
     const root_node = inputData.metadata.root;
     const root_pos = inputData.metadata.position;
-    const context: Context = {
-      levels: inputData.metadata.levels,
-    };
+    const context = inputData.metadata;
 
     const mergedData: SankeyData = {
       nodes: {},
@@ -180,6 +266,12 @@ class SankeyUtils {
     });
 
     const mergedDataUnalloc = SankeyUtils.fillUnallocatedEdge(mergedData);
+    const node_colors = SankeyUtils.colorSankeyNodes(
+      mergedDataUnalloc,
+      root_node
+    );
+
+    mergedDataUnalloc.colors = Object.fromEntries(node_colors);
 
     console.log("Merged Data: ", mergedData);
     console.log("Merged DataUnAlloc: ", mergedDataUnalloc);

@@ -2,11 +2,54 @@
   "metadata": {
     "root": "g2",
     "position": { "x": 0.1, "y": 0.15 },
-    "levels": [ 0.1, 0.22, 0.45, 0.7, 0.9 ]
+    "levels": [0.1, 0.22, 0.45, 0.8, 0.9],
+    "xpos": {
+      "l0": 0.1,
+      "l1": 0.25,
+      "l2": 0.5,
+      "l3": 0.8,
+      "l4": 0.9
+    },
+    "ypos": {
+      "ygoi": 0.01,
+      "ymod": 0.1,
+      "yint": 0.01,
+      "ypens": 0.2,
+      "ysub": 0.32,
+      "ycap": 0.43,
+      "ysal": 0.55,
+      "ysch": 0.66,
+      "yallpens": 0.4,
+      "yallsub": 0.5,
+      "yallsch": 0.6,
+      "yallcap": 0.7,
+      "yallsal": 0.8
+    },
+    "active": [
+      "goi",
+      "mof",
+      "pensions",
+      "subsidies",
+      "mapped_schemes",
+      "salaries",
+      "capital_infra",
+      "final_sum"
+    ],
+    "all": [
+      "goi",
+      "mod",
+      "mof",
+      "pensions",
+      "subsidies",
+      "mapped_schemes",
+      "capital_infra",
+      "salaries",
+      "final_sum"
+    ]
   },
   "data": [
     {
-      "active": true,
+      "id": "goi",
       "desc": "ROOT",
       "linkcolor": 0,
       "nodes": {
@@ -48,10 +91,10 @@
         ["g2", "mortah", 270435],
         ["g2", "other", 270435]
       ],
-      "pos": { "x": 0.3, "y": 0.05 },
-      "level": 1
+      "pos": { "x": "l1", "y": "ygoi" }
     },
     {
+      "id": "mod",
       "desc": "mod",
       "active": false,
       "nodes": {
@@ -65,10 +108,10 @@
         ["mod", "mod_cap", 171375],
         ["mod", "mod_maint", 74175]
       ],
-      "pos": { "x": 0.65, "y": 0.02 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ymod" }
     },
     {
+      "id": "mof",
       "desc": "mof",
       "active": true,
       "linkcolor": 6,
@@ -78,10 +121,10 @@
         "all_pensions": "All Pensions"
       },
       "edges": [["mof", "mof_ip", 1079971]],
-      "pos": { "x": 0.9, "y": 0.01 },
-      "level": 3
+      "pos": { "x": "l2", "y": "yint" }
     },
     {
+      "id": "pensions",
       "desc": "pensions",
       "active": true,
       "linkcolor": 5,
@@ -89,7 +132,7 @@
         "id": "all_pensions",
         "name": "All Pensions",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.8 }
+        "pos": { "x": "l3", "y": "yallpens" }
       },
       "nodes": {
         "mod_dp": "Defence Pensions",
@@ -100,18 +143,17 @@
         ["mof", "mof_p", 71701],
         ["mod", "mod_dp", 138205]
       ],
-      "pos": { "x": 0.65, "y": 0.8 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ypens" }
     },
     {
+      "id": "subsidies",
       "desc": "subsidies",
-      "active": true,
       "linkcolor": 4,
       "group": {
         "id": "subsidies",
         "name": "All Subsidies",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.3 }
+        "pos": { "x": "l3", "y": "yallsub" }
       },
       "nodes": {
         "mocaf_us": "Urea Subsidy",
@@ -127,10 +169,10 @@
         ["mocafpd", "mocafpd_fci", 137207],
         ["mocafpd", "mocafpd_states", 59793]
       ],
-      "pos": { "x": 0.65, "y": 0.3 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ysub" }
     },
     {
+      "id": "mapped_schemes",
       "desc": "mapped_schemes",
       "active": true,
       "linkcolor": 1,
@@ -138,7 +180,7 @@
         "id": "all_schemes",
         "name": "All Schemes",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.85 }
+        "pos": { "x": "l3", "y": "yallsch" }
       },
       "nodes": {
         "mocaf_us": "Urea Subsidy",
@@ -170,10 +212,10 @@
         ["mojs", "mojs_jjm", 64720],
         ["moe", "moe_poshan", 11600]
       ],
-      "pos": { "x": 0.65, "y": 0.85 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ysch" }
     },
     {
+      "id": "capital_infra",
       "desc": "capital_infra",
       "active": true,
       "linkcolor": 3,
@@ -181,7 +223,7 @@
         "name": "Capital Infra",
         "id": "capital_infra",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.5 }
+        "pos": { "x": "l3", "y": "yallcap" }
       },
       "nodes": {
         "mortah_nhai": "National Highways Authority of India",
@@ -191,18 +233,17 @@
         ["mortah", "mortah_nhai", 162207],
         ["mortah", "mortah_rab", 107713]
       ],
-      "pos": { "x": 0.65, "y": 0.55 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ycap" }
     },
     {
+      "id": "salaries",
       "desc": "salaries",
       "linkcolor": 2,
-      "active": true,
       "group": {
         "name": "All Salaries",
         "id": "all_salaries",
         "display": true,
-        "pos": { "x": 0.9, "y": 0.8 }
+        "pos": { "x": "l3", "y": "yallsal" }
       },
       "nodes": {
         "moc_dop_sal": "Department of Posts (Salaries)",
@@ -222,10 +263,10 @@
         ["moha", "moha_sal", 10000],
         ["mor", "mor_sal", 112000]
       ],
-      "pos": { "x": 0.65, "y": 0.75 },
-      "level": 2
+      "pos": { "x": "l2", "y": "ysal" }
     },
     {
+      "id": "unmapped_schemes",
       "desc": "unmapped_schemes",
       "nodes": {},
       "edges": [
@@ -241,8 +282,8 @@
       ]
     },
     {
+      "id": "final_sum",
       "desc": "final_sum",
-      "active": true,
       "nodes": {
         "final_sum": "Accounted Spending"
       },
@@ -254,8 +295,7 @@
         ["capital_infra", "final_sum", -1],
         ["subsidies", "final_sum", -1]
       ],
-      "pos": { "x": 0.9, "y": 0.1 },
-      "level": 4
+      "pos": { "x": 0.9, "y": 0.1 }
     }
   ]
 }

@@ -15,12 +15,15 @@ import {
 
 import SankeyUtils from "../models/SankeyUtils";
 
-function constructAbbrevIndexMap(nodes: NodeMap): Map<string, number> {
+function constructAbrevIndexMap(edges: NodeEdge[]): Map<string, number> {
   const abbrevIndexMap = new Map<string, number>();
   let index = 0;
-  Object.keys(nodes).forEach((abbrev) => {
-    if (!abbrevIndexMap.has(abbrev)) {
-      abbrevIndexMap.set(abbrev, index++);
+  edges.forEach((edge) => {
+    if (!abbrevIndexMap.has(edge.src)) {
+      abbrevIndexMap.set(edge.src, index++);
+    }
+    if (!abbrevIndexMap.has(edge.dest)) {
+      abbrevIndexMap.set(edge.dest, index++);
     }
   });
   return abbrevIndexMap;
@@ -30,9 +33,10 @@ function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
   const mergedSankeyData = SankeyUtils.mergeGraphData(inputData);
   const nodes = mergedSankeyData.nodes;
 
-  const abbrevIndexMap = constructAbbrevIndexMap(nodes);
+  const abbrevIndexMap = constructAbrevIndexMap(mergedSankeyData.edges);
   const numNodes = abbrevIndexMap.size;
-  const labels: string[] = Object.values(nodes);
+  const keys = Array.from(abbrevIndexMap.keys());
+  const labels: string[] = keys.map((key) => nodes[key]);
 
   const posArray: (NodePosition | undefined)[] = Array.from(
     { length: numNodes },
@@ -45,7 +49,11 @@ function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
   );
 
   abbrevIndexMap.forEach((value, key) => {
-    posArray[value] = mergedSankeyData.positions[key];
+    // console.log("key: ", key, "pos: ", mergedSankeyData.positions[key]);
+    posArray[value] = SankeyUtils.resolveNodePosition(
+      mergedSankeyData.positions[key],
+      mergedSankeyData.context
+    );
     colorArray[value] = mergedSankeyData.colors?.[key];
   });
 

@@ -5,6 +5,7 @@ import {
   NodeEdge,
   NodeMap,
   NodePosition,
+  NodePositionAlias,
   NodePositionMap,
   SankeyData,
   SankeyJson,
@@ -72,23 +73,11 @@ class SankeyUtils {
     section: SankeyJsonSection,
     context: SankeyJsonMetadata
   ): NodePositionMap {
-    if (!section.pos) {
-      return {};
-    }
-
-    // let { x, y } = section.pos;
-    const x = context.xpos[section.pos.x];
-    const y = context.ypos[section.pos.y];
-    // x = context.levels[section.level];
-    // if (section.level) {
-    //   x = context.levels[section.level];
-    // }
-
     let node_pos_map: NodePositionMap = {};
 
     section.edges.forEach((e) => {
       const node = e[1];
-      node_pos_map[node] = { x: x, y: y };
+      node_pos_map[node] = section.pos;
     });
 
     return node_pos_map;
@@ -96,6 +85,7 @@ class SankeyUtils {
 
   static removeUnconnectedNodes(data: SankeyData): SankeyData {
     const data_clean: SankeyData = {
+      context: data.context,
       nodes: {},
       edges: [],
       positions: {},
@@ -148,10 +138,35 @@ class SankeyUtils {
     });
 
     return {
+      context: data.context,
       nodes: data.nodes,
       edges: new_edges,
       positions: data.positions,
     };
+  }
+
+  static getXposNext(xpos: string) {
+    const xpos_num = parseInt(xpos.substring(1));
+    const xpos_num_next = xpos_num + 1;
+    const xpos_key_next = "l" + xpos_num_next.toString();
+    return xpos_key_next;
+  }
+
+  static getPosNext(posCur: NodePositionAlias): NodePositionAlias {
+    console.log("In pos_next: ", posCur);
+    const posNext: NodePositionAlias = { x: posCur.x, y: posCur.y };
+    posNext.x = SankeyUtils.getXposNext(posCur.x);
+    return posNext;
+  }
+
+  static resolveNodePosition(
+    posAlias: NodePositionAlias,
+    context: SankeyJsonMetadata
+  ): NodePosition {
+    const pos: NodePosition = { x: 0, y: 0 };
+    pos.x = context.xpos[posAlias.x];
+    pos.y = context.ypos[posAlias.y];
+    return pos;
   }
 
   static getGroupPosition(
@@ -163,21 +178,97 @@ class SankeyUtils {
       return { x: 0, y: 0 };
     }
 
-    let x = -1;
-    const y = context.ypos[group.pos.y];
+    return this.resolveNodePosition(group.pos, context);
+  }
 
-    const xpos_key = section.pos.x;
-    // xpos_key is in the format "l0" - get the number from the string
-    const xpos_num = parseInt(xpos_key.substring(1));
-    const xpos_num_next = xpos_num + 1;
-    const xpos_key_next = "l" + xpos_num_next.toString();
-    if (context.xpos[xpos_key_next]) {
-      x = context.xpos[xpos_key_next];
-    } else if (context.xpos[group.pos.x]) {
-      x = context.xpos[group.pos.x];
+  static foldEdges(data: SankeyData, threshold: number): SankeyData {
+    const edgesToRemove: NodeEdge[] = [];
+    const edgesToAdd: { [key: string]: NodeEdge } = {};
+
+    const nodesToAdd: NodeMap = {};
+    const posToAdd: NodePositionMap = {};
+
+    // Identify edges below the threshold and prepare to remove them.
+    data.edges.forEach((edge) => {
+      if (edge.value < threshold) {
+        edgesToRemove.push(edge);
+        // Sum values of the removed edges for each unique source node.
+        if (edgesToAdd[edge.src]) {
+          edgesToAdd[edge.src].value += edge.value;
+        } else {
+          edgesToAdd[edge.src] = {
+            src: edge.src,
+            dest: edge.src + "_others",
+            value: edge.value,
+            color: edge.color,
+          };
+
+          const parent_label = data.nodes[edge.src];
+          // get first letter of each word in parent label as a string
+          const parent_abbrev = parent_label
+            .split(" ")
+            .map((w) => w[0])
+            .join("")
+            .toLocaleUpperCase();
+
+          nodesToAdd[edge.src + "_others"] = `${parent_abbrev} (Others)`;
+          console.log("Parent node: ", edge.src, "Pos map: ", data.positions);
+          // posToAdd[edge.src + "_others"] = this.getPosNext(
+          //   data.positions[edge.dest]
+          // );
+          posToAdd[edge.src + "_others"] = data.positions[edge.dest];
+        }
+      }
+    });
+
+    // Remove edges that are below the threshold.
+    const filteredEdges = data.edges.filter(
+      (edge) => !edgesToRemove.includes(edge)
+    );
+
+    // Add the new "others" edges.
+    Object.values(edgesToAdd).forEach((edge) => {
+      filteredEdges.push(edge);
+    });
+
+    // Return the new SankeyData with the updated edges.
+    return {
+      ...data,
+      nodes: { ...data.nodes, ...nodesToAdd },
+      edges: filteredEdges,
+      positions: { ...data.positions, ...posToAdd },
+    };
+  }
+
+  static sortSankeyData(data: SankeyData, root: string): SankeyData {
+    const sortedEdges: NodeEdge[] = [];
+    const visited = new Set<string>();
+
+    function dfs(currentId: string) {
+      // Mark the current node as visited
+      visited.add(currentId);
+
+      // Get all edges starting from the current node, not visited, and sort them in descending order
+      const childEdges = data.edges
+        .filter((edge) => edge.src === currentId && !visited.has(edge.dest))
+        .sort((a, b) => b.value - a.value);
+
+      // Add sorted edges to the sortedEdges array
+      for (const edge of childEdges) {
+        sortedEdges.push(edge);
+        // Recursively apply DFS on the destination nodes (children)
+        dfs(edge.dest);
+      }
     }
 
-    return { x: x, y: y };
+    // Start DFS from the root node
+    dfs(root);
+
+    // Return the new SankeyData with edges sorted
+    return {
+      ...data,
+      edges: sortedEdges,
+    };
   }
 
   static processSankeySection(
@@ -187,11 +278,12 @@ class SankeyUtils {
     const active_sections = context.active;
     // check if section.id is in active_sections
     if (!(section.id && active_sections.includes(section.id))) {
-      return { nodes: {}, edges: [], positions: {} };
+      return { context, nodes: {}, edges: [], positions: {} };
     }
     // if (!section.active) return { nodes: {}, edges: [], positions: {} };
 
     let sankey_data: SankeyData = {
+      context,
       nodes: section.nodes,
       edges: section.edges.map((e) => {
         return {
@@ -215,11 +307,7 @@ class SankeyUtils {
 
     sankey_data.nodes[group.id] = group.name;
     sankey_data.positions[group.id] = group.pos;
-    // sankey_data.positions[group.id].x = context.levels[section.level + 1];
-    sankey_data.positions[group.id] = SankeyUtils.getGroupPosition(
-      section,
-      context
-    );
+    sankey_data.positions[group.id] = section.group.pos;
 
     let group_edges: NodeEdge[] = [];
 
@@ -244,13 +332,14 @@ class SankeyUtils {
     const root_pos = inputData.metadata.position;
     const context = inputData.metadata;
 
-    const mergedData: SankeyData = {
+    const data_merged: SankeyData = {
+      context: context,
       nodes: {},
       edges: [],
       positions: {},
     };
 
-    mergedData.positions[root_node] = root_pos;
+    data_merged.positions[root_node] = root_pos;
 
     inputData.data.forEach((item) => {
       const { nodes, edges, positions } = SankeyUtils.processSankeySection(
@@ -260,23 +349,25 @@ class SankeyUtils {
 
       console.log("Processed Data: ", nodes, edges, positions);
 
-      Object.assign(mergedData.nodes, nodes);
-      Object.assign(mergedData.positions, positions);
-      mergedData.edges.push(...edges);
+      Object.assign(data_merged.nodes, nodes);
+      Object.assign(data_merged.positions, positions);
+      data_merged.edges.push(...edges);
     });
 
-    const mergedDataUnalloc = SankeyUtils.fillUnallocatedEdge(mergedData);
-    const node_colors = SankeyUtils.colorSankeyNodes(
-      mergedDataUnalloc,
-      root_node
-    );
+    const data_wunalloc = SankeyUtils.fillUnallocatedEdge(data_merged);
+    const node_colors = SankeyUtils.colorSankeyNodes(data_wunalloc, root_node);
 
-    mergedDataUnalloc.colors = Object.fromEntries(node_colors);
+    data_wunalloc.colors = Object.fromEntries(node_colors);
+    const data_folded = SankeyUtils.foldEdges(data_wunalloc, 10000);
 
-    console.log("Merged Data: ", mergedData);
-    console.log("Merged DataUnAlloc: ", mergedDataUnalloc);
+    const data_sorted = SankeyUtils.sortSankeyData(data_folded, root_node);
 
-    return mergedDataUnalloc;
+    console.log("Merged Data: ", data_merged);
+    console.log("Data W/ Unalloc", data_wunalloc);
+    console.log("Data folded: ", data_folded);
+    console.log("Data sorted: ", data_sorted);
+
+    return data_sorted;
   }
 }
 

@@ -1,11 +1,16 @@
 type NodeMap = { [id: string]: string };
 
+type NodePositionAlias = {
+  x: string;
+  y: string;
+};
+
 type NodePosition = {
   x: number;
   y: number;
 };
 
-type NodePositionMap = { [id: string]: NodePosition };
+type NodePositionMap = { [id: string]: NodePositionAlias };
 
 type Edge = [string, string, number];
 
@@ -20,7 +25,7 @@ type SankeyJsonGroup = {
   name: string;
   id: string;
   display: boolean;
-  pos: NodePosition;
+  pos: NodePositionAlias;
 };
 
 type SankeyJsonSection = {
@@ -28,17 +33,14 @@ type SankeyJsonSection = {
   desc: string;
   linkcolor?: number;
   group?: SankeyJsonGroup;
-  pos: {
-    x: string;
-    y: string;
-  };
+  pos: NodePositionAlias;
   nodes: NodeMap;
   edges: Edge[];
 };
 
 type SankeyJsonMetadata = {
   root: string;
-  position: NodePosition;
+  position: NodePositionAlias;
   levels: number[];
   xpos: {
     [key: string]: number;
@@ -55,6 +57,7 @@ type SankeyJson = {
 };
 
 type SankeyData = {
+  context: SankeyJsonMetadata;
   nodes: NodeMap;
   edges: NodeEdge[];
   positions: NodePositionMap;
@@ -81,6 +84,7 @@ export type {
   NodeEdge,
   NodeMap,
   NodePosition,
+  NodePositionAlias,
   NodePositionMap,
   SankeyJson,
   SankeyJsonGroup,

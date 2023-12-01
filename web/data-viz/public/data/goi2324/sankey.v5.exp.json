@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "root": "g2",
+    "position": {
+      "x": "l0",
+      "y": "yroot"
+    },
+    "levels": [0.1, 0.32, 0.75, 0.8, 0.9],
+    "xpos": {
+      "l0": 0.1,
+      "l1": 0.22,
+      "l2": 0.73,
+      "l3": 0.8,
+      "l4": 0.9
+    },
+    "ypos": {
+      "yroot": 0.02,
+      "ygoi": 0.02,
+      "ymof": 0.01,
+      "ymor": 0.25,
+      "ymod": 0.3,
+      "ydoae": 0.41,
+      "ymoaafw": 0.41,
+      "ymoc": 0.41,
+      "ymocaf": 0.41,
+      "ymocafpd": 0.41,
+      "ymoe": 0.41,
+      "ymoea": 0.41,
+      "ymoha": 0.41,
+      "ymohafw": 0.41,
+      "ymojs": 0.41,
+      "ymord": 0.41,
+      "ymortah": 0.01,
+      "yother": 0.01
+    },
+    "active": ["goi", "root_g2_mof", "root_g2_mor"],
+    "all": [
+      "goi",
+      "root_g2_doae",
+      "root_g2_moaafw",
+      "root_g2_moc",
+      "root_g2_mocaf",
+      "root_g2_mocafpd",
+      "root_g2_mod",
+      "root_g2_moe",
+      "root_g2_moea",
+      "root_g2_mof",
+      "root_g2_moha",
+      "root_g2_mohafw",
+      "root_g2_mojs",
+      "root_g2_mor",
+      "root_g2_mord",
+      "root_g2_mortah",
+      "root_g2_other"
+    ]
+  },
+  "data": [
+    {
+      "id": "goi",
+      "desc": "goi section",
+      "linkcolor": 0,
+      "nodes": {
+        "g2": "GOI2023-24",
+        "mod": "Ministry of Defence",
+        "mof": "Ministry of Finance",
+        "mor": "Ministry of Railways"
+      },
+      "edges": [
+        ["g2", "mof", 1706957],
+        ["g2", "mor", 689507],
+        ["g2", "mod", 593766]
+      ],
+      "pos": {
+        "x": "l1",
+        "y": "ygoi"
+      }
+    },
+    {
+      "id": "root_g2_doae",
+      "desc": "Department of Atomic Energy section",
+      "linkcolor": 0,
+      "nodes": {
+        "doae": "Department of Atomic Energy"
+      },
+      "edges": [],
+      "pos": {
+        "x": "l2",
+        "y": "ydoae"
+      }
+    },
+    {
+      "id": "root_g2_moaafw",
+      "desc": "Ministry of Agriculture and Farmers Welfare section",
+      "linkcolor": 0,
+      "nodes": {
+        "moaafw": "Ministry of Agriculture and Farmers Welfare"
+      },
+      "edges": [],
+      "pos": {
+        "x": "l2",
+        "y": "ymoaafw"
+      }
+    },
+    {
+      "id": "root_g2_moc",
+      "desc": "Ministry of Communications section",
+      "linkcolor": 0,
+      "nodes": {
+        "moc": "Ministry of Communications",
+        "moc_csomc": "Capital Support to Oil Marketing Companies",
+        "moc_rodtep": "Remission of Duties and Taxes on Exported Products",
+        "moc_rlds": "Reform Linked Distribution Scheme",
+        "moc_tci": "Compensation for Telecom Infrastructure",
+        "moc_rosctl": "Rebate on State and Central Taxes and Levies",
+        "moc_fame": "Scheme for Faster Adoption and Manufacturing of Electric Vehicles",
+        "moc_isprl": "Indian Strategic Petroleum Reserve Limited",
+        "moc_pli": "Production Linked Incentive Scheme",
+        "moc_mpdsmde": "Modified Programme for Semiconductors and Display Manufacturing Ecosystem",
+        "moc_pdpm": "Promotion of Digital Payment",
+        "moc_po": "Postal Operation",
+        "moc_wpc": "Wireless Planning and Coordination",
+        "moc_peitmhwm": "Promotion of Electronics and IT HW Manufacturing",
+        "moc_pliaac": "Production Linked Incentive for Automobiles and Auto Components",
+        "moc_randdit": "R and D in IT/Electronics",
+        "moc_bind": "Broadcasting Infrastructure Network Development",
+        "moc_egov": "Electronic Governance",
+        "moc_cbsd": "Capacity Building and Skill Development",
+        "moc_isprl2": "ISPRL Phase II"
+      },
+      "edges": [
+        ["moc", "moc_csomc", 30000],
+        ["moc", "moc_rodtep", 15069],
+        ["moc", "moc_rlds", 12072],
+        ["moc", "moc_tci", 10400],
+        ["moc", "moc_rosctl", 8405],
+        ["moc", "moc_fame", 5172],
+        ["moc", "moc_isprl", 5000],
+        ["moc", "moc_pli", 4645],
+        ["moc", "moc_mpdsmde", 3000],
+        ["moc", "moc_pdpm", 1500],
+        ["moc", "moc_po", 1144],
+        ["moc", "moc_wpc", 756],
+        ["moc", "moc_peitmhwm", 700],
+        ["moc", "moc_pliaac", 604],
+        ["moc", "moc_randdit", 600],
+        ["moc", "moc_bind", 600],
+        ["moc", "moc_egov", 556],
+        ["moc", "moc_cbsd", 538],
+        ["moc", "moc_isprl2", 508]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymoc"
+      }
+    },
+    {
+      "id": "root_g2_mocaf",
+      "desc": "Ministry of Chemicals and Fertilisers section",
+      "linkcolor": 0,
+      "nodes": {
+        "mocaf": "Ministry of Chemicals and Fertilisers"
+      },
+      "edges": [],
+      "pos": {
+        "x": "l2",
+        "y": "ymocaf"
+      }
+    },
+    {
+      "id": "root_g2_mocafpd",
+      "desc": "Ministry of Consumer Affairs, Food and Public Distribution section",
+      "linkcolor": 0,
+      "nodes": {
+        "mocafpd": "Ministry of Consumer Affairs,<br />Food and Public Distribution",
+        "mocafpd_fsfci": "Food Subsidy to FCI under NFSA",
+        "mocafpd_ureas": "Urea Subsidy",
+        "mocafpd_pmay": "PMAY",
+        "mocafpd_fsdpcfg": "Food Subsidy for Decentralized Procurement of Foodgrains under NFSA",
+        "mocafpd_gecl": "Guarantee Emergency Credit Line",
+        "mocafpd_asfm": "Assistance for Foodgrains Movement under NFSA",
+        "mocafpd_pmegp": "Prime Minister Employment Generation Programme",
+        "mocafpd_plifpi": "Production-Linked Incentive Scheme for Food Processing Industry",
+        "mocafpd_ramp": "Raising and Accelerating MSME Performance",
+        "mocafpd_pmksy": "Pradhan Mantri Kisan Sampada Yojana",
+        "mocafpd_kgvy": "Khadi Gramodyog Vikas Yojana",
+        "mocafpd_dpulses": "Distribution of Pulses for Welfare Schemes",
+        "mocafpd_pmvikas": "PM-Viraasat Ka Samvardhan"
+      },
+      "edges": [
+        ["mocafpd", "mocafpd_fsfci", 137207],
+        ["mocafpd", "mocafpd_ureas", 131100],
+        ["mocafpd", "mocafpd_pmay", 79590],
+        ["mocafpd", "mocafpd_fsdpcfg", 59793],
+        ["mocafpd", "mocafpd_gecl", 14100],
+        ["mocafpd", "mocafpd_asfm", 7425],
+        ["mocafpd", "mocafpd_pmegp", 2700],
+        ["mocafpd", "mocafpd_plifpi", 1530],
+        ["mocafpd", "mocafpd_ramp", 1170],
+        ["mocafpd", "mocafpd_pmksy", 923],
+        ["mocafpd", "mocafpd_kgvy", 917],
+        ["mocafpd", "mocafpd_dpulses", 800],
+        ["mocafpd", "mocafpd_pmvikas", 540]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymocafpd"
+      }
+    },
+    {
+      "id": "root_g2_mod",
+      "desc": "Ministry of Defence section",
+      "linkcolor": 0,
+      "nodes": {
+        "mod": "Ministry of Defence",
+        "mod_oeaf": "Other Equipment-Air Force",
+        "mod_nf": "Naval Fleet",
+        "mod_oearmy": "Other Equipment-Army",
+        "mod_aaeaf": "Aircrafts and Aeroengines-Air Force",
+        "mod_rd": "Research and Development",
+        "mod_oenavy": "Other Equipment-Navy",
+        "mod_aae": "Aircrafts and Aeroengines",
+        "mod_cwarmy": "Construction Works-Army",
+        "mod_ndp": "Naval Dockyard/Projects",
+        "mod_aaearmy": "Aircrafts and Aeroengines-Army",
+        "mod_brdbw": "Works under Border Roads Development Board",
+        "mod_hmv": "Heavy and Medium Vehicles",
+        "mod_cwaf": "Construction Works-Air Force",
+        "mod_ofcdn": "Optical Fibre Cable Network for Defence",
+        "mod_cwnavy": "Construction Works-Navy",
+        "mod_js": "Joint Staff",
+        "mod_sp": "Special Projects",
+        "mod_ln": "Land-Navy",
+        "mod_paf": "Projects of the Air Force",
+        "mod_ow": "Other Works",
+        "mod_hmvaf": "Heavy and Medium Vehicles-Air Force"
+      },
+      "edges": [
+        ["mod", "mod_oeaf", 36223],
+        ["mod", "mod_nf", 24200],
+        ["mod", "mod_oearmy", 21300],
+        ["mod", "mod_aaeaf", 15722],
+        ["mod", "mod_rd", 12850],
+        ["mod", "mod_oenavy", 9500],
+        ["mod", "mod_aae", 7000],
+        ["mod", "mod_cwarmy", 6789],
+        ["mod", "mod_ndp", 6725],
+        ["mod", "mod_aaearmy", 5500],
+        ["mod", "mod_brdbw", 5000],
+        ["mod", "mod_hmv", 3000],
+        ["mod", "mod_cwaf", 2342],
+        ["mod", "mod_ofcdn", 2158],
+        ["mod", "mod_cwnavy", 1900],
+        ["mod", "mod_js", 1839],
+        ["mod", "mod_sp", 1562],
+        ["mod", "mod_ln", 1551],
+        ["mod", "mod_paf", 1132],
+        ["mod", "mod_ow", 950],
+        ["mod", "mod_hmvaf", 948]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymod"
+      }
+    },
+    {
+      "id": "root_g2_moe",
+      "desc": "Ministry of Education section",
+      "linkcolor": 0,
+      "nodes": {
+        "moe": "Ministry of Education",
+        "moe_nem": "National Education Mission",
+        "moe_mp": "Metro Projects",
+        "moe_st": "Space Technology",
+        "moe_emrs": "Eklavya Model Residential Schools",
+        "moe_spg": "Solar Power (Grid)",
+        "moe_pmshri": "PM Schools for Rising India",
+        "moe_ncrtc": "National Capital Region Transport Corporation",
+        "moe_sops": "Strengthening of Power Systems",
+        "moe_sip": "Skill India Programme",
+        "moe_kusum": "Kisan Urja Suraksha evam Utthaan Mahabhiyan",
+        "moe_ee": "Education Empowerment",
+        "moe_sa": "Space Applications",
+        "moe_pmusp": "PM Uchchatar Shiksha Protsahan",
+        "moe_wci": "World Class Institutions",
+        "moe_brd": "Biotechnology Research and Development",
+        "moe_wpg": "Wind Power (Grid)",
+        "moe_stihcb": "Science and Technology Institutional and Human Capacity Building",
+        "moe_aby": "Atal Bhujal Yojna",
+        "moe_psdf": "Power System Development Fund",
+        "moe_ki": "Khelo India",
+        "moe_csb": "Central Silk Board",
+        "moe_atufs": "Amended Technology Upgradation Fund Scheme",
+        "moe_stars": "STARS",
+        "moe_across": "Atmosphere and Climate Research - Modelling Observing Systems and Services",
+        "moe_ntwp": "National Tribal Welfare Program",
+        "moe_dom": "Deep Ocean Mission",
+        "moe_nmicps": "National Mission on Interdisciplinary Cyber Physical Systems",
+        "moe_itdd": "Innovation, Technology Development and Deployment",
+        "moe_iss": "INSAT Satellite Systems"
+      },
+      "edges": [
+        ["moe", "moe_nem", 38953],
+        ["moe", "moe_mp", 19518],
+        ["moe", "moe_st", 9441],
+        ["moe", "moe_emrs", 5943],
+        ["moe", "moe_spg", 4970],
+        ["moe", "moe_pmshri", 4000],
+        ["moe", "moe_ncrtc", 3596],
+        ["moe", "moe_sops", 2903],
+        ["moe", "moe_sip", 2278],
+        ["moe", "moe_kusum", 1996],
+        ["moe", "moe_ee", 1689],
+        ["moe", "moe_sa", 1559],
+        ["moe", "moe_pmusp", 1554],
+        ["moe", "moe_wci", 1500],
+        ["moe", "moe_brd", 1345],
+        ["moe", "moe_wpg", 1214],
+        ["moe", "moe_stihcb", 1068],
+        ["moe", "moe_aby", 1000],
+        ["moe", "moe_psdf", 1000],
+        ["moe", "moe_ki", 1000],
+        ["moe", "moe_csb", 918],
+        ["moe", "moe_atufs", 900],
+        ["moe", "moe_stars", 800],
+        ["moe", "moe_across", 680],
+        ["moe", "moe_ntwp", 655],
+        ["moe", "moe_dom", 600],
+        ["moe", "moe_nmicps", 580],
+        ["moe", "moe_itdd", 537],
+        ["moe", "moe_iss", 531]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymoe"
+      }
+    },
+    {
+      "id": "root_g2_moea",
+      "desc": "Ministry of External Affairs section",
+      "linkcolor": 0,
+      "nodes": {
+        "moea": "Ministry of External Affairs",
+        "moea_ngp": "National Ganga Plan",
+        "moea_nesids": "North East Special Infrastructure Development Scheme",
+        "moea_sfb": "Scheme for Bhutan",
+        "moea_pmdine": "PM's Development Initiative for North East Region",
+        "moea_iggl": "Indradhanush Gas Grid Limited",
+        "moea_locideas": "Lines of Credit under IDEAS",
+        "moea_sonec": "Schemes of North East Council",
+        "moea_cop": "Control of Pollution",
+        "moea_sfn": "Scheme for Nepal"
+      },
+      "edges": [
+        ["moea", "moea_ngp", 4000],
+        ["moea", "moea_nesids", 2491],
+        ["moea", "moea_sfb", 2401],
+        ["moea", "moea_pmdine", 2200],
+        ["moea", "moea_iggl", 1800],
+        ["moea", "moea_locideas", 1300],
+        ["moea", "moea_sonec", 800],
+        ["moea", "moea_cop", 756],
+        ["moea", "moea_sfn", 550]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymoea"
+      }
+    },
+    {
+      "id": "root_g2_mof",
+      "desc": "Ministry of Finance section",
+      "linkcolor": 0,
+      "nodes": {
+        "mof": "Ministry of Finance",
+        "mof_eps": "Employees Pension Scheme",
+        "mof_otpoa": "Onetime payment of Arrears"
+      },
+      "edges": [
+        ["mof", "mof_eps", 9167],
+        ["mof", "mof_otpoa", 4081]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymof"
+      }
+    },
+    {
+      "id": "root_g2_moha",
+      "desc": "Ministry of Home Affairs section",
+      "linkcolor": 0,
+      "nodes": {
+        "moha": "Ministry of Home Affairs"
+      },
+      "edges": [],
+      "pos": {
+        "x": "l2",
+        "y": "ymoha"
+      }
+    },
+    {
+      "id": "root_g2_mohafw",
+      "desc": "Ministry of Health and Family Welfare section",
+      "linkcolor": 0,
+      "nodes": {
+        "mohafw": "Ministry of Health and Family Welfare",
+        "mohafw_nhm": "National Health Mission",
+        "mohafw_saapo": "Saksham Anganwadi and POSHAN 2.0",
+        "mohafw_pmposhan": "Pradhan Mantri Poshan Shakti Nirman",
+        "mohafw_pmjay": "PMJAY",
+        "mohafw_sbm": "Swachh Bharat Mission",
+        "mohafw_pmabhima": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission",
+        "mohafw_pi": "Police Infrastructure",
+        "mohafw_bim": "Border Infrastructure and Management",
+        "mohafw_pmssy": "Pardhan Mantri Swasthya Suraksha Yojana",
+        "mohafw_nasdcp": "National AIDS and STD Control Programme",
+        "mohafw_lhdc": "Livestock Health and Disease Control Programme",
+        "mohafw_mv": "Mission VATSALYA",
+        "mohafw_icjs": "Inter Operable Criminal Justice System",
+        "mohafw_fws": "Family Welfare Schemes"
+      },
+      "edges": [
+        ["mohafw", "mohafw_nhm", 36785],
+        ["mohafw", "mohafw_saapo", 20554],
+        ["mohafw", "mohafw_pmposhan", 11600],
+        ["mohafw", "mohafw_pmjay", 7200],
+        ["mohafw", "mohafw_sbm", 5000],
+        ["mohafw", "mohafw_pmabhima", 4200],
+        ["mohafw", "mohafw_pi", 3637],
+        ["mohafw", "mohafw_bim", 3545],
+        ["mohafw", "mohafw_pmssy", 3365],
+        ["mohafw", "mohafw_nasdcp", 3080],
+        ["mohafw", "mohafw_lhdc", 2350],
+        ["mohafw", "mohafw_mv", 1472],
+        ["mohafw", "mohafw_pmabhima", 646],
+        ["mohafw", "mohafw_icjs", 591],
+        ["mohafw", "mohafw_fws", 517]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymohafw"
+      }
+    },
+    {
+      "id": "root_g2_mojs",
+      "desc": "Ministry of Jal Shakti section",
+      "linkcolor": 0,
+      "nodes": {
+        "mojs": "Ministry of Jal Shakti",
+        "mojs_jjm": "Jal Jeevan Mission"
+      },
+      "edges": [["mojs", "mojs_jjm", 70000]],
+      "pos": {
+        "x": "l2",
+        "y": "ymojs"
+      }
+    },
+    {
+      "id": "root_g2_mor",
+      "desc": "Ministry of Railways section",
+      "linkcolor": 0,
+      "nodes": {
+        "mor": "Ministry of Railways",
+        "mor_rw": "Road Works",
+        "mor_trsrf": "Transfer to Railway Safety Fund",
+        "mor_rs": "Rolling Stock"
+      },
+      "edges": [
+        ["mor", "mor_rw", 107713],
+        ["mor", "mor_trsrf", 45000],
+        ["mor", "mor_rs", 37581]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymor"
+      }
+    },
+    {
+      "id": "root_g2_mord",
+      "desc": "Ministry of Rural Development section",
+      "linkcolor": 0,
+      "nodes": {
+        "mord": "Ministry of Rural Development",
+        "mord_mgnrega": "MGNREGA",
+        "mord_pmkisan": "Pradhan Mantri Kisan Samman Nidhi",
+        "mord_pmgsy": "PMGSY",
+        "mord_cis": "Crop Insurance Scheme",
+        "mord_nsap": "NSAP",
+        "mord_sbmg": "Swachh Bharat Mission (Gramin)",
+        "mord_rgsa": "Rashtriya Gram Swaraj Abhiyan"
+      },
+      "edges": [
+        ["mord", "mord_mgnrega", 60000],
+        ["mord", "mord_pmkisan", 60000],
+        ["mord", "mord_pmgsy", 19000],
+        ["mord", "mord_cis", 13625],
+        ["mord", "mord_nsap", 9636],
+        ["mord", "mord_sbmg", 7192],
+        ["mord", "mord_rgsa", 895]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "ymord"
+      }
+    },
+    {
+      "id": "root_g2_mortah",
+      "desc": "Ministry of Road Transport and Highways section",
+      "linkcolor": 0,
+      "nodes": {
+        "mortah": "Ministry of Road Transport and Highways"
+      },
+      "edges": [],
+      "pos": {
+        "x": "l2",
+        "y": "ymortah"
+      }
+    },
+    {
+      "id": "root_g2_other",
+      "desc": "Other Ministries section",
+      "linkcolor": 0,
+      "nodes": {
+        "other": "Other Ministries",
+        "other_miss": "Modified Interest Subvention Scheme",
+        "other_urm": "Urban Rejuvenation Mission",
+        "other_nlm": "National Livelihood Mission - Ajeevika",
+        "other_pmksy": "PMKSY",
+        "other_upsc": "Umbrella Scheme for SCs",
+        "other_rkvy": "Rashtriya Krishi Vikas Yojna",
+        "other_ky": "Krishionnati Yojana",
+        "other_upst": "Umbrella Program for STs",
+        "other_mpf": "Modernisation of Police Forces",
+        "other_ior": "Interlinking of Rivers",
+        "other_ms": "Mission Shakti",
+        "other_ies": "Interest Equalisation Scheme",
+        "other_upovg": "Umbrella Program for Other Vulnerable Groups",
+        "other_br": "Blue Revolution",
+        "other_nicdit": "National Industrial Corridor Development and Implementation Trust",
+        "other_cigst": "Refund of CGST and IGST to NE and Himalayan States",
+        "other_feedstock": "Feedstock",
+        "other_fof": "Fund of Funds",
+        "other_dp": "Development Programmes",
+        "other_ipe": "Investment in Public Enterprises",
+        "other_dpharma": "Development of Pharmaceutical Industry",
+        "other_rcs": "Regional Connectivity Scheme",
+        "other_plis": "Production Linked Incentive Schemes",
+        "other_ifj": "Infrastructure Facilities for Judiciary",
+        "other_barcrdp": "BARC R&D Projects",
+        "other_caps": "Computerization of Primary Agricultural Credit Societies",
+        "other_fpos": "Formation and Promotion of FPOs",
+        "other_diis": "Domestic Industry Incentivisation Scheme",
+        "other_rdp": "Research and Development Projects",
+        "other_frp": "Fuel Recycle Projects",
+        "other_nffp": "Nuclear Fuel Fabrication Projects",
+        "other_efw": "Environment, Forestry and Wildlife",
+        "other_cs": "Crop Science",
+        "other_pmfme": "PM Formalisation of Micro Food Processing Enterprises Scheme",
+        "other_upm": "Umbrella Program for Minorities",
+        "other_badp": "Border Area Development Program",
+        "other_frfcpk": "Fast Reactor Fuel Cycle Projects Kalpakkam"
+      },
+      "edges": [
+        ["other", "other_miss", 23000],
+        ["other", "other_urm", 16000],
+        ["other", "other_nlm", 14129],
+        ["other", "other_pmksy", 10787],
+        ["other", "other_upsc", 9409],
+        ["other", "other_rkvy", 7150],
+        ["other", "other_ky", 7066],
+        ["other", "other_upst", 4295],
+        ["other", "other_mpf", 3750],
+        ["other", "other_ior", 3500],
+        ["other", "other_ms", 3144],
+        ["other", "other_ies", 2932],
+        ["other", "other_upovg", 2194],
+        ["other", "other_br", 2025],
+        ["other", "other_nicdit", 2000],
+        ["other", "other_cigst", 1714],
+        ["other", "other_feedstock", 1599],
+        ["other", "other_feedstock", 1599],
+        ["other", "other_feedstock", 1599],
+        ["other", "other_feedstock", 1599],
+        ["other", "other_feedstock", 1599],
+        ["other", "other_fof", 1470],
+        ["other", "other_dp", 1406],
+        ["other", "other_ipe", 1310],
+        ["other", "other_dpharma", 1250],
+        ["other", "other_rcs", 1244],
+        ["other", "other_plis", 1200],
+        ["other", "other_ifj", 1061],
+        ["other", "other_barcrdp", 1013],
+        ["other", "other_caps", 968],
+        ["other", "other_fpos", 955],
+        ["other", "other_diis", 915],
+        ["other", "other_rdp", 840],
+        ["other", "other_frp", 805],
+        ["other", "other_nffp", 764],
+        ["other", "other_efw", 759],
+        ["other", "other_cs", 714],
+        ["other", "other_pmfme", 639],
+        ["other", "other_upm", 610],
+        ["other", "other_badp", 600],
+        ["other", "other_frfcpk", 516]
+      ],
+      "pos": {
+        "x": "l2",
+        "y": "yother"
+      }
+    }
+  ]
+}

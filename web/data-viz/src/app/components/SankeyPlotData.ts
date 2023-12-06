@@ -1,4 +1,3 @@
-import Colors from "../models/Colors";
 import Defaults from "./Defaults";
 
 import {
@@ -9,69 +8,72 @@ import {
   NodePositionMap,
   SankeyData,
   SankeyJson,
+  SankeyJsonMetadata,
   SankeyJsonSection,
   SankeyPlotData,
 } from "../models/SankeyTypes";
 
 import SankeyUtils from "../models/SankeyUtils";
 
-function constructAbrevIndexMap(edges: NodeEdge[]): Map<string, number> {
+function serializeNodes(edges: NodeEdge[]): string[] {
   const abbrevIndexMap = new Map<string, number>();
+  let nodes: string[] = [];
   let index = 0;
   edges.forEach((edge) => {
     if (!abbrevIndexMap.has(edge.src)) {
       abbrevIndexMap.set(edge.src, index++);
+      nodes.push(edge.src);
     }
     if (!abbrevIndexMap.has(edge.dest)) {
       abbrevIndexMap.set(edge.dest, index++);
+      nodes.push(edge.dest);
     }
   });
-  return abbrevIndexMap;
+
+  return nodes;
 }
 
 function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
   const mergedSankeyData = SankeyUtils.mergeGraphData(inputData);
+  const custom_data = SankeyUtils.computeCustomData(mergedSankeyData);
   const nodes = mergedSankeyData.nodes;
 
-  const abbrevIndexMap = constructAbrevIndexMap(mergedSankeyData.edges);
-  const numNodes = abbrevIndexMap.size;
-  const keys = Array.from(abbrevIndexMap.keys());
-  const labels: string[] = keys.map((key) => nodes[key]);
+  // const abbrevIndexMap = serializeNodes(mergedSankeyData.edges);
+  const serialized_nodes = serializeNodes(mergedSankeyData.edges);
 
-  const posArray: (NodePosition | undefined)[] = Array.from(
-    { length: numNodes },
-    () => undefined
-  );
-
-  const colorArray: (string | undefined)[] = Array.from(
-    { length: numNodes },
-    () => undefined
-  );
-
-  abbrevIndexMap.forEach((value, key) => {
-    // console.log("key: ", key, "pos: ", mergedSankeyData.positions[key]);
-    posArray[value] = SankeyUtils.resolveNodePosition(
-      mergedSankeyData.positions[key],
-      mergedSankeyData.context
-    );
-    colorArray[value] = mergedSankeyData.colors?.[key];
+  const abbrevIndexMap = new Map<string, number>();
+  // construct a map from node abbreviations to indices
+  serializeNodes(mergedSankeyData.edges).forEach((node, index) => {
+    abbrevIndexMap.set(node, index);
   });
 
+  const node_positions = serialized_nodes.map((n) =>
+    SankeyUtils.resolveNodePosition(
+      mergedSankeyData.positions[n],
+      mergedSankeyData.context
+    )
+  );
+
   const edges = mergedSankeyData.edges;
-  const color_scale = Colors["light5v3"];
 
   const plot_data = {
-    label: labels,
+    label: serialized_nodes.map((e) => nodes[e]),
     link: {
       source: edges.map((e) => abbrevIndexMap.get(e.src)!),
       target: edges.map((e) => abbrevIndexMap.get(e.dest)!),
-      value: edges.map((e) => e.value / 8500.0),
-      color: edges.map((e) => color_scale[e.color]),
+      value: edges.map((e) => e.value),
+      color: edges.map((e) => e.color),
+      customdata: custom_data.edge_labels,
     },
     node: {
-      x: posArray.map((e) => e?.x || 0),
-      y: posArray.map((e) => e?.y || 0),
-      color: colorArray.map((e) => e || Defaults.SANKEY_NODE_COLOR),
+      x: node_positions.map((p) => p.x || 0),
+      y: node_positions.map((p) => p.y || 0),
+      color: serialized_nodes.map(
+        (e) => mergedSankeyData.colors?.[e] || Defaults.SANKEY_NODE_COLOR
+      ),
+      customdata: serialized_nodes.map(
+        (e) => custom_data.node_labels.get(e) || ""
+      ),
     },
   };
 
@@ -80,7 +82,7 @@ function convertGraphDataToPlotData(inputData: SankeyJson): SankeyPlotData {
 }
 
 // Function to fetch the data
-export async function fetchSankeyData(url: string): Promise<SankeyPlotData> {
+export async function fetchSankeyDataOld(url: string): Promise<SankeyPlotData> {
   try {
     const response = await fetch(url);
     if (!response.ok) {
@@ -92,6 +94,41 @@ export async function fetchSankeyData(url: string): Promise<SankeyPlotData> {
     console.error("Failed to fetch graph data:", error);
     throw error;
   }
+}
+
+async function fetchJsonArray<T>(files: string[]): Promise<T[]> {
+  try {
+    const responses = await Promise.all(
+      files.map((url) => fetch(Defaults.SANKEY_FILE_PREFIX + "/" + url))
+    );
+    responses.forEach((response) => {
+      if (!response.ok) {
+        throw new Error(`HTTP error! Status: ${response.status}`);
+      }
+    });
+
+    const jsonPromises = responses.map(
+      (response) => response.json() as Promise<T>
+    );
+    return await Promise.all(jsonPromises);
+  } catch (error) {
+    console.error("Error fetching URLs:", error);
+    throw error; // Rethrow the error for caller to handle
+  }
+}
+
+export async function fetchSankeyData(url: string): Promise<SankeyPlotData> {
+  const metadata_url = Defaults.SANKEY_FILE_PREFIX + "/metadata.json";
+  const metadata_req = await fetch(metadata_url);
+  const metadata: SankeyJsonMetadata = await metadata_req.json();
+
+  const data: SankeyJsonSection[] = await fetchJsonArray(Defaults.SANKEY_FILES);
+  const all_data: SankeyJson = {
+    metadata: metadata,
+    data: data,
+  };
+
+  return convertGraphDataToPlotData(all_data);
 }
 
 export default fetchSankeyData;

@@ -4,13 +4,11 @@ import Plot from "react-plotly.js";
 import fetchSankeyData from "./SankeyPlotData";
 import BudgetData from "./BudgetData";
 import { SankeyPlotData } from "../models/SankeyTypes";
+import Defaults from "./Defaults";
 
-const NODE_HOVER_TEMPLATE =
-  "%{label}<br>" + "<b>Amount: %{value}</b>" + "<extra></extra>";
-const LINK_HOVER_TEMPLATE =
-  "%{source.label} → %{target.label}<br>" +
-  "<b>Amount: %{value}</b>" +
-  "<extra></extra>";
+const NODE_HOVER_TEMPLATE = "%{customdata}" + "<extra></extra>";
+
+const LINK_HOVER_TEMPLATE = "%{customdata}" + "<extra></extra>";
 
 const SankeyDiagram: React.FC = () => {
   const { state, dispatch } = useContext(AppContext);
@@ -31,8 +29,8 @@ const SankeyDiagram: React.FC = () => {
         width: 0.5,
       },
     },
-    valuesuffix: "B",
-    valueformat: "$.0f",
+    // valuesuffix: "B",
+    // valueformat: "$.0f",
   };
 
   const applyData = (data: SankeyPlotData): Plotly.Data => {
@@ -43,6 +41,7 @@ const SankeyDiagram: React.FC = () => {
         label: data.label,
         x: data.node?.x,
         y: data.node?.y,
+        customdata: data.node?.customdata,
         color: data.node?.color,
         hoverinfo: "all",
         // @ts-ignore
@@ -58,6 +57,7 @@ const SankeyDiagram: React.FC = () => {
         hoverlabel: {
           align: "left",
         },
+        customdata: data.link?.customdata,
       },
     };
 
@@ -67,37 +67,11 @@ const SankeyDiagram: React.FC = () => {
   const [plotData, setPlotData] = useState([sankeyConfigBase]);
 
   useEffect(() => {
-    const url = "/dash/data/goi2324/sankey.v5.json";
-    fetchSankeyData(url).then((data) => {
+    // const url = "/dash/data/sankey/sankey.v7.json";
+    fetchSankeyData(Defaults.SANKEY_URL).then((data) => {
+      console.log(data);
       const sankeyData = applyData(data) as Plotly.SankeyData;
       setPlotData([sankeyData]);
-      // setPlotData([applyData(data)]);
-      // setPlotData([
-      //   {
-      //     ...sankeyConfigBase,
-      //     node: {
-      //       ...sankeyConfigBase.node,
-      //       label: data.label,
-      //       x: data.node?.x,
-      //       y: data.node?.y,
-      //       color: data.node?.color,
-      //       hoverinfo: "all",
-      //       // @ts-ignore
-      //       hovertemplate: NODE_HOVER_TEMPLATE,
-      //       hoverlabel: {
-      //         align: "left",
-      //       },
-      //     },
-      //     link: {
-      //       ...data.link,
-      //       hovertemplate: LINK_HOVER_TEMPLATE,
-      //       hoverinfo: "all",
-      //       hoverlabel: {
-      //         align: "left",
-      //       },
-      //     },
-      //   },
-      // ]);
     });
   }, [state.key]);
 
@@ -106,7 +80,7 @@ const SankeyDiagram: React.FC = () => {
       size: 12,
     },
     width: 1280,
-    height: 1080,
+    height: 1600,
     margin: { t: 20, b: 240, l: 0, r: 0, pad: 2 },
   };
 

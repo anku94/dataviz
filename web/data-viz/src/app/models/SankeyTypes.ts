@@ -18,7 +18,7 @@ type NodeEdge = {
   src: string;
   dest: string;
   value: number;
-  color: number;
+  color: string;
 };
 
 type SankeyJsonGroup = {
@@ -26,12 +26,12 @@ type SankeyJsonGroup = {
   id: string;
   display: boolean;
   pos: NodePositionAlias;
+  nodes: string[];
 };
 
 type SankeyJsonSection = {
   id: string;
   desc: string;
-  linkcolor?: number;
   group?: SankeyJsonGroup;
   pos: NodePositionAlias;
   nodes: NodeMap;
@@ -71,11 +71,13 @@ type SankeyPlotData = {
     target: number[];
     value: number[];
     color: string[];
+    customdata: string[];
   };
   node?: {
     x: number[];
     y: number[];
     color: string[];
+    customdata: string[];
   };
 };
 

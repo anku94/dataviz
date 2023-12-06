@@ -16,9 +16,24 @@ import {
 } from "../models/SankeyTypes";
 
 import iwanthue from "iwanthue";
+import chroma from "chroma-js";
+import { get } from "http";
+
+type SankeyColors = {
+  node_colors: Map<string, string>;
+  edge_colors: string[];
+};
+
+function getEdgeColor(node_color: string): string {
+  let color = chroma(node_color);
+  color = color.brighten();
+  color = color.desaturate(1.5);
+  color = color.alpha(0.35);
+  return color.hex();
+}
 
 class SankeyUtils {
-  static colorSankeyNodes(data: SankeyData, root: string): Map<string, string> {
+  static colorSankeyNodes(data: SankeyData, root: string): SankeyColors {
     const sankey_graph = new Map<string, string[]>();
     data.edges.forEach((e) => {
       if (!sankey_graph.has(e.src)) {
@@ -28,11 +43,14 @@ class SankeyUtils {
     });
 
     const sankey_levels = new Map<number, string[]>();
+    const sankey_levels_rev = new Map<string, number>();
     const dfs = (node: string, level: number) => {
       if (!sankey_levels.has(level)) {
         sankey_levels.set(level, []);
+        sankey_levels_rev.set(node, level);
       }
       sankey_levels.get(level)!.push(node);
+      sankey_levels_rev.set(node, level);
 
       if (sankey_graph.has(node)) {
         sankey_graph.get(node)!.forEach((child) => {
@@ -63,11 +81,33 @@ class SankeyUtils {
         color_idx++;
       });
     }
+    const edge_color_list: string[] = [];
+    data.edges.forEach((e) => {
+      const src_level = sankey_levels_rev.get(e.src)!;
+      if (src_level <= 1) {
+        const edge_color = getEdgeColor(color_map.get(e.src)!);
+        edge_color_list.push(edge_color);
+      } else if (src_level == 2) {
+        const dest_color = color_map.get(e.dest)!;
+        const edge_color = getEdgeColor(color_map.get(e.dest)!);
+        console.log("----> in src_2, edge_color: ", e.src, e.dest, edge_color);
+        console.log("dest_color: ", dest_color, "edge_color: ", edge_color);
+        edge_color_list.push(edge_color);
+      } else {
+        const edge_color = Defaults.SANKEY_EDGE_COLOR;
+        edge_color_list.push(edge_color);
+      }
+    });
 
     console.log("Sankey levels: ", sankey_levels);
+    console.log("Sankey levels rev: ", sankey_levels_rev);
     console.log("Color map: ", color_map);
+    console.log("Edge colors: ", edge_color_list);
 
-    return color_map;
+    return {
+      node_colors: color_map,
+      edge_colors: edge_color_list,
+    };
   }
   static processSankeySectionExtent(
     section: SankeyJsonSection,
@@ -196,6 +236,11 @@ class SankeyUtils {
         if (edgesToAdd[edge.src]) {
           edgesToAdd[edge.src].value += edge.value;
         } else {
+          if (!data.nodes[edge.src]) {
+            console.log("!!! NOT FOUND: ", edge.src);
+            return;
+          }
+
           edgesToAdd[edge.src] = {
             src: edge.src,
             dest: edge.src + "_others",
@@ -211,12 +256,11 @@ class SankeyUtils {
             .join("")
             .toLocaleUpperCase();
 
-          nodesToAdd[edge.src + "_others"] = `${parent_abbrev} (Others)`;
-          console.log("Parent node: ", edge.src, "Pos map: ", data.positions);
-          // posToAdd[edge.src + "_others"] = this.getPosNext(
-          //   data.positions[edge.dest]
-          // );
-          posToAdd[edge.src + "_others"] = data.positions[edge.dest];
+          const other_node_abbrev = `${edge.src}_others`;
+          const other_node_label = `${parent_abbrev} (Others)`;
+
+          nodesToAdd[other_node_abbrev] = other_node_label;
+          posToAdd[other_node_abbrev] = data.positions[edge.dest];
         }
       }
     });
@@ -226,15 +270,20 @@ class SankeyUtils {
       (edge) => !edgesToRemove.includes(edge)
     );
 
+    const nodesToAdd2: NodeMap = {};
+
     // Add the new "others" edges.
     Object.values(edgesToAdd).forEach((edge) => {
-      filteredEdges.push(edge);
+      if (edge.value > threshold) {
+        filteredEdges.push(edge);
+        nodesToAdd2[edge.dest] = nodesToAdd[edge.dest];
+      }
     });
 
     // Return the new SankeyData with the updated edges.
     return {
       ...data,
-      nodes: { ...data.nodes, ...nodesToAdd },
+      nodes: { ...data.nodes, ...nodesToAdd2 },
       edges: filteredEdges,
       positions: { ...data.positions, ...posToAdd },
     };
@@ -246,11 +295,12 @@ class SankeyUtils {
 
     function dfs(currentId: string) {
       // Mark the current node as visited
+      if (visited.has(currentId)) return;
       visited.add(currentId);
 
       // Get all edges starting from the current node, not visited, and sort them in descending order
       const childEdges = data.edges
-        .filter((edge) => edge.src === currentId && !visited.has(edge.dest))
+        .filter((edge) => edge.src === currentId)
         .sort((a, b) => b.value - a.value);
 
       // Add sorted edges to the sortedEdges array
@@ -290,7 +340,7 @@ class SankeyUtils {
           src: e[0],
           dest: e[1],
           value: e[2],
-          color: section.linkcolor || Defaults.SANKEY_EDGE_COLOR,
+          color: Defaults.SANKEY_EDGE_COLOR,
         };
       }),
       positions: SankeyUtils.processSankeySectionExtent(section, context),
@@ -311,12 +361,12 @@ class SankeyUtils {
 
     let group_edges: NodeEdge[] = [];
 
-    section.edges.forEach((edge) => {
+    group.nodes.forEach((node) => {
       group_edges.push({
-        src: edge[1],
+        src: node,
         dest: group.id,
-        value: edge[2],
-        color: section.linkcolor || Defaults.SANKEY_EDGE_COLOR,
+        value: -1,
+        color: Defaults.SANKEY_EDGE_COLOR,
       });
     });
 
@@ -325,6 +375,92 @@ class SankeyUtils {
 
     sankey_data.edges = sankey_data.edges.concat(group_edges);
     return sankey_data;
+  }
+
+  static computeCustomData(data: SankeyData) {
+    // Compute the total value of each node
+    type NodeData = {
+      sum_src: number;
+      sum_dest: number;
+    };
+
+    const nodeValues = new Map<string, NodeData>();
+    const getNodeData = (node: string): NodeData => {
+      if (nodeValues.has(node)) {
+        return nodeValues.get(node)!;
+      } else {
+        return {
+          sum_src: 0,
+          sum_dest: 0,
+        };
+      }
+    };
+
+    data.edges.forEach((edge) => {
+      const src_data = getNodeData(edge.src);
+      const dest_data = getNodeData(edge.dest);
+
+      src_data.sum_src += edge.value;
+      dest_data.sum_dest += edge.value;
+
+      nodeValues.set(edge.src, src_data);
+      nodeValues.set(edge.dest, dest_data);
+    });
+
+    const node_label_map = new Map<string, string>();
+
+    const amount_str = (amount: number): string => {
+      const ONE_LAKH = 100000;
+      const USD_TO_INR = 82;
+      const ONE_CR = ONE_LAKH * 100;
+      const ONE_BILLION = 1e9;
+
+      const val = amount * ONE_CR;
+      const val_lakh_cr = val / (ONE_LAKH * ONE_CR);
+      const val_usdb = val / (USD_TO_INR * ONE_BILLION);
+      // const val_lakh_crores = amount / ONE_LAKH;
+      // const val_usdb = amount / USD_TO_INR;
+      // formatted string with two floating point decimals
+      const INR_SYMBOL = "\u20B9";
+      const val_lakh_cr_str = val_lakh_cr.toFixed(1);
+      const val_usdb_str = val_usdb.toFixed(1);
+
+      const val_str = `\$${val_usdb_str}B (${INR_SYMBOL}${val_lakh_cr_str}L Cr)`;
+      return val_str;
+    };
+
+    for (const [node, node_data] of nodeValues) {
+      // nodeValues.set(node, data);
+      const amount_src = amount_str(node_data.sum_src);
+      const amount_dest_val =
+        node_data.sum_dest == 0 ? node_data.sum_src : node_data.sum_dest;
+      const amount_dest = amount_str(amount_dest_val);
+      const amount_diff = amount_str(amount_dest_val - node_data.sum_src);
+
+      const node_label = data.nodes[node];
+      const custom_label =
+        `<b>Head: ${node_label}</b><br>` +
+        `Amount: ${amount_dest}<br>` +
+        `Allocated here: ${amount_src}<br>` +
+        `Unallocated: ${amount_diff}`;
+      node_label_map.set(node, custom_label);
+    }
+
+    const edge_labels = data.edges.map((edge) => {
+      const edge_src_label = data.nodes[edge.src];
+      const edge_dest_label = data.nodes[edge.dest];
+      const edge_val_str = amount_str(edge.value);
+
+      const custom_label =
+        `${edge_src_label} → ${edge_dest_label}<br />` +
+        `<b>Amount: ${edge_val_str}</b><br />`;
+      return custom_label;
+    });
+
+    return {
+      node_labels: node_label_map,
+      edge_labels: edge_labels,
+    };
   }
 
   static mergeGraphData(inputData: SankeyJson): SankeyData {
@@ -355,9 +491,13 @@ class SankeyUtils {
     });
 
     const data_wunalloc = SankeyUtils.fillUnallocatedEdge(data_merged);
-    const node_colors = SankeyUtils.colorSankeyNodes(data_wunalloc, root_node);
+    const graph_colors = SankeyUtils.colorSankeyNodes(data_wunalloc, root_node);
 
-    data_wunalloc.colors = Object.fromEntries(node_colors);
+    data_wunalloc.colors = Object.fromEntries(graph_colors.node_colors);
+    data_wunalloc.edges.forEach((e, idx) => {
+      e.color = graph_colors.edge_colors[idx];
+    });
+
     const data_folded = SankeyUtils.foldEdges(data_wunalloc, 10000);
 
     const data_sorted = SankeyUtils.sortSankeyData(data_folded, root_node);

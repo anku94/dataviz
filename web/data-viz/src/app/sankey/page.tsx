@@ -45,7 +45,7 @@ export default function Page() {
                 p: 0,
                 display: "flex",
                 flexDirection: "column",
-                height: 1524,
+                height: 1800,
               }}
             >
               <DynamicBudgetDataSankey />

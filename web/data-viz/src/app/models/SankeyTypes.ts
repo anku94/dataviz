@@ -21,18 +21,9 @@ type NodeEdge = {
   color: string;
 };
 
-type SankeyJsonGroup = {
-  name: string;
-  id: string;
-  display: boolean;
-  pos: NodePositionAlias;
-  nodes: string[];
-};
-
 type SankeyJsonSection = {
   id: string;
   desc: string;
-  group?: SankeyJsonGroup;
   pos: NodePositionAlias;
   nodes: NodeMap;
   edges: Edge[];
@@ -89,7 +80,6 @@ export type {
   NodePositionAlias,
   NodePositionMap,
   SankeyJson,
-  SankeyJsonGroup,
   SankeyJsonMetadata,
   SankeyJsonSection,
   SankeyData,

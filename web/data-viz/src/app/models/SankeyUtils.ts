@@ -9,7 +9,6 @@ import {
   NodePositionMap,
   SankeyData,
   SankeyJson,
-  SankeyJsonGroup,
   SankeyJsonMetadata,
   SankeyJsonSection,
   SankeyPlotData,
@@ -209,18 +208,6 @@ class SankeyUtils {
     return pos;
   }
 
-  static getGroupPosition(
-    section: SankeyJsonSection,
-    context: SankeyJsonMetadata
-  ): NodePosition {
-    const group = section.group;
-    if (!group) {
-      return { x: 0, y: 0 };
-    }
-
-    return this.resolveNodePosition(group.pos, context);
-  }
-
   static foldEdges(data: SankeyData, threshold: number): SankeyData {
     const edgesToRemove: NodeEdge[] = [];
     const edgesToAdd: { [key: string]: NodeEdge } = {};
@@ -349,31 +336,6 @@ class SankeyUtils {
     sankey_data = SankeyUtils.removeUnconnectedNodes(sankey_data);
     // sankey_data = SankeyUtils.fillUnallocatedEdge(sankey_data);
 
-    if (!section.group || (section.group && !section.group.display)) {
-      return sankey_data;
-    }
-
-    const group = section.group;
-
-    sankey_data.nodes[group.id] = group.name;
-    sankey_data.positions[group.id] = group.pos;
-    sankey_data.positions[group.id] = section.group.pos;
-
-    let group_edges: NodeEdge[] = [];
-
-    group.nodes.forEach((node) => {
-      group_edges.push({
-        src: node,
-        dest: group.id,
-        value: -1,
-        color: Defaults.SANKEY_EDGE_COLOR,
-      });
-    });
-
-    console.log("Nodes: ", sankey_data.nodes);
-    console.log("Generated edges: ", group_edges);
-
-    sankey_data.edges = sankey_data.edges.concat(group_edges);
     return sankey_data;
   }
 
